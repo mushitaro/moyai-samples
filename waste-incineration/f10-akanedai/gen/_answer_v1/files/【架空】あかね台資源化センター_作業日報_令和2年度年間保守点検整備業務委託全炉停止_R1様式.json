@@ -1,0 +1,703 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_令和2年度年間保守点検整備業務委託全炉停止_R1様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "0512",
+"kind": "subtotal",
+"fields": {
+"date": "2020-05-12",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 4,
+"time": "13:00〜17:00",
+"manHours": 16.0
+},
+"r": 5
+},
+{
+"sheet": "0512",
+"kind": "subtotal",
+"fields": {
+"date": "2020-05-12",
+"weather": "晴",
+"company": "千草環境",
+"persons": 7,
+"time": "8:00〜17:00",
+"manHours": 54.0
+},
+"r": 6
+},
+{
+"sheet": "0512",
+"kind": "total",
+"fields": {
+"date": "2020-05-12",
+"persons": 11,
+"manHours": 70.0
+},
+"r": 7
+},
+{
+"sheet": "0512",
+"kind": "item",
+"fields": {
+"date": "2020-05-12",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "2",
+"place": "電気室",
+"content": "MCC・配電盤 停電点検（端子増締め・絶縁抵抗）",
+"time": "13:00〜17:00",
+"persons": 4,
+"manHours": 16.0,
+"progress": "33%"
+},
+"r": 12
+},
+{
+"sheet": "0512",
+"kind": "item",
+"fields": {
+"date": "2020-05-12",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E3",
+"place": "コークス受入",
+"content": "コークス受入コンベヤ・コークスバケットエレベータ 分解整備（軸受・シール交換）",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "50%"
+},
+"r": 14
+},
+{
+"sheet": "0512",
+"kind": "item",
+"fields": {
+"date": "2020-05-12",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E18",
+"place": "電動弁・調節弁",
+"content": "主蒸気ヘッダ電動弁 分解整備（グランド・弁座）",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "50%"
+},
+"r": 15
+},
+{
+"sheet": "0513",
+"kind": "subtotal",
+"fields": {
+"date": "2020-05-13",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 11,
+"time": "8:00〜17:00",
+"manHours": 86.0
+},
+"r": 5
+},
+{
+"sheet": "0513",
+"kind": "subtotal",
+"fields": {
+"date": "2020-05-13",
+"weather": "晴",
+"company": "千草環境",
+"persons": 5,
+"time": "8:00〜18:30",
+"manHours": 42.0
+},
+"r": 6
+},
+{
+"sheet": "0513",
+"kind": "total",
+"fields": {
+"date": "2020-05-13",
+"persons": 16,
+"manHours": 128.0
+},
+"r": 7
+},
+{
+"sheet": "0513",
+"kind": "item",
+"fields": {
+"date": "2020-05-13",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "2",
+"place": "電気室",
+"content": "MCC・配電盤 停電点検（端子増締め・絶縁抵抗）",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "67%"
+},
+"r": 12
+},
+{
+"sheet": "0513",
+"kind": "item",
+"fields": {
+"date": "2020-05-13",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "E4",
+"place": "PSA酸素発生装置",
+"content": "PSA原料空気ブロワ用電動機 絶縁抵抗測定・軸受音確認",
+"time": "8:00〜17:00",
+"persons": 2,
+"manHours": 16.0,
+"progress": "100%"
+},
+"r": 13
+},
+{
+"sheet": "0513",
+"kind": "item",
+"fields": {
+"date": "2020-05-13",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "E17",
+"place": "受変電",
+"content": "主変圧器・動力変圧器（2号炉） 盤内点検・清掃・増締め",
+"time": "8:00〜17:00",
+"persons": 5,
+"manHours": 40.0,
+"progress": "20%"
+},
+"r": 14
+},
+{
+"sheet": "0513",
+"kind": "item",
+"fields": {
+"date": "2020-05-13",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E3",
+"place": "副資材集じん",
+"content": "副資材集じんファン 不具合箇所 補修",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "100%"
+},
+"r": 16
+},
+{
+"sheet": "0513",
+"kind": "item",
+"fields": {
+"date": "2020-05-13",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E18",
+"place": "電動弁・調節弁",
+"content": "雑用空気電動弁 分解整備（グランド・弁座）",
+"time": "8:30〜18:30",
+"persons": 2,
+"manHours": 18.0,
+"progress": "100%"
+},
+"r": 17
+},
+{
+"sheet": "0514",
+"kind": "subtotal",
+"fields": {
+"date": "2020-05-14",
+"weather": "雨",
+"company": "あかね電設",
+"persons": 12,
+"time": "8:00〜18:30",
+"manHours": 95.0
+},
+"r": 5
+},
+{
+"sheet": "0514",
+"kind": "subtotal",
+"fields": {
+"date": "2020-05-14",
+"weather": "雨",
+"company": "千草環境",
+"persons": 7,
+"time": "8:00〜17:00",
+"manHours": 52.0
+},
+"r": 6
+},
+{
+"sheet": "0514",
+"kind": "total",
+"fields": {
+"date": "2020-05-14",
+"persons": 19,
+"manHours": 147.0
+},
+"r": 7
+},
+{
+"sheet": "0514",
+"kind": "item",
+"fields": {
+"date": "2020-05-14",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "2",
+"place": "電気室",
+"content": "MCC・配電盤 停電点検（端子増締め・絶縁抵抗）",
+"time": "8:00〜17:00",
+"persons": 2,
+"manHours": 16.0,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "0514",
+"kind": "item",
+"fields": {
+"date": "2020-05-14",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "E1",
+"place": "ごみクレーン",
+"content": "1号ごみクレーン巻上装置用電動機 絶縁抵抗測定・軸受音確認",
+"time": "8:30〜18:30",
+"persons": 2,
+"manHours": 18.0,
+"progress": "50%",
+"finding": "シール部 にじみ、増締め"
+},
+"r": 13
+},
+{
+"sheet": "0514",
+"kind": "item",
+"fields": {
+"date": "2020-05-14",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "E8",
+"place": "ボイラ給水",
+"content": "ボイラ給水ポンプ（C）用電動機 絶縁抵抗測定・軸受音確認",
+"time": "8:00〜17:00",
+"persons": 2,
+"manHours": 16.0,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "0514",
+"kind": "item",
+"fields": {
+"date": "2020-05-14",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "E16",
+"place": "圧縮空気",
+"content": "空気圧縮機（A）用電動機 絶縁抵抗測定・軸受音確認",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "50%"
+},
+"r": 15
+},
+{
+"sheet": "0514",
+"kind": "item",
+"fields": {
+"date": "2020-05-14",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "E17",
+"place": "変圧器",
+"content": "照明変圧器・低圧配電盤（1号炉） 盤内点検・清掃・増締め",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "40%"
+},
+"r": 16
+},
+{
+"sheet": "0514",
+"kind": "item",
+"fields": {
+"date": "2020-05-14",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "E7",
+"place": "PSA酸素発生装置",
+"content": "PSA切替弁（B） 分解整備（グランド・弁座）",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "50%"
+},
+"r": 18
+},
+{
+"sheet": "0514",
+"kind": "item",
+"fields": {
+"date": "2020-05-14",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "E15",
+"place": "プラント排水",
+"content": "凝集沈殿槽 補修（肉盛・塗装）",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "100%"
+},
+"r": 19
+},
+{
+"sheet": "0514",
+"kind": "item",
+"fields": {
+"date": "2020-05-14",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "E19",
+"place": "ピット汚水",
+"content": "ピット消火ポンプ 分解整備（軸受・シール交換）",
+"time": "9:00〜16:30",
+"persons": 2,
+"manHours": 13.0,
+"progress": "50%"
+},
+"r": 20
+},
+{
+"sheet": "0515",
+"kind": "subtotal",
+"fields": {
+"date": "2020-05-15",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 7,
+"time": "9:00〜17:00",
+"manHours": 40.5
+},
+"r": 5
+},
+{
+"sheet": "0515",
+"kind": "subtotal",
+"fields": {
+"date": "2020-05-15",
+"weather": "曇",
+"company": "千草環境",
+"persons": 5,
+"time": "8:00〜18:30",
+"manHours": 41.0
+},
+"r": 6
+},
+{
+"sheet": "0515",
+"kind": "total",
+"fields": {
+"date": "2020-05-15",
+"persons": 12,
+"manHours": 81.5
+},
+"r": 7
+},
+{
+"sheet": "0515",
+"kind": "item",
+"fields": {
+"date": "2020-05-15",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "E1",
+"place": "ごみクレーン",
+"content": "2号ごみクレーン巻上装置用電動機 絶縁抵抗測定・軸受音確認",
+"time": "9:00〜16:30",
+"persons": 1,
+"manHours": 6.5,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "0515",
+"kind": "item",
+"fields": {
+"date": "2020-05-15",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "E16",
+"place": "圧縮空気",
+"content": "空気圧縮機（B）用電動機 絶縁抵抗測定・軸受音確認",
+"time": "13:00〜17:00",
+"persons": 2,
+"manHours": 8.0,
+"progress": "100%"
+},
+"r": 13
+},
+{
+"sheet": "0515",
+"kind": "item",
+"fields": {
+"date": "2020-05-15",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "E17",
+"place": "低圧配電",
+"content": "低圧配電盤（共通-2）・低圧配電盤（PSA） 盤内点検・清掃・増締め",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "60%"
+},
+"r": 14
+},
+{
+"sheet": "0515",
+"kind": "item",
+"fields": {
+"date": "2020-05-15",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "E7",
+"place": "液体酸素設備",
+"content": "液酸供給圧力調節弁 分解整備（グランド・弁座）",
+"time": "8:00〜17:00",
+"persons": 1,
+"manHours": 8.0,
+"progress": "100%"
+},
+"r": 16
+},
+{
+"sheet": "0515",
+"kind": "item",
+"fields": {
+"date": "2020-05-15",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "E12",
+"place": "薬剤貯留",
+"content": "アンモニア水移送ポンプ（A） 分解整備（軸受・シール交換）",
+"time": "8:30〜18:30",
+"persons": 2,
+"manHours": 18.0,
+"progress": "100%"
+},
+"r": 17
+},
+{
+"sheet": "0515",
+"kind": "item",
+"fields": {
+"date": "2020-05-15",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "E19",
+"place": "その他",
+"content": "純水再生ポンプ（A） 分解点検・消耗品交換",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "100%"
+},
+"r": 18
+},
+{
+"sheet": "0516",
+"kind": "subtotal",
+"fields": {
+"date": "2020-05-16",
+"weather": "晴",
+"company": "千草環境",
+"persons": 11,
+"time": "8:30〜17:00",
+"manHours": 70.0
+},
+"r": 5
+},
+{
+"sheet": "0516",
+"kind": "subtotal",
+"fields": {
+"date": "2020-05-16",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5
+},
+"r": 6
+},
+{
+"sheet": "0516",
+"kind": "total",
+"fields": {
+"date": "2020-05-16",
+"persons": 14,
+"manHours": 92.5
+},
+"r": 7
+},
+{
+"sheet": "0516",
+"kind": "item",
+"fields": {
+"date": "2020-05-16",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E2",
+"place": "プラットホーム",
+"content": "ごみ投入扉（B） 分解整備（軸受・シール交換）",
+"time": "8:30〜17:00",
+"persons": 1,
+"manHours": 7.5,
+"progress": "50%"
+},
+"r": 12
+},
+{
+"sheet": "0516",
+"kind": "item",
+"fields": {
+"date": "2020-05-16",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E5",
+"place": "PSA酸素発生装置",
+"content": "PSA真空ポンプ（A） 分解整備（軸受・シール交換）",
+"time": "13:00〜17:00",
+"persons": 3,
+"manHours": 12.0,
+"progress": "50%"
+},
+"r": 13
+},
+{
+"sheet": "0516",
+"kind": "item",
+"fields": {
+"date": "2020-05-16",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E9",
+"place": "ボイラ給水",
+"content": "脱酸素剤注入ポンプ（A） 分解整備（軸受・シール交換）",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "0516",
+"kind": "item",
+"fields": {
+"date": "2020-05-16",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E11",
+"place": "飛灰処理",
+"content": "飛灰混練機（A） 分解整備（軸受・シール交換）",
+"time": "9:00〜16:30",
+"persons": 2,
+"manHours": 13.0,
+"progress": "50%"
+},
+"r": 15
+},
+{
+"sheet": "0516",
+"kind": "item",
+"fields": {
+"date": "2020-05-16",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E14",
+"place": "プラント排水",
+"content": "排水移送ポンプ（A） 分解整備（軸受・シール交換）",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "50%"
+},
+"r": 16
+},
+{
+"sheet": "0516",
+"kind": "item",
+"fields": {
+"date": "2020-05-16",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "E17",
+"place": "低圧配電",
+"content": "共通動力制御盤（MCC-3）・直流電源装置 盤内点検・清掃・増締め",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "80%"
+},
+"r": 18
+},
+{
+"sheet": "0518",
+"kind": "subtotal",
+"fields": {
+"date": "2020-05-18",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 2,
+"time": "8:30〜17:00",
+"manHours": 15.0
+},
+"r": 5
+},
+{
+"sheet": "0518",
+"kind": "total",
+"fields": {
+"date": "2020-05-18",
+"persons": 2,
+"manHours": 15.0
+},
+"r": 6
+},
+{
+"sheet": "0518",
+"kind": "item",
+"fields": {
+"date": "2020-05-18",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "E10",
+"place": "ボイラ給水",
+"content": "高圧蒸気だめ 補修（肉盛・塗装）",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "100%"
+},
+"r": 12
+}
+]
+}

@@ -1,0 +1,480 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_平成25年度年間保守点検整備業務委託全炉停止_H25様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "5.14",
+"kind": "item",
+"fields": {
+"date": "2013-05-14",
+"weather": "曇",
+"company": "あかね電設",
+"place": "電気室",
+"content": "MCC・配電盤 停電点検（端子増締め・絶縁抵抗）",
+"persons": 3,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 7
+},
+{
+"sheet": "5.14",
+"kind": "item",
+"fields": {
+"date": "2013-05-14",
+"weather": "曇",
+"company": "千草環境",
+"place": "ボイラ給水",
+"content": "ボイラ給水ポンプ（A） 分解整備（軸受・シール交換）",
+"persons": 1,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 8
+},
+{
+"sheet": "5.14",
+"kind": "item",
+"fields": {
+"date": "2013-05-14",
+"weather": "曇",
+"company": "千草環境",
+"place": "プラント排水",
+"content": "砂ろ過器 補修（肉盛・塗装）",
+"persons": 2,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 9
+},
+{
+"sheet": "5.14",
+"kind": "item",
+"fields": {
+"date": "2013-05-14",
+"weather": "曇",
+"company": "千草環境",
+"place": "灯油設備",
+"content": "灯油移送ポンプ（A） 分解整備（軸受・シール交換）",
+"persons": 3,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 10
+},
+{
+"sheet": "5.14",
+"kind": "total",
+"fields": {
+"date": "2013-05-14",
+"persons": 9
+},
+"r": 21
+},
+{
+"sheet": "5.15",
+"kind": "item",
+"fields": {
+"date": "2013-05-15",
+"weather": "曇",
+"company": "あかね電設",
+"place": "電気室",
+"content": "MCC・配電盤 停電点検（端子増締め・絶縁抵抗）",
+"persons": 3,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "5.15",
+"kind": "item",
+"fields": {
+"date": "2013-05-15",
+"weather": "曇",
+"company": "千草環境",
+"place": "炉頂供給",
+"content": "副資材振分ダンパ 分解整備（グランド・弁座）",
+"persons": 2,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 8
+},
+{
+"sheet": "5.15",
+"kind": "item",
+"fields": {
+"date": "2013-05-15",
+"weather": "曇",
+"company": "千草環境",
+"place": "ボイラ給水",
+"content": "脱気器給水ポンプ（A） 分解点検・消耗品交換",
+"persons": 2,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 9
+},
+{
+"sheet": "5.15",
+"kind": "item",
+"fields": {
+"date": "2013-05-15",
+"weather": "曇",
+"company": "千草環境",
+"place": "飛灰処理",
+"content": "飛灰貯槽バグフィルタ 補修（肉盛・塗装）",
+"persons": 2,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 10
+},
+{
+"sheet": "5.15",
+"kind": "item",
+"fields": {
+"date": "2013-05-15",
+"weather": "曇",
+"company": "千草環境",
+"place": "ピット汚水",
+"content": "ピット汚水ポンプ（A） 分解点検・消耗品交換",
+"persons": 2,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 11
+},
+{
+"sheet": "5.15",
+"kind": "total",
+"fields": {
+"date": "2013-05-15",
+"persons": 11
+},
+"r": 21
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2013-05-16",
+"weather": "晴のち曇",
+"company": "あかね電設",
+"place": "電気室",
+"content": "MCC・配電盤 停電点検（端子増締め・絶縁抵抗）",
+"persons": 4,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 7
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2013-05-16",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "プラットホーム",
+"content": "プラットホーム出入口扉（B）・ごみ投入扉（A） 分解整備（軸受・シール交換）",
+"persons": 4,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2013-05-16",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "PSA酸素発生装置",
+"content": "PSA切替弁（C）・PSA切替弁（E） 分解整備（グランド・弁座）",
+"persons": 3,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 9
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2013-05-16",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "圧縮空気",
+"content": "空気圧縮機（A） 分解整備（軸受・シール交換）",
+"persons": 3,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 10
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2013-05-16",
+"weather": "晴のち曇",
+"company": "あかね電設",
+"place": "高圧配電",
+"content": "高圧受電盤・高圧発電機連系盤 盤内点検・清掃・増締め",
+"persons": 4,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 11
+},
+{
+"sheet": "5.16",
+"kind": "total",
+"fields": {
+"date": "2013-05-16",
+"persons": 18
+},
+"r": 21
+},
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2013-05-17",
+"weather": "曇",
+"company": "千草環境",
+"place": "プラットホーム",
+"content": "ごみ投入扉（F）・投入扉油圧ユニット 分解点検・消耗品交換",
+"persons": 4,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2013-05-17",
+"weather": "曇",
+"company": "千草環境",
+"place": "PSA酸素発生装置",
+"content": "酸素圧縮機（A） 分解整備（軸受・シール交換）",
+"persons": 2,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2013-05-17",
+"weather": "曇",
+"company": "千草環境",
+"place": "〃",
+"content": "PSA切替弁（F） 分解整備（グランド・弁座）",
+"persons": 3,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 9
+},
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2013-05-17",
+"weather": "曇",
+"company": "千草環境",
+"place": "機器冷却水",
+"content": "機器冷却水ポンプ（A） 分解整備（軸受・シール交換）",
+"persons": 2,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 10
+},
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2013-05-17",
+"weather": "曇",
+"company": "あかね電設",
+"place": "高圧配電",
+"content": "高圧き電盤（1号炉）・高圧き電盤（2号炉） 盤内点検・清掃・増締め",
+"persons": 5,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 11
+},
+{
+"sheet": "5.17",
+"kind": "total",
+"fields": {
+"date": "2013-05-17",
+"persons": 16
+},
+"r": 21
+},
+{
+"sheet": "5.18",
+"kind": "item",
+"fields": {
+"date": "2013-05-18",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "プラットホーム",
+"content": "ダンピングボックス 開放・部品点検・組立",
+"persons": 4,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "5.18",
+"kind": "item",
+"fields": {
+"date": "2013-05-18",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "石灰石受入",
+"content": "石灰石振動フィーダ 分解整備（軸受・シール交換）",
+"persons": 3,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "5.18",
+"kind": "item",
+"fields": {
+"date": "2013-05-18",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "選別装置",
+"content": "磁選機 分解整備（軸受・シール交換）",
+"persons": 1,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 9
+},
+{
+"sheet": "5.18",
+"kind": "item",
+"fields": {
+"date": "2013-05-18",
+"weather": "晴のち曇",
+"company": "あかね電設",
+"place": "高圧配電",
+"content": "高圧き電盤（PSA）・高圧進相コンデンサ盤 盤内点検・清掃・増締め",
+"persons": 4,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 10
+},
+{
+"sheet": "5.18",
+"kind": "item",
+"fields": {
+"date": "2013-05-18",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "電動弁・調節弁",
+"content": "所内蒸気電動弁・冷却塔補給水調節弁 分解整備（グランド・弁座）",
+"persons": 2,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 11
+},
+{
+"sheet": "5.18",
+"kind": "total",
+"fields": {
+"date": "2013-05-18",
+"persons": 14
+},
+"r": 21
+},
+{
+"sheet": "5.20",
+"kind": "item",
+"fields": {
+"date": "2013-05-20",
+"weather": "曇",
+"company": "千草環境",
+"place": "コークス受入",
+"content": "コークス受入ホッパ 補修（肉盛・塗装）",
+"persons": 2,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "5.20",
+"kind": "item",
+"fields": {
+"date": "2013-05-20",
+"weather": "曇",
+"company": "千草環境",
+"place": "ボイラ給水",
+"content": "復水タンク 補修（肉盛・塗装）",
+"persons": 1,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "5.20",
+"kind": "item",
+"fields": {
+"date": "2013-05-20",
+"weather": "曇",
+"company": "あかね電設",
+"place": "低圧配電",
+"content": "共通動力制御盤（MCC-2） 盤内点検・清掃・増締め",
+"persons": 4,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 9
+},
+{
+"sheet": "5.20",
+"kind": "item",
+"fields": {
+"date": "2013-05-20",
+"weather": "曇",
+"company": "千草環境",
+"place": "電動弁・調節弁",
+"content": "プラットホーム排気ダンパ 作動確認",
+"persons": 2,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 10
+},
+{
+"sheet": "5.20",
+"kind": "total",
+"fields": {
+"date": "2013-05-20",
+"persons": 9
+},
+"r": 21
+}
+]
+}

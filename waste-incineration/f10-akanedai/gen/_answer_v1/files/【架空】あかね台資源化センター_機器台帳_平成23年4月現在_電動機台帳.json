@@ -1,0 +1,3614 @@
+{
+"file": "【架空】あかね台資源化センター_機器台帳_平成23年4月現在_電動機台帳.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0001",
+"loadCode": "1-10-1-05-1",
+"loadName": "1号給じん油圧ポンプ（A）",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW74-00007",
+"installed": "H18.3"
+},
+"r": 5
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0002",
+"loadCode": "1-10-1-05-2",
+"loadName": "1号給じん油圧ポンプ（B）",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW98-00009",
+"installed": "H18.3"
+},
+"r": 6
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0003",
+"loadCode": "1-10-2-03",
+"loadName": "1号コークス切出しフィーダ",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW11-00013",
+"installed": "H18.3"
+},
+"r": 7
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0004",
+"loadCode": "1-10-2-04",
+"loadName": "1号石灰石切出しフィーダ",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW74-00015",
+"installed": "H18.3"
+},
+"r": 8
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0005",
+"loadCode": "1-20-2-02",
+"loadName": "1号開孔機",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW51-00028",
+"installed": "H18.3"
+},
+"r": 9
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0006",
+"loadCode": "1-20-2-04-1",
+"loadName": "1号出湯口油圧ポンプ（A）",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW32-00032",
+"installed": "H18.3"
+},
+"r": 10
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0007",
+"loadCode": "1-20-2-04-2",
+"loadName": "1号出湯口油圧ポンプ（B）",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW94-00034",
+"installed": "H18.3"
+},
+"r": 11
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0008",
+"loadCode": "1-20-2-08",
+"loadName": "1号出湯口集じんファン",
+"kW": 30,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW41-00039",
+"installed": "H18.3"
+},
+"r": 12
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0009",
+"loadCode": "1-20-3-01",
+"loadName": "1号羽口送風機（A）",
+"kW": 160,
+"V": 400,
+"poles": 6,
+"maker": "三栄モータ",
+"serial": "TW14-00042",
+"installed": "H18.3"
+},
+"r": 13
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0010",
+"loadCode": "1-20-3-02",
+"loadName": "1号羽口送風機（B）",
+"kW": 160,
+"V": 400,
+"poles": 6,
+"maker": "東和電機",
+"serial": "TW10-00044",
+"installed": "H18.3"
+},
+"r": 14
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0011",
+"loadCode": "1-20-4-01",
+"loadName": "1号炉体冷却水ポンプ（A）",
+"kW": 30,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW79-00052",
+"installed": "H18.3"
+},
+"r": 15
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0012",
+"loadCode": "1-20-4-02",
+"loadName": "1号炉体冷却水ポンプ（B）",
+"kW": 30,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW73-00054",
+"installed": "H18.3"
+},
+"r": 16
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0013",
+"loadCode": "1-20-4-03",
+"loadName": "1号羽口冷却水ポンプ（A）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW67-00056",
+"installed": "H18.3"
+},
+"r": 17
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0014",
+"loadCode": "1-20-4-04",
+"loadName": "1号羽口冷却水ポンプ（B）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW90-00058",
+"installed": "H18.3"
+},
+"r": 18
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0015",
+"loadCode": "1-20-4-06",
+"loadName": "1号炉体冷却塔",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW91-00061",
+"installed": "H18.3"
+},
+"r": 19
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0016",
+"loadCode": "1-30-1-03",
+"loadName": "1号スラグ掻揚コンベヤ",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW49-00068",
+"installed": "H18.3"
+},
+"r": 20
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0017",
+"loadCode": "1-30-1-04",
+"loadName": "1号水砕水循環ポンプ（A）",
+"kW": 30,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW79-00070",
+"installed": "H18.3"
+},
+"r": 21
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0018",
+"loadCode": "1-30-1-05",
+"loadName": "1号水砕水循環ポンプ（B）",
+"kW": 30,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW11-00072",
+"installed": "H18.3"
+},
+"r": 22
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0019",
+"loadCode": "1-30-1-06",
+"loadName": "1号水砕水冷却塔",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW86-00074",
+"installed": "H18.3"
+},
+"r": 23
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0020",
+"loadCode": "1-30-1-07",
+"loadName": "1号水砕水自動ストレーナ",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW79-00076",
+"installed": "H18.3"
+},
+"r": 24
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0021",
+"loadCode": "1-30-1-08",
+"loadName": "1号水砕ミスト排気ファン",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW15-00078",
+"installed": "H18.3"
+},
+"r": 25
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0022",
+"loadCode": "1-40-1-02",
+"loadName": "1号燃焼用空気送風機",
+"kW": 45,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW29-00083",
+"installed": "H18.3"
+},
+"r": 26
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0023",
+"loadCode": "1-40-1-04",
+"loadName": "1号バーナ用送風機",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW61-00086",
+"installed": "H18.3"
+},
+"r": 27
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0024",
+"loadCode": "1-40-1-05",
+"loadName": "1号燃焼室ダスト排出装置",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW20-00088",
+"installed": "H18.3"
+},
+"r": 28
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0025",
+"loadCode": "1-50-2-01",
+"loadName": "1号長抜差式スートブロワ（A）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW96-00102",
+"installed": "H18.3"
+},
+"r": 29
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0026",
+"loadCode": "1-50-2-02",
+"loadName": "1号長抜差式スートブロワ（B）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW38-00104",
+"installed": "H18.3"
+},
+"r": 30
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0027",
+"loadCode": "1-50-2-03",
+"loadName": "1号長抜差式スートブロワ（C）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW50-00106",
+"installed": "H18.3"
+},
+"r": 31
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0028",
+"loadCode": "1-50-2-04",
+"loadName": "1号長抜差式スートブロワ（D）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW20-00108",
+"installed": "H18.3"
+},
+"r": 32
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0029",
+"loadCode": "1-50-2-05",
+"loadName": "1号定置回転式スートブロワ（A）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW88-00110",
+"installed": "H18.3"
+},
+"r": 33
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0030",
+"loadCode": "1-50-2-06",
+"loadName": "1号定置回転式スートブロワ（B）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW29-00112",
+"installed": "H18.3"
+},
+"r": 34
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0031",
+"loadCode": "1-50-2-07",
+"loadName": "1号定置回転式スートブロワ（C）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW12-00114",
+"installed": "H18.3"
+},
+"r": 35
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0032",
+"loadCode": "1-50-2-08",
+"loadName": "1号定置回転式スートブロワ（D）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW78-00116",
+"installed": "H18.3"
+},
+"r": 36
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0033",
+"loadCode": "1-50-2-09",
+"loadName": "1号定置回転式スートブロワ（E）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW82-00118",
+"installed": "H18.3"
+},
+"r": 37
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0034",
+"loadCode": "1-50-2-10",
+"loadName": "1号定置回転式スートブロワ（F）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW34-00120",
+"installed": "H18.3"
+},
+"r": 38
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0035",
+"loadCode": "1-50-3-01",
+"loadName": "1号ボイラダストコンベヤ（A）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW34-00123",
+"installed": "H18.3"
+},
+"r": 39
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0036",
+"loadCode": "1-50-3-02",
+"loadName": "1号ボイラダストコンベヤ（B）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW16-00125",
+"installed": "H18.3"
+},
+"r": 40
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0037",
+"loadCode": "1-50-4-01",
+"loadName": "1号清缶剤注入ポンプ（A）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW84-00127",
+"installed": "H18.3"
+},
+"r": 41
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0038",
+"loadCode": "1-50-4-02",
+"loadName": "1号清缶剤注入ポンプ（B）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW58-00129",
+"installed": "H18.3"
+},
+"r": 42
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0039",
+"loadCode": "1-60-1-03",
+"loadName": "1号噴霧水ポンプ（A）",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW55-00144",
+"installed": "H18.3"
+},
+"r": 43
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0040",
+"loadCode": "1-60-1-04",
+"loadName": "1号噴霧水ポンプ（B）",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW44-00146",
+"installed": "H18.3"
+},
+"r": 44
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0041",
+"loadCode": "1-60-1-06",
+"loadName": "1号ノズル冷却空気ブロワ",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW20-00149",
+"installed": "H18.3"
+},
+"r": 45
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0042",
+"loadCode": "1-60-1-07",
+"loadName": "1号減温塔ダストコンベヤ",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW88-00151",
+"installed": "H18.3"
+},
+"r": 46
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0043",
+"loadCode": "1-60-1-08",
+"loadName": "1号減温塔ロータリーバルブ",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW76-00153",
+"installed": "H18.3"
+},
+"r": 47
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0044",
+"loadCode": "1-70-1-02",
+"loadName": "1号消石灰切出しロータリーバルブ",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW23-00158",
+"installed": "H18.3"
+},
+"r": 48
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0045",
+"loadCode": "1-70-1-03",
+"loadName": "1号消石灰定量供給機",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW54-00160",
+"installed": "H18.3"
+},
+"r": 49
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0046",
+"loadCode": "1-70-1-04",
+"loadName": "1号消石灰吹込ブロワ",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW49-00162",
+"installed": "H18.3"
+},
+"r": 50
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0047",
+"loadCode": "1-70-1-06",
+"loadName": "1号活性炭切出しロータリーバルブ",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW55-00165",
+"installed": "H18.3"
+},
+"r": 51
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0048",
+"loadCode": "1-70-1-07",
+"loadName": "1号活性炭定量供給機",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW77-00167",
+"installed": "H18.3"
+},
+"r": 52
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0049",
+"loadCode": "1-70-1-08",
+"loadName": "1号活性炭吹込ブロワ",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW80-00169",
+"installed": "H18.3"
+},
+"r": 53
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0050",
+"loadCode": "1-80-1-05",
+"loadName": "1号BFダストスクリューコンベヤ（A）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW85-00176",
+"installed": "H18.3"
+},
+"r": 54
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0051",
+"loadCode": "1-80-1-06",
+"loadName": "1号BFダストスクリューコンベヤ（B）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW40-00178",
+"installed": "H18.3"
+},
+"r": 55
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0052",
+"loadCode": "1-80-1-07",
+"loadName": "1号BFロータリーバルブ（A）",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW77-00180",
+"installed": "H18.3"
+},
+"r": 56
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0053",
+"loadCode": "1-80-1-08",
+"loadName": "1号BFロータリーバルブ（B）",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW25-00182",
+"installed": "H18.3"
+},
+"r": 57
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0054",
+"loadCode": "1-80-1-09",
+"loadName": "1号飛灰集合コンベヤ",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW74-00184",
+"installed": "H18.3"
+},
+"r": 58
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0055",
+"loadCode": "1-80-1-10",
+"loadName": "1号飛灰搬送コンベヤ",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW36-00186",
+"installed": "H18.3"
+},
+"r": 59
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0056",
+"loadCode": "1-90-1-03",
+"loadName": "1号アンモニア水注入ポンプ（A）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW64-00195",
+"installed": "H18.3"
+},
+"r": 60
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0057",
+"loadCode": "1-90-1-04",
+"loadName": "1号アンモニア水注入ポンプ（B）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW69-00197",
+"installed": "H18.3"
+},
+"r": 61
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0058",
+"loadCode": "1-A0-1-01",
+"loadName": "1号誘引通風機",
+"kW": 132,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW84-00203",
+"installed": "H18.3"
+},
+"r": 62
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0059",
+"loadCode": "2-10-1-05-1",
+"loadName": "2号給じん油圧ポンプ（A）",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW93-00267",
+"installed": "H18.3"
+},
+"r": 63
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0060",
+"loadCode": "2-10-1-05-2",
+"loadName": "2号給じん油圧ポンプ（B）",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW96-00269",
+"installed": "H18.3"
+},
+"r": 64
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0061",
+"loadCode": "2-10-2-03",
+"loadName": "2号コークス切出しフィーダ",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW73-00273",
+"installed": "H18.3"
+},
+"r": 65
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0062",
+"loadCode": "2-10-2-04",
+"loadName": "2号石灰石切出しフィーダ",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW34-00275",
+"installed": "H18.3"
+},
+"r": 66
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0063",
+"loadCode": "2-20-2-02",
+"loadName": "2号開孔機",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW58-00288",
+"installed": "H18.3"
+},
+"r": 67
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0064",
+"loadCode": "2-20-2-04-1",
+"loadName": "2号出湯口油圧ポンプ（A）",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW99-00292",
+"installed": "H18.3"
+},
+"r": 68
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0065",
+"loadCode": "2-20-2-04-2",
+"loadName": "2号出湯口油圧ポンプ（B）",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW19-00294",
+"installed": "H18.3"
+},
+"r": 69
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0066",
+"loadCode": "2-20-2-08",
+"loadName": "2号出湯口集じんファン",
+"kW": 30,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW15-00299",
+"installed": "H18.3"
+},
+"r": 70
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0067",
+"loadCode": "2-20-3-01",
+"loadName": "2号羽口送風機（A）",
+"kW": 160,
+"V": 400,
+"poles": 6,
+"maker": "東和電機",
+"serial": "TW33-00302",
+"installed": "H18.3"
+},
+"r": 71
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0068",
+"loadCode": "2-20-3-02",
+"loadName": "2号羽口送風機（B）",
+"kW": 160,
+"V": 400,
+"poles": 6,
+"maker": "三栄モータ",
+"serial": "TW40-00304",
+"installed": "H18.3"
+},
+"r": 72
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0069",
+"loadCode": "2-20-4-01",
+"loadName": "2号炉体冷却水ポンプ（A）",
+"kW": 30,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW62-00312",
+"installed": "H18.3"
+},
+"r": 73
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0070",
+"loadCode": "2-20-4-02",
+"loadName": "2号炉体冷却水ポンプ（B）",
+"kW": 30,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW28-00314",
+"installed": "H18.3"
+},
+"r": 74
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0071",
+"loadCode": "2-20-4-03",
+"loadName": "2号羽口冷却水ポンプ（A）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW46-00316",
+"installed": "H18.3"
+},
+"r": 75
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0072",
+"loadCode": "2-20-4-04",
+"loadName": "2号羽口冷却水ポンプ（B）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW82-00318",
+"installed": "H18.3"
+},
+"r": 76
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0073",
+"loadCode": "2-20-4-06",
+"loadName": "2号炉体冷却塔",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW41-00321",
+"installed": "H18.3"
+},
+"r": 77
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0074",
+"loadCode": "2-30-1-03",
+"loadName": "2号スラグ掻揚コンベヤ",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW30-00328",
+"installed": "H18.3"
+},
+"r": 78
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0075",
+"loadCode": "2-30-1-04",
+"loadName": "2号水砕水循環ポンプ（A）",
+"kW": 30,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW97-00330",
+"installed": "H18.3"
+},
+"r": 79
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0076",
+"loadCode": "2-30-1-05",
+"loadName": "2号水砕水循環ポンプ（B）",
+"kW": 30,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW69-00332",
+"installed": "H18.3"
+},
+"r": 80
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0077",
+"loadCode": "2-30-1-06",
+"loadName": "2号水砕水冷却塔",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW79-00334",
+"installed": "H18.3"
+},
+"r": 81
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0078",
+"loadCode": "2-30-1-07",
+"loadName": "2号水砕水自動ストレーナ",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW66-00336",
+"installed": "H18.3"
+},
+"r": 82
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0079",
+"loadCode": "2-30-1-08",
+"loadName": "2号水砕ミスト排気ファン",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW26-00338",
+"installed": "H18.3"
+},
+"r": 83
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0080",
+"loadCode": "2-40-1-02",
+"loadName": "2号燃焼用空気送風機",
+"kW": 45,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW35-00343",
+"installed": "H18.3"
+},
+"r": 84
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0081",
+"loadCode": "2-40-1-04",
+"loadName": "2号バーナ用送風機",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW51-00346",
+"installed": "H18.3"
+},
+"r": 85
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0082",
+"loadCode": "2-40-1-05",
+"loadName": "2号燃焼室ダスト排出装置",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW80-00348",
+"installed": "H18.3"
+},
+"r": 86
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0083",
+"loadCode": "2-50-2-01",
+"loadName": "2号長抜差式スートブロワ（A）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW32-00362",
+"installed": "H18.3"
+},
+"r": 87
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0084",
+"loadCode": "2-50-2-02",
+"loadName": "2号長抜差式スートブロワ（B）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW18-00364",
+"installed": "H18.3"
+},
+"r": 88
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0085",
+"loadCode": "2-50-2-03",
+"loadName": "2号長抜差式スートブロワ（C）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW15-00366",
+"installed": "H18.3"
+},
+"r": 89
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0086",
+"loadCode": "2-50-2-04",
+"loadName": "2号長抜差式スートブロワ（D）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW86-00368",
+"installed": "H18.3"
+},
+"r": 90
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0087",
+"loadCode": "2-50-2-05",
+"loadName": "2号定置回転式スートブロワ（A）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW38-00370",
+"installed": "H18.3"
+},
+"r": 91
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0088",
+"loadCode": "2-50-2-06",
+"loadName": "2号定置回転式スートブロワ（B）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW86-00372",
+"installed": "H18.3"
+},
+"r": 92
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0089",
+"loadCode": "2-50-2-07",
+"loadName": "2号定置回転式スートブロワ（C）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW92-00374",
+"installed": "H18.3"
+},
+"r": 93
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0090",
+"loadCode": "2-50-2-08",
+"loadName": "2号定置回転式スートブロワ（D）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW32-00376",
+"installed": "H18.3"
+},
+"r": 94
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0091",
+"loadCode": "2-50-2-09",
+"loadName": "2号定置回転式スートブロワ（E）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW91-00378",
+"installed": "H18.3"
+},
+"r": 95
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0092",
+"loadCode": "2-50-2-10",
+"loadName": "2号定置回転式スートブロワ（F）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW49-00380",
+"installed": "H18.3"
+},
+"r": 96
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0093",
+"loadCode": "2-50-3-01",
+"loadName": "2号ボイラダストコンベヤ（A）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW33-00383",
+"installed": "H18.3"
+},
+"r": 97
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0094",
+"loadCode": "2-50-3-02",
+"loadName": "2号ボイラダストコンベヤ（B）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW51-00385",
+"installed": "H18.3"
+},
+"r": 98
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0095",
+"loadCode": "2-50-4-01",
+"loadName": "2号清缶剤注入ポンプ（A）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW96-00387",
+"installed": "H18.3"
+},
+"r": 99
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0096",
+"loadCode": "2-50-4-02",
+"loadName": "2号清缶剤注入ポンプ（B）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW78-00389",
+"installed": "H18.3"
+},
+"r": 100
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0097",
+"loadCode": "2-60-1-03",
+"loadName": "2号噴霧水ポンプ（A）",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW37-00404",
+"installed": "H18.3"
+},
+"r": 101
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0098",
+"loadCode": "2-60-1-04",
+"loadName": "2号噴霧水ポンプ（B）",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW83-00406",
+"installed": "H18.3"
+},
+"r": 102
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0099",
+"loadCode": "2-60-1-06",
+"loadName": "2号ノズル冷却空気ブロワ",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW90-00409",
+"installed": "H18.3"
+},
+"r": 103
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0100",
+"loadCode": "2-60-1-07",
+"loadName": "2号減温塔ダストコンベヤ",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW92-00411",
+"installed": "H18.3"
+},
+"r": 104
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0101",
+"loadCode": "2-60-1-08",
+"loadName": "2号減温塔ロータリーバルブ",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW12-00413",
+"installed": "H18.3"
+},
+"r": 105
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0102",
+"loadCode": "2-70-1-02",
+"loadName": "2号消石灰切出しロータリーバルブ",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW17-00418",
+"installed": "H18.3"
+},
+"r": 106
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0103",
+"loadCode": "2-70-1-03",
+"loadName": "2号消石灰定量供給機",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW84-00420",
+"installed": "H18.3"
+},
+"r": 107
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0104",
+"loadCode": "2-70-1-04",
+"loadName": "2号消石灰吹込ブロワ",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW84-00422",
+"installed": "H18.3"
+},
+"r": 108
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0105",
+"loadCode": "2-70-1-06",
+"loadName": "2号活性炭切出しロータリーバルブ",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW61-00425",
+"installed": "H18.3"
+},
+"r": 109
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0106",
+"loadCode": "2-70-1-07",
+"loadName": "2号活性炭定量供給機",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW44-00427",
+"installed": "H18.3"
+},
+"r": 110
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0107",
+"loadCode": "2-70-1-08",
+"loadName": "2号活性炭吹込ブロワ",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW53-00429",
+"installed": "H18.3"
+},
+"r": 111
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0108",
+"loadCode": "2-80-1-05",
+"loadName": "2号BFダストスクリューコンベヤ（A）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW99-00436",
+"installed": "H18.3"
+},
+"r": 112
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0109",
+"loadCode": "2-80-1-06",
+"loadName": "2号BFダストスクリューコンベヤ（B）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW78-00438",
+"installed": "H18.3"
+},
+"r": 113
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0110",
+"loadCode": "2-80-1-07",
+"loadName": "2号BFロータリーバルブ（A）",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW99-00440",
+"installed": "H18.3"
+},
+"r": 114
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0111",
+"loadCode": "2-80-1-08",
+"loadName": "2号BFロータリーバルブ（B）",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW75-00442",
+"installed": "H18.3"
+},
+"r": 115
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0112",
+"loadCode": "2-80-1-09",
+"loadName": "2号飛灰集合コンベヤ",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW26-00444",
+"installed": "H18.3"
+},
+"r": 116
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0113",
+"loadCode": "2-80-1-10",
+"loadName": "2号飛灰搬送コンベヤ",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW62-00446",
+"installed": "H18.3"
+},
+"r": 117
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0114",
+"loadCode": "2-90-1-03",
+"loadName": "2号アンモニア水注入ポンプ（A）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW10-00455",
+"installed": "H18.3"
+},
+"r": 118
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0115",
+"loadCode": "2-90-1-04",
+"loadName": "2号アンモニア水注入ポンプ（B）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW81-00457",
+"installed": "H18.3"
+},
+"r": 119
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0116",
+"loadCode": "2-A0-1-01",
+"loadName": "2号誘引通風機",
+"kW": 132,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW37-00463",
+"installed": "H18.3"
+},
+"r": 120
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0117",
+"loadCode": "0-01-2-01",
+"loadName": "プラットホーム出入口扉（A）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW33-00525",
+"installed": "H18.3"
+},
+"r": 121
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0118",
+"loadCode": "0-01-2-02",
+"loadName": "プラットホーム出入口扉（B）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW75-00527",
+"installed": "H18.3"
+},
+"r": 122
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0119",
+"loadCode": "0-01-2-09-1",
+"loadName": "投入扉油圧ポンプ（A）",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW98-00536",
+"installed": "H18.3"
+},
+"r": 123
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0120",
+"loadCode": "0-01-2-09-2",
+"loadName": "投入扉油圧ポンプ（B）",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW98-00538",
+"installed": "H18.3"
+},
+"r": 124
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0121",
+"loadCode": "0-01-4-01-1",
+"loadName": "1号ごみクレーン走行装置",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW55-00546",
+"installed": "H18.3"
+},
+"r": 125
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0122",
+"loadCode": "0-01-4-01-1",
+"loadName": "1号ごみクレーン走行装置",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW18-00547",
+"installed": "H18.3"
+},
+"r": 126
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0123",
+"loadCode": "0-01-4-01-2",
+"loadName": "1号ごみクレーン横行装置",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW73-00549",
+"installed": "H18.3"
+},
+"r": 127
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0124",
+"loadCode": "0-01-4-01-3",
+"loadName": "1号ごみクレーン巻上装置",
+"kW": 75,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW87-00551",
+"installed": "H18.3"
+},
+"r": 128
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0125",
+"loadCode": "0-01-4-01-4",
+"loadName": "1号ごみクレーンバケット",
+"kW": 22,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW99-00553",
+"installed": "H18.3"
+},
+"r": 129
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0126",
+"loadCode": "0-01-4-02-1",
+"loadName": "2号ごみクレーン走行装置",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW30-00557",
+"installed": "H18.3"
+},
+"r": 130
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0127",
+"loadCode": "0-01-4-02-1",
+"loadName": "2号ごみクレーン走行装置",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW62-00558",
+"installed": "H18.3"
+},
+"r": 131
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0128",
+"loadCode": "0-01-4-02-2",
+"loadName": "2号ごみクレーン横行装置",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW96-00560",
+"installed": "H18.3"
+},
+"r": 132
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0129",
+"loadCode": "0-01-4-02-3",
+"loadName": "2号ごみクレーン巻上装置",
+"kW": 75,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW16-00562",
+"installed": "H18.3"
+},
+"r": 133
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0130",
+"loadCode": "0-01-4-02-4",
+"loadName": "2号ごみクレーンバケット",
+"kW": 22,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW98-00564",
+"installed": "H18.3"
+},
+"r": 134
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0131",
+"loadCode": "0-01-5-02",
+"loadName": "脱臭ファン",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW96-00569",
+"installed": "H18.3"
+},
+"r": 135
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0132",
+"loadCode": "0-02-1-02",
+"loadName": "コークス受入コンベヤ",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW14-00572",
+"installed": "H18.3"
+},
+"r": 136
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0133",
+"loadCode": "0-02-1-03",
+"loadName": "コークスバケットエレベータ",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW16-00574",
+"installed": "H18.3"
+},
+"r": 137
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0134",
+"loadCode": "0-02-1-06",
+"loadName": "コークス振動フィーダ",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW69-00578",
+"installed": "H18.3"
+},
+"r": 138
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0135",
+"loadCode": "0-02-2-02",
+"loadName": "石灰石受入コンベヤ",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW62-00581",
+"installed": "H18.3"
+},
+"r": 139
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0136",
+"loadCode": "0-02-2-03",
+"loadName": "石灰石バケットエレベータ",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW40-00583",
+"installed": "H18.3"
+},
+"r": 140
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0137",
+"loadCode": "0-02-2-06",
+"loadName": "石灰石振動フィーダ",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW65-00587",
+"installed": "H18.3"
+},
+"r": 141
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0138",
+"loadCode": "0-02-3-01",
+"loadName": "副資材炉頂供給コンベヤ（A）",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW70-00589",
+"installed": "H18.3"
+},
+"r": 142
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0139",
+"loadCode": "0-02-3-02",
+"loadName": "副資材炉頂供給コンベヤ（B）",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW80-00591",
+"installed": "H18.3"
+},
+"r": 143
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0140",
+"loadCode": "0-02-4-02",
+"loadName": "副資材集じんファン",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW53-00595",
+"installed": "H18.3"
+},
+"r": 144
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0141",
+"loadCode": "0-03-1-01",
+"loadName": "PSA原料空気ブロワ",
+"kW": 110,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW32-00598",
+"installed": "H18.3"
+},
+"r": 145
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0142",
+"loadCode": "0-03-1-02",
+"loadName": "PSA真空ポンプ（A）",
+"kW": 160,
+"V": 400,
+"poles": 6,
+"maker": "東和電機",
+"serial": "TW30-00600",
+"installed": "H18.3"
+},
+"r": 146
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0143",
+"loadCode": "0-03-1-03",
+"loadName": "PSA真空ポンプ（B）",
+"kW": 160,
+"V": 400,
+"poles": 6,
+"maker": "東和電機",
+"serial": "TW72-00602",
+"installed": "H18.3"
+},
+"r": 147
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0144",
+"loadCode": "0-03-1-07",
+"loadName": "酸素圧縮機（A）",
+"kW": 55,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW39-00607",
+"installed": "H18.3"
+},
+"r": 148
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0145",
+"loadCode": "0-03-1-08",
+"loadName": "酸素圧縮機（B）",
+"kW": 55,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW29-00609",
+"installed": "H18.3"
+},
+"r": 149
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0146",
+"loadCode": "0-04-1-01",
+"loadName": "スラグ搬送コンベヤ（A）",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW59-00627",
+"installed": "H18.3"
+},
+"r": 150
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0147",
+"loadCode": "0-04-1-02",
+"loadName": "スラグ搬送コンベヤ（B）",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW67-00629",
+"installed": "H18.3"
+},
+"r": 151
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0148",
+"loadCode": "0-04-1-03",
+"loadName": "スラグ水切りスクリーン",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW96-00631",
+"installed": "H18.3"
+},
+"r": 152
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0149",
+"loadCode": "0-04-2-01",
+"loadName": "磁選機",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW55-00633",
+"installed": "H18.3"
+},
+"r": 153
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0150",
+"loadCode": "0-04-2-02",
+"loadName": "スラグ振動ふるい",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW38-00635",
+"installed": "H18.3"
+},
+"r": 154
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0151",
+"loadCode": "0-04-2-03",
+"loadName": "スラグ粒度調整機",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW99-00637",
+"installed": "H18.3"
+},
+"r": 155
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0152",
+"loadCode": "0-04-2-04",
+"loadName": "メタル搬送コンベヤ",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW81-00639",
+"installed": "H18.3"
+},
+"r": 156
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0153",
+"loadCode": "0-05-1-02",
+"loadName": "ボイラ給水ポンプ（A）",
+"kW": 75,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW93-00646",
+"installed": "H18.3"
+},
+"r": 157
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0154",
+"loadCode": "0-05-1-03",
+"loadName": "ボイラ給水ポンプ（B）",
+"kW": 75,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW30-00648",
+"installed": "H18.3"
+},
+"r": 158
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0155",
+"loadCode": "0-05-1-04",
+"loadName": "ボイラ給水ポンプ（C）",
+"kW": 75,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW81-00650",
+"installed": "H18.3"
+},
+"r": 159
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0156",
+"loadCode": "0-05-1-05",
+"loadName": "脱気器給水ポンプ（A）",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW50-00652",
+"installed": "H18.3"
+},
+"r": 160
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0157",
+"loadCode": "0-05-1-06",
+"loadName": "脱気器給水ポンプ（B）",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW20-00654",
+"installed": "H18.3"
+},
+"r": 161
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0158",
+"loadCode": "0-05-1-08",
+"loadName": "純水ポンプ（A）",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW97-00657",
+"installed": "H18.3"
+},
+"r": 162
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0159",
+"loadCode": "0-05-1-09",
+"loadName": "純水ポンプ（B）",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW61-00659",
+"installed": "H18.3"
+},
+"r": 163
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0160",
+"loadCode": "0-05-1-10",
+"loadName": "脱酸素剤注入ポンプ（A）",
+"kW": 0.2,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW37-00661",
+"installed": "H18.3"
+},
+"r": 164
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0161",
+"loadCode": "0-05-1-11",
+"loadName": "脱酸素剤注入ポンプ（B）",
+"kW": 0.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW41-00663",
+"installed": "H18.3"
+},
+"r": 165
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0162",
+"loadCode": "0-05-2-04",
+"loadName": "タービン補助油ポンプ",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW42-00671",
+"installed": "H18.3"
+},
+"r": 166
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0163",
+"loadCode": "0-05-2-05",
+"loadName": "タービン非常油ポンプ",
+"kW": 5.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW68-00673",
+"installed": "H18.3"
+},
+"r": 167
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0164",
+"loadCode": "0-05-2-06",
+"loadName": "ターニング装置",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW85-00675",
+"installed": "H18.3"
+},
+"r": 168
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0165",
+"loadCode": "0-05-2-10",
+"loadName": "グランド排風機",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW29-00680",
+"installed": "H18.3"
+},
+"r": 169
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0166",
+"loadCode": "0-05-3-02",
+"loadName": "空冷復水器ファン（A）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW20-00688",
+"installed": "H18.3"
+},
+"r": 170
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0167",
+"loadCode": "0-05-3-03",
+"loadName": "空冷復水器ファン（B）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW91-00690",
+"installed": "H18.3"
+},
+"r": 171
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0168",
+"loadCode": "0-05-3-04",
+"loadName": "空冷復水器ファン（C）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW20-00692",
+"installed": "H18.3"
+},
+"r": 172
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0169",
+"loadCode": "0-05-3-05",
+"loadName": "空冷復水器ファン（D）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW14-00694",
+"installed": "H18.3"
+},
+"r": 173
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0170",
+"loadCode": "0-05-3-06",
+"loadName": "空冷復水器ファン（E）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW99-00696",
+"installed": "H18.3"
+},
+"r": 174
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0171",
+"loadCode": "0-05-3-07",
+"loadName": "空冷復水器ファン（F）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW96-00698",
+"installed": "H18.3"
+},
+"r": 175
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0172",
+"loadCode": "0-05-3-08",
+"loadName": "空冷復水器ファン（G）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW60-00700",
+"installed": "H18.3"
+},
+"r": 176
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0173",
+"loadCode": "0-05-3-09",
+"loadName": "空冷復水器ファン（H）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW82-00702",
+"installed": "H18.3"
+},
+"r": 177
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0174",
+"loadCode": "0-05-3-10",
+"loadName": "復水ポンプ（A）",
+"kW": 18.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW77-00704",
+"installed": "H18.3"
+},
+"r": 178
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0175",
+"loadCode": "0-05-3-11",
+"loadName": "復水ポンプ（B）",
+"kW": 18.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW39-00706",
+"installed": "H18.3"
+},
+"r": 179
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0176",
+"loadCode": "0-06-1-02",
+"loadName": "飛灰定量供給機",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW24-00712",
+"installed": "H18.3"
+},
+"r": 180
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0177",
+"loadCode": "0-06-1-03",
+"loadName": "飛灰混練機（A）",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW89-00714",
+"installed": "H18.3"
+},
+"r": 181
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0178",
+"loadCode": "0-06-1-04",
+"loadName": "飛灰混練機（B）",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW43-00716",
+"installed": "H18.3"
+},
+"r": 182
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0179",
+"loadCode": "0-06-1-06",
+"loadName": "キレート薬剤ポンプ（A）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW61-00719",
+"installed": "H18.3"
+},
+"r": 183
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0180",
+"loadCode": "0-06-1-07",
+"loadName": "キレート薬剤ポンプ（B）",
+"kW": 0.4,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW67-00721",
+"installed": "H18.3"
+},
+"r": 184
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0181",
+"loadCode": "0-06-1-08",
+"loadName": "処理灰搬送コンベヤ",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW48-00723",
+"installed": "H18.3"
+},
+"r": 185
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0182",
+"loadCode": "0-07-1-02",
+"loadName": "消石灰移送ブロワ",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW17-00728",
+"installed": "H18.3"
+},
+"r": 186
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0183",
+"loadCode": "0-07-1-05",
+"loadName": "アンモニア水移送ポンプ（A）",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW39-00732",
+"installed": "H18.3"
+},
+"r": 187
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0184",
+"loadCode": "0-07-1-06",
+"loadName": "アンモニア水移送ポンプ（B）",
+"kW": 0.75,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW46-00734",
+"installed": "H18.3"
+},
+"r": 188
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0185",
+"loadCode": "0-08-1-02",
+"loadName": "プラント用水ポンプ（A）",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW35-00738",
+"installed": "H18.3"
+},
+"r": 189
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0186",
+"loadCode": "0-08-1-03",
+"loadName": "プラント用水ポンプ（B）",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW85-00740",
+"installed": "H18.3"
+},
+"r": 190
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0187",
+"loadCode": "0-08-1-04",
+"loadName": "生活用水ポンプ（A）",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW36-00742",
+"installed": "H18.3"
+},
+"r": 191
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0188",
+"loadCode": "0-08-1-05",
+"loadName": "生活用水ポンプ（B）",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW91-00744",
+"installed": "H18.3"
+},
+"r": 192
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0189",
+"loadCode": "0-08-2-01",
+"loadName": "機器冷却水ポンプ（A）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW85-00746",
+"installed": "H18.3"
+},
+"r": 193
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0190",
+"loadCode": "0-08-2-02",
+"loadName": "機器冷却水ポンプ（B）",
+"kW": 37,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW65-00748",
+"installed": "H18.3"
+},
+"r": 194
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0191",
+"loadCode": "0-08-2-03",
+"loadName": "機器冷却塔（A）",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW12-00750",
+"installed": "H18.3"
+},
+"r": 195
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0192",
+"loadCode": "0-08-2-04",
+"loadName": "機器冷却塔（B）",
+"kW": 7.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW15-00752",
+"installed": "H18.3"
+},
+"r": 196
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0193",
+"loadCode": "0-08-2-05",
+"loadName": "冷却水薬注装置",
+"kW": 0.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW56-00754",
+"installed": "H18.3"
+},
+"r": 197
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0194",
+"loadCode": "0-09-1-02",
+"loadName": "排水移送ポンプ（A）",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW23-00757",
+"installed": "H18.3"
+},
+"r": 198
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0195",
+"loadCode": "0-09-1-03",
+"loadName": "排水移送ポンプ（B）",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW96-00759",
+"installed": "H18.3"
+},
+"r": 199
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0196",
+"loadCode": "0-09-1-05",
+"loadName": "凝集槽撹拌機（A）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW32-00762",
+"installed": "H18.3"
+},
+"r": 200
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0197",
+"loadCode": "0-09-1-06",
+"loadName": "凝集槽撹拌機（B）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW93-00764",
+"installed": "H18.3"
+},
+"r": 201
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0198",
+"loadCode": "0-09-1-08",
+"loadName": "処理水ポンプ（A）",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW56-00767",
+"installed": "H18.3"
+},
+"r": 202
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0199",
+"loadCode": "0-09-1-09",
+"loadName": "処理水ポンプ（B）",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW25-00769",
+"installed": "H18.3"
+},
+"r": 203
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0200",
+"loadCode": "0-09-1-10",
+"loadName": "排水薬注ポンプ（A）",
+"kW": 0.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW22-00771",
+"installed": "H18.3"
+},
+"r": 204
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0201",
+"loadCode": "0-09-1-11",
+"loadName": "排水薬注ポンプ（B）",
+"kW": 0.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW94-00773",
+"installed": "H18.3"
+},
+"r": 205
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0202",
+"loadCode": "0-09-1-12",
+"loadName": "排水薬注ポンプ（C）",
+"kW": 0.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW19-00775",
+"installed": "H18.3"
+},
+"r": 206
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0203",
+"loadCode": "0-10-1-01",
+"loadName": "空気圧縮機（A）",
+"kW": 55,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW13-00779",
+"installed": "H18.3"
+},
+"r": 207
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0204",
+"loadCode": "0-10-1-02",
+"loadName": "空気圧縮機（B）",
+"kW": 55,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW23-00781",
+"installed": "H18.3"
+},
+"r": 208
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0205",
+"loadCode": "0-10-1-03",
+"loadName": "空気圧縮機（C）",
+"kW": 55,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW38-00783",
+"installed": "H18.3"
+},
+"r": 209
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0206",
+"loadCode": "0-10-1-04",
+"loadName": "除湿器（A）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW10-00785",
+"installed": "H18.3"
+},
+"r": 210
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0207",
+"loadCode": "0-10-1-05",
+"loadName": "除湿器（B）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW64-00787",
+"installed": "H18.3"
+},
+"r": 211
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0208",
+"loadCode": "0-10-1-08",
+"loadName": "窒素ガス発生装置",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW31-00791",
+"installed": "H18.3"
+},
+"r": 212
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0209",
+"loadCode": "0-14-1-02",
+"loadName": "灯油移送ポンプ（A）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW94-00837",
+"installed": "H18.3"
+},
+"r": 213
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0210",
+"loadCode": "0-14-1-03",
+"loadName": "灯油移送ポンプ（B）",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW17-00839",
+"installed": "H18.3"
+},
+"r": 214
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0211",
+"loadCode": "0-14-2-02",
+"loadName": "ピット汚水ポンプ（A）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW14-00842",
+"installed": "H18.3"
+},
+"r": 215
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0212",
+"loadCode": "0-14-2-03",
+"loadName": "ピット汚水ポンプ（B）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW32-00844",
+"installed": "H18.3"
+},
+"r": 216
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0213",
+"loadCode": "0-14-2-04",
+"loadName": "ピット消火ポンプ",
+"kW": 22,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW84-00846",
+"installed": "H18.3"
+},
+"r": 217
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0214",
+"loadCode": "0-14-2-05",
+"loadName": "洗車ポンプ",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW62-00848",
+"installed": "H18.3"
+},
+"r": 218
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0215",
+"loadCode": "0-14-3-02",
+"loadName": "炉室天井クレーン走行装置",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW13-00851",
+"installed": "H18.3"
+},
+"r": 219
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0216",
+"loadCode": "0-14-3-03",
+"loadName": "炉室天井クレーン横行装置",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW45-00853",
+"installed": "H18.3"
+},
+"r": 220
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0217",
+"loadCode": "0-14-3-04",
+"loadName": "炉室天井クレーン巻上装置",
+"kW": 15,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW86-00855",
+"installed": "H18.3"
+},
+"r": 221
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0218",
+"loadCode": "0-14-3-06",
+"loadName": "タービン室天井クレーン走行装置",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW39-00858",
+"installed": "H18.3"
+},
+"r": 222
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0219",
+"loadCode": "0-14-3-07",
+"loadName": "タービン室天井クレーン横行装置",
+"kW": 1.5,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW85-00860",
+"installed": "H18.3"
+},
+"r": 223
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0220",
+"loadCode": "0-14-3-08",
+"loadName": "タービン室天井クレーン巻上装置",
+"kW": 18.5,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW63-00862",
+"installed": "H18.3"
+},
+"r": 224
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0221",
+"loadCode": "0-14-4-01",
+"loadName": "純水再生ポンプ（A）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW85-00864",
+"installed": "H18.3"
+},
+"r": 225
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0222",
+"loadCode": "0-14-4-02",
+"loadName": "純水再生ポンプ（B）",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW54-00866",
+"installed": "H18.3"
+},
+"r": 226
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0223",
+"loadCode": "0-14-4-03",
+"loadName": "ACC洗浄ポンプ",
+"kW": 11,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW51-00868",
+"installed": "H18.3"
+},
+"r": 227
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0224",
+"loadCode": "0-14-4-04",
+"loadName": "コークス篩",
+"kW": 2.2,
+"V": 400,
+"poles": 4,
+"maker": "東和電機",
+"serial": "TW84-00870",
+"installed": "H18.3"
+},
+"r": 228
+},
+{
+"sheet": "電動機台帳",
+"kind": "item",
+"fields": {
+"motorNo": "M-0225",
+"loadCode": "0-14-4-05",
+"loadName": "スラグヤード散水ポンプ",
+"kW": 3.7,
+"V": 400,
+"poles": 4,
+"maker": "三栄モータ",
+"serial": "TW62-00872",
+"installed": "H18.3"
+},
+"r": 229
+},
+{
+"sheet": "電動機台帳",
+"kind": "total",
+"fields": {
+"units": 225
+},
+"r": 231
+}
+]
+}

@@ -1,0 +1,70 @@
+{
+"file": "【架空】あかね台資源化センター_工程表_令和2年度2号溶融炉出湯口再築工事_p2H30様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "2号炉",
+"kind": "item",
+"fields": {
+"no": "1",
+"unit": "2号出湯口",
+"name": "出湯口 解体・はつり",
+"company": "東雲築炉",
+"manDays": 16,
+"planStart": "2020-06-07",
+"planEnd": "2020-06-10",
+"actStart": "2020-06-07",
+"actEnd": "2020-06-10"
+},
+"r": 8
+},
+{
+"sheet": "2号炉",
+"kind": "item",
+"fields": {
+"no": "2",
+"unit": "2号出湯口",
+"name": "出湯口れんが築造",
+"company": "東雲築炉",
+"manDays": 20,
+"planStart": "2020-06-12",
+"planEnd": "2020-06-16",
+"actStart": "2020-06-12",
+"actEnd": "2020-06-16"
+},
+"r": 10
+},
+{
+"sheet": "2号炉",
+"kind": "item",
+"fields": {
+"no": "3",
+"unit": "2号出湯口",
+"name": "キャスタブル施工・養生",
+"company": "東雲築炉",
+"manDays": 6,
+"planStart": "2020-06-17",
+"planEnd": "2020-06-18",
+"actStart": "2020-06-17",
+"actEnd": "2020-06-18"
+},
+"r": 12
+},
+{
+"sheet": "2号炉",
+"kind": "item",
+"fields": {
+"no": "4",
+"unit": "2号出湯口",
+"name": "開孔・出湯確認",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2020-06-26",
+"planEnd": "2020-06-26",
+"actStart": "2020-06-26",
+"actEnd": "2020-06-26"
+},
+"r": 14
+}
+]
+}

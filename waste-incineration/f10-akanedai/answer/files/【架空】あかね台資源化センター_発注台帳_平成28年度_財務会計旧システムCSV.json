@@ -1,0 +1,765 @@
+{
+"file": "【架空】あかね台資源化センター_発注台帳_平成28年度_財務会計旧システムCSV.csv",
+"plan": false,
+"records": [
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801623",
+"issued": "H28.07.04",
+"setsu": "委託料",
+"saisetsu": "施設保守委託",
+"name": "H28 あかね台資源化センター 年間保守点検整備業務委託",
+"payee": "千草環境システム(株)",
+"amount": 63180000,
+"paid": "H28.07.31",
+"memo": "部分払 第1回"
+},
+"r": 3
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801649",
+"issued": "H28.10.03",
+"setsu": "委託料",
+"saisetsu": "施設保守委託",
+"name": "H28 あかね台資源化センター 年間保守点検整備業務委託",
+"payee": "千草環境システム(株)",
+"amount": 63180000,
+"paid": "H28.10.31",
+"memo": "部分払 第2回"
+},
+"r": 4
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801681",
+"issued": "H29.01.04",
+"setsu": "委託料",
+"saisetsu": "施設保守委託",
+"name": "H28 あかね台資源化センター 年間保守点検整備業務委託",
+"payee": "千草環境システム(株)",
+"amount": 63180000,
+"paid": "H29.01.31",
+"memo": "部分払 第3回"
+},
+"r": 5
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801707",
+"issued": "H29.04.05",
+"setsu": "委託料",
+"saisetsu": "施設保守委託",
+"name": "H28 あかね台資源化センター 年間保守点検整備業務委託",
+"payee": "千草環境システム(株)",
+"amount": 63180000,
+"paid": "H29.04.28",
+"memo": "完了払"
+},
+"r": 6
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801725",
+"issued": "H28.06.03",
+"setsu": "需用費",
+"saisetsu": "修繕料",
+"name": "あかね台資源化センター2号ろ過式集じん器ろ布購入",
+"payee": "日の出フィルター(株)",
+"amount": 11430000,
+"paid": "H28.06.29"
+},
+"r": 7
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801734",
+"issued": "H28.09.23",
+"setsu": "備品購入費",
+"name": "あかね台資源化センター溶融炉羽口購入（予備品）",
+"payee": "千草環境システム(株)",
+"amount": 7452000,
+"paid": "H28.10.20",
+"memo": "主羽口 3本"
+},
+"r": 8
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801755",
+"issued": "H28.07.23",
+"setsu": "工事請負費",
+"name": "あかね台資源化センターごみクレーン整備工事（巻上ワイヤ交換ほか）",
+"payee": "あかね台クレーン整備(株)",
+"amount": 3620000,
+"paid": "H28.08.18"
+},
+"r": 9
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801792",
+"issued": "H29.04.11",
+"setsu": "委託料",
+"saisetsu": "測定委託",
+"name": "あかね台資源化センター排ガス等測定業務委託",
+"payee": "みずほ環境分析センター(株)",
+"amount": 7208000,
+"paid": "H29.04.30"
+},
+"r": 10
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801815",
+"issued": "H29.04.02",
+"setsu": "委託料",
+"saisetsu": "測定委託",
+"name": "あかね台資源化センターダイオキシン類作業環境測定業務委託",
+"payee": "北辰計測(株)",
+"amount": 1166000,
+"paid": "H29.04.30"
+},
+"r": 11
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801827",
+"issued": "H29.04.03",
+"setsu": "委託料",
+"saisetsu": "点検委託",
+"name": "あかね台資源化センター消防用設備等点検業務委託",
+"payee": "あかね防災設備(株)",
+"amount": 954000,
+"paid": "H29.04.30"
+},
+"r": 12
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801847",
+"issued": "H29.04.10",
+"setsu": "委託料",
+"saisetsu": "点検委託",
+"name": "あかね台資源化センター受変電設備保守点検業務委託",
+"payee": "関東電気保安協会あかね台支部",
+"amount": 2968000,
+"paid": "H29.04.30"
+},
+"r": 13
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801858",
+"issued": "H29.03.11",
+"setsu": "委託料",
+"saisetsu": "点検委託",
+"name": "あかね台資源化センター精密機能検査業務委託",
+"payee": "みずほ環境分析センター(株)",
+"amount": 4770000,
+"paid": "H29.03.30"
+},
+"r": 14
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801891",
+"issued": "H28.04.27",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 4月分",
+"payee": "ときわ燃料(株)",
+"amount": 20890224,
+"paid": "H28.05.25",
+"memo": "398.0t"
+},
+"r": 15
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801906",
+"issued": "H28.05.28",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 5月分",
+"payee": "ときわ燃料(株)",
+"amount": 16554715,
+"paid": "H28.06.25",
+"memo": "315.4t"
+},
+"r": 16
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801917",
+"issued": "H28.07.07",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 6月分",
+"payee": "ときわ燃料(株)",
+"amount": 13163990,
+"paid": "H28.07.25",
+"memo": "250.8t"
+},
+"r": 17
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801934",
+"issued": "H28.07.28",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 7月分",
+"payee": "ときわ燃料(株)",
+"amount": 20186884,
+"paid": "H28.08.25",
+"memo": "384.6t"
+},
+"r": 18
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801954",
+"issued": "H28.09.03",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 8月分",
+"payee": "ときわ燃料(株)",
+"amount": 21798266,
+"paid": "H28.09.25",
+"memo": "415.3t"
+},
+"r": 19
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2801975",
+"issued": "H28.09.30",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 9月分",
+"payee": "ときわ燃料(株)",
+"amount": 20664525,
+"paid": "H28.10.25",
+"memo": "393.7t"
+},
+"r": 20
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802014",
+"issued": "H28.11.05",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 10月分",
+"payee": "ときわ燃料(株)",
+"amount": 12707344,
+"paid": "H28.11.25",
+"memo": "242.1t"
+},
+"r": 21
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802022",
+"issued": "H28.12.07",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 11月分",
+"payee": "ときわ燃料(株)",
+"amount": 16544217,
+"paid": "H28.12.25",
+"memo": "315.2t"
+},
+"r": 22
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802036",
+"issued": "H29.01.04",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 12月分",
+"payee": "ときわ燃料(株)",
+"amount": 22291653,
+"paid": "H29.01.25",
+"memo": "424.7t"
+},
+"r": 23
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802068",
+"issued": "H29.02.06",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 1月分",
+"payee": "ときわ燃料(株)",
+"amount": 21583065,
+"paid": "H29.02.25",
+"memo": "411.2t"
+},
+"r": 24
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802072",
+"issued": "H29.02.28",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 2月分",
+"payee": "ときわ燃料(株)",
+"amount": 19110880,
+"paid": "H29.03.25",
+"memo": "364.1t"
+},
+"r": 25
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802103",
+"issued": "H29.03.28",
+"setsu": "需用費",
+"saisetsu": "燃料費",
+"name": "溶融炉用コークス購入（単価契約） 3月分",
+"payee": "ときわ燃料(株)",
+"amount": 22386132,
+"paid": "H29.04.25",
+"memo": "426.5t"
+},
+"r": 26
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802122",
+"issued": "H28.04.27",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 4月分",
+"payee": "白石鉱業(株)",
+"amount": 2303066,
+"paid": "H28.05.25",
+"memo": "227.1t"
+},
+"r": 27
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802149",
+"issued": "H28.06.03",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 5月分",
+"payee": "白石鉱業(株)",
+"amount": 1654029,
+"paid": "H28.06.25",
+"memo": "163.1t"
+},
+"r": 28
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802174",
+"issued": "H28.07.05",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 6月分",
+"payee": "白石鉱業(株)",
+"amount": 1375146,
+"paid": "H28.07.25",
+"memo": "135.6t"
+},
+"r": 29
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802203",
+"issued": "H28.08.01",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 7月分",
+"payee": "白石鉱業(株)",
+"amount": 2092129,
+"paid": "H28.08.25",
+"memo": "206.3t"
+},
+"r": 30
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802239",
+"issued": "H28.09.04",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 8月分",
+"payee": "白石鉱業(株)",
+"amount": 2387238,
+"paid": "H28.09.25",
+"memo": "235.4t"
+},
+"r": 31
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802245",
+"issued": "H28.10.04",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 9月分",
+"payee": "白石鉱業(株)",
+"amount": 2401436,
+"paid": "H28.10.25",
+"memo": "236.8t"
+},
+"r": 32
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802261",
+"issued": "H28.10.29",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 10月分",
+"payee": "白石鉱業(株)",
+"amount": 1358920,
+"paid": "H28.11.25",
+"memo": "134.0t"
+},
+"r": 33
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802272",
+"issued": "H28.12.01",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 11月分",
+"payee": "白石鉱業(株)",
+"amount": 1816288,
+"paid": "H28.12.25",
+"memo": "179.1t"
+},
+"r": 34
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802301",
+"issued": "H29.01.04",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 12月分",
+"payee": "白石鉱業(株)",
+"amount": 2608316,
+"paid": "H29.01.25",
+"memo": "257.2t"
+},
+"r": 35
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802337",
+"issued": "H29.01.30",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 1月分",
+"payee": "白石鉱業(株)",
+"amount": 2521102,
+"paid": "H29.02.25",
+"memo": "248.6t"
+},
+"r": 36
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802363",
+"issued": "H29.03.04",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 2月分",
+"payee": "白石鉱業(株)",
+"amount": 2314221,
+"paid": "H29.03.25",
+"memo": "228.2t"
+},
+"r": 37
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802399",
+"issued": "H29.04.07",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "溶融炉用石灰石購入（単価契約） 3月分",
+"payee": "白石鉱業(株)",
+"amount": 2558624,
+"paid": "H29.04.25",
+"memo": "252.3t"
+},
+"r": 38
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802436",
+"issued": "H28.04.30",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 4月分",
+"payee": "あかね酸素(株)",
+"amount": 696384,
+"paid": "H28.05.25",
+"memo": "12,400kg"
+},
+"r": 39
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802450",
+"issued": "H28.06.03",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 5月分",
+"payee": "あかね酸素(株)",
+"amount": 460512,
+"paid": "H28.06.25",
+"memo": "8,200kg"
+},
+"r": 40
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802468",
+"issued": "H28.07.02",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 6月分",
+"payee": "あかね酸素(株)",
+"amount": 482976,
+"paid": "H28.07.25",
+"memo": "8,600kg"
+},
+"r": 41
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802471",
+"issued": "H28.08.05",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 7月分",
+"payee": "あかね酸素(株)",
+"amount": 645840,
+"paid": "H28.08.25",
+"memo": "11,500kg"
+},
+"r": 42
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802493",
+"issued": "H28.08.29",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 8月分",
+"payee": "あかね酸素(株)",
+"amount": 730080,
+"paid": "H28.09.25",
+"memo": "13,000kg"
+},
+"r": 43
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802505",
+"issued": "H28.09.30",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 9月分",
+"payee": "あかね酸素(株)",
+"amount": 831168,
+"paid": "H28.10.25",
+"memo": "14,800kg"
+},
+"r": 44
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802540",
+"issued": "H28.11.05",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 10月分",
+"payee": "あかね酸素(株)",
+"amount": 421200,
+"paid": "H28.11.25",
+"memo": "7,500kg"
+},
+"r": 45
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802543",
+"issued": "H28.11.29",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 11月分",
+"payee": "あかね酸素(株)",
+"amount": 555984,
+"paid": "H28.12.25",
+"memo": "9,900kg"
+},
+"r": 46
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802556",
+"issued": "H29.01.02",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 12月分",
+"payee": "あかね酸素(株)",
+"amount": 679536,
+"paid": "H29.01.25",
+"memo": "12,100kg"
+},
+"r": 47
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802577",
+"issued": "H29.02.07",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 1月分",
+"payee": "あかね酸素(株)",
+"amount": 775008,
+"paid": "H29.02.25",
+"memo": "13,800kg"
+},
+"r": 48
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802610",
+"issued": "H29.03.02",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 2月分",
+"payee": "あかね酸素(株)",
+"amount": 718848,
+"paid": "H29.03.25",
+"memo": "12,800kg"
+},
+"r": 49
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"slipNo": "2802631",
+"issued": "H29.04.03",
+"setsu": "需用費",
+"saisetsu": "薬品費",
+"name": "液体酸素購入（単価契約） 3月分",
+"payee": "あかね酸素(株)",
+"amount": 870480,
+"paid": "H29.04.25",
+"memo": "15,500kg"
+},
+"r": 50
+}
+]
+}

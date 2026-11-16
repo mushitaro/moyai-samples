@@ -1,0 +1,205 @@
+{
+"file": "【架空】あかね台資源化センター_工事報告書_令和6年度1号ボイラ2次過熱器下部ベンド部分更新工事_R2ツール様式.pdf",
+"plan": false,
+"records": [
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "ボイラ設備",
+"機器数": 4,
+"補修": 4,
+"要注意": 4
+},
+"seq": 0
+},
+{
+"sheet": "",
+"kind": "total",
+"fields": {
+"section": "系統別件数",
+"機器数": 4
+},
+"seq": 1
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "総括",
+"text": "1号炉"
+},
+"seq": 2
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-01",
+"unit": "1号2次過熱器",
+"code": "1-50-1-03",
+"date": "10/14〜10/15",
+"kubun": "補修",
+"work": "2次過熱器 下部ベンド 管切断・撤去（4本）",
+"result": "下部ベンド部 管4本 部分更新",
+"judge": "要注意",
+"company": "千草環境"
+},
+"seq": 3
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "1号2次過熱器 作業前"
+},
+"seq": 4
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "1号2次過熱器 作業後"
+},
+"seq": 5
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-02",
+"unit": "1号2次過熱器",
+"code": "1-50-1-03",
+"date": "10/16〜10/19",
+"kubun": "補修",
+"work": "新管 取付・溶接",
+"result": "下部ベンド部 管4本 部分更新",
+"judge": "要注意",
+"company": "千草環境"
+},
+"seq": 6
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "1号2次過熱器 作業前"
+},
+"seq": 7
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "1号2次過熱器 作業後"
+},
+"seq": 8
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-03",
+"unit": "1号2次過熱器",
+"code": "1-50-1-03",
+"date": "10/20",
+"kubun": "補修",
+"work": "RT 検査",
+"result": "下部ベンド部 管4本 部分更新",
+"judge": "要注意",
+"company": "千草環境"
+},
+"seq": 9
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "1号2次過熱器 作業前"
+},
+"seq": 10
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "1号2次過熱器 作業後"
+},
+"seq": 11
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-04",
+"unit": "1号2次過熱器",
+"code": "1-50-1-03",
+"date": "10/24",
+"kubun": "補修",
+"work": "水圧試験（年間保守と同時）",
+"result": "下部ベンド部 管4本 部分更新",
+"judge": "要注意",
+"company": "千草環境"
+},
+"seq": 12
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "1号2次過熱器 作業前"
+},
+"seq": 13
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "1号2次過熱器 作業後"
+},
+"seq": 14
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "使用部品",
+"name": "パッキン・ガスケット類",
+"spec": "—",
+"qty": "一式",
+"kind": "委託範囲",
+"place": "各マンホール"
+},
+"seq": 15
+}
+]
+}

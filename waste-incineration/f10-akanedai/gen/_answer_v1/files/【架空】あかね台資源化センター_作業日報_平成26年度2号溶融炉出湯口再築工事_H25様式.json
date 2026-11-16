@@ -1,0 +1,246 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_平成26年度2号溶融炉出湯口再築工事_H25様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "6.9",
+"kind": "item",
+"fields": {
+"date": "2014-06-09",
+"weather": "曇",
+"company": "東雲築炉",
+"place": "2号出湯口",
+"content": "出湯口れんが築造 1段目",
+"persons": 4,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.9",
+"kind": "total",
+"fields": {
+"date": "2014-06-09",
+"persons": 4
+},
+"r": 21
+},
+{
+"sheet": "6.10",
+"kind": "item",
+"fields": {
+"date": "2014-06-10",
+"weather": "曇",
+"company": "東雲築炉",
+"place": "2号出湯口",
+"content": "出湯口 キャスタブル施工・養生",
+"persons": 4,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 7
+},
+{
+"sheet": "6.10",
+"kind": "total",
+"fields": {
+"date": "2014-06-10",
+"persons": 4
+},
+"r": 21
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2014-06-13",
+"weather": "雨",
+"company": "東雲築炉",
+"place": "2号出湯口",
+"content": "出湯口 解体・はつり 着手",
+"persons": 4,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.13",
+"kind": "total",
+"fields": {
+"date": "2014-06-13",
+"persons": 4
+},
+"r": 21
+},
+{
+"sheet": "6.14",
+"kind": "item",
+"fields": {
+"date": "2014-06-14",
+"weather": "雨",
+"company": "東雲築炉",
+"place": "2号出湯口",
+"content": "出湯口れんが築造 1段目",
+"persons": 3,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.14",
+"kind": "total",
+"fields": {
+"date": "2014-06-14",
+"persons": 3
+},
+"r": 21
+},
+{
+"sheet": "6.16",
+"kind": "item",
+"fields": {
+"date": "2014-06-16",
+"weather": "晴",
+"company": "東雲築炉",
+"place": "2号出湯口",
+"content": "出湯口れんが築造 3段目",
+"persons": 4,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.16",
+"kind": "total",
+"fields": {
+"date": "2014-06-16",
+"persons": 4
+},
+"r": 21
+},
+{
+"sheet": "6.17",
+"kind": "item",
+"fields": {
+"date": "2014-06-17",
+"weather": "晴",
+"company": "東雲築炉",
+"place": "2号出湯口",
+"content": "出湯口 キャスタブル施工・養生",
+"persons": 3,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 7
+},
+{
+"sheet": "6.17",
+"kind": "total",
+"fields": {
+"date": "2014-06-17",
+"persons": 3
+},
+"r": 21
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2014-06-18",
+"weather": "曇",
+"company": "東雲築炉",
+"place": "2号出湯設備",
+"content": "2号出湯口 整備",
+"persons": 2,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 7
+},
+{
+"sheet": "6.18",
+"kind": "total",
+"fields": {
+"date": "2014-06-18",
+"persons": 2
+},
+"r": 21
+},
+{
+"sheet": "6.19",
+"kind": "item",
+"fields": {
+"date": "2014-06-19",
+"weather": "曇",
+"company": "東雲築炉",
+"place": "2号出湯設備",
+"content": "2号出湯口 整備",
+"persons": 3,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.19",
+"kind": "total",
+"fields": {
+"date": "2014-06-19",
+"persons": 3
+},
+"r": 21
+},
+{
+"sheet": "6.20",
+"kind": "item",
+"fields": {
+"date": "2014-06-20",
+"weather": "雨",
+"company": "東雲築炉",
+"place": "2号出湯設備",
+"content": "2号出湯口 整備",
+"persons": 3,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.20",
+"kind": "total",
+"fields": {
+"date": "2014-06-20",
+"persons": 3
+},
+"r": 21
+},
+{
+"sheet": "6.26",
+"kind": "item",
+"fields": {
+"date": "2014-06-26",
+"weather": "晴",
+"company": "千草環境",
+"place": "2号出湯設備",
+"content": "2号出湯口 整備",
+"persons": 2,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.26",
+"kind": "total",
+"fields": {
+"date": "2014-06-26",
+"persons": 2
+},
+"r": 21
+}
+]
+}

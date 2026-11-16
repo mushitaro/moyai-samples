@@ -1,0 +1,2129 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_基幹的設備改良工事R5酸素発生装置_R1様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "0613",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-13",
+"weather": "晴",
+"company": "千草環境",
+"persons": 6,
+"time": "13:00〜17:00",
+"manHours": 24.0,
+"manDaysText": "24.0",
+"manDays": 3.0
+},
+"r": 5
+},
+{
+"sheet": "0613",
+"kind": "total",
+"fields": {
+"date": "2023-06-13",
+"persons": 6,
+"manHours": 24.0,
+"manDaysText": "24.0",
+"manDays": 3.0
+},
+"r": 6
+},
+{
+"sheet": "0613",
+"kind": "item",
+"fields": {
+"date": "2023-06-13",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P2",
+"place": "PSA原料空気ブロワ",
+"content": "旧PSA原料空気ブロワ 撤去",
+"time": "13:00〜17:00",
+"persons": 6,
+"manHours": 24.0,
+"progress": "12%",
+"manDaysText": "24.0",
+"manDays": 3.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0614",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-14",
+"weather": "曇のち雨",
+"company": "千草環境",
+"persons": 6,
+"time": "8:30〜18:30",
+"manHours": 54.0,
+"manDaysText": "54.0",
+"manDays": 6.75
+},
+"r": 5
+},
+{
+"sheet": "0614",
+"kind": "total",
+"fields": {
+"date": "2023-06-14",
+"persons": 6,
+"manHours": 54.0,
+"manDaysText": "54.0",
+"manDays": 6.75
+},
+"r": 6
+},
+{
+"sheet": "0614",
+"kind": "item",
+"fields": {
+"date": "2023-06-14",
+"weather": "曇のち雨",
+"blockCompany": "千草環境",
+"no": "P2",
+"place": "PSA原料空気ブロワ",
+"content": "旧配管 撤去",
+"time": "8:30〜18:30",
+"persons": 6,
+"manHours": 54.0,
+"progress": "25%",
+"manDaysText": "54.0",
+"manDays": 6.75,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0615",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-15",
+"weather": "晴",
+"company": "千草環境",
+"persons": 7,
+"time": "13:00〜17:00",
+"manHours": 28.0,
+"manDaysText": "28.0",
+"manDays": 3.5
+},
+"r": 5
+},
+{
+"sheet": "0615",
+"kind": "total",
+"fields": {
+"date": "2023-06-15",
+"persons": 7,
+"manHours": 28.0,
+"manDaysText": "28.0",
+"manDays": 3.5
+},
+"r": 6
+},
+{
+"sheet": "0615",
+"kind": "item",
+"fields": {
+"date": "2023-06-15",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P2",
+"place": "PSA原料空気ブロワ",
+"content": "旧PSA真空ポンプ（A） 撤去",
+"time": "13:00〜17:00",
+"persons": 7,
+"manHours": 28.0,
+"progress": "38%",
+"manDaysText": "28.0",
+"manDays": 3.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0616",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-16",
+"weather": "曇",
+"company": "千草環境",
+"persons": 6,
+"time": "13:00〜17:00",
+"manHours": 24.0,
+"manDaysText": "24.0",
+"manDays": 3.0
+},
+"r": 5
+},
+{
+"sheet": "0616",
+"kind": "total",
+"fields": {
+"date": "2023-06-16",
+"persons": 6,
+"manHours": 24.0,
+"manDaysText": "24.0",
+"manDays": 3.0
+},
+"r": 6
+},
+{
+"sheet": "0616",
+"kind": "item",
+"fields": {
+"date": "2023-06-16",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "P2",
+"place": "PSA原料空気ブロワ",
+"content": "旧配管 撤去",
+"time": "13:00〜17:00",
+"persons": 6,
+"manHours": 24.0,
+"progress": "50%",
+"manDaysText": "24.0",
+"manDays": 3.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0617",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-17",
+"weather": "雨",
+"company": "千草環境",
+"persons": 6,
+"time": "9:00〜16:30",
+"manHours": 39.0,
+"manDaysText": "39.0",
+"manDays": 4.88
+},
+"r": 5
+},
+{
+"sheet": "0617",
+"kind": "total",
+"fields": {
+"date": "2023-06-17",
+"persons": 6,
+"manHours": 39.0,
+"manDaysText": "39.0",
+"manDays": 4.88
+},
+"r": 6
+},
+{
+"sheet": "0617",
+"kind": "item",
+"fields": {
+"date": "2023-06-17",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "P2",
+"place": "PSA原料空気ブロワ",
+"content": "旧PSA真空ポンプ（B） 撤去",
+"time": "9:00〜16:30",
+"persons": 6,
+"manHours": 39.0,
+"progress": "62%",
+"manDaysText": "39.0",
+"manDays": 4.88,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0619",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-19",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0,
+"manDaysText": "45.0",
+"manDays": 5.62
+},
+"r": 5
+},
+{
+"sheet": "0619",
+"kind": "total",
+"fields": {
+"date": "2023-06-19",
+"persons": 6,
+"manHours": 45.0,
+"manDaysText": "45.0",
+"manDays": 5.62
+},
+"r": 6
+},
+{
+"sheet": "0619",
+"kind": "item",
+"fields": {
+"date": "2023-06-19",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "P2",
+"place": "PSA原料空気ブロワ",
+"content": "旧PSA吸着塔（A） 撤去",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "88%",
+"manDaysText": "45.0",
+"manDays": 5.62,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0620",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-20",
+"weather": "曇",
+"company": "千草環境",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5,
+"manDaysText": "37.5",
+"manDays": 4.69
+},
+"r": 5
+},
+{
+"sheet": "0620",
+"kind": "total",
+"fields": {
+"date": "2023-06-20",
+"persons": 5,
+"manHours": 37.5,
+"manDaysText": "37.5",
+"manDays": 4.69
+},
+"r": 6
+},
+{
+"sheet": "0620",
+"kind": "item",
+"fields": {
+"date": "2023-06-20",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "P2",
+"place": "PSA原料空気ブロワ",
+"content": "旧配管 撤去",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "100%",
+"manDaysText": "37.5",
+"manDays": 4.69,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0621",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-21",
+"weather": "曇のち雨",
+"company": "千草環境",
+"persons": 3,
+"time": "8:00〜17:00",
+"manHours": 24.0,
+"manDaysText": "24.0",
+"manDays": 3.0
+},
+"r": 5
+},
+{
+"sheet": "0621",
+"kind": "total",
+"fields": {
+"date": "2023-06-21",
+"persons": 3,
+"manHours": 24.0,
+"manDaysText": "24.0",
+"manDays": 3.0
+},
+"r": 6
+},
+{
+"sheet": "0621",
+"kind": "item",
+"fields": {
+"date": "2023-06-21",
+"weather": "曇のち雨",
+"blockCompany": "千草環境",
+"no": "P3",
+"place": "PSA原料空気ブロワ",
+"content": "基礎 はつり",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "17%",
+"manDaysText": "24.0",
+"manDays": 3.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0622",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-22",
+"weather": "雨",
+"company": "千草環境",
+"persons": 4,
+"time": "9:00〜16:30",
+"manHours": 26.0,
+"manDaysText": "26.0",
+"manDays": 3.25
+},
+"r": 5
+},
+{
+"sheet": "0622",
+"kind": "total",
+"fields": {
+"date": "2023-06-22",
+"persons": 4,
+"manHours": 26.0,
+"manDaysText": "26.0",
+"manDays": 3.25
+},
+"r": 6
+},
+{
+"sheet": "0622",
+"kind": "item",
+"fields": {
+"date": "2023-06-22",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "P3",
+"place": "PSA原料空気ブロワ",
+"content": "基礎 アンカー打設",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "33%",
+"manDaysText": "26.0",
+"manDays": 3.25,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0623",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-23",
+"weather": "曇",
+"company": "千草環境",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5,
+"manDaysText": "37.5",
+"manDays": 4.69
+},
+"r": 5
+},
+{
+"sheet": "0623",
+"kind": "total",
+"fields": {
+"date": "2023-06-23",
+"persons": 5,
+"manHours": 37.5,
+"manDaysText": "37.5",
+"manDays": 4.69
+},
+"r": 6
+},
+{
+"sheet": "0623",
+"kind": "item",
+"fields": {
+"date": "2023-06-23",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "P3",
+"place": "PSA原料空気ブロワ",
+"content": "基礎 コンクリート打設・養生",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "50%",
+"manDaysText": "37.5",
+"manDays": 4.69,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0624",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-24",
+"weather": "曇",
+"company": "千草環境",
+"persons": 5,
+"time": "8:00〜17:00",
+"manHours": 40.0,
+"manDaysText": "40.0",
+"manDays": 5.0
+},
+"r": 5
+},
+{
+"sheet": "0624",
+"kind": "total",
+"fields": {
+"date": "2023-06-24",
+"persons": 5,
+"manHours": 40.0,
+"manDaysText": "40.0",
+"manDays": 5.0
+},
+"r": 6
+},
+{
+"sheet": "0624",
+"kind": "item",
+"fields": {
+"date": "2023-06-24",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "P3",
+"place": "PSA原料空気ブロワ",
+"content": "基礎 はつり",
+"time": "8:00〜17:00",
+"persons": 5,
+"manHours": 40.0,
+"progress": "67%",
+"manDaysText": "40.0",
+"manDays": 5.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0626",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-26",
+"weather": "雨",
+"company": "千草環境",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 5
+},
+{
+"sheet": "0626",
+"kind": "total",
+"fields": {
+"date": "2023-06-26",
+"persons": 4,
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 6
+},
+{
+"sheet": "0626",
+"kind": "item",
+"fields": {
+"date": "2023-06-26",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "P3",
+"place": "PSA原料空気ブロワ",
+"content": "基礎 コンクリート打設・養生",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "100%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0627",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-27",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 7,
+"time": "8:00〜17:00",
+"manHours": 56.0,
+"manDaysText": "56.0",
+"manDays": 7.0
+},
+"r": 5
+},
+{
+"sheet": "0627",
+"kind": "total",
+"fields": {
+"date": "2023-06-27",
+"persons": 7,
+"manHours": 56.0,
+"manDaysText": "56.0",
+"manDays": 7.0
+},
+"r": 6
+},
+{
+"sheet": "0627",
+"kind": "item",
+"fields": {
+"date": "2023-06-27",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "PSA原料空気ブロワ 据付",
+"time": "8:00〜17:00",
+"persons": 7,
+"manHours": 56.0,
+"progress": "7%",
+"manDaysText": "56.0",
+"manDays": 7.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0628",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-28",
+"weather": "晴",
+"company": "千草環境",
+"persons": 7,
+"time": "8:30〜17:00",
+"manHours": 52.5,
+"manDaysText": "52.5",
+"manDays": 6.56
+},
+"r": 5
+},
+{
+"sheet": "0628",
+"kind": "total",
+"fields": {
+"date": "2023-06-28",
+"persons": 7,
+"manHours": 52.5,
+"manDaysText": "52.5",
+"manDays": 6.56
+},
+"r": 6
+},
+{
+"sheet": "0628",
+"kind": "item",
+"fields": {
+"date": "2023-06-28",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "PSA原料空気ブロワ用電動機 芯出し・据付",
+"time": "8:30〜17:00",
+"persons": 7,
+"manHours": 52.5,
+"progress": "14%",
+"manDaysText": "52.5",
+"manDays": 6.56,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0629",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-29",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 8,
+"time": "9:00〜16:30",
+"manHours": 52.0,
+"manDaysText": "52.0",
+"manDays": 6.5
+},
+"r": 5
+},
+{
+"sheet": "0629",
+"kind": "total",
+"fields": {
+"date": "2023-06-29",
+"persons": 8,
+"manHours": 52.0,
+"manDaysText": "52.0",
+"manDays": 6.5
+},
+"r": 6
+},
+{
+"sheet": "0629",
+"kind": "item",
+"fields": {
+"date": "2023-06-29",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "PSA真空ポンプ（A） 据付",
+"time": "9:00〜16:30",
+"persons": 8,
+"manHours": 52.0,
+"progress": "21%",
+"manDaysText": "52.0",
+"manDays": 6.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0630",
+"kind": "subtotal",
+"fields": {
+"date": "2023-06-30",
+"weather": "雨",
+"company": "千草環境",
+"persons": 8,
+"time": "8:30〜17:00",
+"manHours": 60.0,
+"manDaysText": "60.0",
+"manDays": 7.5
+},
+"r": 5
+},
+{
+"sheet": "0630",
+"kind": "total",
+"fields": {
+"date": "2023-06-30",
+"persons": 8,
+"manHours": 60.0,
+"manDaysText": "60.0",
+"manDays": 7.5
+},
+"r": 6
+},
+{
+"sheet": "0630",
+"kind": "item",
+"fields": {
+"date": "2023-06-30",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "PSA真空ポンプ（A）用電動機 芯出し・据付",
+"time": "8:30〜17:00",
+"persons": 8,
+"manHours": 60.0,
+"progress": "29%",
+"manDaysText": "60.0",
+"manDays": 7.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0701",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-01",
+"weather": "雨",
+"company": "千草環境",
+"persons": 8,
+"time": "8:30〜18:30",
+"manHours": 72.0,
+"manDaysText": "72.0",
+"manDays": 9.0
+},
+"r": 5
+},
+{
+"sheet": "0701",
+"kind": "total",
+"fields": {
+"date": "2023-07-01",
+"persons": 8,
+"manHours": 72.0,
+"manDaysText": "72.0",
+"manDays": 9.0
+},
+"r": 6
+},
+{
+"sheet": "0701",
+"kind": "item",
+"fields": {
+"date": "2023-07-01",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "PSA真空ポンプ（B） 据付",
+"time": "8:30〜18:30",
+"persons": 8,
+"manHours": 72.0,
+"progress": "36%",
+"manDaysText": "72.0",
+"manDays": 9.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0703",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-03",
+"weather": "雨",
+"company": "千草環境",
+"persons": 8,
+"time": "8:30〜18:30",
+"manHours": 72.0,
+"manDaysText": "72.0",
+"manDays": 9.0
+},
+"r": 5
+},
+{
+"sheet": "0703",
+"kind": "total",
+"fields": {
+"date": "2023-07-03",
+"persons": 8,
+"manHours": 72.0,
+"manDaysText": "72.0",
+"manDays": 9.0
+},
+"r": 6
+},
+{
+"sheet": "0703",
+"kind": "item",
+"fields": {
+"date": "2023-07-03",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "PSA吸着塔（A） 据付",
+"time": "8:30〜18:30",
+"persons": 8,
+"manHours": 72.0,
+"progress": "50%",
+"manDaysText": "72.0",
+"manDays": 9.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0704",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-04",
+"weather": "曇",
+"company": "千草環境",
+"persons": 8,
+"time": "8:30〜18:30",
+"manHours": 72.0,
+"manDaysText": "72.0",
+"manDays": 9.0
+},
+"r": 5
+},
+{
+"sheet": "0704",
+"kind": "total",
+"fields": {
+"date": "2023-07-04",
+"persons": 8,
+"manHours": 72.0,
+"manDaysText": "72.0",
+"manDays": 9.0
+},
+"r": 6
+},
+{
+"sheet": "0704",
+"kind": "item",
+"fields": {
+"date": "2023-07-04",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "PSA吸着塔（B） 芯出し・据付",
+"time": "8:30〜18:30",
+"persons": 8,
+"manHours": 72.0,
+"progress": "57%",
+"manDaysText": "72.0",
+"manDays": 9.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0705",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-05",
+"weather": "雨",
+"company": "千草環境",
+"persons": 8,
+"time": "8:30〜17:00",
+"manHours": 60.0,
+"manDaysText": "60.0",
+"manDays": 7.5
+},
+"r": 5
+},
+{
+"sheet": "0705",
+"kind": "total",
+"fields": {
+"date": "2023-07-05",
+"persons": 8,
+"manHours": 60.0,
+"manDaysText": "60.0",
+"manDays": 7.5
+},
+"r": 6
+},
+{
+"sheet": "0705",
+"kind": "item",
+"fields": {
+"date": "2023-07-05",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "PSA製品酸素槽 据付",
+"time": "8:30〜17:00",
+"persons": 8,
+"manHours": 60.0,
+"progress": "64%",
+"manDaysText": "60.0",
+"manDays": 7.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0706",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-06",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 13,
+"time": "8:30〜17:00",
+"manHours": 89.5,
+"manDaysText": "89.5",
+"manDays": 11.19
+},
+"r": 5
+},
+{
+"sheet": "0706",
+"kind": "total",
+"fields": {
+"date": "2023-07-06",
+"persons": 13,
+"manHours": 89.5,
+"manDaysText": "89.5",
+"manDays": 11.19
+},
+"r": 6
+},
+{
+"sheet": "0706",
+"kind": "item",
+"fields": {
+"date": "2023-07-06",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "酸素圧縮機（A） 芯出し・据付",
+"time": "9:00〜16:30",
+"persons": 8,
+"manHours": 52.0,
+"progress": "71%",
+"manDaysText": "52.0",
+"manDays": 6.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0706",
+"kind": "item",
+"fields": {
+"date": "2023-07-06",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "P5",
+"place": "PSA切替弁（A）",
+"content": "切替弁 据付（1〜2）",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "9%",
+"manDaysText": "37.5",
+"manDays": 4.69,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "0707",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-07",
+"weather": "晴",
+"company": "千草環境",
+"persons": 12,
+"time": "8:00〜17:00",
+"manHours": 68.0,
+"manDaysText": "68.0",
+"manDays": 8.5
+},
+"r": 5
+},
+{
+"sheet": "0707",
+"kind": "total",
+"fields": {
+"date": "2023-07-07",
+"persons": 12,
+"manHours": 68.0,
+"manDaysText": "68.0",
+"manDays": 8.5
+},
+"r": 6
+},
+{
+"sheet": "0707",
+"kind": "item",
+"fields": {
+"date": "2023-07-07",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "酸素圧縮機（A）用電動機 据付",
+"time": "13:00〜17:00",
+"persons": 7,
+"manHours": 28.0,
+"progress": "79%",
+"manDaysText": "28.0",
+"manDays": 3.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0707",
+"kind": "item",
+"fields": {
+"date": "2023-07-07",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P5",
+"place": "PSA切替弁（A）",
+"content": "酸素配管 脱脂・据付",
+"time": "8:00〜17:00",
+"persons": 5,
+"manHours": 40.0,
+"progress": "18%",
+"manDaysText": "40.0",
+"manDays": 5.0,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "0708",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-08",
+"weather": "晴",
+"company": "千草環境",
+"persons": 12,
+"time": "8:30〜17:00",
+"manHours": 72.5,
+"manDaysText": "72.5",
+"manDays": 9.06
+},
+"r": 5
+},
+{
+"sheet": "0708",
+"kind": "total",
+"fields": {
+"date": "2023-07-08",
+"persons": 12,
+"manHours": 72.5,
+"manDaysText": "72.5",
+"manDays": 9.06
+},
+"r": 6
+},
+{
+"sheet": "0708",
+"kind": "item",
+"fields": {
+"date": "2023-07-08",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "酸素圧縮機（B） 芯出し・据付",
+"time": "8:30〜17:00",
+"persons": 7,
+"manHours": 52.5,
+"progress": "86%",
+"manDaysText": "52.5",
+"manDays": 6.56,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0708",
+"kind": "item",
+"fields": {
+"date": "2023-07-08",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P5",
+"place": "PSA切替弁（A）",
+"content": "切替弁 据付（5〜6）",
+"time": "13:00〜17:00",
+"persons": 5,
+"manHours": 20.0,
+"progress": "27%",
+"manDaysText": "20.0",
+"manDays": 2.5,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "0710",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-10",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 12,
+"time": "8:00〜17:00",
+"manHours": 93.5,
+"manDaysText": "93.5",
+"manDays": 11.69
+},
+"r": 5
+},
+{
+"sheet": "0710",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-10",
+"weather": "晴のち曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 6
+},
+{
+"sheet": "0710",
+"kind": "total",
+"fields": {
+"date": "2023-07-10",
+"persons": 16,
+"manHours": 129.5,
+"manDaysText": "129.5",
+"manDays": 16.19
+},
+"r": 7
+},
+{
+"sheet": "0710",
+"kind": "item",
+"fields": {
+"date": "2023-07-10",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "P4",
+"place": "PSA原料空気ブロワ",
+"content": "PSA原料空気冷却器 芯出し・据付",
+"time": "8:00〜17:00",
+"persons": 7,
+"manHours": 56.0,
+"progress": "100%",
+"manDaysText": "56.0",
+"manDays": 7.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0710",
+"kind": "item",
+"fields": {
+"date": "2023-07-10",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "P5",
+"place": "PSA切替弁（A）",
+"content": "切替弁 据付（1〜2）",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "45%",
+"manDaysText": "37.5",
+"manDays": 4.69,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "0710",
+"kind": "item",
+"fields": {
+"date": "2023-07-10",
+"weather": "晴のち曇",
+"blockCompany": "あかね電設",
+"no": "P6",
+"place": "PSA制御盤",
+"content": "制御盤 据付",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "9%",
+"manDaysText": "36.0",
+"manDays": 4.5,
+"days": 1
+},
+"r": 15
+},
+{
+"sheet": "0711",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-11",
+"weather": "雨",
+"company": "千草環境",
+"persons": 5,
+"time": "8:00〜17:00",
+"manHours": 40.0,
+"manDaysText": "40.0",
+"manDays": 5.0
+},
+"r": 5
+},
+{
+"sheet": "0711",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-11",
+"weather": "雨",
+"company": "あかね電設",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5,
+"manDaysText": "22.5",
+"manDays": 2.81
+},
+"r": 6
+},
+{
+"sheet": "0711",
+"kind": "total",
+"fields": {
+"date": "2023-07-11",
+"persons": 8,
+"manHours": 62.5,
+"manDaysText": "62.5",
+"manDays": 7.81
+},
+"r": 7
+},
+{
+"sheet": "0711",
+"kind": "item",
+"fields": {
+"date": "2023-07-11",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "P5",
+"place": "PSA切替弁（A）",
+"content": "酸素配管 脱脂・据付",
+"time": "8:00〜17:00",
+"persons": 5,
+"manHours": 40.0,
+"progress": "55%",
+"manDaysText": "40.0",
+"manDays": 5.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0711",
+"kind": "item",
+"fields": {
+"date": "2023-07-11",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "P6",
+"place": "PSA制御盤",
+"content": "電源・信号 配線",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "18%",
+"manDaysText": "22.5",
+"manDays": 2.81,
+"days": 1
+},
+"r": 14
+},
+{
+"sheet": "0712",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-12",
+"weather": "曇のち雨",
+"company": "千草環境",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5,
+"manDaysText": "37.5",
+"manDays": 4.69
+},
+"r": 5
+},
+{
+"sheet": "0712",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-12",
+"weather": "曇のち雨",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 6
+},
+{
+"sheet": "0712",
+"kind": "total",
+"fields": {
+"date": "2023-07-12",
+"persons": 9,
+"manHours": 67.5,
+"manDaysText": "67.5",
+"manDays": 8.44
+},
+"r": 7
+},
+{
+"sheet": "0712",
+"kind": "item",
+"fields": {
+"date": "2023-07-12",
+"weather": "曇のち雨",
+"blockCompany": "千草環境",
+"no": "P5",
+"place": "PSA切替弁（A）",
+"content": "切替弁 据付（5〜6）",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "64%",
+"manDaysText": "37.5",
+"manDays": 4.69,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0712",
+"kind": "item",
+"fields": {
+"date": "2023-07-12",
+"weather": "曇のち雨",
+"blockCompany": "あかね電設",
+"no": "P6",
+"place": "PSA制御盤",
+"content": "インバータ盤 据付・配線",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "27%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 14
+},
+{
+"sheet": "0713",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-13",
+"weather": "晴",
+"company": "千草環境",
+"persons": 4,
+"time": "9:00〜16:30",
+"manHours": 26.0,
+"manDaysText": "26.0",
+"manDays": 3.25
+},
+"r": 5
+},
+{
+"sheet": "0713",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-13",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:00〜17:00",
+"manHours": 32.0,
+"manDaysText": "32.0",
+"manDays": 4.0
+},
+"r": 6
+},
+{
+"sheet": "0713",
+"kind": "total",
+"fields": {
+"date": "2023-07-13",
+"persons": 8,
+"manHours": 58.0,
+"manDaysText": "58.0",
+"manDays": 7.25
+},
+"r": 7
+},
+{
+"sheet": "0713",
+"kind": "item",
+"fields": {
+"date": "2023-07-13",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P5",
+"place": "PSA切替弁（A）",
+"content": "酸素配管 脱脂・据付",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "73%",
+"manDaysText": "26.0",
+"manDays": 3.25,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0713",
+"kind": "item",
+"fields": {
+"date": "2023-07-13",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "P6",
+"place": "PSA制御盤",
+"content": "制御盤 据付",
+"time": "8:00〜17:00",
+"persons": 4,
+"manHours": 32.0,
+"progress": "36%",
+"manDaysText": "32.0",
+"manDays": 4.0,
+"days": 1
+},
+"r": 14
+},
+{
+"sheet": "0714",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-14",
+"weather": "晴",
+"company": "千草環境",
+"persons": 6,
+"time": "13:00〜17:00",
+"manHours": 24.0,
+"manDaysText": "24.0",
+"manDays": 3.0
+},
+"r": 5
+},
+{
+"sheet": "0714",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-14",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 6
+},
+{
+"sheet": "0714",
+"kind": "total",
+"fields": {
+"date": "2023-07-14",
+"persons": 10,
+"manHours": 54.0,
+"manDaysText": "54.0",
+"manDays": 6.75
+},
+"r": 7
+},
+{
+"sheet": "0714",
+"kind": "item",
+"fields": {
+"date": "2023-07-14",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P5",
+"place": "PSA切替弁（A）",
+"content": "切替弁 据付（1〜2）",
+"time": "13:00〜17:00",
+"persons": 6,
+"manHours": 24.0,
+"progress": "82%",
+"manDaysText": "24.0",
+"manDays": 3.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0714",
+"kind": "item",
+"fields": {
+"date": "2023-07-14",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "P6",
+"place": "PSA制御盤",
+"content": "電源・信号 配線",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "45%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 14
+},
+{
+"sheet": "0715",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-15",
+"weather": "晴",
+"company": "千草環境",
+"persons": 5,
+"time": "13:00〜17:00",
+"manHours": 20.0,
+"manDaysText": "20.0",
+"manDays": 2.5
+},
+"r": 5
+},
+{
+"sheet": "0715",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-15",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 5,
+"time": "9:00〜16:30",
+"manHours": 32.5,
+"manDaysText": "32.5",
+"manDays": 4.06
+},
+"r": 6
+},
+{
+"sheet": "0715",
+"kind": "total",
+"fields": {
+"date": "2023-07-15",
+"persons": 10,
+"manHours": 52.5,
+"manDaysText": "52.5",
+"manDays": 6.56
+},
+"r": 7
+},
+{
+"sheet": "0715",
+"kind": "item",
+"fields": {
+"date": "2023-07-15",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P5",
+"place": "PSA切替弁（A）",
+"content": "酸素配管 脱脂・据付",
+"time": "13:00〜17:00",
+"persons": 5,
+"manHours": 20.0,
+"progress": "91%",
+"manDaysText": "20.0",
+"manDays": 2.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0715",
+"kind": "item",
+"fields": {
+"date": "2023-07-15",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "P6",
+"place": "PSA制御盤",
+"content": "インバータ盤 据付・配線",
+"time": "9:00〜16:30",
+"persons": 5,
+"manHours": 32.5,
+"progress": "55%",
+"manDaysText": "32.5",
+"manDays": 4.06,
+"days": 1
+},
+"r": 14
+},
+{
+"sheet": "0717",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-17",
+"weather": "晴のち曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 5
+},
+{
+"sheet": "0717",
+"kind": "total",
+"fields": {
+"date": "2023-07-17",
+"persons": 4,
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 6
+},
+{
+"sheet": "0717",
+"kind": "item",
+"fields": {
+"date": "2023-07-17",
+"weather": "晴のち曇",
+"blockCompany": "あかね電設",
+"no": "P6",
+"place": "PSA制御盤",
+"content": "電源・信号 配線",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "73%",
+"manDaysText": "36.0",
+"manDays": 4.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0718",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-18",
+"weather": "雨",
+"company": "あかね電設",
+"persons": 4,
+"time": "9:00〜16:30",
+"manHours": 26.0,
+"manDaysText": "26.0",
+"manDays": 3.25
+},
+"r": 5
+},
+{
+"sheet": "0718",
+"kind": "total",
+"fields": {
+"date": "2023-07-18",
+"persons": 4,
+"manHours": 26.0,
+"manDaysText": "26.0",
+"manDays": 3.25
+},
+"r": 6
+},
+{
+"sheet": "0718",
+"kind": "item",
+"fields": {
+"date": "2023-07-18",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "P6",
+"place": "PSA制御盤",
+"content": "インバータ盤 据付・配線",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "82%",
+"manDaysText": "26.0",
+"manDays": 3.25,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0719",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-19",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:00〜17:00",
+"manHours": 32.0,
+"manDaysText": "32.0",
+"manDays": 4.0
+},
+"r": 5
+},
+{
+"sheet": "0719",
+"kind": "total",
+"fields": {
+"date": "2023-07-19",
+"persons": 4,
+"manHours": 32.0,
+"manDaysText": "32.0",
+"manDays": 4.0
+},
+"r": 6
+},
+{
+"sheet": "0719",
+"kind": "item",
+"fields": {
+"date": "2023-07-19",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "P6",
+"place": "PSA制御盤",
+"content": "制御盤 据付",
+"time": "8:00〜17:00",
+"persons": 4,
+"manHours": 32.0,
+"progress": "91%",
+"manDaysText": "32.0",
+"manDays": 4.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0720",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-20",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 5,
+"time": "9:00〜16:30",
+"manHours": 32.5,
+"manDaysText": "32.5",
+"manDays": 4.06
+},
+"r": 5
+},
+{
+"sheet": "0720",
+"kind": "total",
+"fields": {
+"date": "2023-07-20",
+"persons": 5,
+"manHours": 32.5,
+"manDaysText": "32.5",
+"manDays": 4.06
+},
+"r": 6
+},
+{
+"sheet": "0720",
+"kind": "item",
+"fields": {
+"date": "2023-07-20",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "P6",
+"place": "PSA制御盤",
+"content": "電源・信号 配線",
+"time": "9:00〜16:30",
+"persons": 5,
+"manHours": 32.5,
+"progress": "100%",
+"manDaysText": "32.5",
+"manDays": 4.06,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0721",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-21",
+"weather": "晴",
+"company": "千草環境",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5,
+"manDaysText": "22.5",
+"manDays": 2.81
+},
+"r": 5
+},
+{
+"sheet": "0721",
+"kind": "total",
+"fields": {
+"date": "2023-07-21",
+"persons": 3,
+"manHours": 22.5,
+"manDaysText": "22.5",
+"manDays": 2.81
+},
+"r": 6
+},
+{
+"sheet": "0721",
+"kind": "item",
+"fields": {
+"date": "2023-07-21",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P7",
+"place": "PSA原料空気ブロワ",
+"content": "試運転 製品酸素 60% 確認",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "14%",
+"manDaysText": "22.5",
+"manDays": 2.81,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0722",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-22",
+"weather": "晴",
+"company": "千草環境",
+"persons": 2,
+"time": "8:00〜17:00",
+"manHours": 16.0,
+"manDaysText": "16.0",
+"manDays": 2.0
+},
+"r": 5
+},
+{
+"sheet": "0722",
+"kind": "total",
+"fields": {
+"date": "2023-07-22",
+"persons": 2,
+"manHours": 16.0,
+"manDaysText": "16.0",
+"manDays": 2.0
+},
+"r": 6
+},
+{
+"sheet": "0722",
+"kind": "item",
+"fields": {
+"date": "2023-07-22",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "P7",
+"place": "PSA原料空気ブロワ",
+"content": "切替サイクル 調整",
+"time": "8:00〜17:00",
+"persons": 2,
+"manHours": 16.0,
+"progress": "29%",
+"manDaysText": "16.0",
+"manDays": 2.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0724",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-24",
+"weather": "曇",
+"company": "千草環境",
+"persons": 2,
+"time": "8:30〜17:00",
+"manHours": 15.0,
+"manDaysText": "15.0",
+"manDays": 1.88
+},
+"r": 5
+},
+{
+"sheet": "0724",
+"kind": "total",
+"fields": {
+"date": "2023-07-24",
+"persons": 2,
+"manHours": 15.0,
+"manDaysText": "15.0",
+"manDays": 1.88
+},
+"r": 6
+},
+{
+"sheet": "0724",
+"kind": "item",
+"fields": {
+"date": "2023-07-24",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "P7",
+"place": "PSA原料空気ブロワ",
+"content": "切替サイクル 調整",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "57%",
+"manDaysText": "15.0",
+"manDays": 1.88,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0725",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-25",
+"weather": "曇のち雨",
+"company": "千草環境",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 5
+},
+{
+"sheet": "0725",
+"kind": "total",
+"fields": {
+"date": "2023-07-25",
+"persons": 4,
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 6
+},
+{
+"sheet": "0725",
+"kind": "item",
+"fields": {
+"date": "2023-07-25",
+"weather": "曇のち雨",
+"blockCompany": "千草環境",
+"no": "P7",
+"place": "PSA原料空気ブロワ",
+"content": "試運転 製品酸素 92% 確認",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "71%",
+"manDaysText": "36.0",
+"manDays": 4.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0726",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-26",
+"weather": "曇のち雨",
+"company": "千草環境",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 5
+},
+{
+"sheet": "0726",
+"kind": "total",
+"fields": {
+"date": "2023-07-26",
+"persons": 4,
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 6
+},
+{
+"sheet": "0726",
+"kind": "item",
+"fields": {
+"date": "2023-07-26",
+"weather": "曇のち雨",
+"blockCompany": "千草環境",
+"no": "P7",
+"place": "PSA原料空気ブロワ",
+"content": "切替サイクル 調整",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "86%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0727",
+"kind": "subtotal",
+"fields": {
+"date": "2023-07-27",
+"weather": "曇",
+"company": "千草環境",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 5
+},
+{
+"sheet": "0727",
+"kind": "total",
+"fields": {
+"date": "2023-07-27",
+"persons": 4,
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 6
+},
+{
+"sheet": "0727",
+"kind": "item",
+"fields": {
+"date": "2023-07-27",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "P7",
+"place": "PSA原料空気ブロワ",
+"content": "試運転 製品酸素 100% 確認",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "100%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 12
+}
+]
+}

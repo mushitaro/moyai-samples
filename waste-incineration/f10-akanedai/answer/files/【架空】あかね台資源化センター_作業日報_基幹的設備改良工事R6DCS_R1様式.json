@@ -1,0 +1,984 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_基幹的設備改良工事R6DCS_R1様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "0508",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-08",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 6,
+"time": "8:00〜17:00",
+"manHours": 48.0,
+"manDaysText": "48.0",
+"manDays": 6.0
+},
+"r": 5
+},
+{
+"sheet": "0508",
+"kind": "total",
+"fields": {
+"date": "2024-05-08",
+"persons": 6,
+"manHours": 48.0,
+"manDaysText": "48.0",
+"manDays": 6.0
+},
+"r": 6
+},
+{
+"sheet": "0508",
+"kind": "item",
+"fields": {
+"date": "2024-05-08",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "D2",
+"place": "中央操作端末（OPS-1）",
+"content": "旧 OPS・EWS 撤去",
+"time": "8:00〜17:00",
+"persons": 6,
+"manHours": 48.0,
+"progress": "20%",
+"manDaysText": "48.0",
+"manDays": 6.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0509",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-09",
+"weather": "晴",
+"company": "千草環境",
+"persons": 6,
+"time": "8:00〜17:00",
+"manHours": 48.0,
+"manDaysText": "48.0",
+"manDays": 6.0
+},
+"r": 5
+},
+{
+"sheet": "0509",
+"kind": "total",
+"fields": {
+"date": "2024-05-09",
+"persons": 6,
+"manHours": 48.0,
+"manDaysText": "48.0",
+"manDays": 6.0
+},
+"r": 6
+},
+{
+"sheet": "0509",
+"kind": "item",
+"fields": {
+"date": "2024-05-09",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "D2",
+"place": "中央操作端末（OPS-1）",
+"content": "新 OPS・EWS・FCS-C 据付",
+"time": "8:00〜17:00",
+"persons": 6,
+"manHours": 48.0,
+"progress": "40%",
+"manDaysText": "48.0",
+"manDays": 6.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0510",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-10",
+"weather": "晴",
+"company": "千草環境",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0,
+"manDaysText": "45.0",
+"manDays": 5.62
+},
+"r": 5
+},
+{
+"sheet": "0510",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-10",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0,
+"manDaysText": "45.0",
+"manDays": 5.62
+},
+"r": 6
+},
+{
+"sheet": "0510",
+"kind": "total",
+"fields": {
+"date": "2024-05-10",
+"persons": 12,
+"manHours": 90.0,
+"manDaysText": "90.0",
+"manDays": 11.25
+},
+"r": 7
+},
+{
+"sheet": "0510",
+"kind": "item",
+"fields": {
+"date": "2024-05-10",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "D2",
+"place": "中央操作端末（OPS-1）",
+"content": "新盤 電源投入",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "60%",
+"manDaysText": "45.0",
+"manDays": 5.62,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0510",
+"kind": "item",
+"fields": {
+"date": "2024-05-10",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "D3",
+"place": "1号炉別制御ステーション（FCS）",
+"content": "1号 I/O 切替（1〜2 盤）",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "17%",
+"manDaysText": "45.0",
+"manDays": 5.62,
+"days": 1
+},
+"r": 14
+},
+{
+"sheet": "0511",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-11",
+"weather": "雨",
+"company": "千草環境",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0,
+"manDaysText": "45.0",
+"manDays": 5.62
+},
+"r": 5
+},
+{
+"sheet": "0511",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-11",
+"weather": "雨",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 6
+},
+{
+"sheet": "0511",
+"kind": "total",
+"fields": {
+"date": "2024-05-11",
+"persons": 10,
+"manHours": 75.0,
+"manDaysText": "75.0",
+"manDays": 9.38
+},
+"r": 7
+},
+{
+"sheet": "0511",
+"kind": "item",
+"fields": {
+"date": "2024-05-11",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "D2",
+"place": "中央操作端末（OPS-1）",
+"content": "旧 OPS・EWS 撤去",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "80%",
+"manDaysText": "45.0",
+"manDays": 5.62,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0511",
+"kind": "item",
+"fields": {
+"date": "2024-05-11",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "D3",
+"place": "1号炉別制御ステーション（FCS）",
+"content": "1号 FCS 切替・電源投入",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "33%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 14
+},
+{
+"sheet": "0513",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-13",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 10,
+"time": "8:30〜18:30",
+"manHours": 77.5,
+"manDaysText": "77.5",
+"manDays": 9.69
+},
+"r": 5
+},
+{
+"sheet": "0513",
+"kind": "total",
+"fields": {
+"date": "2024-05-13",
+"persons": 10,
+"manHours": 77.5,
+"manDaysText": "77.5",
+"manDays": 9.69
+},
+"r": 6
+},
+{
+"sheet": "0513",
+"kind": "item",
+"fields": {
+"date": "2024-05-13",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "D3",
+"place": "1号炉別制御ステーション（FCS）",
+"content": "1号 FCS 切替・電源投入",
+"time": "8:30〜18:30",
+"persons": 5,
+"manHours": 45.0,
+"progress": "67%",
+"manDaysText": "45.0",
+"manDays": 5.62,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0513",
+"kind": "item",
+"fields": {
+"date": "2024-05-13",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "D4",
+"place": "2号炉別制御ステーション（FCS）",
+"content": "2号 I/O 切替（1〜2 盤）",
+"time": "9:00〜16:30",
+"persons": 5,
+"manHours": 32.5,
+"progress": "17%",
+"manDaysText": "32.5",
+"manDays": 4.06,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "0514",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-14",
+"weather": "雨",
+"company": "あかね電設",
+"persons": 10,
+"time": "8:00〜17:00",
+"manHours": 72.5,
+"manDaysText": "72.5",
+"manDays": 9.06
+},
+"r": 5
+},
+{
+"sheet": "0514",
+"kind": "total",
+"fields": {
+"date": "2024-05-14",
+"persons": 10,
+"manHours": 72.5,
+"manDaysText": "72.5",
+"manDays": 9.06
+},
+"r": 6
+},
+{
+"sheet": "0514",
+"kind": "item",
+"fields": {
+"date": "2024-05-14",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "D3",
+"place": "1号炉別制御ステーション（FCS）",
+"content": "1号 I/O 切替（1〜2 盤）",
+"time": "8:00〜17:00",
+"persons": 5,
+"manHours": 40.0,
+"progress": "83%",
+"manDaysText": "40.0",
+"manDays": 5.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0514",
+"kind": "item",
+"fields": {
+"date": "2024-05-14",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "D4",
+"place": "2号炉別制御ステーション（FCS）",
+"content": "2号 FCS 切替・電源投入",
+"time": "9:00〜16:30",
+"persons": 5,
+"manHours": 32.5,
+"progress": "33%",
+"manDaysText": "32.5",
+"manDays": 4.06,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "0515",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-15",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 13,
+"time": "8:30〜17:00",
+"manHours": 97.5,
+"manDaysText": "97.5",
+"manDays": 12.19
+},
+"r": 5
+},
+{
+"sheet": "0515",
+"kind": "total",
+"fields": {
+"date": "2024-05-15",
+"persons": 13,
+"manHours": 97.5,
+"manDaysText": "97.5",
+"manDays": 12.19
+},
+"r": 6
+},
+{
+"sheet": "0515",
+"kind": "item",
+"fields": {
+"date": "2024-05-15",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "D3",
+"place": "1号炉別制御ステーション（FCS）",
+"content": "1号 FCS 切替・電源投入",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "100%",
+"manDaysText": "45.0",
+"manDays": 5.62,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0515",
+"kind": "item",
+"fields": {
+"date": "2024-05-15",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "D4",
+"place": "2号炉別制御ステーション（FCS）",
+"content": "2号 I/O 切替（5〜6 盤）",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "50%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "0515",
+"kind": "item",
+"fields": {
+"date": "2024-05-15",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "D5",
+"place": "中央操作端末（OPS-1）",
+"content": "共通 I/O 切替",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "20%",
+"manDaysText": "22.5",
+"manDays": 2.81,
+"days": 1
+},
+"r": 14
+},
+{
+"sheet": "0516",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-16",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 9,
+"time": "8:30〜17:00",
+"manHours": 63.5,
+"manDaysText": "63.5",
+"manDays": 7.94
+},
+"r": 5
+},
+{
+"sheet": "0516",
+"kind": "total",
+"fields": {
+"date": "2024-05-16",
+"persons": 9,
+"manHours": 63.5,
+"manDaysText": "63.5",
+"manDays": 7.94
+},
+"r": 6
+},
+{
+"sheet": "0516",
+"kind": "item",
+"fields": {
+"date": "2024-05-16",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "D4",
+"place": "2号炉別制御ステーション（FCS）",
+"content": "2号 FCS 切替・電源投入",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "67%",
+"manDaysText": "37.5",
+"manDays": 4.69,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0516",
+"kind": "item",
+"fields": {
+"date": "2024-05-16",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "D5",
+"place": "中央操作端末（OPS-1）",
+"content": "共通 I/O 切替",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "40%",
+"manDaysText": "26.0",
+"manDays": 3.25,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "0517",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-17",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 8,
+"time": "8:30〜18:30",
+"manHours": 66.0,
+"manDaysText": "66.0",
+"manDays": 8.25
+},
+"r": 5
+},
+{
+"sheet": "0517",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-17",
+"weather": "曇",
+"company": "千草環境",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0,
+"manDaysText": "45.0",
+"manDays": 5.62
+},
+"r": 6
+},
+{
+"sheet": "0517",
+"kind": "total",
+"fields": {
+"date": "2024-05-17",
+"persons": 14,
+"manHours": 111.0,
+"manDaysText": "111.0",
+"manDays": 13.88
+},
+"r": 7
+},
+{
+"sheet": "0517",
+"kind": "item",
+"fields": {
+"date": "2024-05-17",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "D4",
+"place": "2号炉別制御ステーション（FCS）",
+"content": "2号 I/O 切替（1〜2 盤）",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "83%",
+"manDaysText": "36.0",
+"manDays": 4.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0517",
+"kind": "item",
+"fields": {
+"date": "2024-05-17",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "D5",
+"place": "中央操作端末（OPS-1）",
+"content": "共通 I/O 切替",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "60%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "0517",
+"kind": "item",
+"fields": {
+"date": "2024-05-17",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "D6",
+"place": "中央操作端末（OPS-1）",
+"content": "ループチェック 4点",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "14%",
+"manDaysText": "45.0",
+"manDays": 5.62,
+"days": 1
+},
+"r": 15
+},
+{
+"sheet": "0518",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-18",
+"weather": "曇のち雨",
+"company": "あかね電設",
+"persons": 9,
+"time": "8:30〜17:00",
+"manHours": 63.5,
+"manDaysText": "63.5",
+"manDays": 7.94
+},
+"r": 5
+},
+{
+"sheet": "0518",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-18",
+"weather": "曇のち雨",
+"company": "千草環境",
+"persons": 5,
+"time": "8:30〜18:30",
+"manHours": 45.0,
+"manDaysText": "45.0",
+"manDays": 5.62
+},
+"r": 6
+},
+{
+"sheet": "0518",
+"kind": "total",
+"fields": {
+"date": "2024-05-18",
+"persons": 14,
+"manHours": 108.5,
+"manDaysText": "108.5",
+"manDays": 13.56
+},
+"r": 7
+},
+{
+"sheet": "0518",
+"kind": "item",
+"fields": {
+"date": "2024-05-18",
+"weather": "曇のち雨",
+"blockCompany": "あかね電設",
+"no": "D4",
+"place": "2号炉別制御ステーション（FCS）",
+"content": "2号 FCS 切替・電源投入",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "100%",
+"manDaysText": "37.5",
+"manDays": 4.69,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0518",
+"kind": "item",
+"fields": {
+"date": "2024-05-18",
+"weather": "曇のち雨",
+"blockCompany": "あかね電設",
+"no": "D5",
+"place": "中央操作端末（OPS-1）",
+"content": "共通 I/O 切替",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "80%",
+"manDaysText": "26.0",
+"manDays": 3.25,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "0518",
+"kind": "item",
+"fields": {
+"date": "2024-05-18",
+"weather": "曇のち雨",
+"blockCompany": "千草環境",
+"no": "D6",
+"place": "中央操作端末（OPS-1）",
+"content": "ループチェック 不具合点 手直し",
+"time": "8:30〜18:30",
+"persons": 5,
+"manHours": 45.0,
+"progress": "29%",
+"manDaysText": "45.0",
+"manDays": 5.62,
+"days": 1
+},
+"r": 15
+},
+{
+"sheet": "0520",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-20",
+"weather": "曇",
+"company": "千草環境",
+"persons": 7,
+"time": "8:00〜17:00",
+"manHours": 56.0,
+"manDaysText": "56.0",
+"manDays": 7.0
+},
+"r": 5
+},
+{
+"sheet": "0520",
+"kind": "total",
+"fields": {
+"date": "2024-05-20",
+"persons": 7,
+"manHours": 56.0,
+"manDaysText": "56.0",
+"manDays": 7.0
+},
+"r": 6
+},
+{
+"sheet": "0520",
+"kind": "item",
+"fields": {
+"date": "2024-05-20",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "D6",
+"place": "中央操作端末（OPS-1）",
+"content": "ループチェック 不具合点 手直し",
+"time": "8:00〜17:00",
+"persons": 7,
+"manHours": 56.0,
+"progress": "57%",
+"manDaysText": "56.0",
+"manDays": 7.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0521",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-21",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 6,
+"time": "9:00〜16:30",
+"manHours": 39.0,
+"manDaysText": "39.0",
+"manDays": 4.88
+},
+"r": 5
+},
+{
+"sheet": "0521",
+"kind": "total",
+"fields": {
+"date": "2024-05-21",
+"persons": 6,
+"manHours": 39.0,
+"manDaysText": "39.0",
+"manDays": 4.88
+},
+"r": 6
+},
+{
+"sheet": "0521",
+"kind": "item",
+"fields": {
+"date": "2024-05-21",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "D6",
+"place": "中央操作端末（OPS-1）",
+"content": "ループチェック 4点",
+"time": "9:00〜16:30",
+"persons": 6,
+"manHours": 39.0,
+"progress": "71%",
+"manDaysText": "39.0",
+"manDays": 4.88,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0522",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-22",
+"weather": "晴",
+"company": "千草環境",
+"persons": 9,
+"time": "8:30〜17:00",
+"manHours": 67.5,
+"manDaysText": "67.5",
+"manDays": 8.44
+},
+"r": 5
+},
+{
+"sheet": "0522",
+"kind": "total",
+"fields": {
+"date": "2024-05-22",
+"persons": 9,
+"manHours": 67.5,
+"manDaysText": "67.5",
+"manDays": 8.44
+},
+"r": 6
+},
+{
+"sheet": "0522",
+"kind": "item",
+"fields": {
+"date": "2024-05-22",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "D6",
+"place": "中央操作端末（OPS-1）",
+"content": "ループチェック 不具合点 手直し",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "86%",
+"manDaysText": "45.0",
+"manDays": 5.62,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0522",
+"kind": "item",
+"fields": {
+"date": "2024-05-22",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "D7",
+"place": "中央操作端末（OPS-1）",
+"content": "インターロック試験（送風・給じん）",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "50%",
+"manDaysText": "22.5",
+"manDays": 2.81,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "0523",
+"kind": "subtotal",
+"fields": {
+"date": "2024-05-23",
+"weather": "雨",
+"company": "千草環境",
+"persons": 9,
+"time": "8:00〜17:00",
+"manHours": 72.0,
+"manDaysText": "72.0",
+"manDays": 9.0
+},
+"r": 5
+},
+{
+"sheet": "0523",
+"kind": "total",
+"fields": {
+"date": "2024-05-23",
+"persons": 9,
+"manHours": 72.0,
+"manDaysText": "72.0",
+"manDays": 9.0
+},
+"r": 6
+},
+{
+"sheet": "0523",
+"kind": "item",
+"fields": {
+"date": "2024-05-23",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "D6",
+"place": "中央操作端末（OPS-1）",
+"content": "ループチェック 8点",
+"time": "8:00〜17:00",
+"persons": 6,
+"manHours": 48.0,
+"progress": "100%",
+"manDaysText": "48.0",
+"manDays": 6.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0523",
+"kind": "item",
+"fields": {
+"date": "2024-05-23",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "D7",
+"place": "中央操作端末（OPS-1）",
+"content": "インターロック試験（出湯口・水砕）",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "100%",
+"manDaysText": "24.0",
+"manDays": 3.0,
+"days": 1
+},
+"r": 13
+}
+]
+}

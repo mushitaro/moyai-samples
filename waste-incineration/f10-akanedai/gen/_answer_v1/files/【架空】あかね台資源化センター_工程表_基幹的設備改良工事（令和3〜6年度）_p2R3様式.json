@@ -1,0 +1,707 @@
+{
+"file": "【架空】あかね台資源化センター_工程表_基幹的設備改良工事（令和3〜6年度）_p2R3様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "R3 先行作業",
+"kind": "item",
+"fields": {
+"no": "K-1",
+"unit": "1号溶融炉本体",
+"name": "鉄皮肉厚調査（実施設計用）",
+"company": "千草環境",
+"manDays": 12,
+"planStart": "2021-10-05",
+"planEnd": "2021-10-08",
+"actStart": "2021-10-05",
+"actEnd": "2021-10-08"
+},
+"r": 10
+},
+{
+"sheet": "R3 先行作業",
+"kind": "item",
+"fields": {
+"no": "K-2",
+"unit": "1号炉別制御ステーション（FCS）",
+"name": "1号FCS・I/O盤 基礎・ケーブルラック",
+"company": "あかね電設",
+"manDays": 20,
+"planStart": "2021-10-11",
+"planEnd": "2021-10-15",
+"actStart": "2021-10-11",
+"actEnd": "2021-10-15",
+"note": "R6 切替"
+},
+"r": 12
+},
+{
+"sheet": "R3 先行作業",
+"kind": "item",
+"fields": {
+"no": "K-3",
+"unit": "1号炉別入出力盤（I/O-1）",
+"name": "ケーブル先行敷設",
+"company": "あかね電設",
+"manDays": 40,
+"planStart": "2021-10-18",
+"planEnd": "2021-10-27",
+"actStart": "2021-10-18",
+"actEnd": "2021-10-27"
+},
+"r": 14
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A1",
+"unit": "1号溶融炉本体",
+"name": "足場組立（炉内全段）",
+"company": "丸鳥足場工業",
+"manDays": 30,
+"planStart": "2022-09-13",
+"planEnd": "2022-09-17",
+"actStart": "2022-09-13",
+"actEnd": "2022-09-17"
+},
+"r": 10
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A2",
+"unit": "1号溶融炉本体",
+"name": "旧耐火物 解体（シャフト・朝顔・炉床）",
+"company": "東雲築炉",
+"manDays": 180,
+"planStart": "2022-09-18",
+"planEnd": "2022-10-05",
+"actStart": "2022-09-18",
+"actEnd": "2022-10-05"
+},
+"r": 12
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A3",
+"unit": "1号炉体冷却ジャケット",
+"name": "炉体冷却ジャケット 撤去・新設",
+"company": "千草環境",
+"manDays": 168,
+"planStart": "2022-09-30",
+"planEnd": "2022-10-20",
+"actStart": "2022-09-30",
+"actEnd": "2022-10-20"
+},
+"r": 14
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A4",
+"unit": "1号溶融炉本体",
+"name": "鉄皮 補修（肉盛・当て板）",
+"company": "千草環境",
+"manDays": 64,
+"planStart": "2022-09-25",
+"planEnd": "2022-10-10",
+"actStart": "2022-09-25",
+"actEnd": "2022-10-10"
+},
+"r": 16
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A5",
+"unit": "1号羽口冷却水ポンプ（A）",
+"name": "羽口冷却水ポンプ・電動機 更新",
+"company": "千草環境",
+"manDays": 28,
+"planStart": "2022-10-05",
+"planEnd": "2022-10-11",
+"actStart": "2022-10-05",
+"actEnd": "2022-10-11"
+},
+"r": 18
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A6",
+"unit": "1号主羽口装置",
+"name": "主羽口・副羽口 装置更新",
+"company": "千草環境",
+"manDays": 78,
+"planStart": "2022-10-15",
+"planEnd": "2022-10-27",
+"actStart": "2022-10-15",
+"actEnd": "2022-10-27"
+},
+"r": 20
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A7",
+"unit": "1号炉体温度計",
+"name": "炉体温度計 更新（24点）",
+"company": "あかね電設",
+"manDays": 21,
+"planStart": "2022-10-25",
+"planEnd": "2022-10-31",
+"actStart": "2022-10-25",
+"actEnd": "2022-10-31"
+},
+"r": 22
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A8",
+"unit": "1号溶融炉本体",
+"name": "築炉（炉床・朝顔・シャフト）",
+"company": "東雲築炉",
+"manDays": 350,
+"planStart": "2022-10-21",
+"planEnd": "2022-11-22",
+"actStart": "2022-10-21",
+"actEnd": "2022-11-24",
+"note": "築炉材の入荷遅れで 2日延長"
+},
+"r": 24
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A9",
+"unit": "1号炉体冷却ジャケット",
+"name": "冷却水系 耐圧試験",
+"company": "千草環境",
+"manDays": 8,
+"planStart": "2022-11-23",
+"planEnd": "2022-11-24",
+"actStart": "2022-11-23",
+"actEnd": "2022-11-24"
+},
+"r": 26
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A10",
+"unit": "1号溶融炉本体",
+"name": "足場解体",
+"company": "丸鳥足場工業",
+"manDays": 24,
+"planStart": "2022-11-25",
+"planEnd": "2022-11-28",
+"actStart": "2022-11-25",
+"actEnd": "2022-11-28"
+},
+"r": 28
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A11",
+"unit": "1号溶融炉本体",
+"name": "炉乾燥・立上げ（市運転、改良工事立会）",
+"company": "市運転班",
+"planStart": "2022-12-02",
+"planEnd": "2022-12-16",
+"actStart": "2022-12-02",
+"actEnd": "2022-12-16"
+},
+"r": 30
+},
+{
+"sheet": "R4 1号炉",
+"kind": "item",
+"fields": {
+"no": "A12",
+"unit": "1号溶融炉本体",
+"name": "性能確認運転",
+"company": "千草環境",
+"manDays": 18,
+"planStart": "2022-12-17",
+"planEnd": "2022-12-22",
+"actStart": "2022-12-17",
+"actEnd": "2022-12-22"
+},
+"r": 32
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A1",
+"unit": "2号溶融炉本体",
+"name": "足場組立（炉内全段）",
+"company": "丸鳥足場工業",
+"manDays": 30,
+"planStart": "2023-06-06",
+"planEnd": "2023-06-10",
+"actStart": "2023-06-06",
+"actEnd": "2023-06-10"
+},
+"r": 10
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A2",
+"unit": "2号溶融炉本体",
+"name": "旧耐火物 解体（シャフト・朝顔・炉床）",
+"company": "東雲築炉",
+"manDays": 180,
+"planStart": "2023-06-11",
+"planEnd": "2023-06-28",
+"actStart": "2023-06-11",
+"actEnd": "2023-06-28"
+},
+"r": 12
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A3",
+"unit": "2号炉体冷却ジャケット",
+"name": "炉体冷却ジャケット 撤去・新設",
+"company": "千草環境",
+"manDays": 168,
+"planStart": "2023-06-23",
+"planEnd": "2023-07-13",
+"actStart": "2023-06-23",
+"actEnd": "2023-07-13"
+},
+"r": 14
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A4",
+"unit": "2号溶融炉本体",
+"name": "鉄皮 補修（肉盛・当て板）",
+"company": "千草環境",
+"manDays": 64,
+"planStart": "2023-06-18",
+"planEnd": "2023-07-03",
+"actStart": "2023-06-18",
+"actEnd": "2023-07-03"
+},
+"r": 16
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A5",
+"unit": "2号羽口冷却水ポンプ（A）",
+"name": "羽口冷却水ポンプ・電動機 更新",
+"company": "千草環境",
+"manDays": 28,
+"planStart": "2023-06-28",
+"planEnd": "2023-07-04",
+"actStart": "2023-06-28",
+"actEnd": "2023-07-04"
+},
+"r": 18
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A6",
+"unit": "2号主羽口装置",
+"name": "主羽口・副羽口 装置更新",
+"company": "千草環境",
+"manDays": 78,
+"planStart": "2023-07-08",
+"planEnd": "2023-07-20",
+"actStart": "2023-07-08",
+"actEnd": "2023-07-20"
+},
+"r": 20
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A7",
+"unit": "2号炉体温度計",
+"name": "炉体温度計 更新（24点）",
+"company": "あかね電設",
+"manDays": 21,
+"planStart": "2023-07-18",
+"planEnd": "2023-07-24",
+"actStart": "2023-07-18",
+"actEnd": "2023-07-24"
+},
+"r": 22
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A8",
+"unit": "2号溶融炉本体",
+"name": "築炉（炉床・朝顔・シャフト）",
+"company": "東雲築炉",
+"manDays": 330,
+"planStart": "2023-07-14",
+"planEnd": "2023-08-15",
+"actStart": "2023-07-14",
+"actEnd": "2023-08-15"
+},
+"r": 24
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A8-2",
+"unit": "2号出湯口",
+"name": "出湯口 更新（炉床と一体）",
+"company": "東雲築炉",
+"manDays": 52,
+"planStart": "2023-07-28",
+"planEnd": "2023-08-09",
+"actStart": "2023-07-28",
+"actEnd": "2023-08-09"
+},
+"r": 26
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A9",
+"unit": "2号炉体冷却ジャケット",
+"name": "冷却水系 耐圧試験",
+"company": "千草環境",
+"manDays": 8,
+"planStart": "2023-08-16",
+"planEnd": "2023-08-17",
+"actStart": "2023-08-16",
+"actEnd": "2023-08-17"
+},
+"r": 28
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A10",
+"unit": "2号溶融炉本体",
+"name": "足場解体",
+"company": "丸鳥足場工業",
+"manDays": 24,
+"planStart": "2023-08-18",
+"planEnd": "2023-08-21",
+"actStart": "2023-08-18",
+"actEnd": "2023-08-21"
+},
+"r": 30
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A11",
+"unit": "2号溶融炉本体",
+"name": "炉乾燥・立上げ（市運転、改良工事立会）",
+"company": "市運転班",
+"planStart": "2023-08-25",
+"planEnd": "2023-09-08",
+"actStart": "2023-08-25",
+"actEnd": "2023-09-08"
+},
+"r": 32
+},
+{
+"sheet": "R5 2号炉",
+"kind": "item",
+"fields": {
+"no": "A12",
+"unit": "2号溶融炉本体",
+"name": "性能確認運転",
+"company": "千草環境",
+"manDays": 18,
+"planStart": "2023-09-09",
+"planEnd": "2023-09-14",
+"actStart": "2023-09-09",
+"actEnd": "2023-09-14"
+},
+"r": 34
+},
+{
+"sheet": "R5 酸素発生装置",
+"kind": "item",
+"fields": {
+"no": "P1",
+"unit": "PSA原料空気ブロワ",
+"name": "液体酸素への切替（市運転）",
+"company": "市運転班",
+"planStart": "2023-06-12",
+"planEnd": "2023-06-12",
+"actStart": "2023-06-12",
+"actEnd": "2023-06-12"
+},
+"r": 10
+},
+{
+"sheet": "R5 酸素発生装置",
+"kind": "item",
+"fields": {
+"no": "P2",
+"unit": "PSA原料空気ブロワ",
+"name": "旧PSA 撤去",
+"company": "千草環境",
+"manDays": 48,
+"planStart": "2023-06-13",
+"planEnd": "2023-06-20",
+"actStart": "2023-06-13",
+"actEnd": "2023-06-20"
+},
+"r": 12
+},
+{
+"sheet": "R5 酸素発生装置",
+"kind": "item",
+"fields": {
+"no": "P3",
+"unit": "PSA原料空気ブロワ",
+"name": "基礎改修",
+"company": "千草環境",
+"manDays": 24,
+"planStart": "2023-06-21",
+"planEnd": "2023-06-26",
+"actStart": "2023-06-21",
+"actEnd": "2023-06-26"
+},
+"r": 14
+},
+{
+"sheet": "R5 酸素発生装置",
+"kind": "item",
+"fields": {
+"no": "P4",
+"unit": "PSA原料空気ブロワ",
+"name": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"company": "千草環境",
+"manDays": 112,
+"planStart": "2023-06-27",
+"planEnd": "2023-07-10",
+"actStart": "2023-06-27",
+"actEnd": "2023-07-10"
+},
+"r": 16
+},
+{
+"sheet": "R5 酸素発生装置",
+"kind": "item",
+"fields": {
+"no": "P5",
+"unit": "PSA切替弁（A）",
+"name": "配管・切替弁 据付",
+"company": "千草環境",
+"manDays": 55,
+"planStart": "2023-07-06",
+"planEnd": "2023-07-16",
+"actStart": "2023-07-06",
+"actEnd": "2023-07-16"
+},
+"r": 18
+},
+{
+"sheet": "R5 酸素発生装置",
+"kind": "item",
+"fields": {
+"no": "P6",
+"unit": "PSA制御盤",
+"name": "制御盤・インバータ盤・濃度計 据付・配線",
+"company": "あかね電設",
+"manDays": 44,
+"planStart": "2023-07-10",
+"planEnd": "2023-07-20",
+"actStart": "2023-07-10",
+"actEnd": "2023-07-20"
+},
+"r": 20
+},
+{
+"sheet": "R5 酸素発生装置",
+"kind": "item",
+"fields": {
+"no": "P7",
+"unit": "PSA原料空気ブロワ",
+"name": "試運転・調整（製品酸素 濃度・流量）",
+"company": "千草環境",
+"manDays": 21,
+"planStart": "2023-07-21",
+"planEnd": "2023-07-27",
+"actStart": "2023-07-21",
+"actEnd": "2023-07-27"
+},
+"r": 22
+},
+{
+"sheet": "R5 酸素発生装置",
+"kind": "item",
+"fields": {
+"no": "P8",
+"unit": "PSA原料空気ブロワ",
+"name": "PSA へ切替（市運転）",
+"company": "市運転班",
+"planStart": "2023-07-28",
+"planEnd": "2023-07-28",
+"actStart": "2023-07-28",
+"actEnd": "2023-07-28"
+},
+"r": 24
+},
+{
+"sheet": "R6 DCS",
+"kind": "item",
+"fields": {
+"no": "D1",
+"unit": "中央操作端末（OPS-1）",
+"name": "全炉停止（市運転）",
+"company": "市運転班",
+"planStart": "2024-05-07",
+"planEnd": "2024-05-07",
+"actStart": "2024-05-07",
+"actEnd": "2024-05-07"
+},
+"r": 10
+},
+{
+"sheet": "R6 DCS",
+"kind": "item",
+"fields": {
+"no": "D2",
+"unit": "中央操作端末（OPS-1）",
+"name": "旧DCS 撤去・新盤据付（OPS・EWS・FCS-C）",
+"company": "千草環境",
+"manDays": 30,
+"planStart": "2024-05-08",
+"planEnd": "2024-05-12",
+"actStart": "2024-05-08",
+"actEnd": "2024-05-12"
+},
+"r": 12
+},
+{
+"sheet": "R6 DCS",
+"kind": "item",
+"fields": {
+"no": "D3",
+"unit": "1号炉別制御ステーション（FCS）",
+"name": "1号炉 FCS・I/O 切替",
+"company": "あかね電設",
+"manDays": 30,
+"planStart": "2024-05-10",
+"planEnd": "2024-05-15",
+"actStart": "2024-05-10",
+"actEnd": "2024-05-15"
+},
+"r": 14
+},
+{
+"sheet": "R6 DCS",
+"kind": "item",
+"fields": {
+"no": "D4",
+"unit": "2号炉別制御ステーション（FCS）",
+"name": "2号炉 FCS・I/O 切替",
+"company": "あかね電設",
+"manDays": 30,
+"planStart": "2024-05-13",
+"planEnd": "2024-05-18",
+"actStart": "2024-05-13",
+"actEnd": "2024-05-18"
+},
+"r": 16
+},
+{
+"sheet": "R6 DCS",
+"kind": "item",
+"fields": {
+"no": "D5",
+"unit": "中央操作端末（OPS-1）",
+"name": "共通 I/O 切替",
+"company": "あかね電設",
+"manDays": 20,
+"planStart": "2024-05-15",
+"planEnd": "2024-05-19",
+"actStart": "2024-05-15",
+"actEnd": "2024-05-19"
+},
+"r": 18
+},
+{
+"sheet": "R6 DCS",
+"kind": "item",
+"fields": {
+"no": "D6",
+"unit": "中央操作端末（OPS-1）",
+"name": "ループチェック",
+"company": "千草環境",
+"manDays": 42,
+"planStart": "2024-05-17",
+"planEnd": "2024-05-22",
+"actStart": "2024-05-17",
+"actEnd": "2024-05-23",
+"note": "2号 I/O の不具合 2点で 1日延長"
+},
+"r": 20
+},
+{
+"sheet": "R6 DCS",
+"kind": "item",
+"fields": {
+"no": "D7",
+"unit": "中央操作端末（OPS-1）",
+"name": "インターロック試験（全系統）",
+"company": "千草環境",
+"manDays": 8,
+"planStart": "2024-05-22",
+"planEnd": "2024-05-23",
+"actStart": "2024-05-22",
+"actEnd": "2024-05-23"
+},
+"r": 22
+},
+{
+"sheet": "R6 DCS",
+"kind": "item",
+"fields": {
+"no": "D8",
+"unit": "中央操作端末（OPS-1）",
+"name": "立上げ（市運転）",
+"company": "市運転班",
+"planStart": "2024-05-24",
+"planEnd": "2024-05-24",
+"actStart": "2024-05-24",
+"actEnd": "2024-05-24"
+},
+"r": 24
+}
+]
+}

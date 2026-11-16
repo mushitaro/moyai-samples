@@ -1,0 +1,2084 @@
+{
+"file": "【架空】あかね台資源化センター_工程表_令和6年度年間保守点検整備業務委託_p2R3様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "1",
+"unit": "特高受電設備（GIS）",
+"name": "全炉停止・系統切離し",
+"company": "市運転班",
+"planStart": "2024-05-07",
+"planEnd": "2024-05-07",
+"actStart": "2024-05-07",
+"actEnd": "2024-05-07",
+"note": "市直営"
+},
+"r": 10
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "2",
+"unit": "低圧配電盤（1号炉）",
+"name": "共通動力制御盤・低圧配電盤 点検",
+"company": "あかね電設",
+"manDays": 9,
+"planStart": "2024-05-08",
+"planEnd": "2024-05-10",
+"actStart": "2024-05-08",
+"actEnd": "2024-05-10",
+"note": "停電作業",
+"manDaysText": "9",
+"days": 3
+},
+"r": 12
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E1",
+"unit": "ピット火災検知装置",
+"name": "受入供給設備 電気・計装 点検整備（1台）",
+"company": "あかね電設",
+"manDays": 2,
+"planStart": "2024-05-10",
+"planEnd": "2024-05-10",
+"actStart": "2024-05-10",
+"actEnd": "2024-05-10",
+"manDaysText": "2",
+"days": 1
+},
+"r": 14
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E2",
+"unit": "ごみ投入扉（A） ほか2",
+"name": "受入供給設備 回転機・機械 整備（3台）",
+"company": "千草環境",
+"manDays": 6,
+"planStart": "2024-05-12",
+"planEnd": "2024-05-13",
+"actStart": "2024-05-12",
+"actEnd": "2024-05-13",
+"manDaysText": "6",
+"days": 2
+},
+"r": 16
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E3",
+"unit": "コークス受入コンベヤ ほか1",
+"name": "副資材供給設備 回転機・機械 整備（2台）",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-05-14",
+"planEnd": "2024-05-15",
+"actStart": "2024-05-14",
+"actEnd": "2024-05-15",
+"manDaysText": "4",
+"days": 2
+},
+"r": 18
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E4",
+"unit": "酸素漏えい検知器",
+"name": "酸素発生設備 電気・計装 点検整備（1台）",
+"company": "あかね電設",
+"manDays": 2,
+"planStart": "2024-05-16",
+"planEnd": "2024-05-16",
+"actStart": "2024-05-16",
+"actEnd": "2024-05-16",
+"manDaysText": "2",
+"days": 1
+},
+"r": 20
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E5",
+"unit": "液酸供給圧力調節弁",
+"name": "酸素発生設備 電動弁・調節弁 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-05-18",
+"planEnd": "2024-05-18",
+"actStart": "2024-05-18",
+"actEnd": "2024-05-18",
+"manDaysText": "2",
+"days": 1
+},
+"r": 22
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E6",
+"unit": "ボイラ給水ポンプ（A）用電動機",
+"name": "余熱利用設備 電気・計装 点検整備（1台）",
+"company": "あかね電設",
+"manDays": 2,
+"planStart": "2024-05-20",
+"planEnd": "2024-05-20",
+"actStart": "2024-05-20",
+"actEnd": "2024-05-20",
+"manDaysText": "2",
+"days": 1
+},
+"r": 24
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E7",
+"unit": "ボイラ給水ポンプ（B） ほか2",
+"name": "余熱利用設備 回転機・機械 整備（3台）",
+"company": "千草環境",
+"manDays": 6,
+"planStart": "2024-05-08",
+"planEnd": "2024-05-09",
+"actStart": "2024-05-08",
+"actEnd": "2024-05-09",
+"manDaysText": "6",
+"days": 2
+},
+"r": 26
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E8",
+"unit": "脱気器 ほか1",
+"name": "余熱利用設備 静機器 点検補修（2台）",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-05-10",
+"planEnd": "2024-05-11",
+"actStart": "2024-05-10",
+"actEnd": "2024-05-11",
+"manDaysText": "4",
+"days": 2
+},
+"r": 28
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E9",
+"unit": "飛灰定量供給機",
+"name": "灰処理設備 回転機・機械 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-05-11",
+"planEnd": "2024-05-11",
+"actStart": "2024-05-11",
+"actEnd": "2024-05-11",
+"manDaysText": "2",
+"days": 1
+},
+"r": 30
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E10",
+"unit": "アンモニア漏えい検知器",
+"name": "薬剤貯留設備 電気・計装 点検整備（1台）",
+"company": "あかね電設",
+"manDays": 2,
+"planStart": "2024-05-13",
+"planEnd": "2024-05-13",
+"actStart": "2024-05-13",
+"actEnd": "2024-05-13",
+"manDaysText": "2",
+"days": 1
+},
+"r": 32
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E11",
+"unit": "活性炭貯槽",
+"name": "薬剤貯留設備 静機器 点検補修（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-05-15",
+"planEnd": "2024-05-15",
+"actStart": "2024-05-15",
+"actEnd": "2024-05-15",
+"manDaysText": "2",
+"days": 1
+},
+"r": 34
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E12",
+"unit": "機器冷却水ポンプ（A）用電動機 ほか1",
+"name": "給水設備 電気・計装 点検整備（2台）",
+"company": "あかね電設",
+"manDays": 4,
+"planStart": "2024-05-18",
+"planEnd": "2024-05-19",
+"actStart": "2024-05-18",
+"actEnd": "2024-05-19",
+"manDaysText": "4",
+"days": 2
+},
+"r": 36
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E13",
+"unit": "排水pH計",
+"name": "排水処理設備 電気・計装 点検整備（1台）",
+"company": "あかね電設",
+"manDays": 2,
+"planStart": "2024-05-19",
+"planEnd": "2024-05-19",
+"actStart": "2024-05-19",
+"actEnd": "2024-05-19",
+"manDaysText": "2",
+"days": 1
+},
+"r": 38
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E14",
+"unit": "空気圧縮機（C）用電動機",
+"name": "圧縮空気設備 電気・計装 点検整備（1台）",
+"company": "あかね電設",
+"manDays": 2,
+"planStart": "2024-05-21",
+"planEnd": "2024-05-21",
+"actStart": "2024-05-21",
+"actEnd": "2024-05-21",
+"manDaysText": "2",
+"days": 1
+},
+"r": 40
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E15",
+"unit": "空気圧縮機（B）",
+"name": "圧縮空気設備 回転機・機械 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-05-08",
+"planEnd": "2024-05-08",
+"actStart": "2024-05-08",
+"actEnd": "2024-05-08",
+"manDaysText": "2",
+"days": 1
+},
+"r": 42
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E16",
+"unit": "雑用空気槽",
+"name": "圧縮空気設備 静機器 点検補修（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-05-10",
+"planEnd": "2024-05-10",
+"actStart": "2024-05-10",
+"actEnd": "2024-05-10",
+"manDaysText": "2",
+"days": 1
+},
+"r": 44
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E17",
+"unit": "特高受電設備（GIS） ほか7",
+"name": "電気設備 電気・計装 点検整備（8台）",
+"company": "あかね電設",
+"manDays": 20,
+"planStart": "2024-05-09",
+"planEnd": "2024-05-13",
+"actStart": "2024-05-09",
+"actEnd": "2024-05-13",
+"manDaysText": "20",
+"days": 5
+},
+"r": 46
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E18",
+"unit": "タービン排気電動弁",
+"name": "共通弁類 電動弁・調節弁 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-05-14",
+"planEnd": "2024-05-14",
+"actStart": "2024-05-14",
+"actEnd": "2024-05-14",
+"manDaysText": "2",
+"days": 1
+},
+"r": 48
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E19",
+"unit": "ピット消火ポンプ",
+"name": "付帯設備 回転機・機械 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-05-16",
+"planEnd": "2024-05-16",
+"actStart": "2024-05-16",
+"actEnd": "2024-05-16",
+"manDaysText": "2",
+"days": 1
+},
+"r": 50
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "E20",
+"unit": "窒素ガス貯槽",
+"name": "付帯設備 静機器 点検補修（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-05-18",
+"planEnd": "2024-05-18",
+"actStart": "2024-05-18",
+"actEnd": "2024-05-18",
+"manDaysText": "2",
+"days": 1
+},
+"r": 52
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "9",
+"unit": "特高受電設備（GIS）",
+"name": "復電・系統復旧",
+"company": "市運転班",
+"planStart": "2024-05-24",
+"planEnd": "2024-05-24",
+"actStart": "2024-05-24",
+"actEnd": "2024-05-24",
+"note": "市直営"
+},
+"r": 54
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "R-1",
+"unit": "特高受電設備（GIS）",
+"name": "受変電設備 年次点検（全停）",
+"company": "電気保安協会",
+"manDays": 8,
+"planStart": "2024-05-07",
+"planEnd": "2024-05-08",
+"actStart": "2024-05-07",
+"actEnd": "2024-05-08",
+"note": "市の別契約",
+"ref": "別契約",
+"manDaysText": "8",
+"days": 2
+},
+"r": 59
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "D1",
+"unit": "中央操作端末（OPS-1）",
+"name": "全炉停止（市運転）",
+"company": "市運転班",
+"planStart": "2024-05-07",
+"planEnd": "2024-05-07",
+"actStart": "2024-05-07",
+"actEnd": "2024-05-07",
+"ref": "別契約"
+},
+"r": 62
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "D2",
+"unit": "中央操作端末（OPS-1）",
+"name": "旧DCS 撤去・新盤据付（OPS・EWS・FCS-C）",
+"company": "千草環境",
+"manDays": 30,
+"planStart": "2024-05-08",
+"planEnd": "2024-05-12",
+"actStart": "2024-05-08",
+"actEnd": "2024-05-12",
+"ref": "別契約",
+"manDaysText": "30",
+"days": 5
+},
+"r": 64
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "D3",
+"unit": "1号炉別制御ステーション（FCS）",
+"name": "1号炉 FCS・I/O 切替",
+"company": "あかね電設",
+"manDays": 30,
+"planStart": "2024-05-10",
+"planEnd": "2024-05-15",
+"actStart": "2024-05-10",
+"actEnd": "2024-05-15",
+"ref": "別契約",
+"manDaysText": "30",
+"days": 6
+},
+"r": 66
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "D4",
+"unit": "2号炉別制御ステーション（FCS）",
+"name": "2号炉 FCS・I/O 切替",
+"company": "あかね電設",
+"manDays": 30,
+"planStart": "2024-05-13",
+"planEnd": "2024-05-18",
+"actStart": "2024-05-13",
+"actEnd": "2024-05-18",
+"ref": "別契約",
+"manDaysText": "30",
+"days": 6
+},
+"r": 68
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "D5",
+"unit": "中央操作端末（OPS-1）",
+"name": "共通 I/O 切替",
+"company": "あかね電設",
+"manDays": 20,
+"planStart": "2024-05-15",
+"planEnd": "2024-05-19",
+"actStart": "2024-05-15",
+"actEnd": "2024-05-19",
+"ref": "別契約",
+"manDaysText": "20",
+"days": 5
+},
+"r": 70
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "D6",
+"unit": "中央操作端末（OPS-1）",
+"name": "ループチェック",
+"company": "千草環境",
+"manDays": 42,
+"planStart": "2024-05-17",
+"planEnd": "2024-05-22",
+"actStart": "2024-05-17",
+"actEnd": "2024-05-23",
+"note": "2号 I/O の不具合 2点で 1日延長",
+"ref": "別契約",
+"manDaysText": "42",
+"days": 7
+},
+"r": 72
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "D7",
+"unit": "中央操作端末（OPS-1）",
+"name": "インターロック試験（全系統）",
+"company": "千草環境",
+"manDays": 8,
+"planStart": "2024-05-22",
+"planEnd": "2024-05-23",
+"actStart": "2024-05-22",
+"actEnd": "2024-05-23",
+"ref": "別契約",
+"manDaysText": "8",
+"days": 2
+},
+"r": 74
+},
+{
+"sheet": "全炉停止",
+"kind": "item",
+"fields": {
+"no": "D8",
+"unit": "中央操作端末（OPS-1）",
+"name": "立上げ（市運転）",
+"company": "市運転班",
+"planStart": "2024-05-24",
+"planEnd": "2024-05-24",
+"actStart": "2024-05-24",
+"actEnd": "2024-05-24",
+"ref": "別契約"
+},
+"r": 76
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "1",
+"unit": "2号溶融炉本体",
+"name": "立下げ・炉冷却",
+"company": "市運転班",
+"planStart": "2024-06-03",
+"planEnd": "2024-06-07",
+"actStart": "2024-06-03",
+"actEnd": "2024-06-07"
+},
+"r": 11
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "2",
+"unit": "2号溶融炉本体",
+"name": "入槽前測定・安全措置",
+"company": "千草環境",
+"manDays": 3,
+"planStart": "2024-06-08",
+"planEnd": "2024-06-08",
+"actStart": "2024-06-08",
+"actEnd": "2024-06-08",
+"manDaysText": "3",
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "3",
+"unit": "2号溶融炉本体",
+"name": "足場組立（炉内・ボイラ・BF）",
+"company": "丸鳥足場工業",
+"manDays": 8,
+"planStart": "2024-06-08",
+"planEnd": "2024-06-09",
+"actStart": "2024-06-08",
+"actEnd": "2024-06-09",
+"manDaysText": "8",
+"days": 2
+},
+"r": 15
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "22",
+"unit": "2号溶融炉本体",
+"name": "足場解体",
+"company": "丸鳥足場工業",
+"manDays": 8,
+"planStart": "2024-06-23",
+"planEnd": "2024-06-24",
+"actStart": "2024-06-23",
+"actEnd": "2024-06-24",
+"manDaysText": "8",
+"days": 2
+},
+"r": 17
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "23",
+"unit": "2号溶融炉本体",
+"name": "復旧・マンホール閉止",
+"company": "千草環境",
+"manDays": 8,
+"planStart": "2024-06-24",
+"planEnd": "2024-06-25",
+"actStart": "2024-06-24",
+"actEnd": "2024-06-25",
+"manDaysText": "8",
+"days": 2
+},
+"r": 19
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "4",
+"unit": "2号溶融炉本体",
+"name": "炉内残留物除去",
+"company": "東雲築炉",
+"manDays": 18,
+"planStart": "2024-06-09",
+"planEnd": "2024-06-11",
+"actStart": "2024-06-09",
+"actEnd": "2024-06-11",
+"manDaysText": "18",
+"days": 3
+},
+"r": 22
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "5",
+"unit": "2号主羽口装置",
+"name": "羽口点検・漏水試験",
+"company": "千草環境",
+"manDays": 6,
+"planStart": "2024-06-09",
+"planEnd": "2024-06-10",
+"actStart": "2024-06-09",
+"actEnd": "2024-06-10",
+"manDaysText": "6",
+"days": 2
+},
+"r": 24
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "6",
+"unit": "2号溶融炉本体",
+"name": "炉内耐火物点検・部分補修",
+"company": "東雲築炉",
+"manDays": 40,
+"planStart": "2024-06-13",
+"planEnd": "2024-06-20",
+"actStart": "2024-06-13",
+"actEnd": "2024-06-20",
+"manDaysText": "40",
+"days": 8
+},
+"r": 26
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "17",
+"unit": "2号スラグ掻揚コンベヤ",
+"name": "水砕槽清掃・掻揚コンベヤ点検",
+"company": "ひかり工業",
+"manDays": 12,
+"planStart": "2024-06-09",
+"planEnd": "2024-06-11",
+"actStart": "2024-06-09",
+"actEnd": "2024-06-11",
+"manDaysText": "12",
+"days": 3
+},
+"r": 28
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "18",
+"unit": "2号羽口送風機（A）",
+"name": "送風機・燃焼空気送風機 点検",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-06-18",
+"planEnd": "2024-06-19",
+"actStart": "2024-06-18",
+"actEnd": "2024-06-19",
+"manDaysText": "4",
+"days": 2
+},
+"r": 30
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "7",
+"unit": "2号ボイラ本体",
+"name": "ボイラ水洗",
+"company": "ひかり工業",
+"manDays": 18,
+"planStart": "2024-06-09",
+"planEnd": "2024-06-11",
+"actStart": "2024-06-09",
+"actEnd": "2024-06-11",
+"manDaysText": "18",
+"days": 3
+},
+"r": 33
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "8",
+"unit": "2号2次過熱器",
+"name": "過熱器・蒸発管 肉厚測定",
+"company": "千草環境",
+"manDays": 6,
+"planStart": "2024-06-13",
+"planEnd": "2024-06-15",
+"actStart": "2024-06-13",
+"actEnd": "2024-06-15",
+"manDaysText": "6",
+"days": 3
+},
+"r": 35
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "9",
+"unit": "2号ボイラ本体",
+"name": "ボイラ水圧試験",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-06-20",
+"planEnd": "2024-06-20",
+"actStart": "2024-06-20",
+"actEnd": "2024-06-20",
+"manDaysText": "4",
+"days": 1
+},
+"r": 37
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "10",
+"unit": "2号ボイラ本体",
+"name": "ボイラ定期事業者検査（立会）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-06-21",
+"planEnd": "2024-06-21",
+"actStart": "2024-06-21",
+"actEnd": "2024-06-21",
+"manDaysText": "2",
+"days": 1
+},
+"r": 39
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "11",
+"unit": "2号減温塔噴霧ノズル",
+"name": "減温塔点検・噴霧ノズル交換",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-06-09",
+"planEnd": "2024-06-10",
+"actStart": "2024-06-09",
+"actEnd": "2024-06-10",
+"manDaysText": "4",
+"days": 2
+},
+"r": 42
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "12",
+"unit": "2号ろ過式集じん器本体",
+"name": "BF 内部点検",
+"company": "千草環境",
+"manDays": 9,
+"planStart": "2024-06-14",
+"planEnd": "2024-06-16",
+"actStart": "2024-06-14",
+"actEnd": "2024-06-16",
+"manDaysText": "9",
+"days": 3
+},
+"r": 44
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "13",
+"unit": "2号触媒反応塔",
+"name": "触媒反応塔 点検",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-06-18",
+"planEnd": "2024-06-18",
+"actStart": "2024-06-18",
+"actEnd": "2024-06-19",
+"note": "部品入荷待ちで 1日延長",
+"manDaysText": "4",
+"days": 2
+},
+"r": 46
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "14",
+"unit": "2号誘引通風機",
+"name": "誘引通風機 振動測定・外観点検",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-06-19",
+"planEnd": "2024-06-19",
+"actStart": "2024-06-19",
+"actEnd": "2024-06-19",
+"manDaysText": "2",
+"days": 1
+},
+"r": 48
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "19",
+"unit": "2号上部シールダンパ",
+"name": "給じん装置（シールダンパ）点検",
+"company": "千草環境",
+"manDays": 6,
+"planStart": "2024-06-19",
+"planEnd": "2024-06-20",
+"actStart": "2024-06-19",
+"actEnd": "2024-06-20",
+"manDaysText": "6",
+"days": 2
+},
+"r": 51
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "20",
+"unit": "2号炉頂温度計",
+"name": "計装校正",
+"company": "あかね電設",
+"manDays": 21,
+"planStart": "2024-06-18",
+"planEnd": "2024-06-24",
+"actStart": "2024-06-18",
+"actEnd": "2024-06-24",
+"manDaysText": "21",
+"days": 7
+},
+"r": 53
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "21",
+"unit": "2号炉別動力制御盤（MCC）",
+"name": "MCC 点検",
+"company": "あかね電設",
+"manDays": 6,
+"planStart": "2024-06-23",
+"planEnd": "2024-06-24",
+"actStart": "2024-06-23",
+"actEnd": "2024-06-24",
+"manDaysText": "6",
+"days": 2
+},
+"r": 55
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E1",
+"unit": "2号コークス切出しフィーダ ほか1",
+"name": "給じん設備 回転機・機械 整備（2台）",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-06-15",
+"planEnd": "2024-06-16",
+"actStart": "2024-06-15",
+"actEnd": "2024-06-16",
+"manDaysText": "4",
+"days": 2
+},
+"r": 58
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E2",
+"unit": "2号開孔機 ほか1",
+"name": "溶融炉設備 回転機・機械 整備（2台）",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-06-18",
+"planEnd": "2024-06-19",
+"actStart": "2024-06-18",
+"actEnd": "2024-06-19",
+"manDaysText": "4",
+"days": 2
+},
+"r": 60
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E3",
+"unit": "2号出湯口集じんフード ほか1",
+"name": "溶融炉設備 静機器 点検補修（2台）",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-06-21",
+"planEnd": "2024-06-22",
+"actStart": "2024-06-21",
+"actEnd": "2024-06-22",
+"manDaysText": "4",
+"days": 2
+},
+"r": 62
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E4",
+"unit": "2号水砕水循環ポンプ（A）",
+"name": "スラグ水砕設備 回転機・機械 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-06-12",
+"planEnd": "2024-06-12",
+"actStart": "2024-06-12",
+"actEnd": "2024-06-12",
+"manDaysText": "2",
+"days": 1
+},
+"r": 64
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E5",
+"unit": "2号ボイラ安全弁（ドラム）（A） ほか1",
+"name": "ボイラ設備 回転機・機械 整備（2台）",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-06-15",
+"planEnd": "2024-06-16",
+"actStart": "2024-06-15",
+"actEnd": "2024-06-16",
+"manDaysText": "4",
+"days": 2
+},
+"r": 66
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E6",
+"unit": "2号缶底ブロー電動弁",
+"name": "ボイラ設備 電動弁・調節弁 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-06-18",
+"planEnd": "2024-06-18",
+"actStart": "2024-06-18",
+"actEnd": "2024-06-18",
+"manDaysText": "2",
+"days": 1
+},
+"r": 68
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E7",
+"unit": "2号ノズル冷却空気ブロワ",
+"name": "排ガス冷却設備 回転機・機械 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-06-21",
+"planEnd": "2024-06-21",
+"actStart": "2024-06-21",
+"actEnd": "2024-06-21",
+"manDaysText": "2",
+"days": 1
+},
+"r": 70
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E8",
+"unit": "2号噴霧水調節弁",
+"name": "排ガス冷却設備 電動弁・調節弁 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-06-12",
+"planEnd": "2024-06-12",
+"actStart": "2024-06-12",
+"actEnd": "2024-06-12",
+"manDaysText": "2",
+"days": 1
+},
+"r": 72
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E9",
+"unit": "2号消石灰定量供給機",
+"name": "有害ガス除去設備 回転機・機械 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-06-15",
+"planEnd": "2024-06-15",
+"actStart": "2024-06-15",
+"actEnd": "2024-06-15",
+"manDaysText": "2",
+"days": 1
+},
+"r": 74
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E10",
+"unit": "2号BFダストスクリューコンベヤ（A）",
+"name": "ろ過式集じん設備 回転機・機械 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-06-18",
+"planEnd": "2024-06-18",
+"actStart": "2024-06-18",
+"actEnd": "2024-06-18",
+"manDaysText": "2",
+"days": 1
+},
+"r": 76
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E11",
+"unit": "2号アンモニア水注入ポンプ（A）",
+"name": "触媒脱硝設備 回転機・機械 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-06-21",
+"planEnd": "2024-06-21",
+"actStart": "2024-06-21",
+"actEnd": "2024-06-21",
+"manDaysText": "2",
+"days": 1
+},
+"r": 78
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E12",
+"unit": "2号誘引通風機用電動機 ほか3",
+"name": "通風設備 電気・計装 点検整備（4台）",
+"company": "あかね電設",
+"manDays": 9,
+"planStart": "2024-06-12",
+"planEnd": "2024-06-14",
+"actStart": "2024-06-12",
+"actEnd": "2024-06-14",
+"manDaysText": "9",
+"days": 3
+},
+"r": 80
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E13",
+"unit": "2号煙道",
+"name": "通風設備 静機器 点検補修（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-06-15",
+"planEnd": "2024-06-15",
+"actStart": "2024-06-15",
+"actEnd": "2024-06-15",
+"manDaysText": "2",
+"days": 1
+},
+"r": 82
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E14",
+"unit": "2号誘引通風機入口ダンパ",
+"name": "通風設備 電動弁・調節弁 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-06-18",
+"planEnd": "2024-06-18",
+"actStart": "2024-06-18",
+"actEnd": "2024-06-18",
+"manDaysText": "2",
+"days": 1
+},
+"r": 84
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "E15",
+"unit": "2号羽口冷却水圧力調節弁 ほか3",
+"name": "炉別弁類 電動弁・調節弁 整備（4台）",
+"company": "千草環境",
+"manDays": 9,
+"planStart": "2024-06-21",
+"planEnd": "2024-06-23",
+"actStart": "2024-06-21",
+"actEnd": "2024-06-23",
+"manDaysText": "9",
+"days": 3
+},
+"r": 86
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "T2",
+"unit": "タービン非常油ポンプ ほか4",
+"name": "余熱利用設備 補機 整備（5台）",
+"company": "千草環境",
+"manDays": 15,
+"planStart": "2024-06-09",
+"planEnd": "2024-06-13",
+"actStart": "2024-06-09",
+"actEnd": "2024-06-13",
+"manDaysText": "15",
+"days": 5
+},
+"r": 88
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "24",
+"unit": "2号炉別制御ステーション（FCS）",
+"name": "インターロック試験",
+"company": "千草環境",
+"manDays": 3,
+"planStart": "2024-06-25",
+"planEnd": "2024-06-25",
+"actStart": "2024-06-25",
+"actEnd": "2024-06-25",
+"manDaysText": "3",
+"days": 1
+},
+"r": 91
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "25",
+"unit": "2号溶融炉本体",
+"name": "炉乾燥・立上げ",
+"company": "市運転班",
+"planStart": "2024-06-27",
+"planEnd": "2024-06-30",
+"actStart": "2024-06-27",
+"actEnd": "2024-06-30"
+},
+"r": 93
+},
+{
+"sheet": "2号炉定修",
+"kind": "item",
+"fields": {
+"no": "26",
+"unit": "2号溶融炉本体",
+"name": "ごみ投入・試運転",
+"company": "市運転班",
+"planStart": "2024-07-01",
+"planEnd": "2024-07-04",
+"actStart": "2024-07-01",
+"actEnd": "2024-07-04"
+},
+"r": 95
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "1",
+"unit": "1号溶融炉本体",
+"name": "立下げ・炉冷却",
+"company": "市運転班",
+"planStart": "2024-09-30",
+"planEnd": "2024-10-06",
+"actStart": "2024-09-30",
+"actEnd": "2024-10-06"
+},
+"r": 11
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "2",
+"unit": "1号溶融炉本体",
+"name": "入槽前測定・安全措置",
+"company": "千草環境",
+"manDays": 3,
+"planStart": "2024-10-07",
+"planEnd": "2024-10-07",
+"actStart": "2024-10-07",
+"actEnd": "2024-10-07",
+"manDaysText": "3",
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "3",
+"unit": "1号溶融炉本体",
+"name": "足場組立（炉内・ボイラ・BF）",
+"company": "丸鳥足場工業",
+"manDays": 12,
+"planStart": "2024-10-07",
+"planEnd": "2024-10-09",
+"actStart": "2024-10-07",
+"actEnd": "2024-10-09",
+"manDaysText": "12",
+"days": 3
+},
+"r": 15
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "22",
+"unit": "1号溶融炉本体",
+"name": "足場解体",
+"company": "丸鳥足場工業",
+"manDays": 8,
+"planStart": "2024-10-28",
+"planEnd": "2024-10-29",
+"actStart": "2024-10-28",
+"actEnd": "2024-10-29",
+"manDaysText": "8",
+"days": 2
+},
+"r": 17
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "23",
+"unit": "1号溶融炉本体",
+"name": "復旧・マンホール閉止",
+"company": "千草環境",
+"manDays": 12,
+"planStart": "2024-10-29",
+"planEnd": "2024-10-31",
+"actStart": "2024-10-29",
+"actEnd": "2024-10-31",
+"manDaysText": "12",
+"days": 3
+},
+"r": 19
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "4",
+"unit": "1号溶融炉本体",
+"name": "炉内残留物除去",
+"company": "東雲築炉",
+"manDays": 24,
+"planStart": "2024-10-08",
+"planEnd": "2024-10-11",
+"actStart": "2024-10-08",
+"actEnd": "2024-10-11",
+"manDaysText": "24",
+"days": 4
+},
+"r": 22
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "5",
+"unit": "1号主羽口装置",
+"name": "羽口点検・漏水試験",
+"company": "千草環境",
+"manDays": 6,
+"planStart": "2024-10-09",
+"planEnd": "2024-10-10",
+"actStart": "2024-10-09",
+"actEnd": "2024-10-10",
+"manDaysText": "6",
+"days": 2
+},
+"r": 24
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "6",
+"unit": "1号溶融炉本体",
+"name": "炉内耐火物点検・部分補修",
+"company": "東雲築炉",
+"manDays": 50,
+"planStart": "2024-10-14",
+"planEnd": "2024-10-23",
+"actStart": "2024-10-14",
+"actEnd": "2024-10-23",
+"manDaysText": "50",
+"days": 10
+},
+"r": 26
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "17",
+"unit": "1号スラグ掻揚コンベヤ",
+"name": "水砕槽清掃・掻揚コンベヤ点検",
+"company": "ひかり工業",
+"manDays": 16,
+"planStart": "2024-10-08",
+"planEnd": "2024-10-11",
+"actStart": "2024-10-08",
+"actEnd": "2024-10-11",
+"manDaysText": "16",
+"days": 4
+},
+"r": 28
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "18",
+"unit": "1号羽口送風機（A）",
+"name": "送風機・燃焼空気送風機 点検",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-10-21",
+"planEnd": "2024-10-22",
+"actStart": "2024-10-21",
+"actEnd": "2024-10-22",
+"manDaysText": "4",
+"days": 2
+},
+"r": 30
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "7",
+"unit": "1号ボイラ本体",
+"name": "ボイラ水洗",
+"company": "ひかり工業",
+"manDays": 24,
+"planStart": "2024-10-08",
+"planEnd": "2024-10-11",
+"actStart": "2024-10-08",
+"actEnd": "2024-10-11",
+"manDaysText": "24",
+"days": 4
+},
+"r": 33
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "8",
+"unit": "1号2次過熱器",
+"name": "過熱器・蒸発管 肉厚測定",
+"company": "千草環境",
+"manDays": 6,
+"planStart": "2024-10-14",
+"planEnd": "2024-10-16",
+"actStart": "2024-10-14",
+"actEnd": "2024-10-16",
+"manDaysText": "6",
+"days": 3
+},
+"r": 35
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "9",
+"unit": "1号ボイラ本体",
+"name": "ボイラ水圧試験",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-10-24",
+"planEnd": "2024-10-24",
+"actStart": "2024-10-24",
+"actEnd": "2024-10-24",
+"manDaysText": "4",
+"days": 1
+},
+"r": 37
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "11",
+"unit": "1号減温塔噴霧ノズル",
+"name": "減温塔内部点検",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-10-09",
+"planEnd": "2024-10-10",
+"actStart": "2024-10-09",
+"actEnd": "2024-10-10",
+"manDaysText": "4",
+"days": 2
+},
+"r": 40
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "12",
+"unit": "1号ろ過式集じん器本体",
+"name": "BF 内部点検",
+"company": "千草環境",
+"manDays": 15,
+"planStart": "2024-10-15",
+"planEnd": "2024-10-18",
+"actStart": "2024-10-15",
+"actEnd": "2024-10-19",
+"note": "付着物が多く 1日延長",
+"manDaysText": "15",
+"days": 5
+},
+"r": 42
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "13",
+"unit": "1号触媒反応塔",
+"name": "触媒反応塔 点検",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-21",
+"planEnd": "2024-10-21",
+"actStart": "2024-10-21",
+"actEnd": "2024-10-21",
+"manDaysText": "2",
+"days": 1
+},
+"r": 44
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "14",
+"unit": "1号誘引通風機",
+"name": "誘引通風機 点検",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-22",
+"planEnd": "2024-10-22",
+"actStart": "2024-10-22",
+"actEnd": "2024-10-22",
+"manDaysText": "2",
+"days": 1
+},
+"r": 46
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "19",
+"unit": "1号上部シールダンパ",
+"name": "給じん装置（シールダンパ）点検",
+"company": "千草環境",
+"manDays": 9,
+"planStart": "2024-10-22",
+"planEnd": "2024-10-24",
+"actStart": "2024-10-22",
+"actEnd": "2024-10-24",
+"manDaysText": "9",
+"days": 3
+},
+"r": 49
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "20",
+"unit": "1号炉頂温度計",
+"name": "計装校正",
+"company": "あかね電設",
+"manDays": 27,
+"planStart": "2024-10-21",
+"planEnd": "2024-10-29",
+"actStart": "2024-10-21",
+"actEnd": "2024-10-29",
+"manDaysText": "27",
+"days": 9
+},
+"r": 51
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "21",
+"unit": "1号炉別動力制御盤（MCC）",
+"name": "MCC 点検",
+"company": "あかね電設",
+"manDays": 6,
+"planStart": "2024-10-28",
+"planEnd": "2024-10-29",
+"actStart": "2024-10-28",
+"actEnd": "2024-10-29",
+"manDaysText": "6",
+"days": 2
+},
+"r": 53
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E1",
+"unit": "1号給じん油圧ポンプ（A） ほか1",
+"name": "給じん設備 回転機・機械 整備（2台）",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-10-15",
+"planEnd": "2024-10-16",
+"actStart": "2024-10-15",
+"actEnd": "2024-10-16",
+"manDaysText": "4",
+"days": 2
+},
+"r": 56
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E2",
+"unit": "1号ごみ投入ホッパ",
+"name": "給じん設備 静機器 点検補修（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-18",
+"planEnd": "2024-10-18",
+"actStart": "2024-10-18",
+"actEnd": "2024-10-18",
+"manDaysText": "2",
+"days": 1
+},
+"r": 58
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E3",
+"unit": "1号炉体冷却水ポンプ（A）用電動機",
+"name": "溶融炉設備 電気・計装 点検整備（1台）",
+"company": "あかね電設",
+"manDays": 2,
+"planStart": "2024-10-21",
+"planEnd": "2024-10-21",
+"actStart": "2024-10-21",
+"actEnd": "2024-10-21",
+"manDaysText": "2",
+"days": 1
+},
+"r": 60
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E4",
+"unit": "1号出湯口集じんファン ほか1",
+"name": "溶融炉設備 回転機・機械 整備（2台）",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-10-24",
+"planEnd": "2024-10-25",
+"actStart": "2024-10-24",
+"actEnd": "2024-10-25",
+"manDaysText": "4",
+"days": 2
+},
+"r": 62
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E5",
+"unit": "1号羽口冷却水熱交換器",
+"name": "溶融炉設備 静機器 点検補修（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-27",
+"planEnd": "2024-10-27",
+"actStart": "2024-10-27",
+"actEnd": "2024-10-27",
+"manDaysText": "2",
+"days": 1
+},
+"r": 64
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E6",
+"unit": "1号出湯口",
+"name": "溶融炉設備 出湯口 補修（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-14",
+"planEnd": "2024-10-14",
+"actStart": "2024-10-14",
+"actEnd": "2024-10-14",
+"manDaysText": "2",
+"days": 1
+},
+"r": 66
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E7",
+"unit": "1号炉頂ガス圧力調節ダンパ ほか1",
+"name": "溶融炉設備 電動弁・調節弁 整備（2台）",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-10-17",
+"planEnd": "2024-10-18",
+"actStart": "2024-10-17",
+"actEnd": "2024-10-18",
+"manDaysText": "4",
+"days": 2
+},
+"r": 68
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E8",
+"unit": "1号水砕水循環ポンプ（A）",
+"name": "スラグ水砕設備 回転機・機械 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-20",
+"planEnd": "2024-10-20",
+"actStart": "2024-10-20",
+"actEnd": "2024-10-20",
+"manDaysText": "2",
+"days": 1
+},
+"r": 70
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E9",
+"unit": "1号ボイラ安全弁（ドラム）（A） ほか1",
+"name": "ボイラ設備 回転機・機械 整備（2台）",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2024-10-23",
+"planEnd": "2024-10-24",
+"actStart": "2024-10-23",
+"actEnd": "2024-10-24",
+"manDaysText": "4",
+"days": 2
+},
+"r": 72
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E10",
+"unit": "1号噴霧水ポンプ（A）",
+"name": "排ガス冷却設備 回転機・機械 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-26",
+"planEnd": "2024-10-26",
+"actStart": "2024-10-26",
+"actEnd": "2024-10-26",
+"manDaysText": "2",
+"days": 1
+},
+"r": 74
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E11",
+"unit": "1号噴霧水調節弁",
+"name": "排ガス冷却設備 電動弁・調節弁 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-13",
+"planEnd": "2024-10-13",
+"actStart": "2024-10-13",
+"actEnd": "2024-10-13",
+"manDaysText": "2",
+"days": 1
+},
+"r": 76
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E12",
+"unit": "1号消石灰吹込ブロワ",
+"name": "有害ガス除去設備 回転機・機械 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-16",
+"planEnd": "2024-10-16",
+"actStart": "2024-10-16",
+"actEnd": "2024-10-16",
+"manDaysText": "2",
+"days": 1
+},
+"r": 78
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E13",
+"unit": "1号排ガス再加熱器",
+"name": "触媒脱硝設備 静機器 点検補修（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-19",
+"planEnd": "2024-10-19",
+"actStart": "2024-10-19",
+"actEnd": "2024-10-19",
+"manDaysText": "2",
+"days": 1
+},
+"r": 80
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E14",
+"unit": "1号排ガスSOx計",
+"name": "通風設備 電気・計装 点検整備（1台）",
+"company": "あかね電設",
+"manDays": 2,
+"planStart": "2024-10-22",
+"planEnd": "2024-10-22",
+"actStart": "2024-10-22",
+"actEnd": "2024-10-22",
+"manDaysText": "2",
+"days": 1
+},
+"r": 82
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E15",
+"unit": "1号煙突内筒",
+"name": "通風設備 静機器 点検補修（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-25",
+"planEnd": "2024-10-25",
+"actStart": "2024-10-25",
+"actEnd": "2024-10-25",
+"manDaysText": "2",
+"days": 1
+},
+"r": 84
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E16",
+"unit": "1号誘引通風機入口ダンパ",
+"name": "通風設備 電動弁・調節弁 整備（1台）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-12",
+"planEnd": "2024-10-12",
+"actStart": "2024-10-12",
+"actEnd": "2024-10-12",
+"manDaysText": "2",
+"days": 1
+},
+"r": 86
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "E17",
+"unit": "1号ドラムベント電動弁 ほか2",
+"name": "炉別弁類 電動弁・調節弁 整備（3台）",
+"company": "千草環境",
+"manDays": 6,
+"planStart": "2024-10-15",
+"planEnd": "2024-10-16",
+"actStart": "2024-10-15",
+"actEnd": "2024-10-16",
+"manDaysText": "6",
+"days": 2
+},
+"r": 88
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "24",
+"unit": "1号炉別制御ステーション（FCS）",
+"name": "インターロック試験",
+"company": "千草環境",
+"manDays": 3,
+"planStart": "2024-10-31",
+"planEnd": "2024-10-31",
+"actStart": "2024-10-31",
+"actEnd": "2024-10-31",
+"manDaysText": "3",
+"days": 1
+},
+"r": 91
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "25",
+"unit": "1号溶融炉本体",
+"name": "炉乾燥・立上げ",
+"company": "市運転班",
+"planStart": "2024-11-02",
+"planEnd": "2024-11-07",
+"actStart": "2024-11-02",
+"actEnd": "2024-11-07"
+},
+"r": 93
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "26",
+"unit": "1号溶融炉本体",
+"name": "ごみ投入・試運転",
+"company": "市運転班",
+"planStart": "2024-11-08",
+"planEnd": "2024-11-12",
+"actStart": "2024-11-08",
+"actEnd": "2024-11-12"
+},
+"r": 95
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "1",
+"unit": "1号2次過熱器",
+"name": "2次過熱器 下部ベンド 管切断・撤去（4本）",
+"company": "千草環境",
+"manDays": 8,
+"planStart": "2024-10-14",
+"planEnd": "2024-10-15",
+"actStart": "2024-10-14",
+"actEnd": "2024-10-15",
+"ref": "別契約",
+"manDaysText": "8",
+"days": 2
+},
+"r": 100
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "2",
+"unit": "1号2次過熱器",
+"name": "新管 取付・溶接",
+"company": "千草環境",
+"manDays": 16,
+"planStart": "2024-10-16",
+"planEnd": "2024-10-19",
+"actStart": "2024-10-16",
+"actEnd": "2024-10-19",
+"ref": "別契約",
+"manDaysText": "16",
+"days": 4
+},
+"r": 102
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "3",
+"unit": "1号2次過熱器",
+"name": "RT 検査",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-20",
+"planEnd": "2024-10-20",
+"actStart": "2024-10-20",
+"actEnd": "2024-10-20",
+"ref": "別契約",
+"manDaysText": "2",
+"days": 1
+},
+"r": 104
+},
+{
+"sheet": "1号炉定修",
+"kind": "item",
+"fields": {
+"no": "4",
+"unit": "1号2次過熱器",
+"name": "水圧試験（年間保守と同時）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-24",
+"planEnd": "2024-10-24",
+"actStart": "2024-10-24",
+"actEnd": "2024-10-24",
+"ref": "別契約",
+"manDaysText": "2",
+"days": 1
+},
+"r": 106
+}
+]
+}

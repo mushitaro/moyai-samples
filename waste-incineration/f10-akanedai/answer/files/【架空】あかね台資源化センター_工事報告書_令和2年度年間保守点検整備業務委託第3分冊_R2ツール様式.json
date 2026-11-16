@@ -1,0 +1,2139 @@
+{
+"file": "【架空】あかね台資源化センター_工事報告書_令和2年度年間保守点検整備業務委託第3分冊_R2ツール様式.pdf",
+"plan": false,
+"records": [
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "電気設備",
+"機器数": 17,
+"点検": 17,
+"良": 17
+},
+"seq": 0,
+"r": 1
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "受入供給設備",
+"機器数": 4,
+"点検": 2,
+"整備": 2,
+"良": 4
+},
+"seq": 1,
+"r": 2
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "副資材供給設備",
+"機器数": 3,
+"整備": 2,
+"補修": 1,
+"良": 2,
+"補修済": 1
+},
+"seq": 2,
+"r": 3
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "酸素発生設備",
+"機器数": 6,
+"点検": 1,
+"整備": 4,
+"補修": 1,
+"良": 5,
+"補修済": 1
+},
+"seq": 3,
+"r": 4
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "余熱利用設備",
+"機器数": 3,
+"点検": 1,
+"整備": 1,
+"補修": 1,
+"良": 2,
+"補修済": 1
+},
+"seq": 4,
+"r": 5
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "灰処理設備",
+"機器数": 2,
+"整備": 2,
+"良": 2
+},
+"seq": 5,
+"r": 6
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "薬剤貯留設備",
+"機器数": 1,
+"整備": 1,
+"良": 1
+},
+"seq": 6,
+"r": 7
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "給水設備",
+"機器数": 1,
+"整備": 1,
+"良": 1
+},
+"seq": 7,
+"r": 8
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "排水処理設備",
+"機器数": 3,
+"整備": 2,
+"補修": 1,
+"良": 2,
+"補修済": 1
+},
+"seq": 8,
+"r": 9
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "圧縮空気設備",
+"機器数": 2,
+"点検": 2,
+"良": 2
+},
+"seq": 9,
+"r": 10
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "共通弁類",
+"機器数": 2,
+"整備": 2,
+"良": 2
+},
+"seq": 10,
+"r": 11
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "付帯設備",
+"機器数": 2,
+"整備": 2,
+"良": 2
+},
+"seq": 11,
+"r": 12
+},
+{
+"sheet": null,
+"kind": "total",
+"fields": {
+"section": "系統別件数",
+"機器数": 46
+},
+"seq": 12,
+"r": 13
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "総括",
+"text": "全炉停止（共通設備）"
+},
+"seq": 13,
+"r": 14
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-01",
+"unit": "低圧配電盤（1号炉）",
+"code": "0-11-4-01",
+"date": "5/12〜5/14",
+"kubun": "点検",
+"work": "共通動力制御盤・低圧配電盤 点検",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 14,
+"r": 15
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（1号炉） 作業前"
+},
+"seq": 15,
+"r": 16
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（1号炉） 作業後"
+},
+"seq": 16,
+"r": 17
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-02",
+"unit": "低圧配電盤（2号炉）",
+"code": "0-11-4-02",
+"date": "5/12〜5/14",
+"kubun": "点検",
+"work": "共通動力制御盤・低圧配電盤 点検",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 17,
+"r": 18
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（2号炉） 作業前"
+},
+"seq": 18,
+"r": 19
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（2号炉） 作業後"
+},
+"seq": 19,
+"r": 20
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-03",
+"unit": "低圧配電盤（共通-1）",
+"code": "0-11-4-03",
+"date": "5/12〜5/14",
+"kubun": "点検",
+"work": "共通動力制御盤・低圧配電盤 点検",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 20,
+"r": 21
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（共通-1） 作業前"
+},
+"seq": 21,
+"r": 22
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（共通-1） 作業後"
+},
+"seq": 22,
+"r": 23
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-04",
+"unit": "低圧配電盤（共通-2）",
+"code": "0-11-4-04",
+"date": "5/12〜5/14",
+"kubun": "点検",
+"work": "共通動力制御盤・低圧配電盤 点検",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 23,
+"r": 24
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（共通-2） 作業前"
+},
+"seq": 24,
+"r": 25
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（共通-2） 作業後"
+},
+"seq": 25,
+"r": 26
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-05",
+"unit": "低圧配電盤（PSA）",
+"code": "0-11-4-05",
+"date": "5/12〜5/14",
+"kubun": "点検",
+"work": "共通動力制御盤・低圧配電盤 点検",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 26,
+"r": 27
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-05",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（PSA） 作業前"
+},
+"seq": 27,
+"r": 28
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-05",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（PSA） 作業後"
+},
+"seq": 28,
+"r": 29
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-06",
+"unit": "共通動力制御盤（MCC-1）",
+"code": "0-11-4-06",
+"date": "5/12〜5/14",
+"kubun": "点検",
+"work": "共通動力制御盤・低圧配電盤 点検",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 29,
+"r": 30
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-06",
+"image": "写真代替図（線画）",
+"caption": "共通動力制御盤（MCC-1） 作業前"
+},
+"seq": 30,
+"r": 31
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-06",
+"image": "写真代替図（線画）",
+"caption": "共通動力制御盤（MCC-1） 作業後"
+},
+"seq": 31,
+"r": 32
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-07",
+"unit": "共通動力制御盤（MCC-2）",
+"code": "0-11-4-07",
+"date": "5/12〜5/14",
+"kubun": "点検",
+"work": "共通動力制御盤・低圧配電盤 点検",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 32,
+"r": 33
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-07",
+"image": "写真代替図（線画）",
+"caption": "共通動力制御盤（MCC-2） 作業前"
+},
+"seq": 33,
+"r": 34
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-07",
+"image": "写真代替図（線画）",
+"caption": "共通動力制御盤（MCC-2） 作業後"
+},
+"seq": 34,
+"r": 35
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-08",
+"unit": "共通動力制御盤（MCC-3）",
+"code": "0-11-4-08",
+"date": "5/12〜5/14",
+"kubun": "点検",
+"work": "共通動力制御盤・低圧配電盤 点検",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 35,
+"r": 36
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-08",
+"image": "写真代替図（線画）",
+"caption": "共通動力制御盤（MCC-3） 作業前"
+},
+"seq": 36,
+"r": 37
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-08",
+"image": "写真代替図（線画）",
+"caption": "共通動力制御盤（MCC-3） 作業後"
+},
+"seq": 37,
+"r": 38
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-09",
+"unit": "1号ごみクレーン巻上装置用電動機",
+"code": "M-0124",
+"date": "5/14〜5/15",
+"kubun": "点検",
+"work": "受入供給設備 電気・計装 点検整備（2台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 38,
+"r": 39
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-09",
+"image": "写真代替図（線画）",
+"caption": "1号ごみクレーン巻上装置用電動機 作業前"
+},
+"seq": 39,
+"r": 40
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-09",
+"image": "写真代替図（線画）",
+"caption": "1号ごみクレーン巻上装置用電動機 作業後"
+},
+"seq": 40,
+"r": 41
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-10",
+"unit": "2号ごみクレーン巻上装置用電動機",
+"code": "M-0129",
+"date": "5/14〜5/15",
+"kubun": "点検",
+"work": "受入供給設備 電気・計装 点検整備（2台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 41,
+"r": 42
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-10",
+"image": "写真代替図（線画）",
+"caption": "2号ごみクレーン巻上装置用電動機 作業前"
+},
+"seq": 42,
+"r": 43
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-10",
+"image": "写真代替図（線画）",
+"caption": "2号ごみクレーン巻上装置用電動機 作業後"
+},
+"seq": 43,
+"r": 44
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-11",
+"unit": "ごみ投入扉（B）",
+"code": "0-01-2-04",
+"date": "5/16〜5/17",
+"kubun": "整備",
+"work": "受入供給設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 44,
+"r": 45
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-11",
+"image": "写真代替図（線画）",
+"caption": "ごみ投入扉（B） 作業前"
+},
+"seq": 45,
+"r": 46
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-11",
+"image": "写真代替図（線画）",
+"caption": "ごみ投入扉（B） 作業後"
+},
+"seq": 46,
+"r": 47
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-12",
+"unit": "放水銃（B）",
+"code": "0-01-3-04",
+"date": "5/16〜5/17",
+"kubun": "整備",
+"work": "受入供給設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 47,
+"r": 48
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-12",
+"image": "写真代替図（線画）",
+"caption": "放水銃（B） 作業前"
+},
+"seq": 48,
+"r": 49
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-12",
+"image": "写真代替図（線画）",
+"caption": "放水銃（B） 作業後"
+},
+"seq": 49,
+"r": 50
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-13",
+"unit": "コークス受入コンベヤ",
+"code": "0-02-1-02",
+"date": "5/12〜5/13",
+"kubun": "整備",
+"work": "副資材供給設備 回転機・機械 整備（3台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 50,
+"r": 51
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-13",
+"image": "写真代替図（線画）",
+"caption": "コークス受入コンベヤ 作業前"
+},
+"seq": 51,
+"r": 52
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-13",
+"image": "写真代替図（線画）",
+"caption": "コークス受入コンベヤ 作業後"
+},
+"seq": 52,
+"r": 53
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-14",
+"unit": "コークスバケットエレベータ",
+"code": "0-02-1-03",
+"date": "5/12〜5/13",
+"kubun": "整備",
+"work": "副資材供給設備 回転機・機械 整備（3台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 53,
+"r": 54
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-14",
+"image": "写真代替図（線画）",
+"caption": "コークスバケットエレベータ 作業前"
+},
+"seq": 54,
+"r": 55
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-14",
+"image": "写真代替図（線画）",
+"caption": "コークスバケットエレベータ 作業後"
+},
+"seq": 55,
+"r": 56
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-15",
+"unit": "副資材集じんファン",
+"code": "0-02-4-02",
+"date": "5/12〜5/13",
+"kubun": "補修",
+"work": "副資材供給設備 回転機・機械 整備（3台）",
+"result": "故障補修",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 56,
+"r": 57
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-15",
+"image": "写真代替図（線画）",
+"caption": "副資材集じんファン 作業前"
+},
+"seq": 57,
+"r": 58
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-15",
+"image": "写真代替図（線画）",
+"caption": "副資材集じんファン 作業後"
+},
+"seq": 58,
+"r": 59
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-16",
+"unit": "PSA原料空気ブロワ用電動機",
+"code": "M-0141",
+"date": "5/13",
+"kubun": "点検",
+"work": "酸素発生設備 電気・計装 点検整備（1台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 59,
+"r": 60
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-16",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ用電動機 作業前"
+},
+"seq": 60,
+"r": 61
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-16",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ用電動機 作業後"
+},
+"seq": 61,
+"r": 62
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-17",
+"unit": "PSA真空ポンプ（A）",
+"code": "0-03-1-02",
+"date": "5/16〜5/17",
+"kubun": "整備",
+"work": "酸素発生設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 62,
+"r": 63
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-17",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（A） 作業前"
+},
+"seq": 63,
+"r": 64
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-17",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（A） 作業後"
+},
+"seq": 64,
+"r": 65
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-18",
+"unit": "PSA真空ポンプ（B）",
+"code": "0-03-1-03",
+"date": "5/16〜5/17",
+"kubun": "整備",
+"work": "酸素発生設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 65,
+"r": 66
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-18",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（B） 作業前"
+},
+"seq": 66,
+"r": 67
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-18",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（B） 作業後"
+},
+"seq": 67,
+"r": 68
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-19",
+"unit": "PSA製品酸素槽",
+"code": "0-03-1-06",
+"date": "5/17",
+"kubun": "補修",
+"work": "酸素発生設備 静機器 点検補修（1台）",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 68,
+"r": 69
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-19",
+"image": "写真代替図（線画）",
+"caption": "PSA製品酸素槽 作業前"
+},
+"seq": 69,
+"r": 70
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-19",
+"image": "写真代替図（線画）",
+"caption": "PSA製品酸素槽 作業後"
+},
+"seq": 70,
+"r": 71
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-20",
+"unit": "PSA切替弁（B）",
+"code": "0-03-1-11",
+"date": "5/14〜5/15",
+"kubun": "整備",
+"work": "酸素発生設備 電動弁・調節弁 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 71,
+"r": 72
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-20",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（B） 作業前"
+},
+"seq": 72,
+"r": 73
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-20",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（B） 作業後"
+},
+"seq": 73,
+"r": 74
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-21",
+"unit": "液酸供給圧力調節弁",
+"code": "0-03-2-04",
+"date": "5/14〜5/15",
+"kubun": "整備",
+"work": "酸素発生設備 電動弁・調節弁 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 74,
+"r": 75
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-21",
+"image": "写真代替図（線画）",
+"caption": "液酸供給圧力調節弁 作業前"
+},
+"seq": 75,
+"r": 76
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-21",
+"image": "写真代替図（線画）",
+"caption": "液酸供給圧力調節弁 作業後"
+},
+"seq": 76,
+"r": 77
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-22",
+"unit": "ボイラ給水ポンプ（C）用電動機",
+"code": "M-0155",
+"date": "5/14",
+"kubun": "点検",
+"work": "余熱利用設備 電気・計装 点検整備（1台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 77,
+"r": 78
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-22",
+"image": "写真代替図（線画）",
+"caption": "ボイラ給水ポンプ（C）用電動機 作業前"
+},
+"seq": 78,
+"r": 79
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-22",
+"image": "写真代替図（線画）",
+"caption": "ボイラ給水ポンプ（C）用電動機 作業後"
+},
+"seq": 79,
+"r": 80
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-23",
+"unit": "脱酸素剤注入ポンプ（A）",
+"code": "0-05-1-10",
+"date": "5/16",
+"kubun": "整備",
+"work": "余熱利用設備 回転機・機械 整備（1台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 80,
+"r": 81
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-23",
+"image": "写真代替図（線画）",
+"caption": "脱酸素剤注入ポンプ（A） 作業前"
+},
+"seq": 81,
+"r": 82
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-23",
+"image": "写真代替図（線画）",
+"caption": "脱酸素剤注入ポンプ（A） 作業後"
+},
+"seq": 82,
+"r": 83
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-24",
+"unit": "高圧蒸気だめ",
+"code": "0-05-1-13",
+"date": "5/18",
+"kubun": "補修",
+"work": "余熱利用設備 静機器 点検補修（1台）",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 83,
+"r": 84
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-24",
+"image": "写真代替図（線画）",
+"caption": "高圧蒸気だめ 作業前"
+},
+"seq": 84,
+"r": 85
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-24",
+"image": "写真代替図（線画）",
+"caption": "高圧蒸気だめ 作業後"
+},
+"seq": 85,
+"r": 86
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-25",
+"unit": "飛灰混練機（A）",
+"code": "0-06-1-03",
+"date": "5/16〜5/17",
+"kubun": "整備",
+"work": "灰処理設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 86,
+"r": 87
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-25",
+"image": "写真代替図（線画）",
+"caption": "飛灰混練機（A） 作業前"
+},
+"seq": 87,
+"r": 88
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-25",
+"image": "写真代替図（線画）",
+"caption": "飛灰混練機（A） 作業後"
+},
+"seq": 88,
+"r": 89
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-26",
+"unit": "キレート薬剤ポンプ（A）",
+"code": "0-06-1-06",
+"date": "5/16〜5/17",
+"kubun": "整備",
+"work": "灰処理設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 89,
+"r": 90
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-26",
+"image": "写真代替図（線画）",
+"caption": "キレート薬剤ポンプ（A） 作業前"
+},
+"seq": 90,
+"r": 91
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-26",
+"image": "写真代替図（線画）",
+"caption": "キレート薬剤ポンプ（A） 作業後"
+},
+"seq": 91,
+"r": 92
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-27",
+"unit": "アンモニア水移送ポンプ（A）",
+"code": "0-07-1-05",
+"date": "5/15",
+"kubun": "整備",
+"work": "薬剤貯留設備 回転機・機械 整備（1台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 92,
+"r": 93
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-27",
+"image": "写真代替図（線画）",
+"caption": "アンモニア水移送ポンプ（A） 作業前"
+},
+"seq": 93,
+"r": 94
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-27",
+"image": "写真代替図（線画）",
+"caption": "アンモニア水移送ポンプ（A） 作業後"
+},
+"seq": 94,
+"r": 95
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-28",
+"unit": "プラント用水ポンプ（A）",
+"code": "0-08-1-02",
+"date": "5/17",
+"kubun": "整備",
+"work": "給水設備 回転機・機械 整備（1台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 95,
+"r": 96
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-28",
+"image": "写真代替図（線画）",
+"caption": "プラント用水ポンプ（A） 作業前"
+},
+"seq": 96,
+"r": 97
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-28",
+"image": "写真代替図（線画）",
+"caption": "プラント用水ポンプ（A） 作業後"
+},
+"seq": 97,
+"r": 98
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-29",
+"unit": "排水移送ポンプ（A）",
+"code": "0-09-1-02",
+"date": "5/16〜5/17",
+"kubun": "整備",
+"work": "排水処理設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 98,
+"r": 99
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-29",
+"image": "写真代替図（線画）",
+"caption": "排水移送ポンプ（A） 作業前"
+},
+"seq": 99,
+"r": 100
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-29",
+"image": "写真代替図（線画）",
+"caption": "排水移送ポンプ（A） 作業後"
+},
+"seq": 100,
+"r": 101
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-30",
+"unit": "処理水ポンプ（A）",
+"code": "0-09-1-08",
+"date": "5/16〜5/17",
+"kubun": "整備",
+"work": "排水処理設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 101,
+"r": 102
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-30",
+"image": "写真代替図（線画）",
+"caption": "処理水ポンプ（A） 作業前"
+},
+"seq": 102,
+"r": 103
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-30",
+"image": "写真代替図（線画）",
+"caption": "処理水ポンプ（A） 作業後"
+},
+"seq": 103,
+"r": 104
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-31",
+"unit": "凝集沈殿槽",
+"code": "0-09-1-04",
+"date": "5/14",
+"kubun": "補修",
+"work": "排水処理設備 静機器 点検補修（1台）",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 104,
+"r": 105
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-31",
+"image": "写真代替図（線画）",
+"caption": "凝集沈殿槽 作業前"
+},
+"seq": 105,
+"r": 106
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-31",
+"image": "写真代替図（線画）",
+"caption": "凝集沈殿槽 作業後"
+},
+"seq": 106,
+"r": 107
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-32",
+"unit": "空気圧縮機（A）用電動機",
+"code": "M-0203",
+"date": "5/14〜5/15",
+"kubun": "点検",
+"work": "圧縮空気設備 電気・計装 点検整備（2台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 107,
+"r": 108
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-32",
+"image": "写真代替図（線画）",
+"caption": "空気圧縮機（A）用電動機 作業前"
+},
+"seq": 108,
+"r": 109
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-32",
+"image": "写真代替図（線画）",
+"caption": "空気圧縮機（A）用電動機 作業後"
+},
+"seq": 109,
+"r": 110
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-33",
+"unit": "空気圧縮機（B）用電動機",
+"code": "M-0204",
+"date": "5/14〜5/15",
+"kubun": "点検",
+"work": "圧縮空気設備 電気・計装 点検整備（2台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 110,
+"r": 111
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-33",
+"image": "写真代替図（線画）",
+"caption": "空気圧縮機（B）用電動機 作業前"
+},
+"seq": 111,
+"r": 112
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-33",
+"image": "写真代替図（線画）",
+"caption": "空気圧縮機（B）用電動機 作業後"
+},
+"seq": 112,
+"r": 113
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-34",
+"unit": "主変圧器",
+"code": "0-11-1-02",
+"date": "5/13〜5/17",
+"kubun": "点検",
+"work": "電気設備 電気・計装 点検整備（9台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 113,
+"r": 114
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-34",
+"image": "写真代替図（線画）",
+"caption": "主変圧器 作業前"
+},
+"seq": 114,
+"r": 115
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-34",
+"image": "写真代替図（線画）",
+"caption": "主変圧器 作業後"
+},
+"seq": 115,
+"r": 116
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-35",
+"unit": "動力変圧器（2号炉）",
+"code": "0-11-3-02",
+"date": "5/13〜5/17",
+"kubun": "点検",
+"work": "電気設備 電気・計装 点検整備（9台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 116,
+"r": 117
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-35",
+"image": "写真代替図（線画）",
+"caption": "動力変圧器（2号炉） 作業前"
+},
+"seq": 117,
+"r": 118
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-35",
+"image": "写真代替図（線画）",
+"caption": "動力変圧器（2号炉） 作業後"
+},
+"seq": 118,
+"r": 119
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-36",
+"unit": "照明変圧器",
+"code": "0-11-3-05",
+"date": "5/13〜5/17",
+"kubun": "点検",
+"work": "電気設備 電気・計装 点検整備（9台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 119,
+"r": 120
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-36",
+"image": "写真代替図（線画）",
+"caption": "照明変圧器 作業前"
+},
+"seq": 120,
+"r": 121
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-36",
+"image": "写真代替図（線画）",
+"caption": "照明変圧器 作業後"
+},
+"seq": 121,
+"r": 122
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-37",
+"unit": "低圧配電盤（1号炉）",
+"code": "0-11-4-01",
+"date": "5/13〜5/17",
+"kubun": "点検",
+"work": "電気設備 電気・計装 点検整備（9台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 122,
+"r": 123
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-37",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（1号炉） 作業前"
+},
+"seq": 123,
+"r": 124
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-37",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（1号炉） 作業後"
+},
+"seq": 124,
+"r": 125
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-38",
+"unit": "低圧配電盤（共通-2）",
+"code": "0-11-4-04",
+"date": "5/13〜5/17",
+"kubun": "点検",
+"work": "電気設備 電気・計装 点検整備（9台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 125,
+"r": 126
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-38",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（共通-2） 作業前"
+},
+"seq": 126,
+"r": 127
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-38",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（共通-2） 作業後"
+},
+"seq": 127,
+"r": 128
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-39",
+"unit": "低圧配電盤（PSA）",
+"code": "0-11-4-05",
+"date": "5/13〜5/17",
+"kubun": "点検",
+"work": "電気設備 電気・計装 点検整備（9台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 128,
+"r": 129
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-39",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（PSA） 作業前"
+},
+"seq": 129,
+"r": 130
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-39",
+"image": "写真代替図（線画）",
+"caption": "低圧配電盤（PSA） 作業後"
+},
+"seq": 130,
+"r": 131
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-40",
+"unit": "共通動力制御盤（MCC-3）",
+"code": "0-11-4-08",
+"date": "5/13〜5/17",
+"kubun": "点検",
+"work": "電気設備 電気・計装 点検整備（9台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 131,
+"r": 132
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-40",
+"image": "写真代替図（線画）",
+"caption": "共通動力制御盤（MCC-3） 作業前"
+},
+"seq": 132,
+"r": 133
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-40",
+"image": "写真代替図（線画）",
+"caption": "共通動力制御盤（MCC-3） 作業後"
+},
+"seq": 133,
+"r": 134
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-41",
+"unit": "直流電源装置",
+"code": "0-11-5-03",
+"date": "5/13〜5/17",
+"kubun": "点検",
+"work": "電気設備 電気・計装 点検整備（9台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 134,
+"r": 135
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-41",
+"image": "写真代替図（線画）",
+"caption": "直流電源装置 作業前"
+},
+"seq": 135,
+"r": 136
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-41",
+"image": "写真代替図（線画）",
+"caption": "直流電源装置 作業後"
+},
+"seq": 136,
+"r": 137
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-42",
+"unit": "無停電電源装置（UPS-2）",
+"code": "0-11-5-05",
+"date": "5/13〜5/17",
+"kubun": "点検",
+"work": "電気設備 電気・計装 点検整備（9台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 137,
+"r": 138
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-42",
+"image": "写真代替図（線画）",
+"caption": "無停電電源装置（UPS-2） 作業前"
+},
+"seq": 138,
+"r": 139
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-42",
+"image": "写真代替図（線画）",
+"caption": "無停電電源装置（UPS-2） 作業後"
+},
+"seq": 139,
+"r": 140
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-43",
+"unit": "主蒸気ヘッダ電動弁",
+"code": "0-13-1-01",
+"date": "5/12〜5/13",
+"kubun": "整備",
+"work": "共通弁類 電動弁・調節弁 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 140,
+"r": 141
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-43",
+"image": "写真代替図（線画）",
+"caption": "主蒸気ヘッダ電動弁 作業前"
+},
+"seq": 141,
+"r": 142
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-43",
+"image": "写真代替図（線画）",
+"caption": "主蒸気ヘッダ電動弁 作業後"
+},
+"seq": 142,
+"r": 143
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-44",
+"unit": "雑用空気電動弁",
+"code": "0-13-1-22",
+"date": "5/12〜5/13",
+"kubun": "整備",
+"work": "共通弁類 電動弁・調節弁 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 143,
+"r": 144
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-44",
+"image": "写真代替図（線画）",
+"caption": "雑用空気電動弁 作業前"
+},
+"seq": 144,
+"r": 145
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-44",
+"image": "写真代替図（線画）",
+"caption": "雑用空気電動弁 作業後"
+},
+"seq": 145,
+"r": 146
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-45",
+"unit": "ピット消火ポンプ",
+"code": "0-14-2-04",
+"date": "5/14〜5/15",
+"kubun": "整備",
+"work": "付帯設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 146,
+"r": 147
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-45",
+"image": "写真代替図（線画）",
+"caption": "ピット消火ポンプ 作業前"
+},
+"seq": 147,
+"r": 148
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-45",
+"image": "写真代替図（線画）",
+"caption": "ピット消火ポンプ 作業後"
+},
+"seq": 148,
+"r": 149
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-46",
+"unit": "純水再生ポンプ（A）",
+"code": "0-14-4-01",
+"date": "5/14〜5/15",
+"kubun": "整備",
+"work": "付帯設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 149,
+"r": 150
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-46",
+"image": "写真代替図（線画）",
+"caption": "純水再生ポンプ（A） 作業前"
+},
+"seq": 150,
+"r": 151
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-46",
+"image": "写真代替図（線画）",
+"caption": "純水再生ポンプ（A） 作業後"
+},
+"seq": 151,
+"r": 152
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "使用部品",
+"name": "パッキン・ガスケット類",
+"spec": "—",
+"qty": "一式",
+"kind": "委託範囲",
+"place": "各マンホール"
+},
+"seq": 152,
+"r": 153
+}
+]
+}

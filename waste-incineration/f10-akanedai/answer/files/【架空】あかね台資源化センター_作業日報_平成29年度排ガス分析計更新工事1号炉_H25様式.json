@@ -1,0 +1,222 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_平成29年度排ガス分析計更新工事1号炉_H25様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "10.16",
+"kind": "item",
+"fields": {
+"date": "2017-10-16",
+"weather": "雨",
+"company": "あかね電設",
+"place": "1号排ガス分析計",
+"content": "1号排ガスHCl計・1号排ガスSOx計 更新（据付・配線・試運転）",
+"persons": 4,
+"start": "13:00",
+"end": "17:00",
+"manDaysText": "4名 13:00〜17:00",
+"manDays": 2.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "10.16",
+"kind": "total",
+"fields": {
+"date": "2017-10-16",
+"persons": 4
+},
+"r": 21
+},
+{
+"sheet": "10.17",
+"kind": "item",
+"fields": {
+"date": "2017-10-17",
+"weather": "晴",
+"company": "あかね電設",
+"place": "1号排ガス分析計",
+"content": "1号排ガスNOx計・1号ばいじん計 更新（据付・配線・試運転）",
+"persons": 4,
+"start": "8:30",
+"end": "17:00",
+"manDaysText": "4名 8:30〜17:00",
+"manDays": 3.75,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "10.17",
+"kind": "total",
+"fields": {
+"date": "2017-10-17",
+"persons": 4
+},
+"r": 21
+},
+{
+"sheet": "10.18",
+"kind": "item",
+"fields": {
+"date": "2017-10-18",
+"weather": "晴",
+"company": "あかね電設",
+"place": "1号排ガス分析計",
+"content": "1号排ガス流量計・1号水銀連続測定装置 更新（据付・配線・試運転）",
+"persons": 4,
+"start": "8:00",
+"end": "17:00",
+"manDaysText": "4名 8:00〜17:00",
+"manDays": 4.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "10.18",
+"kind": "total",
+"fields": {
+"date": "2017-10-18",
+"persons": 4
+},
+"r": 21
+},
+{
+"sheet": "10.19",
+"kind": "item",
+"fields": {
+"date": "2017-10-19",
+"weather": "雨",
+"company": "あかね電設",
+"place": "1号排ガス分析計",
+"content": "1号水銀連続測定装置 更新（据付・配線・試運転）",
+"persons": 4,
+"start": "8:30",
+"end": "17:00",
+"manDaysText": "4名 8:30〜17:00",
+"manDays": 3.75,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "10.19",
+"kind": "total",
+"fields": {
+"date": "2017-10-19",
+"persons": 4
+},
+"r": 21
+},
+{
+"sheet": "11.1",
+"kind": "item",
+"fields": {
+"date": "2017-11-01",
+"weather": "曇",
+"company": "あかね電設",
+"place": "1号炉 計装",
+"content": "送風流量計・送風酸素濃度計 校正",
+"persons": 2,
+"start": "8:00",
+"end": "17:00",
+"manDaysText": "2名 8:00〜17:00",
+"manDays": 2.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "11.1",
+"kind": "total",
+"fields": {
+"date": "2017-11-01",
+"persons": 2
+},
+"r": 21
+},
+{
+"sheet": "11.2",
+"kind": "item",
+"fields": {
+"date": "2017-11-02",
+"weather": "晴",
+"company": "あかね電設",
+"place": "1号炉 計装",
+"content": "排ガス分析計（O2・CO） 校正",
+"persons": 1,
+"start": "8:30",
+"end": "17:00",
+"manDaysText": "1名 8:30〜17:00",
+"manDays": 0.94,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "11.2",
+"kind": "total",
+"fields": {
+"date": "2017-11-02",
+"persons": 1
+},
+"r": 21
+},
+{
+"sheet": "11.3",
+"kind": "item",
+"fields": {
+"date": "2017-11-03",
+"weather": "曇",
+"company": "あかね電設",
+"place": "1号炉 計装",
+"content": "排ガス分析計（HCl・SOx・NOx） 校正",
+"persons": 1,
+"start": "8:30",
+"end": "17:00",
+"manDaysText": "1名 8:30〜17:00",
+"manDays": 0.94,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "11.3",
+"kind": "total",
+"fields": {
+"date": "2017-11-03",
+"persons": 1
+},
+"r": 21
+},
+{
+"sheet": "11.4",
+"kind": "item",
+"fields": {
+"date": "2017-11-04",
+"weather": "曇",
+"company": "あかね電設",
+"place": "1号炉 計装",
+"content": "ばいじん計・排ガス流量計 校正",
+"persons": 2,
+"start": "9:00",
+"end": "16:30",
+"manDaysText": "2名 9:00〜16:30",
+"manDays": 1.62,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "11.4",
+"kind": "total",
+"fields": {
+"date": "2017-11-04",
+"persons": 2
+},
+"r": 21
+}
+]
+}

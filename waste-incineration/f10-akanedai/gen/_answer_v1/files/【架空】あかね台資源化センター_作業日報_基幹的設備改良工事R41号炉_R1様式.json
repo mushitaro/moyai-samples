@@ -1,0 +1,3876 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_基幹的設備改良工事R41号炉_R1様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "0913",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-13",
+"weather": "曇",
+"company": "丸鳥足場工業",
+"persons": 7,
+"time": "8:00〜17:00",
+"manHours": 56.0
+},
+"r": 5
+},
+{
+"sheet": "0913",
+"kind": "total",
+"fields": {
+"date": "2022-09-13",
+"persons": 7,
+"manHours": 56.0
+},
+"r": 6
+},
+{
+"sheet": "0913",
+"kind": "item",
+"fields": {
+"date": "2022-09-13",
+"weather": "曇",
+"blockCompany": "丸鳥足場工業",
+"no": "A1",
+"place": "1号溶融炉本体",
+"content": "足場組立 1段目",
+"time": "8:00〜17:00",
+"persons": 7,
+"manHours": 56.0,
+"progress": "20%"
+},
+"r": 12
+},
+{
+"sheet": "0914",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-14",
+"weather": "晴のち曇",
+"company": "丸鳥足場工業",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0
+},
+"r": 5
+},
+{
+"sheet": "0914",
+"kind": "total",
+"fields": {
+"date": "2022-09-14",
+"persons": 6,
+"manHours": 45.0
+},
+"r": 6
+},
+{
+"sheet": "0914",
+"kind": "item",
+"fields": {
+"date": "2022-09-14",
+"weather": "晴のち曇",
+"blockCompany": "丸鳥足場工業",
+"no": "A1",
+"place": "1号溶融炉本体",
+"content": "足場 点検・手すり設置",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "40%"
+},
+"r": 12
+},
+{
+"sheet": "0915",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-15",
+"weather": "曇",
+"company": "丸鳥足場工業",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0
+},
+"r": 5
+},
+{
+"sheet": "0915",
+"kind": "total",
+"fields": {
+"date": "2022-09-15",
+"persons": 6,
+"manHours": 45.0
+},
+"r": 6
+},
+{
+"sheet": "0915",
+"kind": "item",
+"fields": {
+"date": "2022-09-15",
+"weather": "曇",
+"blockCompany": "丸鳥足場工業",
+"no": "A1",
+"place": "1号溶融炉本体",
+"content": "足場組立 3段目",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "60%"
+},
+"r": 12
+},
+{
+"sheet": "0916",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-16",
+"weather": "晴",
+"company": "丸鳥足場工業",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0
+},
+"r": 5
+},
+{
+"sheet": "0916",
+"kind": "total",
+"fields": {
+"date": "2022-09-16",
+"persons": 6,
+"manHours": 45.0
+},
+"r": 6
+},
+{
+"sheet": "0916",
+"kind": "item",
+"fields": {
+"date": "2022-09-16",
+"weather": "晴",
+"blockCompany": "丸鳥足場工業",
+"no": "A1",
+"place": "1号溶融炉本体",
+"content": "足場 点検・手すり設置",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "80%"
+},
+"r": 12
+},
+{
+"sheet": "0917",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-17",
+"weather": "晴",
+"company": "丸鳥足場工業",
+"persons": 6,
+"time": "13:00〜17:00",
+"manHours": 24.0
+},
+"r": 5
+},
+{
+"sheet": "0917",
+"kind": "total",
+"fields": {
+"date": "2022-09-17",
+"persons": 6,
+"manHours": 24.0
+},
+"r": 6
+},
+{
+"sheet": "0917",
+"kind": "item",
+"fields": {
+"date": "2022-09-17",
+"weather": "晴",
+"blockCompany": "丸鳥足場工業",
+"no": "A1",
+"place": "1号溶融炉本体",
+"content": "足場組立 5段目",
+"time": "13:00〜17:00",
+"persons": 6,
+"manHours": 24.0,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "0919",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-19",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:30〜18:30",
+"manHours": 90.0
+},
+"r": 5
+},
+{
+"sheet": "0919",
+"kind": "total",
+"fields": {
+"date": "2022-09-19",
+"persons": 10,
+"manHours": 90.0
+},
+"r": 6
+},
+{
+"sheet": "0919",
+"kind": "item",
+"fields": {
+"date": "2022-09-19",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "はつり材 搬出 フレコン 7袋",
+"time": "8:30〜18:30",
+"persons": 10,
+"manHours": 90.0,
+"progress": "11%"
+},
+"r": 12
+},
+{
+"sheet": "0920",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-20",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "13:00〜17:00",
+"manHours": 40.0
+},
+"r": 5
+},
+{
+"sheet": "0920",
+"kind": "total",
+"fields": {
+"date": "2022-09-20",
+"persons": 10,
+"manHours": 40.0
+},
+"r": 6
+},
+{
+"sheet": "0920",
+"kind": "item",
+"fields": {
+"date": "2022-09-20",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "旧耐火物 はつり（シャフト下部）・鉄皮清掃",
+"time": "13:00〜17:00",
+"persons": 10,
+"manHours": 40.0,
+"progress": "17%"
+},
+"r": 12
+},
+{
+"sheet": "0921",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-21",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:30〜18:30",
+"manHours": 90.0
+},
+"r": 5
+},
+{
+"sheet": "0921",
+"kind": "total",
+"fields": {
+"date": "2022-09-21",
+"persons": 10,
+"manHours": 90.0
+},
+"r": 6
+},
+{
+"sheet": "0921",
+"kind": "item",
+"fields": {
+"date": "2022-09-21",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "旧耐火物 はつり（朝顔部）",
+"time": "8:30〜18:30",
+"persons": 10,
+"manHours": 90.0,
+"progress": "22%"
+},
+"r": 12
+},
+{
+"sheet": "0922",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-22",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 9,
+"time": "9:00〜16:30",
+"manHours": 58.5
+},
+"r": 5
+},
+{
+"sheet": "0922",
+"kind": "total",
+"fields": {
+"date": "2022-09-22",
+"persons": 9,
+"manHours": 58.5
+},
+"r": 6
+},
+{
+"sheet": "0922",
+"kind": "item",
+"fields": {
+"date": "2022-09-22",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "はつり材 搬出 フレコン 8袋",
+"time": "9:00〜16:30",
+"persons": 9,
+"manHours": 58.5,
+"progress": "28%"
+},
+"r": 12
+},
+{
+"sheet": "0923",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-23",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:30〜17:00",
+"manHours": 75.0
+},
+"r": 5
+},
+{
+"sheet": "0923",
+"kind": "total",
+"fields": {
+"date": "2022-09-23",
+"persons": 10,
+"manHours": 75.0
+},
+"r": 6
+},
+{
+"sheet": "0923",
+"kind": "item",
+"fields": {
+"date": "2022-09-23",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "旧耐火物 はつり（羽口部）・鉄皮清掃",
+"time": "8:30〜17:00",
+"persons": 10,
+"manHours": 75.0,
+"progress": "33%"
+},
+"r": 12
+},
+{
+"sheet": "0924",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-24",
+"weather": "曇のち雨",
+"company": "東雲築炉",
+"persons": 9,
+"time": "8:30〜17:00",
+"manHours": 67.5
+},
+"r": 5
+},
+{
+"sheet": "0924",
+"kind": "total",
+"fields": {
+"date": "2022-09-24",
+"persons": 9,
+"manHours": 67.5
+},
+"r": 6
+},
+{
+"sheet": "0924",
+"kind": "item",
+"fields": {
+"date": "2022-09-24",
+"weather": "曇のち雨",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "旧耐火物 はつり（シャフト上部）",
+"time": "8:30〜17:00",
+"persons": 9,
+"manHours": 67.5,
+"progress": "39%"
+},
+"r": 12
+},
+{
+"sheet": "0926",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-26",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:30〜17:00",
+"manHours": 75.0
+},
+"r": 5
+},
+{
+"sheet": "0926",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-26",
+"weather": "曇",
+"company": "千草環境",
+"persons": 3,
+"time": "8:30〜18:30",
+"manHours": 27.0
+},
+"r": 6
+},
+{
+"sheet": "0926",
+"kind": "total",
+"fields": {
+"date": "2022-09-26",
+"persons": 13,
+"manHours": 102.0
+},
+"r": 7
+},
+{
+"sheet": "0926",
+"kind": "item",
+"fields": {
+"date": "2022-09-26",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "旧耐火物 はつり（シャフト下部）・鉄皮清掃",
+"time": "8:30〜17:00",
+"persons": 10,
+"manHours": 75.0,
+"progress": "50%"
+},
+"r": 12
+},
+{
+"sheet": "0926",
+"kind": "item",
+"fields": {
+"date": "2022-09-26",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 当て板溶接（シャフト中部）",
+"time": "8:30〜18:30",
+"persons": 3,
+"manHours": 27.0,
+"progress": "12%"
+},
+"r": 14
+},
+{
+"sheet": "0927",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-27",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 11,
+"time": "9:00〜16:30",
+"manHours": 71.5
+},
+"r": 5
+},
+{
+"sheet": "0927",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-27",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5
+},
+"r": 6
+},
+{
+"sheet": "0927",
+"kind": "total",
+"fields": {
+"date": "2022-09-27",
+"persons": 14,
+"manHours": 94.0
+},
+"r": 7
+},
+{
+"sheet": "0927",
+"kind": "item",
+"fields": {
+"date": "2022-09-27",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "旧耐火物 はつり（朝顔部）",
+"time": "9:00〜16:30",
+"persons": 11,
+"manHours": 71.5,
+"progress": "56%"
+},
+"r": 12
+},
+{
+"sheet": "0927",
+"kind": "item",
+"fields": {
+"date": "2022-09-27",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 補修部 PT 検査",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "19%"
+},
+"r": 14
+},
+{
+"sheet": "0928",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-28",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 11,
+"time": "8:00〜17:00",
+"manHours": 88.0
+},
+"r": 5
+},
+{
+"sheet": "0928",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-28",
+"weather": "雨",
+"company": "千草環境",
+"persons": 5,
+"time": "8:30〜18:30",
+"manHours": 45.0
+},
+"r": 6
+},
+{
+"sheet": "0928",
+"kind": "total",
+"fields": {
+"date": "2022-09-28",
+"persons": 16,
+"manHours": 133.0
+},
+"r": 7
+},
+{
+"sheet": "0928",
+"kind": "item",
+"fields": {
+"date": "2022-09-28",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "はつり材 搬出 フレコン 3袋",
+"time": "8:00〜17:00",
+"persons": 11,
+"manHours": 88.0,
+"progress": "61%"
+},
+"r": 12
+},
+{
+"sheet": "0928",
+"kind": "item",
+"fields": {
+"date": "2022-09-28",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 肉厚測定・マーキング（朝顔部）",
+"time": "8:30〜18:30",
+"persons": 5,
+"manHours": 45.0,
+"progress": "25%"
+},
+"r": 14
+},
+{
+"sheet": "0929",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-29",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:00〜17:00",
+"manHours": 80.0
+},
+"r": 5
+},
+{
+"sheet": "0929",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-29",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0
+},
+"r": 6
+},
+{
+"sheet": "0929",
+"kind": "total",
+"fields": {
+"date": "2022-09-29",
+"persons": 14,
+"manHours": 110.0
+},
+"r": 7
+},
+{
+"sheet": "0929",
+"kind": "item",
+"fields": {
+"date": "2022-09-29",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "旧耐火物 はつり（羽口部）・鉄皮清掃",
+"time": "8:00〜17:00",
+"persons": 10,
+"manHours": 80.0,
+"progress": "67%"
+},
+"r": 12
+},
+{
+"sheet": "0929",
+"kind": "item",
+"fields": {
+"date": "2022-09-29",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 当て板溶接（炉床部）",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "31%"
+},
+"r": 14
+},
+{
+"sheet": "0930",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-30",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "13:00〜17:00",
+"manHours": 40.0
+},
+"r": 5
+},
+{
+"sheet": "0930",
+"kind": "subtotal",
+"fields": {
+"date": "2022-09-30",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 11,
+"time": "9:00〜16:30",
+"manHours": 71.5
+},
+"r": 6
+},
+{
+"sheet": "0930",
+"kind": "total",
+"fields": {
+"date": "2022-09-30",
+"persons": 21,
+"manHours": 111.5
+},
+"r": 7
+},
+{
+"sheet": "0930",
+"kind": "item",
+"fields": {
+"date": "2022-09-30",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "旧耐火物 はつり（シャフト上部）",
+"time": "13:00〜17:00",
+"persons": 10,
+"manHours": 40.0,
+"progress": "72%"
+},
+"r": 12
+},
+{
+"sheet": "0930",
+"kind": "item",
+"fields": {
+"date": "2022-09-30",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "旧ジャケット 撤去（6枚目）",
+"time": "9:00〜16:30",
+"persons": 7,
+"manHours": 45.5,
+"progress": "5%"
+},
+"r": 14
+},
+{
+"sheet": "0930",
+"kind": "item",
+"fields": {
+"date": "2022-09-30",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 補修部 PT 検査",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "38%"
+},
+"r": 15
+},
+{
+"sheet": "1001",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-01",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "13:00〜17:00",
+"manHours": 40.0
+},
+"r": 5
+},
+{
+"sheet": "1001",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-01",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 13,
+"time": "8:30〜18:30",
+"manHours": 77.0
+},
+"r": 6
+},
+{
+"sheet": "1001",
+"kind": "total",
+"fields": {
+"date": "2022-10-01",
+"persons": 23,
+"manHours": 117.0
+},
+"r": 7
+},
+{
+"sheet": "1001",
+"kind": "item",
+"fields": {
+"date": "2022-10-01",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "はつり材 搬出 フレコン 9袋",
+"time": "13:00〜17:00",
+"persons": 10,
+"manHours": 40.0,
+"progress": "78%"
+},
+"r": 12
+},
+{
+"sheet": "1001",
+"kind": "item",
+"fields": {
+"date": "2022-10-01",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "新ジャケット 据付（2段）",
+"time": "13:00〜17:00",
+"persons": 8,
+"manHours": 32.0,
+"progress": "10%"
+},
+"r": 14
+},
+{
+"sheet": "1001",
+"kind": "item",
+"fields": {
+"date": "2022-10-01",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 肉厚測定・マーキング（シャフト上部）",
+"time": "8:30〜18:30",
+"persons": 5,
+"manHours": 45.0,
+"progress": "44%"
+},
+"r": 15
+},
+{
+"sheet": "1003",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:30〜17:00",
+"manHours": 75.0
+},
+"r": 5
+},
+{
+"sheet": "1003",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"company": "千草環境",
+"persons": 11,
+"time": "8:00〜17:00",
+"manHours": 88.0
+},
+"r": 6
+},
+{
+"sheet": "1003",
+"kind": "total",
+"fields": {
+"date": "2022-10-03",
+"persons": 21,
+"manHours": 163.0
+},
+"r": 7
+},
+{
+"sheet": "1003",
+"kind": "item",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "旧耐火物 はつり（朝顔部）",
+"time": "8:30〜17:00",
+"persons": 10,
+"manHours": 75.0,
+"progress": "89%"
+},
+"r": 12
+},
+{
+"sheet": "1003",
+"kind": "item",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "新ジャケット 据付（4段）・溶接",
+"time": "8:00〜17:00",
+"persons": 8,
+"manHours": 64.0,
+"progress": "19%"
+},
+"r": 14
+},
+{
+"sheet": "1003",
+"kind": "item",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 補修部 PT 検査",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "56%"
+},
+"r": 15
+},
+{
+"sheet": "1004",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-04",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 9,
+"time": "8:30〜17:00",
+"manHours": 67.5
+},
+"r": 5
+},
+{
+"sheet": "1004",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-04",
+"weather": "曇",
+"company": "千草環境",
+"persons": 12,
+"time": "8:00〜17:00",
+"manHours": 92.5
+},
+"r": 6
+},
+{
+"sheet": "1004",
+"kind": "total",
+"fields": {
+"date": "2022-10-04",
+"persons": 21,
+"manHours": 160.0
+},
+"r": 7
+},
+{
+"sheet": "1004",
+"kind": "item",
+"fields": {
+"date": "2022-10-04",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "はつり材 搬出 フレコン 8袋",
+"time": "8:30〜17:00",
+"persons": 9,
+"manHours": 67.5,
+"progress": "94%"
+},
+"r": 12
+},
+{
+"sheet": "1004",
+"kind": "item",
+"fields": {
+"date": "2022-10-04",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "旧ジャケット 撤去（6枚目）",
+"time": "8:30〜17:00",
+"persons": 7,
+"manHours": 52.5,
+"progress": "24%"
+},
+"r": 14
+},
+{
+"sheet": "1004",
+"kind": "item",
+"fields": {
+"date": "2022-10-04",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 肉厚測定・マーキング（朝顔部）",
+"time": "8:00〜17:00",
+"persons": 5,
+"manHours": 40.0,
+"progress": "62%"
+},
+"r": 15
+},
+{
+"sheet": "1005",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-05",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 11,
+"time": "8:30〜17:00",
+"manHours": 82.5
+},
+"r": 5
+},
+{
+"sheet": "1005",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-05",
+"weather": "晴",
+"company": "千草環境",
+"persons": 17,
+"time": "8:30〜17:00",
+"manHours": 110.0
+},
+"r": 6
+},
+{
+"sheet": "1005",
+"kind": "total",
+"fields": {
+"date": "2022-10-05",
+"persons": 28,
+"manHours": 192.5
+},
+"r": 7
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2022-10-05",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A2",
+"place": "1号溶融炉本体",
+"content": "旧耐火物 はつり（羽口部）・鉄皮清掃",
+"time": "8:30〜17:00",
+"persons": 11,
+"manHours": 82.5,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2022-10-05",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "新ジャケット 据付（6段）",
+"time": "8:30〜17:00",
+"persons": 9,
+"manHours": 67.5,
+"progress": "29%"
+},
+"r": 14
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2022-10-05",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 当て板溶接（炉床部）",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "69%"
+},
+"r": 15
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2022-10-05",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A5",
+"place": "1号羽口冷却水ポンプ（A）",
+"content": "旧ポンプ・電動機 撤去",
+"time": "13:00〜17:00",
+"persons": 5,
+"manHours": 20.0,
+"progress": "14%"
+},
+"r": 16
+},
+{
+"sheet": "1006",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-06",
+"weather": "雨",
+"company": "千草環境",
+"persons": 17,
+"time": "8:30〜18:30",
+"manHours": 113.0
+},
+"r": 5
+},
+{
+"sheet": "1006",
+"kind": "total",
+"fields": {
+"date": "2022-10-06",
+"persons": 17,
+"manHours": 113.0
+},
+"r": 6
+},
+{
+"sheet": "1006",
+"kind": "item",
+"fields": {
+"date": "2022-10-06",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "ジャケット 冷却水配管 接続",
+"time": "9:00〜16:30",
+"persons": 8,
+"manHours": 52.0,
+"progress": "33%"
+},
+"r": 12
+},
+{
+"sheet": "1006",
+"kind": "item",
+"fields": {
+"date": "2022-10-06",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 補修部 PT 検査",
+"time": "13:00〜17:00",
+"persons": 4,
+"manHours": 16.0,
+"progress": "75%"
+},
+"r": 13
+},
+{
+"sheet": "1006",
+"kind": "item",
+"fields": {
+"date": "2022-10-06",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A5",
+"place": "1号羽口冷却水ポンプ（A）",
+"content": "新ポンプ 据付・芯出し",
+"time": "8:30〜18:30",
+"persons": 5,
+"manHours": 45.0,
+"progress": "29%"
+},
+"r": 14
+},
+{
+"sheet": "1007",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-07",
+"weather": "晴",
+"company": "千草環境",
+"persons": 14,
+"time": "8:30〜18:30",
+"manHours": 106.5
+},
+"r": 5
+},
+{
+"sheet": "1007",
+"kind": "total",
+"fields": {
+"date": "2022-10-07",
+"persons": 14,
+"manHours": 106.5
+},
+"r": 6
+},
+{
+"sheet": "1007",
+"kind": "item",
+"fields": {
+"date": "2022-10-07",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "新ジャケット 据付（8段）・溶接",
+"time": "8:30〜18:30",
+"persons": 8,
+"manHours": 72.0,
+"progress": "38%"
+},
+"r": 12
+},
+{
+"sheet": "1007",
+"kind": "item",
+"fields": {
+"date": "2022-10-07",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 肉厚測定・マーキング（シャフト上部）",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "81%"
+},
+"r": 13
+},
+{
+"sheet": "1007",
+"kind": "item",
+"fields": {
+"date": "2022-10-07",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A5",
+"place": "1号羽口冷却水ポンプ（A）",
+"content": "配管接続・試運転 振動 1.7mm/s",
+"time": "13:00〜17:00",
+"persons": 3,
+"manHours": 12.0,
+"progress": "43%"
+},
+"r": 14
+},
+{
+"sheet": "1008",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-08",
+"weather": "曇",
+"company": "千草環境",
+"persons": 15,
+"time": "8:30〜17:00",
+"manHours": 112.5
+},
+"r": 5
+},
+{
+"sheet": "1008",
+"kind": "total",
+"fields": {
+"date": "2022-10-08",
+"persons": 15,
+"manHours": 112.5
+},
+"r": 6
+},
+{
+"sheet": "1008",
+"kind": "item",
+"fields": {
+"date": "2022-10-08",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "旧ジャケット 撤去（7枚目）",
+"time": "8:30〜17:00",
+"persons": 8,
+"manHours": 60.0,
+"progress": "43%"
+},
+"r": 12
+},
+{
+"sheet": "1008",
+"kind": "item",
+"fields": {
+"date": "2022-10-08",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 当て板溶接（シャフト中部）",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "88%"
+},
+"r": 13
+},
+{
+"sheet": "1008",
+"kind": "item",
+"fields": {
+"date": "2022-10-08",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "A5",
+"place": "1号羽口冷却水ポンプ（A）",
+"content": "旧ポンプ・電動機 撤去",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "57%"
+},
+"r": 14
+},
+{
+"sheet": "1010",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-10",
+"weather": "雨",
+"company": "千草環境",
+"persons": 17,
+"time": "8:30〜18:30",
+"manHours": 135.0
+},
+"r": 5
+},
+{
+"sheet": "1010",
+"kind": "total",
+"fields": {
+"date": "2022-10-10",
+"persons": 17,
+"manHours": 135.0
+},
+"r": 6
+},
+{
+"sheet": "1010",
+"kind": "item",
+"fields": {
+"date": "2022-10-10",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "ジャケット 冷却水配管 接続",
+"time": "8:30〜17:00",
+"persons": 8,
+"manHours": 60.0,
+"progress": "52%"
+},
+"r": 12
+},
+{
+"sheet": "1010",
+"kind": "item",
+"fields": {
+"date": "2022-10-10",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A4",
+"place": "1号溶融炉本体",
+"content": "鉄皮 肉厚測定・マーキング（朝顔部）",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "100%"
+},
+"r": 13
+},
+{
+"sheet": "1010",
+"kind": "item",
+"fields": {
+"date": "2022-10-10",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A5",
+"place": "1号羽口冷却水ポンプ（A）",
+"content": "配管接続・試運転 振動 1.7mm/s",
+"time": "8:30〜18:30",
+"persons": 5,
+"manHours": 45.0,
+"progress": "86%"
+},
+"r": 14
+},
+{
+"sheet": "1011",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-11",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 13,
+"time": "8:30〜18:30",
+"manHours": 97.0
+},
+"r": 5
+},
+{
+"sheet": "1011",
+"kind": "total",
+"fields": {
+"date": "2022-10-11",
+"persons": 13,
+"manHours": 97.0
+},
+"r": 6
+},
+{
+"sheet": "1011",
+"kind": "item",
+"fields": {
+"date": "2022-10-11",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "新ジャケット 据付（12段）・溶接",
+"time": "9:00〜16:30",
+"persons": 8,
+"manHours": 52.0,
+"progress": "57%"
+},
+"r": 12
+},
+{
+"sheet": "1011",
+"kind": "item",
+"fields": {
+"date": "2022-10-11",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "A5",
+"place": "1号羽口冷却水ポンプ（A）",
+"content": "旧ポンプ・電動機 撤去",
+"time": "8:30〜18:30",
+"persons": 5,
+"manHours": 45.0,
+"progress": "100%"
+},
+"r": 13
+},
+{
+"sheet": "1012",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-12",
+"weather": "晴",
+"company": "千草環境",
+"persons": 8,
+"time": "8:30〜18:30",
+"manHours": 72.0
+},
+"r": 5
+},
+{
+"sheet": "1012",
+"kind": "total",
+"fields": {
+"date": "2022-10-12",
+"persons": 8,
+"manHours": 72.0
+},
+"r": 6
+},
+{
+"sheet": "1012",
+"kind": "item",
+"fields": {
+"date": "2022-10-12",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "旧ジャケット 撤去（8枚目）",
+"time": "8:30〜18:30",
+"persons": 8,
+"manHours": 72.0,
+"progress": "62%"
+},
+"r": 12
+},
+{
+"sheet": "1013",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-13",
+"weather": "晴",
+"company": "千草環境",
+"persons": 8,
+"time": "8:30〜18:30",
+"manHours": 72.0
+},
+"r": 5
+},
+{
+"sheet": "1013",
+"kind": "total",
+"fields": {
+"date": "2022-10-13",
+"persons": 8,
+"manHours": 72.0
+},
+"r": 6
+},
+{
+"sheet": "1013",
+"kind": "item",
+"fields": {
+"date": "2022-10-13",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "新ジャケット 据付（14段）",
+"time": "8:30〜18:30",
+"persons": 8,
+"manHours": 72.0,
+"progress": "67%"
+},
+"r": 12
+},
+{
+"sheet": "1014",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-14",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 8,
+"time": "13:00〜17:00",
+"manHours": 32.0
+},
+"r": 5
+},
+{
+"sheet": "1014",
+"kind": "total",
+"fields": {
+"date": "2022-10-14",
+"persons": 8,
+"manHours": 32.0
+},
+"r": 6
+},
+{
+"sheet": "1014",
+"kind": "item",
+"fields": {
+"date": "2022-10-14",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "ジャケット 冷却水配管 接続",
+"time": "13:00〜17:00",
+"persons": 8,
+"manHours": 32.0,
+"progress": "71%"
+},
+"r": 12
+},
+{
+"sheet": "1015",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-15",
+"weather": "雨",
+"company": "千草環境",
+"persons": 15,
+"time": "8:30〜17:00",
+"manHours": 103.5
+},
+"r": 5
+},
+{
+"sheet": "1015",
+"kind": "total",
+"fields": {
+"date": "2022-10-15",
+"persons": 15,
+"manHours": 103.5
+},
+"r": 6
+},
+{
+"sheet": "1015",
+"kind": "item",
+"fields": {
+"date": "2022-10-15",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "新ジャケット 据付（16段）・溶接",
+"time": "9:00〜16:30",
+"persons": 9,
+"manHours": 58.5,
+"progress": "76%"
+},
+"r": 12
+},
+{
+"sheet": "1015",
+"kind": "item",
+"fields": {
+"date": "2022-10-15",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A6",
+"place": "1号主羽口装置",
+"content": "旧羽口 取外し（No.1〜2）",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "8%"
+},
+"r": 13
+},
+{
+"sheet": "1017",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-17",
+"weather": "晴",
+"company": "千草環境",
+"persons": 15,
+"time": "8:30〜17:00",
+"manHours": 112.5
+},
+"r": 5
+},
+{
+"sheet": "1017",
+"kind": "total",
+"fields": {
+"date": "2022-10-17",
+"persons": 15,
+"manHours": 112.5
+},
+"r": 6
+},
+{
+"sheet": "1017",
+"kind": "item",
+"fields": {
+"date": "2022-10-17",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "新ジャケット 据付（18段）",
+"time": "8:30〜17:00",
+"persons": 9,
+"manHours": 67.5,
+"progress": "86%"
+},
+"r": 12
+},
+{
+"sheet": "1017",
+"kind": "item",
+"fields": {
+"date": "2022-10-17",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A6",
+"place": "1号主羽口装置",
+"content": "羽口 冷却水 通水・漏水試験",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "23%"
+},
+"r": 13
+},
+{
+"sheet": "1018",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-18",
+"weather": "雨",
+"company": "千草環境",
+"persons": 13,
+"time": "8:30〜17:00",
+"manHours": 91.5
+},
+"r": 5
+},
+{
+"sheet": "1018",
+"kind": "total",
+"fields": {
+"date": "2022-10-18",
+"persons": 13,
+"manHours": 91.5
+},
+"r": 6
+},
+{
+"sheet": "1018",
+"kind": "item",
+"fields": {
+"date": "2022-10-18",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "ジャケット 冷却水配管 接続",
+"time": "8:30〜17:00",
+"persons": 7,
+"manHours": 52.5,
+"progress": "90%"
+},
+"r": 12
+},
+{
+"sheet": "1018",
+"kind": "item",
+"fields": {
+"date": "2022-10-18",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A6",
+"place": "1号主羽口装置",
+"content": "旧羽口 取外し（No.7〜8）",
+"time": "9:00〜16:30",
+"persons": 6,
+"manHours": 39.0,
+"progress": "31%"
+},
+"r": 13
+},
+{
+"sheet": "1019",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-19",
+"weather": "雨",
+"company": "千草環境",
+"persons": 14,
+"time": "8:00〜18:30",
+"manHours": 118.0
+},
+"r": 5
+},
+{
+"sheet": "1019",
+"kind": "total",
+"fields": {
+"date": "2022-10-19",
+"persons": 14,
+"manHours": 118.0
+},
+"r": 6
+},
+{
+"sheet": "1019",
+"kind": "item",
+"fields": {
+"date": "2022-10-19",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "新ジャケット 据付（20段）・溶接",
+"time": "8:00〜17:00",
+"persons": 8,
+"manHours": 64.0,
+"progress": "95%"
+},
+"r": 12
+},
+{
+"sheet": "1019",
+"kind": "item",
+"fields": {
+"date": "2022-10-19",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A6",
+"place": "1号主羽口装置",
+"content": "新羽口装置 取付（No.1〜2）",
+"time": "8:30〜18:30",
+"persons": 6,
+"manHours": 54.0,
+"progress": "38%"
+},
+"r": 13
+},
+{
+"sheet": "1020",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-20",
+"weather": "曇",
+"company": "千草環境",
+"persons": 12,
+"time": "8:30〜18:30",
+"manHours": 90.5
+},
+"r": 5
+},
+{
+"sheet": "1020",
+"kind": "total",
+"fields": {
+"date": "2022-10-20",
+"persons": 12,
+"manHours": 90.5
+},
+"r": 6
+},
+{
+"sheet": "1020",
+"kind": "item",
+"fields": {
+"date": "2022-10-20",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "A3",
+"place": "1号炉体冷却ジャケット",
+"content": "旧ジャケット 撤去（7枚目）",
+"time": "9:00〜16:30",
+"persons": 7,
+"manHours": 45.5,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1020",
+"kind": "item",
+"fields": {
+"date": "2022-10-20",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "A6",
+"place": "1号主羽口装置",
+"content": "羽口 冷却水 通水・漏水試験",
+"time": "8:30〜18:30",
+"persons": 5,
+"manHours": 45.0,
+"progress": "46%"
+},
+"r": 13
+},
+{
+"sheet": "1021",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-21",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0
+},
+"r": 5
+},
+{
+"sheet": "1021",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-21",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 9,
+"time": "13:00〜17:00",
+"manHours": 36.0
+},
+"r": 6
+},
+{
+"sheet": "1021",
+"kind": "total",
+"fields": {
+"date": "2022-10-21",
+"persons": 15,
+"manHours": 81.0
+},
+"r": 7
+},
+{
+"sheet": "1021",
+"kind": "item",
+"fields": {
+"date": "2022-10-21",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "A6",
+"place": "1号主羽口装置",
+"content": "旧羽口 取外し（No.5〜6）",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "54%"
+},
+"r": 12
+},
+{
+"sheet": "1021",
+"kind": "item",
+"fields": {
+"date": "2022-10-21",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "炉床 れんが築造 1段目",
+"time": "13:00〜17:00",
+"persons": 9,
+"manHours": 36.0,
+"progress": "3%"
+},
+"r": 14
+},
+{
+"sheet": "1022",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-22",
+"weather": "晴",
+"company": "千草環境",
+"persons": 6,
+"time": "13:00〜17:00",
+"manHours": 24.0
+},
+"r": 5
+},
+{
+"sheet": "1022",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-22",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 11,
+"time": "8:30〜17:00",
+"manHours": 82.5
+},
+"r": 6
+},
+{
+"sheet": "1022",
+"kind": "total",
+"fields": {
+"date": "2022-10-22",
+"persons": 17,
+"manHours": 106.5
+},
+"r": 7
+},
+{
+"sheet": "1022",
+"kind": "item",
+"fields": {
+"date": "2022-10-22",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A6",
+"place": "1号主羽口装置",
+"content": "新羽口装置 取付（No.7〜8）",
+"time": "13:00〜17:00",
+"persons": 6,
+"manHours": 24.0,
+"progress": "62%"
+},
+"r": 12
+},
+{
+"sheet": "1022",
+"kind": "item",
+"fields": {
+"date": "2022-10-22",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "朝顔部 れんが築造",
+"time": "8:30〜17:00",
+"persons": 11,
+"manHours": 82.5,
+"progress": "6%"
+},
+"r": 14
+},
+{
+"sheet": "1024",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-24",
+"weather": "曇のち雨",
+"company": "千草環境",
+"persons": 6,
+"time": "8:00〜17:00",
+"manHours": 48.0
+},
+"r": 5
+},
+{
+"sheet": "1024",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-24",
+"weather": "曇のち雨",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:00〜17:00",
+"manHours": 80.0
+},
+"r": 6
+},
+{
+"sheet": "1024",
+"kind": "total",
+"fields": {
+"date": "2022-10-24",
+"persons": 16,
+"manHours": 128.0
+},
+"r": 7
+},
+{
+"sheet": "1024",
+"kind": "item",
+"fields": {
+"date": "2022-10-24",
+"weather": "曇のち雨",
+"blockCompany": "千草環境",
+"no": "A6",
+"place": "1号主羽口装置",
+"content": "旧羽口 取外し（No.3〜4）",
+"time": "8:00〜17:00",
+"persons": 6,
+"manHours": 48.0,
+"progress": "77%"
+},
+"r": 12
+},
+{
+"sheet": "1024",
+"kind": "item",
+"fields": {
+"date": "2022-10-24",
+"weather": "曇のち雨",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "キャスタブル 施工（朝顔部）",
+"time": "8:00〜17:00",
+"persons": 10,
+"manHours": 80.0,
+"progress": "11%"
+},
+"r": 14
+},
+{
+"sheet": "1025",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-25",
+"weather": "曇",
+"company": "千草環境",
+"persons": 5,
+"time": "8:30〜18:30",
+"manHours": 45.0
+},
+"r": 5
+},
+{
+"sheet": "1025",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-25",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5
+},
+"r": 6
+},
+{
+"sheet": "1025",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-25",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 9,
+"time": "8:30〜17:00",
+"manHours": 67.5
+},
+"r": 7
+},
+{
+"sheet": "1025",
+"kind": "total",
+"fields": {
+"date": "2022-10-25",
+"persons": 17,
+"manHours": 135.0
+},
+"r": 8
+},
+{
+"sheet": "1025",
+"kind": "item",
+"fields": {
+"date": "2022-10-25",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "A6",
+"place": "1号主羽口装置",
+"content": "新羽口装置 取付（No.5〜6）",
+"time": "8:30〜18:30",
+"persons": 5,
+"manHours": 45.0,
+"progress": "85%"
+},
+"r": 13
+},
+{
+"sheet": "1025",
+"kind": "item",
+"fields": {
+"date": "2022-10-25",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "A7",
+"place": "1号炉体温度計",
+"content": "温度計 撤去",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "14%"
+},
+"r": 15
+},
+{
+"sheet": "1025",
+"kind": "item",
+"fields": {
+"date": "2022-10-25",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "目地確認・寸法測定",
+"time": "8:30〜17:00",
+"persons": 9,
+"manHours": 67.5,
+"progress": "14%"
+},
+"r": 17
+},
+{
+"sheet": "1026",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-26",
+"weather": "曇",
+"company": "千草環境",
+"persons": 7,
+"time": "8:30〜18:30",
+"manHours": 63.0
+},
+"r": 5
+},
+{
+"sheet": "1026",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-26",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 2,
+"time": "13:00〜17:00",
+"manHours": 8.0
+},
+"r": 6
+},
+{
+"sheet": "1026",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-26",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:00〜17:00",
+"manHours": 80.0
+},
+"r": 7
+},
+{
+"sheet": "1026",
+"kind": "total",
+"fields": {
+"date": "2022-10-26",
+"persons": 19,
+"manHours": 151.0
+},
+"r": 8
+},
+{
+"sheet": "1026",
+"kind": "item",
+"fields": {
+"date": "2022-10-26",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "A6",
+"place": "1号主羽口装置",
+"content": "羽口 冷却水 通水・漏水試験",
+"time": "8:30〜18:30",
+"persons": 7,
+"manHours": 63.0,
+"progress": "92%"
+},
+"r": 13
+},
+{
+"sheet": "1026",
+"kind": "item",
+"fields": {
+"date": "2022-10-26",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "A7",
+"place": "1号炉体温度計",
+"content": "熱電対 取付（3〜4点）",
+"time": "13:00〜17:00",
+"persons": 2,
+"manHours": 8.0,
+"progress": "29%"
+},
+"r": 15
+},
+{
+"sheet": "1026",
+"kind": "item",
+"fields": {
+"date": "2022-10-26",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "炉床 れんが築造 6段目",
+"time": "8:00〜17:00",
+"persons": 10,
+"manHours": 80.0,
+"progress": "17%"
+},
+"r": 17
+},
+{
+"sheet": "1027",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-27",
+"weather": "晴",
+"company": "千草環境",
+"persons": 7,
+"time": "9:00〜16:30",
+"manHours": 45.5
+},
+"r": 5
+},
+{
+"sheet": "1027",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-27",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 2,
+"time": "8:00〜17:00",
+"manHours": 16.0
+},
+"r": 6
+},
+{
+"sheet": "1027",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-27",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 11,
+"time": "13:00〜17:00",
+"manHours": 44.0
+},
+"r": 7
+},
+{
+"sheet": "1027",
+"kind": "total",
+"fields": {
+"date": "2022-10-27",
+"persons": 20,
+"manHours": 105.5
+},
+"r": 8
+},
+{
+"sheet": "1027",
+"kind": "item",
+"fields": {
+"date": "2022-10-27",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A6",
+"place": "1号主羽口装置",
+"content": "旧羽口 取外し（No.1〜2）",
+"time": "9:00〜16:30",
+"persons": 7,
+"manHours": 45.5,
+"progress": "100%"
+},
+"r": 13
+},
+{
+"sheet": "1027",
+"kind": "item",
+"fields": {
+"date": "2022-10-27",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "A7",
+"place": "1号炉体温度計",
+"content": "配線・ループ確認",
+"time": "8:00〜17:00",
+"persons": 2,
+"manHours": 16.0,
+"progress": "43%"
+},
+"r": 15
+},
+{
+"sheet": "1027",
+"kind": "item",
+"fields": {
+"date": "2022-10-27",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "朝顔部 れんが築造",
+"time": "13:00〜17:00",
+"persons": 11,
+"manHours": 44.0,
+"progress": "20%"
+},
+"r": 17
+},
+{
+"sheet": "1028",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-28",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 2,
+"time": "13:00〜17:00",
+"manHours": 8.0
+},
+"r": 5
+},
+{
+"sheet": "1028",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-28",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 11,
+"time": "9:00〜16:30",
+"manHours": 71.5
+},
+"r": 6
+},
+{
+"sheet": "1028",
+"kind": "total",
+"fields": {
+"date": "2022-10-28",
+"persons": 13,
+"manHours": 79.5
+},
+"r": 7
+},
+{
+"sheet": "1028",
+"kind": "item",
+"fields": {
+"date": "2022-10-28",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "A7",
+"place": "1号炉体温度計",
+"content": "温度計 撤去",
+"time": "13:00〜17:00",
+"persons": 2,
+"manHours": 8.0,
+"progress": "57%"
+},
+"r": 12
+},
+{
+"sheet": "1028",
+"kind": "item",
+"fields": {
+"date": "2022-10-28",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "シャフト部 れんが築造 8段目",
+"time": "9:00〜16:30",
+"persons": 11,
+"manHours": 71.5,
+"progress": "23%"
+},
+"r": 14
+},
+{
+"sheet": "1029",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-29",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 3,
+"time": "8:00〜17:00",
+"manHours": 24.0
+},
+"r": 5
+},
+{
+"sheet": "1029",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-29",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 10,
+"time": "9:00〜16:30",
+"manHours": 65.0
+},
+"r": 6
+},
+{
+"sheet": "1029",
+"kind": "total",
+"fields": {
+"date": "2022-10-29",
+"persons": 13,
+"manHours": 89.0
+},
+"r": 7
+},
+{
+"sheet": "1029",
+"kind": "item",
+"fields": {
+"date": "2022-10-29",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "A7",
+"place": "1号炉体温度計",
+"content": "熱電対 取付（1〜2点）",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "71%"
+},
+"r": 12
+},
+{
+"sheet": "1029",
+"kind": "item",
+"fields": {
+"date": "2022-10-29",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "キャスタブル 施工（シャフト下部）",
+"time": "9:00〜16:30",
+"persons": 10,
+"manHours": 65.0,
+"progress": "26%"
+},
+"r": 14
+},
+{
+"sheet": "1031",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-31",
+"weather": "雨",
+"company": "あかね電設",
+"persons": 3,
+"time": "8:00〜17:00",
+"manHours": 24.0
+},
+"r": 5
+},
+{
+"sheet": "1031",
+"kind": "subtotal",
+"fields": {
+"date": "2022-10-31",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 9,
+"time": "13:00〜17:00",
+"manHours": 36.0
+},
+"r": 6
+},
+{
+"sheet": "1031",
+"kind": "total",
+"fields": {
+"date": "2022-10-31",
+"persons": 12,
+"manHours": 60.0
+},
+"r": 7
+},
+{
+"sheet": "1031",
+"kind": "item",
+"fields": {
+"date": "2022-10-31",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "A7",
+"place": "1号炉体温度計",
+"content": "温度計 撤去",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1031",
+"kind": "item",
+"fields": {
+"date": "2022-10-31",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "炉床 れんが築造 11段目",
+"time": "13:00〜17:00",
+"persons": 9,
+"manHours": 36.0,
+"progress": "31%"
+},
+"r": 14
+},
+{
+"sheet": "1101",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-01",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 10,
+"time": "9:00〜16:30",
+"manHours": 65.0
+},
+"r": 5
+},
+{
+"sheet": "1101",
+"kind": "total",
+"fields": {
+"date": "2022-11-01",
+"persons": 10,
+"manHours": 65.0
+},
+"r": 6
+},
+{
+"sheet": "1101",
+"kind": "item",
+"fields": {
+"date": "2022-11-01",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "朝顔部 れんが築造",
+"time": "9:00〜16:30",
+"persons": 10,
+"manHours": 65.0,
+"progress": "34%"
+},
+"r": 12
+},
+{
+"sheet": "1102",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-02",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 9,
+"time": "8:30〜17:00",
+"manHours": 67.5
+},
+"r": 5
+},
+{
+"sheet": "1102",
+"kind": "total",
+"fields": {
+"date": "2022-11-02",
+"persons": 9,
+"manHours": 67.5
+},
+"r": 6
+},
+{
+"sheet": "1102",
+"kind": "item",
+"fields": {
+"date": "2022-11-02",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "シャフト部 れんが築造 13段目",
+"time": "8:30〜17:00",
+"persons": 9,
+"manHours": 67.5,
+"progress": "37%"
+},
+"r": 12
+},
+{
+"sheet": "1103",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-03",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:30〜17:00",
+"manHours": 75.0
+},
+"r": 5
+},
+{
+"sheet": "1103",
+"kind": "total",
+"fields": {
+"date": "2022-11-03",
+"persons": 10,
+"manHours": 75.0
+},
+"r": 6
+},
+{
+"sheet": "1103",
+"kind": "item",
+"fields": {
+"date": "2022-11-03",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "キャスタブル 施工（シャフト中部）",
+"time": "8:30〜17:00",
+"persons": 10,
+"manHours": 75.0,
+"progress": "40%"
+},
+"r": 12
+},
+{
+"sheet": "1104",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-04",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 10,
+"time": "9:00〜16:30",
+"manHours": 65.0
+},
+"r": 5
+},
+{
+"sheet": "1104",
+"kind": "total",
+"fields": {
+"date": "2022-11-04",
+"persons": 10,
+"manHours": 65.0
+},
+"r": 6
+},
+{
+"sheet": "1104",
+"kind": "item",
+"fields": {
+"date": "2022-11-04",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "目地確認・寸法測定",
+"time": "9:00〜16:30",
+"persons": 10,
+"manHours": 65.0,
+"progress": "43%"
+},
+"r": 12
+},
+{
+"sheet": "1105",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-05",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 9,
+"time": "13:00〜17:00",
+"manHours": 36.0
+},
+"r": 5
+},
+{
+"sheet": "1105",
+"kind": "total",
+"fields": {
+"date": "2022-11-05",
+"persons": 9,
+"manHours": 36.0
+},
+"r": 6
+},
+{
+"sheet": "1105",
+"kind": "item",
+"fields": {
+"date": "2022-11-05",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "炉床 れんが築造 16段目",
+"time": "13:00〜17:00",
+"persons": 9,
+"manHours": 36.0,
+"progress": "46%"
+},
+"r": 12
+},
+{
+"sheet": "1107",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-07",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:00〜17:00",
+"manHours": 80.0
+},
+"r": 5
+},
+{
+"sheet": "1107",
+"kind": "total",
+"fields": {
+"date": "2022-11-07",
+"persons": 10,
+"manHours": 80.0
+},
+"r": 6
+},
+{
+"sheet": "1107",
+"kind": "item",
+"fields": {
+"date": "2022-11-07",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "シャフト部 れんが築造 18段目",
+"time": "8:00〜17:00",
+"persons": 10,
+"manHours": 80.0,
+"progress": "51%"
+},
+"r": 12
+},
+{
+"sheet": "1108",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-08",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:30〜18:30",
+"manHours": 90.0
+},
+"r": 5
+},
+{
+"sheet": "1108",
+"kind": "total",
+"fields": {
+"date": "2022-11-08",
+"persons": 10,
+"manHours": 90.0
+},
+"r": 6
+},
+{
+"sheet": "1108",
+"kind": "item",
+"fields": {
+"date": "2022-11-08",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "キャスタブル 施工（シャフト上部）",
+"time": "8:30〜18:30",
+"persons": 10,
+"manHours": 90.0,
+"progress": "54%"
+},
+"r": 12
+},
+{
+"sheet": "1109",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-09",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 9,
+"time": "8:30〜18:30",
+"manHours": 81.0
+},
+"r": 5
+},
+{
+"sheet": "1109",
+"kind": "total",
+"fields": {
+"date": "2022-11-09",
+"persons": 9,
+"manHours": 81.0
+},
+"r": 6
+},
+{
+"sheet": "1109",
+"kind": "item",
+"fields": {
+"date": "2022-11-09",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "目地確認・寸法測定",
+"time": "8:30〜18:30",
+"persons": 9,
+"manHours": 81.0,
+"progress": "57%"
+},
+"r": 12
+},
+{
+"sheet": "1110",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-10",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:30〜17:00",
+"manHours": 75.0
+},
+"r": 5
+},
+{
+"sheet": "1110",
+"kind": "total",
+"fields": {
+"date": "2022-11-10",
+"persons": 10,
+"manHours": 75.0
+},
+"r": 6
+},
+{
+"sheet": "1110",
+"kind": "item",
+"fields": {
+"date": "2022-11-10",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "炉床 れんが築造 21段目",
+"time": "8:30〜17:00",
+"persons": 10,
+"manHours": 75.0,
+"progress": "60%"
+},
+"r": 12
+},
+{
+"sheet": "1111",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-11",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "13:00〜17:00",
+"manHours": 40.0
+},
+"r": 5
+},
+{
+"sheet": "1111",
+"kind": "total",
+"fields": {
+"date": "2022-11-11",
+"persons": 10,
+"manHours": 40.0
+},
+"r": 6
+},
+{
+"sheet": "1111",
+"kind": "item",
+"fields": {
+"date": "2022-11-11",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "朝顔部 れんが築造",
+"time": "13:00〜17:00",
+"persons": 10,
+"manHours": 40.0,
+"progress": "63%"
+},
+"r": 12
+},
+{
+"sheet": "1112",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-12",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:00〜17:00",
+"manHours": 80.0
+},
+"r": 5
+},
+{
+"sheet": "1112",
+"kind": "total",
+"fields": {
+"date": "2022-11-12",
+"persons": 10,
+"manHours": 80.0
+},
+"r": 6
+},
+{
+"sheet": "1112",
+"kind": "item",
+"fields": {
+"date": "2022-11-12",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "シャフト部 れんが築造 23段目",
+"time": "8:00〜17:00",
+"persons": 10,
+"manHours": 80.0,
+"progress": "66%"
+},
+"r": 12
+},
+{
+"sheet": "1114",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-14",
+"weather": "曇のち雨",
+"company": "東雲築炉",
+"persons": 9,
+"time": "8:30〜17:00",
+"manHours": 67.5
+},
+"r": 5
+},
+{
+"sheet": "1114",
+"kind": "total",
+"fields": {
+"date": "2022-11-14",
+"persons": 9,
+"manHours": 67.5
+},
+"r": 6
+},
+{
+"sheet": "1114",
+"kind": "item",
+"fields": {
+"date": "2022-11-14",
+"weather": "曇のち雨",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "目地確認・寸法測定",
+"time": "8:30〜17:00",
+"persons": 9,
+"manHours": 67.5,
+"progress": "71%"
+},
+"r": 12
+},
+{
+"sheet": "1115",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-15",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 11,
+"time": "13:00〜17:00",
+"manHours": 44.0
+},
+"r": 5
+},
+{
+"sheet": "1115",
+"kind": "total",
+"fields": {
+"date": "2022-11-15",
+"persons": 11,
+"manHours": 44.0
+},
+"r": 6
+},
+{
+"sheet": "1115",
+"kind": "item",
+"fields": {
+"date": "2022-11-15",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "炉床 れんが築造 26段目",
+"time": "13:00〜17:00",
+"persons": 11,
+"manHours": 44.0,
+"progress": "74%"
+},
+"r": 12
+},
+{
+"sheet": "1116",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-16",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "9:00〜16:30",
+"manHours": 65.0
+},
+"r": 5
+},
+{
+"sheet": "1116",
+"kind": "total",
+"fields": {
+"date": "2022-11-16",
+"persons": 10,
+"manHours": 65.0
+},
+"r": 6
+},
+{
+"sheet": "1116",
+"kind": "item",
+"fields": {
+"date": "2022-11-16",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "朝顔部 れんが築造",
+"time": "9:00〜16:30",
+"persons": 10,
+"manHours": 65.0,
+"progress": "77%"
+},
+"r": 12
+},
+{
+"sheet": "1117",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-17",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:30〜18:30",
+"manHours": 90.0
+},
+"r": 5
+},
+{
+"sheet": "1117",
+"kind": "total",
+"fields": {
+"date": "2022-11-17",
+"persons": 10,
+"manHours": 90.0
+},
+"r": 6
+},
+{
+"sheet": "1117",
+"kind": "item",
+"fields": {
+"date": "2022-11-17",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "シャフト部 れんが築造 28段目",
+"time": "8:30〜18:30",
+"persons": 10,
+"manHours": 90.0,
+"progress": "80%"
+},
+"r": 12
+},
+{
+"sheet": "1118",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-18",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "13:00〜17:00",
+"manHours": 40.0
+},
+"r": 5
+},
+{
+"sheet": "1118",
+"kind": "total",
+"fields": {
+"date": "2022-11-18",
+"persons": 10,
+"manHours": 40.0
+},
+"r": 6
+},
+{
+"sheet": "1118",
+"kind": "item",
+"fields": {
+"date": "2022-11-18",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "キャスタブル 施工（炉床部）",
+"time": "13:00〜17:00",
+"persons": 10,
+"manHours": 40.0,
+"progress": "83%"
+},
+"r": 12
+},
+{
+"sheet": "1119",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-19",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 10,
+"time": "9:00〜16:30",
+"manHours": 65.0
+},
+"r": 5
+},
+{
+"sheet": "1119",
+"kind": "total",
+"fields": {
+"date": "2022-11-19",
+"persons": 10,
+"manHours": 65.0
+},
+"r": 6
+},
+{
+"sheet": "1119",
+"kind": "item",
+"fields": {
+"date": "2022-11-19",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "目地確認・寸法測定",
+"time": "9:00〜16:30",
+"persons": 10,
+"manHours": 65.0,
+"progress": "86%"
+},
+"r": 12
+},
+{
+"sheet": "1121",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-21",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:00〜17:00",
+"manHours": 80.0
+},
+"r": 5
+},
+{
+"sheet": "1121",
+"kind": "total",
+"fields": {
+"date": "2022-11-21",
+"persons": 10,
+"manHours": 80.0
+},
+"r": 6
+},
+{
+"sheet": "1121",
+"kind": "item",
+"fields": {
+"date": "2022-11-21",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "朝顔部 れんが築造",
+"time": "8:00〜17:00",
+"persons": 10,
+"manHours": 80.0,
+"progress": "91%"
+},
+"r": 12
+},
+{
+"sheet": "1122",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-22",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 10,
+"time": "8:30〜18:30",
+"manHours": 90.0
+},
+"r": 5
+},
+{
+"sheet": "1122",
+"kind": "total",
+"fields": {
+"date": "2022-11-22",
+"persons": 10,
+"manHours": 90.0
+},
+"r": 6
+},
+{
+"sheet": "1122",
+"kind": "item",
+"fields": {
+"date": "2022-11-22",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "シャフト部 れんが築造 33段目",
+"time": "8:30〜18:30",
+"persons": 10,
+"manHours": 90.0,
+"progress": "94%"
+},
+"r": 12
+},
+{
+"sheet": "1123",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-23",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 9,
+"time": "8:30〜17:00",
+"manHours": 67.5
+},
+"r": 5
+},
+{
+"sheet": "1123",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-23",
+"weather": "雨",
+"company": "千草環境",
+"persons": 5,
+"time": "9:00〜16:30",
+"manHours": 32.5
+},
+"r": 6
+},
+{
+"sheet": "1123",
+"kind": "total",
+"fields": {
+"date": "2022-11-23",
+"persons": 14,
+"manHours": 100.0
+},
+"r": 7
+},
+{
+"sheet": "1123",
+"kind": "item",
+"fields": {
+"date": "2022-11-23",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "キャスタブル 施工（朝顔部）",
+"time": "8:30〜17:00",
+"persons": 9,
+"manHours": 67.5,
+"progress": "97%"
+},
+"r": 12
+},
+{
+"sheet": "1123",
+"kind": "item",
+"fields": {
+"date": "2022-11-23",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A9",
+"place": "1号炉体冷却ジャケット",
+"content": "冷却水系 耐圧試験 1.0MPa 保持",
+"time": "9:00〜16:30",
+"persons": 5,
+"manHours": 32.5,
+"progress": "50%"
+},
+"r": 14
+},
+{
+"sheet": "1124",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-24",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 9,
+"time": "9:00〜16:30",
+"manHours": 58.5
+},
+"r": 5
+},
+{
+"sheet": "1124",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-24",
+"weather": "晴",
+"company": "千草環境",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5
+},
+"r": 6
+},
+{
+"sheet": "1124",
+"kind": "total",
+"fields": {
+"date": "2022-11-24",
+"persons": 14,
+"manHours": 96.0
+},
+"r": 7
+},
+{
+"sheet": "1124",
+"kind": "item",
+"fields": {
+"date": "2022-11-24",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "A8",
+"place": "1号溶融炉本体",
+"content": "目地確認・寸法測定",
+"time": "9:00〜16:30",
+"persons": 9,
+"manHours": 58.5,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1124",
+"kind": "item",
+"fields": {
+"date": "2022-11-24",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A9",
+"place": "1号炉体冷却ジャケット",
+"content": "冷却水系 耐圧試験 1.0MPa 保持",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "1125",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-25",
+"weather": "晴",
+"company": "丸鳥足場工業",
+"persons": 6,
+"time": "8:00〜17:00",
+"manHours": 48.0
+},
+"r": 5
+},
+{
+"sheet": "1125",
+"kind": "total",
+"fields": {
+"date": "2022-11-25",
+"persons": 6,
+"manHours": 48.0
+},
+"r": 6
+},
+{
+"sheet": "1125",
+"kind": "item",
+"fields": {
+"date": "2022-11-25",
+"weather": "晴",
+"blockCompany": "丸鳥足場工業",
+"no": "A10",
+"place": "1号溶融炉本体",
+"content": "足場解体 1段目",
+"time": "8:00〜17:00",
+"persons": 6,
+"manHours": 48.0,
+"progress": "25%"
+},
+"r": 12
+},
+{
+"sheet": "1126",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-26",
+"weather": "晴",
+"company": "丸鳥足場工業",
+"persons": 6,
+"time": "13:00〜17:00",
+"manHours": 24.0
+},
+"r": 5
+},
+{
+"sheet": "1126",
+"kind": "total",
+"fields": {
+"date": "2022-11-26",
+"persons": 6,
+"manHours": 24.0
+},
+"r": 6
+},
+{
+"sheet": "1126",
+"kind": "item",
+"fields": {
+"date": "2022-11-26",
+"weather": "晴",
+"blockCompany": "丸鳥足場工業",
+"no": "A10",
+"place": "1号溶融炉本体",
+"content": "足場解体・搬出",
+"time": "13:00〜17:00",
+"persons": 6,
+"manHours": 24.0,
+"progress": "50%"
+},
+"r": 12
+},
+{
+"sheet": "1128",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-28",
+"weather": "曇",
+"company": "丸鳥足場工業",
+"persons": 7,
+"time": "13:00〜17:00",
+"manHours": 28.0
+},
+"r": 5
+},
+{
+"sheet": "1128",
+"kind": "total",
+"fields": {
+"date": "2022-11-28",
+"persons": 7,
+"manHours": 28.0
+},
+"r": 6
+},
+{
+"sheet": "1128",
+"kind": "item",
+"fields": {
+"date": "2022-11-28",
+"weather": "曇",
+"blockCompany": "丸鳥足場工業",
+"no": "A10",
+"place": "1号溶融炉本体",
+"content": "足場解体・搬出",
+"time": "13:00〜17:00",
+"persons": 7,
+"manHours": 28.0,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1217",
+"kind": "subtotal",
+"fields": {
+"date": "2022-12-17",
+"weather": "曇",
+"company": "千草環境",
+"persons": 3,
+"time": "8:00〜17:00",
+"manHours": 24.0
+},
+"r": 5
+},
+{
+"sheet": "1217",
+"kind": "total",
+"fields": {
+"date": "2022-12-17",
+"persons": 3,
+"manHours": 24.0
+},
+"r": 6
+},
+{
+"sheet": "1217",
+"kind": "item",
+"fields": {
+"date": "2022-12-17",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "A12",
+"place": "1号溶融炉本体",
+"content": "性能確認運転 負荷 60%",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "17%"
+},
+"r": 12
+},
+{
+"sheet": "1219",
+"kind": "subtotal",
+"fields": {
+"date": "2022-12-19",
+"weather": "晴",
+"company": "千草環境",
+"persons": 2,
+"time": "8:30〜18:30",
+"manHours": 18.0
+},
+"r": 5
+},
+{
+"sheet": "1219",
+"kind": "total",
+"fields": {
+"date": "2022-12-19",
+"persons": 2,
+"manHours": 18.0
+},
+"r": 6
+},
+{
+"sheet": "1219",
+"kind": "item",
+"fields": {
+"date": "2022-12-19",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A12",
+"place": "1号溶融炉本体",
+"content": "性能確認運転 定格",
+"time": "8:30〜18:30",
+"persons": 2,
+"manHours": 18.0,
+"progress": "50%"
+},
+"r": 12
+},
+{
+"sheet": "1220",
+"kind": "subtotal",
+"fields": {
+"date": "2022-12-20",
+"weather": "晴",
+"company": "千草環境",
+"persons": 4,
+"time": "8:00〜17:00",
+"manHours": 32.0
+},
+"r": 5
+},
+{
+"sheet": "1220",
+"kind": "total",
+"fields": {
+"date": "2022-12-20",
+"persons": 4,
+"manHours": 32.0
+},
+"r": 6
+},
+{
+"sheet": "1220",
+"kind": "item",
+"fields": {
+"date": "2022-12-20",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A12",
+"place": "1号溶融炉本体",
+"content": "性能確認運転 負荷 84%",
+"time": "8:00〜17:00",
+"persons": 4,
+"manHours": 32.0,
+"progress": "67%"
+},
+"r": 12
+},
+{
+"sheet": "1221",
+"kind": "subtotal",
+"fields": {
+"date": "2022-12-21",
+"weather": "晴",
+"company": "千草環境",
+"persons": 4,
+"time": "9:00〜16:30",
+"manHours": 26.0
+},
+"r": 5
+},
+{
+"sheet": "1221",
+"kind": "total",
+"fields": {
+"date": "2022-12-21",
+"persons": 4,
+"manHours": 26.0
+},
+"r": 6
+},
+{
+"sheet": "1221",
+"kind": "item",
+"fields": {
+"date": "2022-12-21",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "A12",
+"place": "1号溶融炉本体",
+"content": "排ガス・スラグ性状 確認",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "83%"
+},
+"r": 12
+},
+{
+"sheet": "1222",
+"kind": "subtotal",
+"fields": {
+"date": "2022-12-22",
+"weather": "雨",
+"company": "千草環境",
+"persons": 2,
+"time": "8:30〜17:00",
+"manHours": 15.0
+},
+"r": 5
+},
+{
+"sheet": "1222",
+"kind": "total",
+"fields": {
+"date": "2022-12-22",
+"persons": 2,
+"manHours": 15.0
+},
+"r": 6
+},
+{
+"sheet": "1222",
+"kind": "item",
+"fields": {
+"date": "2022-12-22",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "A12",
+"place": "1号溶融炉本体",
+"content": "性能確認運転 定格",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "100%"
+},
+"r": 12
+}
+]
+}

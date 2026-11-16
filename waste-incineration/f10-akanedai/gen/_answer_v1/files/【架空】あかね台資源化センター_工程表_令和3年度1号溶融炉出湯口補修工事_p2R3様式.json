@@ -1,0 +1,103 @@
+{
+"file": "【架空】あかね台資源化センター_工程表_令和3年度1号溶融炉出湯口補修工事_p2R3様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "工程",
+"kind": "item",
+"fields": {
+"no": "S-1",
+"unit": "1号出湯口",
+"name": "出湯口 解体・はつり",
+"company": "東雲築炉",
+"manDays": 16,
+"planStart": "2021-10-05",
+"planEnd": "2021-10-08",
+"actStart": "2021-10-05",
+"actEnd": "2021-10-08"
+},
+"r": 10
+},
+{
+"sheet": "工程",
+"kind": "item",
+"fields": {
+"no": "S-2",
+"unit": "1号出湯口",
+"name": "出湯口冷却ジャケット交換",
+"company": "千草環境",
+"manDays": 9,
+"planStart": "2021-10-11",
+"planEnd": "2021-10-13",
+"actStart": "2021-10-11",
+"actEnd": "2021-10-13"
+},
+"r": 12
+},
+{
+"sheet": "工程",
+"kind": "item",
+"fields": {
+"no": "S-3",
+"unit": "1号出湯口",
+"name": "出湯口れんが築造",
+"company": "東雲築炉",
+"manDays": 24,
+"planStart": "2021-10-14",
+"planEnd": "2021-10-19",
+"actStart": "2021-10-14",
+"actEnd": "2021-10-19"
+},
+"r": 14
+},
+{
+"sheet": "工程",
+"kind": "item",
+"fields": {
+"no": "S-4",
+"unit": "1号出湯口",
+"name": "キャスタブル施工・養生",
+"company": "東雲築炉",
+"manDays": 9,
+"planStart": "2021-10-20",
+"planEnd": "2021-10-22",
+"actStart": "2021-10-20",
+"actEnd": "2021-10-22"
+},
+"r": 16
+},
+{
+"sheet": "工程",
+"kind": "item",
+"fields": {
+"no": "S-5",
+"unit": "1号出湯口",
+"name": "乾燥（炉乾燥と同時）",
+"company": "千草環境",
+"manDays": 4,
+"planStart": "2021-10-30",
+"planEnd": "2021-11-02",
+"actStart": "2021-10-30",
+"actEnd": "2021-11-02"
+},
+"r": 18
+},
+{
+"sheet": "工程",
+"kind": "item",
+"fields": {
+"no": "S-6",
+"unit": "1号出湯口",
+"name": "開孔・出湯確認",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2021-11-05",
+"planEnd": "2021-11-05",
+"actStart": "2021-11-06",
+"actEnd": "2021-11-06",
+"note": "出湯 11/6 1回目"
+},
+"r": 20
+}
+]
+}

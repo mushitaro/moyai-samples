@@ -1,0 +1,1185 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_平成28年度年間保守点検整備業務委託2号炉定修_H25様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "6.11",
+"kind": "item",
+"fields": {
+"date": "2016-06-11",
+"weather": "曇",
+"company": "千草環境",
+"place": "2号溶融炉",
+"content": "炉内 酸欠・CO 測定、入槽許可（市立会）",
+"persons": 3,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.11",
+"kind": "item",
+"fields": {
+"date": "2016-06-11",
+"weather": "曇",
+"company": "丸鳥足場",
+"place": "2号炉内・ボイラ",
+"content": "足場組立 着手（羽口レベル）",
+"persons": 5,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.11",
+"kind": "total",
+"fields": {
+"date": "2016-06-11",
+"persons": 8
+},
+"r": 21
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2016-06-13",
+"weather": "晴のち曇",
+"company": "丸鳥足場",
+"place": "2号炉内・ボイラ",
+"content": "足場組立 完了・点検（市確認）",
+"persons": 3,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 7
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2016-06-13",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"place": "2号溶融炉 炉内",
+"content": "残留物除去 シャフト下部、フレコン 7袋 搬出",
+"persons": 6,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2016-06-13",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "2号溶融炉 羽口部",
+"content": "主羽口・副羽口 漏水試験 準備（縁切り）",
+"persons": 4,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 9
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2016-06-13",
+"weather": "晴のち曇",
+"company": "ひかり工",
+"place": "2号ボイラ",
+"content": "ボイラ水洗 2パス",
+"persons": 5,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 10
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2016-06-13",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "2号減温塔",
+"content": "減温塔 内部点検（付着確認）",
+"persons": 3,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 11
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2016-06-13",
+"weather": "晴のち曇",
+"company": "ひかり工",
+"place": "2号水砕槽",
+"content": "掻揚コンベヤ チェーン伸び測定 0.6%",
+"persons": 4,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 12
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2016-06-13",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "蒸気タービン発電機",
+"content": "発電機盤 外観点検・作動確認",
+"persons": 3,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 13
+},
+{
+"sheet": "6.13",
+"kind": "total",
+"fields": {
+"date": "2016-06-13",
+"persons": 28
+},
+"r": 21
+},
+{
+"sheet": "6.14",
+"kind": "item",
+"fields": {
+"date": "2016-06-14",
+"weather": "曇",
+"company": "東雲築炉",
+"place": "2号溶融炉 炉内",
+"content": "残留物除去 完了（羽口部まで清掃）",
+"persons": 7,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.14",
+"kind": "item",
+"fields": {
+"date": "2016-06-14",
+"weather": "曇",
+"company": "ひかり工",
+"place": "2号ボイラ",
+"content": "ボイラ水洗 3パス・エコノマイザ",
+"persons": 6,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.14",
+"kind": "item",
+"fields": {
+"date": "2016-06-14",
+"weather": "曇",
+"company": "ひかり工",
+"place": "2号水砕槽",
+"content": "掻揚コンベヤ チェーン伸び測定 1.1%",
+"persons": 5,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 9
+},
+{
+"sheet": "6.14",
+"kind": "item",
+"fields": {
+"date": "2016-06-14",
+"weather": "曇",
+"company": "千草環境",
+"place": "蒸気タービン発電機",
+"content": "タービン主蒸気止弁 開放・部品点検・組立",
+"persons": 4,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 10
+},
+{
+"sheet": "6.14",
+"kind": "total",
+"fields": {
+"date": "2016-06-14",
+"persons": 22
+},
+"r": 21
+},
+{
+"sheet": "6.15",
+"kind": "item",
+"fields": {
+"date": "2016-06-15",
+"weather": "曇のち雨",
+"company": "千草環境",
+"place": "2号減温塔",
+"content": "2号噴霧水ポンプ（B） 分解整備（軸受・シール交換）",
+"persons": 2,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.15",
+"kind": "item",
+"fields": {
+"date": "2016-06-15",
+"weather": "曇のち雨",
+"company": "あかね電設",
+"place": "2号誘引通風機",
+"content": "2号誘引通風機用電動機・2号排ガスHCl計 絶縁抵抗測定・軸受音確認",
+"persons": 5,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.15",
+"kind": "item",
+"fields": {
+"date": "2016-06-15",
+"weather": "曇のち雨",
+"company": "千草環境",
+"place": "蒸気タービン発電機",
+"content": "タービンバイパス弁 分解整備（軸受・シール交換）",
+"persons": 3,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 9
+},
+{
+"sheet": "6.15",
+"kind": "total",
+"fields": {
+"date": "2016-06-15",
+"persons": 10
+},
+"r": 21
+},
+{
+"sheet": "6.16",
+"kind": "item",
+"fields": {
+"date": "2016-06-16",
+"weather": "晴",
+"company": "東雲築炉",
+"place": "2号溶融炉 炉内",
+"content": "耐火物 損耗測定（シャフト部）",
+"persons": 6,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.16",
+"kind": "item",
+"fields": {
+"date": "2016-06-16",
+"weather": "晴",
+"company": "千草環境",
+"place": "2号ボイラ",
+"content": "過熱器・蒸発管 肉厚測定（UT）1日目",
+"persons": 3,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.16",
+"kind": "item",
+"fields": {
+"date": "2016-06-16",
+"weather": "晴",
+"company": "あかね電設",
+"place": "2号排ガス分析計",
+"content": "2号排ガスSOx計・2号排ガスNOx計 メーカー点検・校正",
+"persons": 3,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 9
+},
+{
+"sheet": "6.16",
+"kind": "item",
+"fields": {
+"date": "2016-06-16",
+"weather": "晴",
+"company": "千草環境",
+"place": "空冷復水器",
+"content": "空冷復水器ファン（E） 分解点検・消耗品交換",
+"persons": 4,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 10
+},
+{
+"sheet": "6.16",
+"kind": "total",
+"fields": {
+"date": "2016-06-16",
+"persons": 16
+},
+"r": 21
+},
+{
+"sheet": "6.17",
+"kind": "item",
+"fields": {
+"date": "2016-06-17",
+"weather": "雨",
+"company": "東雲築炉",
+"place": "2号溶融炉 炉内",
+"content": "耐火物 部分補修（吹付 1.1m²）",
+"persons": 4,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.17",
+"kind": "item",
+"fields": {
+"date": "2016-06-17",
+"weather": "雨",
+"company": "千草環境",
+"place": "2号ボイラ",
+"content": "過熱器・蒸発管 肉厚測定（UT）2日目",
+"persons": 2,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.17",
+"kind": "item",
+"fields": {
+"date": "2016-06-17",
+"weather": "雨",
+"company": "千草環境",
+"place": "2号BF",
+"content": "ろ布 取外し 1・2室",
+"persons": 5,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 9
+},
+{
+"sheet": "6.17",
+"kind": "item",
+"fields": {
+"date": "2016-06-17",
+"weather": "雨",
+"company": "あかね電設",
+"place": "2号排ガス分析計",
+"content": "2号ばいじん計・2号水銀連続測定装置 メーカー点検・校正",
+"persons": 4,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 10
+},
+{
+"sheet": "6.17",
+"kind": "item",
+"fields": {
+"date": "2016-06-17",
+"weather": "雨",
+"company": "千草環境",
+"place": "空冷復水器",
+"content": "復水ポンプ（B） 開放・部品点検・組立",
+"persons": 4,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 11
+},
+{
+"sheet": "6.17",
+"kind": "total",
+"fields": {
+"date": "2016-06-17",
+"persons": 19
+},
+"r": 21
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2016-06-18",
+"weather": "曇",
+"company": "東雲築炉",
+"place": "2号溶融炉 炉内",
+"content": "耐火物 部分補修（吹付 0.9m²）",
+"persons": 5,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2016-06-18",
+"weather": "曇",
+"company": "千草環境",
+"place": "2号ボイラ",
+"content": "過熱器・蒸発管 肉厚測定（UT）3日目",
+"persons": 2,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2016-06-18",
+"weather": "曇",
+"company": "千草環境",
+"place": "2号BF",
+"content": "ろ布 取付 1・2室",
+"persons": 5,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 9
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2016-06-18",
+"weather": "曇",
+"company": "千草環境",
+"place": "2号副資材投入装置",
+"content": "2号コークス切出しフィーダ 分解整備（軸受・シール交換）",
+"persons": 2,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 10
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2016-06-18",
+"weather": "曇",
+"company": "千草環境",
+"place": "2号薬剤吹込装置",
+"content": "2号消石灰定量供給機 分解整備（軸受・シール交換）",
+"persons": 3,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 11
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2016-06-18",
+"weather": "曇",
+"company": "あかね電設",
+"place": "2号排ガス分析計",
+"content": "2号水銀連続測定装置 メーカー点検・校正",
+"persons": 4,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 12
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2016-06-18",
+"weather": "曇",
+"company": "あかね電設",
+"place": "2号炉別盤",
+"content": "2号出湯口現場操作盤 盤内点検・清掃・増締め",
+"persons": 2,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 13
+},
+{
+"sheet": "6.18",
+"kind": "total",
+"fields": {
+"date": "2016-06-18",
+"persons": 23
+},
+"r": 21
+},
+{
+"sheet": "6.20",
+"kind": "item",
+"fields": {
+"date": "2016-06-20",
+"weather": "雨",
+"company": "東雲築炉",
+"place": "2号溶融炉 炉内",
+"content": "耐火物 部分補修（吹付 0.9m²）",
+"persons": 4,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 7
+},
+{
+"sheet": "6.20",
+"kind": "item",
+"fields": {
+"date": "2016-06-20",
+"weather": "雨",
+"company": "千草環境",
+"place": "2号BF",
+"content": "ろ布 取付 5・6室",
+"persons": 5,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.20",
+"kind": "total",
+"fields": {
+"date": "2016-06-20",
+"persons": 9
+},
+"r": 21
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2016-06-21",
+"weather": "雨",
+"company": "東雲築炉",
+"place": "2号溶融炉 炉内",
+"content": "耐火物 部分補修（吹付 0.8m²）",
+"persons": 5,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2016-06-21",
+"weather": "雨",
+"company": "千草環境",
+"place": "2号BF",
+"content": "ろ布 取付 6・6室",
+"persons": 5,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2016-06-21",
+"weather": "雨",
+"company": "千草環境",
+"place": "2号出湯設備",
+"content": "2号出湯口集じんファン・2号炉体冷却水ポンプ（B） 分解整備（軸受・シール交換）",
+"persons": 3,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 9
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2016-06-21",
+"weather": "雨",
+"company": "千草環境",
+"place": "2号ろ過式集じん器",
+"content": "2号BFダストスクリューコンベヤ（A） 分解整備（軸受・シール交換）",
+"persons": 2,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 10
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2016-06-21",
+"weather": "雨",
+"company": "千草環境",
+"place": "2号電動弁・調節弁",
+"content": "2号煙突入口ダンパ 分解整備（グランド・弁座）",
+"persons": 3,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 11
+},
+{
+"sheet": "6.21",
+"kind": "total",
+"fields": {
+"date": "2016-06-21",
+"persons": 18
+},
+"r": 21
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2016-06-22",
+"weather": "晴",
+"company": "東雲築炉",
+"place": "2号溶融炉 炉内",
+"content": "耐火物 部分補修（吹付 1.0m²）",
+"persons": 6,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 7
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2016-06-22",
+"weather": "晴",
+"company": "千草環境",
+"place": "2号BF",
+"content": "ろ布全数交換 完了・差圧確認",
+"persons": 6,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2016-06-22",
+"weather": "晴",
+"company": "千草環境",
+"place": "2号触媒反応塔",
+"content": "活性測定用 抜取（上層・下層）",
+"persons": 1,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 9
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2016-06-22",
+"weather": "晴",
+"company": "千草環境",
+"place": "2号誘引通風機",
+"content": "振動測定 1.9mm/s・外観点検",
+"persons": 2,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 10
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2016-06-22",
+"weather": "晴",
+"company": "千草環境",
+"place": "2号送風機",
+"content": "羽口送風機（A）（B） 軸受点検・グリス交換",
+"persons": 1,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 11
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2016-06-22",
+"weather": "晴",
+"company": "千草環境",
+"place": "2号給じん装置",
+"content": "上部シールダンパ シール面点検",
+"persons": 4,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 12
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2016-06-22",
+"weather": "晴",
+"company": "あかね電設",
+"place": "2号炉 計装",
+"content": "炉頂温度計・炉内圧力計 校正",
+"persons": 3,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 13
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2016-06-22",
+"weather": "晴",
+"company": "千草環境",
+"place": "2号炉体冷却水設備",
+"content": "2号炉体冷却塔 分解点検・消耗品交換",
+"persons": 4,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 14
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2016-06-22",
+"weather": "晴",
+"company": "千草環境",
+"place": "2号電動弁・調節弁",
+"content": "2号炉内圧力緊急放散ダンパ 分解整備（グランド・弁座）",
+"persons": 2,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 15
+},
+{
+"sheet": "6.22",
+"kind": "total",
+"fields": {
+"date": "2016-06-22",
+"persons": 29
+},
+"r": 21
+},
+{
+"sheet": "6.23",
+"kind": "item",
+"fields": {
+"date": "2016-06-23",
+"weather": "雨",
+"company": "東雲築炉",
+"place": "2号溶融炉 炉内",
+"content": "耐火物補修 仕上げ・確認",
+"persons": 5,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 7
+},
+{
+"sheet": "6.23",
+"kind": "item",
+"fields": {
+"date": "2016-06-23",
+"weather": "雨",
+"company": "千草環境",
+"place": "2号給じん装置",
+"content": "下部シールダンパ シール面点検・研磨",
+"persons": 3,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 8
+},
+{
+"sheet": "6.23",
+"kind": "item",
+"fields": {
+"date": "2016-06-23",
+"weather": "雨",
+"company": "あかね電設",
+"place": "2号炉 計装",
+"content": "送風流量計・送風酸素濃度計 校正",
+"persons": 2,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 9
+},
+{
+"sheet": "6.23",
+"kind": "total",
+"fields": {
+"date": "2016-06-23",
+"persons": 10
+},
+"r": 21
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2016-06-24",
+"weather": "曇",
+"company": "千草環境",
+"place": "2号ボイラ",
+"content": "ボイラ水圧試験 5.0MPa 保持 30分 異常なし",
+"persons": 4,
+"start": "9:00",
+"end": "15:00"
+},
+"r": 7
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2016-06-24",
+"weather": "曇",
+"company": "千草環境",
+"place": "2号給じん装置",
+"content": "給じん油圧ユニット 作動確認",
+"persons": 2,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2016-06-24",
+"weather": "曇",
+"company": "あかね電設",
+"place": "2号炉 計装",
+"content": "排ガス分析計（O2・CO） 校正",
+"persons": 4,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 9
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2016-06-24",
+"weather": "曇",
+"company": "千草環境",
+"place": "2号送風設備",
+"content": "2号酸素遮断弁 分解整備（グランド・弁座）",
+"persons": 1,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 10
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2016-06-24",
+"weather": "曇",
+"company": "千草環境",
+"place": "2号ろ過式集じん器",
+"content": "2号BF逆洗空気槽 補修（肉盛・塗装）",
+"persons": 1,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 11
+},
+{
+"sheet": "6.24",
+"kind": "total",
+"fields": {
+"date": "2016-06-24",
+"persons": 12
+},
+"r": 21
+},
+{
+"sheet": "6.25",
+"kind": "item",
+"fields": {
+"date": "2016-06-25",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "2号ボイラ",
+"content": "ボイラ定期事業者検査 受検（内部・水圧試験記録）",
+"persons": 2,
+"start": "9:00",
+"end": "15:00"
+},
+"r": 7
+},
+{
+"sheet": "6.25",
+"kind": "item",
+"fields": {
+"date": "2016-06-25",
+"weather": "晴のち曇",
+"company": "あかね電設",
+"place": "2号炉 計装",
+"content": "排ガス分析計（HCl・SOx・NOx） 校正",
+"persons": 4,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.25",
+"kind": "total",
+"fields": {
+"date": "2016-06-25",
+"persons": 6
+},
+"r": 21
+},
+{
+"sheet": "6.27",
+"kind": "item",
+"fields": {
+"date": "2016-06-27",
+"weather": "雨",
+"company": "あかね電設",
+"place": "2号炉 計装",
+"content": "ボイラ計装（ドラム水位・主蒸気） 校正",
+"persons": 4,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 7
+},
+{
+"sheet": "6.27",
+"kind": "item",
+"fields": {
+"date": "2016-06-27",
+"weather": "雨",
+"company": "あかね電設",
+"place": "2号電気室",
+"content": "MCC・配電盤 停電点検（端子増締め・絶縁抵抗）",
+"persons": 3,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.27",
+"kind": "item",
+"fields": {
+"date": "2016-06-27",
+"weather": "雨",
+"company": "丸鳥足場",
+"place": "2号炉内・ボイラ",
+"content": "足場解体",
+"persons": 5,
+"start": "13:00",
+"end": "17:00"
+},
+"r": 9
+},
+{
+"sheet": "6.27",
+"kind": "total",
+"fields": {
+"date": "2016-06-27",
+"persons": 12
+},
+"r": 21
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2016-06-28",
+"weather": "晴のち曇",
+"company": "あかね電設",
+"place": "2号炉 計装",
+"content": "炉頂温度計・炉内圧力計 校正",
+"persons": 4,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 7
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2016-06-28",
+"weather": "晴のち曇",
+"company": "あかね電設",
+"place": "2号電気室",
+"content": "MCC・配電盤 停電点検（端子増締め・絶縁抵抗）",
+"persons": 2,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2016-06-28",
+"weather": "晴のち曇",
+"company": "丸鳥足場",
+"place": "2号炉内・ボイラ",
+"content": "足場解体・搬出",
+"persons": 5,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 9
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2016-06-28",
+"weather": "晴のち曇",
+"company": "千草環境",
+"place": "2号溶融炉・ボイラ",
+"content": "マンホール閉止",
+"persons": 4,
+"start": "8:00",
+"end": "17:00"
+},
+"r": 10
+},
+{
+"sheet": "6.28",
+"kind": "total",
+"fields": {
+"date": "2016-06-28",
+"persons": 15
+},
+"r": 21
+},
+{
+"sheet": "6.29",
+"kind": "item",
+"fields": {
+"date": "2016-06-29",
+"weather": "晴",
+"company": "あかね電設",
+"place": "2号炉 計装",
+"content": "送風流量計・送風酸素濃度計 校正",
+"persons": 3,
+"start": "8:30",
+"end": "18:30"
+},
+"r": 7
+},
+{
+"sheet": "6.29",
+"kind": "item",
+"fields": {
+"date": "2016-06-29",
+"weather": "晴",
+"company": "あかね電設",
+"place": "2号電気室",
+"content": "MCC・配電盤 停電点検（端子増締め・絶縁抵抗）",
+"persons": 3,
+"start": "8:30",
+"end": "17:00"
+},
+"r": 8
+},
+{
+"sheet": "6.29",
+"kind": "item",
+"fields": {
+"date": "2016-06-29",
+"weather": "晴",
+"company": "千草環境",
+"place": "2号溶融炉・ボイラ",
+"content": "マンホール閉止 完了",
+"persons": 4,
+"start": "9:00",
+"end": "16:30"
+},
+"r": 9
+},
+{
+"sheet": "6.29",
+"kind": "item",
+"fields": {
+"date": "2016-06-29",
+"weather": "晴",
+"company": "千草環境",
+"place": "2号炉",
+"content": "インターロック試験（送風・給じん・出湯口・IDF）",
+"persons": 3,
+"start": "13:00",
+"end": "19:00"
+},
+"r": 10
+},
+{
+"sheet": "6.29",
+"kind": "total",
+"fields": {
+"date": "2016-06-29",
+"persons": 13
+},
+"r": 21
+}
+]
+}

@@ -1,0 +1,205 @@
+{
+"file": "【架空】あかね台資源化センター_工事報告書_令和2年度2号溶融炉出湯口再築工事_R2ツール様式.pdf",
+"plan": false,
+"records": [
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "溶融炉設備",
+"機器数": 4,
+"整備": 4,
+"良": 4
+},
+"seq": 0
+},
+{
+"sheet": "",
+"kind": "total",
+"fields": {
+"section": "系統別件数",
+"機器数": 4
+},
+"seq": 1
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "総括",
+"text": "2号炉"
+},
+"seq": 2
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-01",
+"unit": "2号出湯口",
+"code": "2-20-2-01",
+"date": "6/7〜6/10",
+"kubun": "整備",
+"work": "出湯口 解体・はつり",
+"result": "出湯口再築",
+"judge": "良",
+"company": "東雲築炉"
+},
+"seq": 3
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "2号出湯口 作業前"
+},
+"seq": 4
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "2号出湯口 作業後"
+},
+"seq": 5
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-02",
+"unit": "2号出湯口",
+"code": "2-20-2-01",
+"date": "6/12〜6/16",
+"kubun": "整備",
+"work": "出湯口れんが築造",
+"result": "出湯口再築",
+"judge": "良",
+"company": "東雲築炉"
+},
+"seq": 6
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "2号出湯口 作業前"
+},
+"seq": 7
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "2号出湯口 作業後"
+},
+"seq": 8
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-03",
+"unit": "2号出湯口",
+"code": "2-20-2-01",
+"date": "6/17〜6/18",
+"kubun": "整備",
+"work": "キャスタブル施工・養生",
+"result": "出湯口再築",
+"judge": "良",
+"company": "東雲築炉"
+},
+"seq": 9
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "2号出湯口 作業前"
+},
+"seq": 10
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "2号出湯口 作業後"
+},
+"seq": 11
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-04",
+"unit": "2号出湯口",
+"code": "2-20-2-01",
+"date": "6/26",
+"kubun": "整備",
+"work": "開孔・出湯確認",
+"result": "出湯口再築",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 12
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "2号出湯口 作業前"
+},
+"seq": 13
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "2号出湯口 作業後"
+},
+"seq": 14
+},
+{
+"sheet": "",
+"kind": "item",
+"fields": {
+"section": "使用部品",
+"name": "パッキン・ガスケット類",
+"spec": "—",
+"qty": "一式",
+"kind": "委託範囲",
+"place": "各マンホール"
+},
+"seq": 15
+}
+]
+}

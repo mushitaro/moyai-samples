@@ -1,0 +1,192 @@
+{
+"file": "【架空】あかね台資源化センター_工事報告書_基幹的設備改良工事R3先行作業_R2ツール様式.pdf",
+"plan": false,
+"records": [
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "溶融炉設備",
+"機器数": 1,
+"補修": 1,
+"補修済": 1
+},
+"seq": 0,
+"r": 1
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "炉別電気計装設備",
+"機器数": 2,
+"点検": 2,
+"良": 2
+},
+"seq": 1,
+"r": 2
+},
+{
+"sheet": null,
+"kind": "total",
+"fields": {
+"section": "系統別件数",
+"機器数": 3
+},
+"seq": 2,
+"r": 3
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "総括",
+"text": "令和3年度 施工（1号炉定修時の先行作業）"
+},
+"seq": 3,
+"r": 4
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-01",
+"unit": "1号溶融炉本体",
+"code": "1-20-1-01",
+"date": "10/5〜10/8",
+"kubun": "補修",
+"work": "鉄皮肉厚調査（実施設計用）",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 4,
+"r": 5
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業前"
+},
+"seq": 5,
+"r": 6
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業後"
+},
+"seq": 6,
+"r": 7
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-02",
+"unit": "1号炉別制御ステーション（FCS）",
+"code": "1-B0-2-01",
+"date": "10/11〜10/15",
+"kubun": "点検",
+"work": "1号FCS・I/O盤 基礎・ケーブルラック",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 7,
+"r": 8
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "1号炉別制御ステーション（FCS） 作業前"
+},
+"seq": 8,
+"r": 9
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "1号炉別制御ステーション（FCS） 作業後"
+},
+"seq": 9,
+"r": 10
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-03",
+"unit": "1号炉別入出力盤（I/O-1）",
+"code": "1-B0-2-02",
+"date": "10/18〜10/27",
+"kubun": "点検",
+"work": "ケーブル先行敷設",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 10,
+"r": 11
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "1号炉別入出力盤（I/O-1） 作業前"
+},
+"seq": 11,
+"r": 12
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "1号炉別入出力盤（I/O-1） 作業後"
+},
+"seq": 12,
+"r": 13
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "使用部品",
+"name": "パッキン・ガスケット類",
+"spec": "—",
+"qty": "一式",
+"kind": "委託範囲",
+"place": "各マンホール"
+},
+"seq": 13,
+"r": 14
+}
+]
+}

@@ -1,0 +1,317 @@
+{
+"file": "【架空】あかね台資源化センター_工事報告書_令和3年度1号溶融炉出湯口補修工事_R2ツール様式.pdf",
+"plan": false,
+"records": [
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "溶融炉設備",
+"機器数": 6,
+"整備": 6,
+"補修済": 6
+},
+"seq": 0,
+"r": 1
+},
+{
+"sheet": null,
+"kind": "total",
+"fields": {
+"section": "系統別件数",
+"機器数": 6
+},
+"seq": 1,
+"r": 2
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "総括",
+"text": "補修工事"
+},
+"seq": 2,
+"r": 3
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "追加作業",
+"no": "A1",
+"text": "開孔・出湯確認（11/6）出湯 11/6 1回目",
+"kind": "工程内で吸収"
+},
+"seq": 3,
+"r": 4
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-01",
+"unit": "1号出湯口",
+"code": "1-20-2-01",
+"date": "10/5〜10/8",
+"kubun": "整備",
+"work": "出湯口 解体・はつり",
+"result": "出湯口再築・冷却ジャケット交換（R3 補修工事）",
+"judge": "補修済",
+"company": "東雲築炉"
+},
+"seq": 4,
+"r": 5
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業前"
+},
+"seq": 5,
+"r": 6
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業後"
+},
+"seq": 6,
+"r": 7
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-02",
+"unit": "1号出湯口",
+"code": "1-20-2-01",
+"date": "10/11〜10/13",
+"kubun": "整備",
+"work": "出湯口冷却ジャケット交換",
+"result": "出湯口再築・冷却ジャケット交換（R3 補修工事）",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 7,
+"r": 8
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業前"
+},
+"seq": 8,
+"r": 9
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業後"
+},
+"seq": 9,
+"r": 10
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-03",
+"unit": "1号出湯口",
+"code": "1-20-2-01",
+"date": "10/14〜10/19",
+"kubun": "整備",
+"work": "出湯口れんが築造",
+"result": "出湯口再築・冷却ジャケット交換（R3 補修工事）",
+"judge": "補修済",
+"company": "東雲築炉"
+},
+"seq": 10,
+"r": 11
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業前"
+},
+"seq": 11,
+"r": 12
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業後"
+},
+"seq": 12,
+"r": 13
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-04",
+"unit": "1号出湯口",
+"code": "1-20-2-01",
+"date": "10/20〜10/22",
+"kubun": "整備",
+"work": "キャスタブル施工・養生",
+"result": "出湯口再築・冷却ジャケット交換（R3 補修工事）",
+"judge": "補修済",
+"company": "東雲築炉"
+},
+"seq": 13,
+"r": 14
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業前"
+},
+"seq": 14,
+"r": 15
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業後"
+},
+"seq": 15,
+"r": 16
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-05",
+"unit": "1号出湯口",
+"code": "1-20-2-01",
+"date": "10/30〜11/2",
+"kubun": "整備",
+"work": "乾燥（炉乾燥と同時）",
+"result": "出湯口再築・冷却ジャケット交換（R3 補修工事）",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 16,
+"r": 17
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-05",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業前"
+},
+"seq": 17,
+"r": 18
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-05",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業後"
+},
+"seq": 18,
+"r": 19
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-06",
+"unit": "1号出湯口",
+"code": "1-20-2-01",
+"date": "11/6",
+"kubun": "整備",
+"work": "開孔・出湯確認",
+"result": "出湯口再築・冷却ジャケット交換（R3 補修工事）",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 19,
+"r": 20
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-06",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業前"
+},
+"seq": 20,
+"r": 21
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-06",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業後"
+},
+"seq": 21,
+"r": 22
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "使用部品",
+"name": "パッキン・ガスケット類",
+"spec": "—",
+"qty": "一式",
+"kind": "委託範囲",
+"place": "各マンホール"
+},
+"seq": 22,
+"r": 23
+}
+]
+}

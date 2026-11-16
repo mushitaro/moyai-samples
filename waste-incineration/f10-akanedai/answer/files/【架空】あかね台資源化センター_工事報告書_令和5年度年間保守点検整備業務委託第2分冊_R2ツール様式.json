@@ -1,0 +1,2604 @@
+{
+"file": "【架空】あかね台資源化センター_工事報告書_令和5年度年間保守点検整備業務委託第2分冊_R2ツール様式.pdf",
+"plan": false,
+"records": [
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "溶融炉設備",
+"機器数": 15,
+"点検": 5,
+"整備": 2,
+"補修": 8,
+"良": 7,
+"補修済": 8
+},
+"seq": 0,
+"r": 1
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "燃焼設備",
+"機器数": 5,
+"点検": 1,
+"整備": 1,
+"補修": 3,
+"良": 2,
+"補修済": 3
+},
+"seq": 1,
+"r": 2
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "ボイラ設備",
+"機器数": 7,
+"点検": 4,
+"計測": 2,
+"整備": 1,
+"良": 6,
+"要注意": 1
+},
+"seq": 2,
+"r": 3
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "排ガス冷却設備",
+"機器数": 2,
+"点検": 1,
+"交換": 1,
+"良": 2
+},
+"seq": 3,
+"r": 4
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "ろ過式集じん設備",
+"機器数": 3,
+"点検": 1,
+"整備": 2,
+"良": 3
+},
+"seq": 4,
+"r": 5
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "通風設備",
+"機器数": 9,
+"点検": 2,
+"整備": 7,
+"良": 9
+},
+"seq": 5,
+"r": 6
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "スラグ水砕設備",
+"機器数": 3,
+"点検": 2,
+"整備": 1,
+"良": 3
+},
+"seq": 6,
+"r": 7
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "給じん設備",
+"機器数": 3,
+"点検": 1,
+"整備": 2,
+"良": 3
+},
+"seq": 7,
+"r": 8
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "炉別電気計装設備",
+"機器数": 3,
+"点検": 3,
+"良": 3
+},
+"seq": 8,
+"r": 9
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "有害ガス除去設備",
+"機器数": 2,
+"整備": 2,
+"良": 2
+},
+"seq": 9,
+"r": 10
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "触媒脱硝設備",
+"機器数": 1,
+"補修": 1,
+"補修済": 1
+},
+"seq": 10,
+"r": 11
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "炉別弁類",
+"機器数": 3,
+"整備": 3,
+"良": 3
+},
+"seq": 11,
+"r": 12
+},
+{
+"sheet": null,
+"kind": "total",
+"fields": {
+"section": "系統別件数",
+"機器数": 56
+},
+"seq": 12,
+"r": 13
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "総括",
+"text": "1号炉 定期整備"
+},
+"seq": 13,
+"r": 14
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-01",
+"unit": "1号溶融炉本体",
+"code": "1-20-1-01",
+"date": "10/9",
+"kubun": "補修",
+"work": "入槽前測定・安全措置",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 14,
+"r": 15
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業前"
+},
+"seq": 15,
+"r": 16
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業後"
+},
+"seq": 16,
+"r": 17
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-02",
+"unit": "1号溶融炉本体",
+"code": "1-20-1-01",
+"date": "10/9〜10/11",
+"kubun": "補修",
+"work": "足場組立（炉内・ボイラ・BF）",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "丸鳥足場工業"
+},
+"seq": 17,
+"r": 18
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業前"
+},
+"seq": 18,
+"r": 19
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業後"
+},
+"seq": 19,
+"r": 20
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-03",
+"unit": "1号溶融炉本体",
+"code": "1-20-1-01",
+"date": "10/10〜10/13",
+"kubun": "補修",
+"work": "炉内残留物除去",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "東雲築炉"
+},
+"seq": 20,
+"r": 21
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業前"
+},
+"seq": 21,
+"r": 22
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業後"
+},
+"seq": 22,
+"r": 23
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-04",
+"unit": "1号炉体冷却ジャケット",
+"code": "1-20-1-02",
+"date": "10/10〜10/13",
+"kubun": "点検",
+"work": "炉内残留物除去",
+"result": "異常なし",
+"judge": "良",
+"company": "東雲築炉"
+},
+"seq": 23,
+"r": 24
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "1号炉体冷却ジャケット 作業前"
+},
+"seq": 24,
+"r": 25
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "1号炉体冷却ジャケット 作業後"
+},
+"seq": 25,
+"r": 26
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-05",
+"unit": "1号燃焼室本体",
+"code": "1-40-1-01",
+"date": "10/10〜10/13",
+"kubun": "補修",
+"work": "炉内残留物除去",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "東雲築炉"
+},
+"seq": 26,
+"r": 27
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-05",
+"image": "写真代替図（線画）",
+"caption": "1号燃焼室本体 作業前"
+},
+"seq": 27,
+"r": 28
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-05",
+"image": "写真代替図（線画）",
+"caption": "1号燃焼室本体 作業後"
+},
+"seq": 28,
+"r": 29
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-06",
+"unit": "1号主羽口装置",
+"code": "1-20-1-03",
+"date": "10/11〜10/12",
+"kubun": "点検",
+"work": "羽口点検・漏水試験",
+"result": "漏水点検",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 29,
+"r": 30
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-06",
+"image": "写真代替図（線画）",
+"caption": "1号主羽口装置 作業前"
+},
+"seq": 30,
+"r": 31
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-06",
+"image": "写真代替図（線画）",
+"caption": "1号主羽口装置 作業後"
+},
+"seq": 31,
+"r": 32
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-07",
+"unit": "1号副羽口装置",
+"code": "1-20-1-04",
+"date": "10/11〜10/12",
+"kubun": "補修",
+"work": "羽口点検・漏水試験",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 32,
+"r": 33
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-07",
+"image": "写真代替図（線画）",
+"caption": "1号副羽口装置 作業前"
+},
+"seq": 33,
+"r": 34
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-07",
+"image": "写真代替図（線画）",
+"caption": "1号副羽口装置 作業後"
+},
+"seq": 34,
+"r": 35
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-08",
+"unit": "1号溶融炉本体",
+"code": "1-20-1-01",
+"date": "10/16〜10/24",
+"kubun": "補修",
+"work": "炉内耐火物点検・部分補修",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "東雲築炉"
+},
+"seq": 35,
+"r": 36
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-08",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業前"
+},
+"seq": 36,
+"r": 37
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-08",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業後"
+},
+"seq": 37,
+"r": 38
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-09",
+"unit": "1号炉体冷却ジャケット",
+"code": "1-20-1-02",
+"date": "10/16〜10/24",
+"kubun": "点検",
+"work": "炉内耐火物点検・部分補修",
+"result": "異常なし",
+"judge": "良",
+"company": "東雲築炉"
+},
+"seq": 38,
+"r": 39
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-09",
+"image": "写真代替図（線画）",
+"caption": "1号炉体冷却ジャケット 作業前"
+},
+"seq": 39,
+"r": 40
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-09",
+"image": "写真代替図（線画）",
+"caption": "1号炉体冷却ジャケット 作業後"
+},
+"seq": 40,
+"r": 41
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-10",
+"unit": "1号燃焼室本体",
+"code": "1-40-1-01",
+"date": "10/16〜10/24",
+"kubun": "補修",
+"work": "炉内耐火物点検・部分補修",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "東雲築炉"
+},
+"seq": 41,
+"r": 42
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-10",
+"image": "写真代替図（線画）",
+"caption": "1号燃焼室本体 作業前"
+},
+"seq": 42,
+"r": 43
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-10",
+"image": "写真代替図（線画）",
+"caption": "1号燃焼室本体 作業後"
+},
+"seq": 43,
+"r": 44
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-11",
+"unit": "1号ボイラ本体",
+"code": "1-50-1-01",
+"date": "10/10〜10/13",
+"kubun": "点検",
+"work": "ボイラ水洗",
+"result": "異常なし",
+"judge": "良",
+"company": "ひかり工業"
+},
+"seq": 44,
+"r": 45
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-11",
+"image": "写真代替図（線画）",
+"caption": "1号ボイラ本体 作業前"
+},
+"seq": 45,
+"r": 46
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-11",
+"image": "写真代替図（線画）",
+"caption": "1号ボイラ本体 作業後"
+},
+"seq": 46,
+"r": 47
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-12",
+"unit": "1号2次過熱器",
+"code": "1-50-1-03",
+"date": "10/16〜10/18",
+"kubun": "計測",
+"work": "過熱器・蒸発管 肉厚測定",
+"result": "最小3.9mm",
+"judge": "要注意",
+"company": "千草環境"
+},
+"seq": 47,
+"r": 48
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-12",
+"image": "写真代替図（線画）",
+"caption": "1号2次過熱器 作業前"
+},
+"seq": 48,
+"r": 49
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-12",
+"image": "写真代替図（線画）",
+"caption": "1号2次過熱器 作業後"
+},
+"seq": 49,
+"r": 50
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-13",
+"unit": "1号1次過熱器",
+"code": "1-50-1-02",
+"date": "10/16〜10/18",
+"kubun": "点検",
+"work": "過熱器・蒸発管 肉厚測定",
+"result": "異常なし",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 50,
+"r": 51
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-13",
+"image": "写真代替図（線画）",
+"caption": "1号1次過熱器 作業前"
+},
+"seq": 51,
+"r": 52
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-13",
+"image": "写真代替図（線画）",
+"caption": "1号1次過熱器 作業後"
+},
+"seq": 52,
+"r": 53
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-14",
+"unit": "1号エコノマイザ",
+"code": "1-50-1-05",
+"date": "10/16〜10/18",
+"kubun": "計測",
+"work": "過熱器・蒸発管 肉厚測定",
+"result": "前回と同程度",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 53,
+"r": 54
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-14",
+"image": "写真代替図（線画）",
+"caption": "1号エコノマイザ 作業前"
+},
+"seq": 54,
+"r": 55
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-14",
+"image": "写真代替図（線画）",
+"caption": "1号エコノマイザ 作業後"
+},
+"seq": 55,
+"r": 56
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-15",
+"unit": "1号ボイラ本体",
+"code": "1-50-1-01",
+"date": "10/25",
+"kubun": "点検",
+"work": "ボイラ水圧試験",
+"result": "異常なし",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 56,
+"r": 57
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-15",
+"image": "写真代替図（線画）",
+"caption": "1号ボイラ本体 作業前"
+},
+"seq": 57,
+"r": 58
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-15",
+"image": "写真代替図（線画）",
+"caption": "1号ボイラ本体 作業後"
+},
+"seq": 58,
+"r": 59
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-16",
+"unit": "1号ボイラ本体",
+"code": "1-50-1-01",
+"date": "10/26",
+"kubun": "点検",
+"work": "ボイラ定期事業者検査（立会）",
+"result": "異常なし",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 59,
+"r": 60
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-16",
+"image": "写真代替図（線画）",
+"caption": "1号ボイラ本体 作業前"
+},
+"seq": 60,
+"r": 61
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-16",
+"image": "写真代替図（線画）",
+"caption": "1号ボイラ本体 作業後"
+},
+"seq": 61,
+"r": 62
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-17",
+"unit": "1号減温塔噴霧ノズル",
+"code": "1-60-1-02",
+"date": "10/11〜10/12",
+"kubun": "交換",
+"work": "減温塔点検・噴霧ノズル交換",
+"result": "更新後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 62,
+"r": 63
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-17",
+"image": "写真代替図（線画）",
+"caption": "1号減温塔噴霧ノズル 作業前"
+},
+"seq": 63,
+"r": 64
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-17",
+"image": "写真代替図（線画）",
+"caption": "1号減温塔噴霧ノズル 作業後"
+},
+"seq": 64,
+"r": 65
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-18",
+"unit": "1号減温塔本体",
+"code": "1-60-1-01",
+"date": "10/11〜10/12",
+"kubun": "点検",
+"work": "減温塔点検・噴霧ノズル交換",
+"result": "異常なし",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 65,
+"r": 66
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-18",
+"image": "写真代替図（線画）",
+"caption": "1号減温塔本体 作業前"
+},
+"seq": 66,
+"r": 67
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-18",
+"image": "写真代替図（線画）",
+"caption": "1号減温塔本体 作業後"
+},
+"seq": 67,
+"r": 68
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-19",
+"unit": "1号ろ過式集じん器本体",
+"code": "1-80-1-01",
+"date": "10/17〜10/20",
+"kubun": "点検",
+"work": "BF 内部点検",
+"result": "異常なし",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 68,
+"r": 69
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-19",
+"image": "写真代替図（線画）",
+"caption": "1号ろ過式集じん器本体 作業前"
+},
+"seq": 69,
+"r": 70
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-19",
+"image": "写真代替図（線画）",
+"caption": "1号ろ過式集じん器本体 作業後"
+},
+"seq": 70,
+"r": 71
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-20",
+"unit": "1号誘引通風機",
+"code": "1-A0-1-01",
+"date": "10/23",
+"kubun": "点検",
+"work": "誘引通風機 振動測定・外観点検",
+"result": "異常なし",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 71,
+"r": 72
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-20",
+"image": "写真代替図（線画）",
+"caption": "1号誘引通風機 作業前"
+},
+"seq": 72,
+"r": 73
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-20",
+"image": "写真代替図（線画）",
+"caption": "1号誘引通風機 作業後"
+},
+"seq": 73,
+"r": 74
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-21",
+"unit": "1号スラグ掻揚コンベヤ",
+"code": "1-30-1-03",
+"date": "10/10〜10/13",
+"kubun": "点検",
+"work": "水砕槽清掃・掻揚コンベヤ点検",
+"result": "異常なし",
+"judge": "良",
+"company": "ひかり工業"
+},
+"seq": 74,
+"r": 75
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-21",
+"image": "写真代替図（線画）",
+"caption": "1号スラグ掻揚コンベヤ 作業前"
+},
+"seq": 75,
+"r": 76
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-21",
+"image": "写真代替図（線画）",
+"caption": "1号スラグ掻揚コンベヤ 作業後"
+},
+"seq": 76,
+"r": 77
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-22",
+"unit": "1号水砕槽",
+"code": "1-30-1-02",
+"date": "10/10〜10/13",
+"kubun": "点検",
+"work": "水砕槽清掃・掻揚コンベヤ点検",
+"result": "異常なし",
+"judge": "良",
+"company": "ひかり工業"
+},
+"seq": 77,
+"r": 78
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-22",
+"image": "写真代替図（線画）",
+"caption": "1号水砕槽 作業前"
+},
+"seq": 78,
+"r": 79
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-22",
+"image": "写真代替図（線画）",
+"caption": "1号水砕槽 作業後"
+},
+"seq": 79,
+"r": 80
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-23",
+"unit": "1号羽口送風機（A）",
+"code": "1-20-3-01",
+"date": "10/23",
+"kubun": "点検",
+"work": "送風機・燃焼空気送風機 点検",
+"result": "異常なし",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 80,
+"r": 81
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-23",
+"image": "写真代替図（線画）",
+"caption": "1号羽口送風機（A） 作業前"
+},
+"seq": 81,
+"r": 82
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-23",
+"image": "写真代替図（線画）",
+"caption": "1号羽口送風機（A） 作業後"
+},
+"seq": 82,
+"r": 83
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-24",
+"unit": "1号燃焼用空気送風機",
+"code": "1-40-1-02",
+"date": "10/23",
+"kubun": "点検",
+"work": "送風機・燃焼空気送風機 点検",
+"result": "異常なし",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 83,
+"r": 84
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-24",
+"image": "写真代替図（線画）",
+"caption": "1号燃焼用空気送風機 作業前"
+},
+"seq": 84,
+"r": 85
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-24",
+"image": "写真代替図（線画）",
+"caption": "1号燃焼用空気送風機 作業後"
+},
+"seq": 85,
+"r": 86
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-25",
+"unit": "1号上部シールダンパ",
+"code": "1-10-1-03",
+"date": "10/23〜10/25",
+"kubun": "点検",
+"work": "給じん装置（シールダンパ）点検",
+"result": "異常なし",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 86,
+"r": 87
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-25",
+"image": "写真代替図（線画）",
+"caption": "1号上部シールダンパ 作業前"
+},
+"seq": 87,
+"r": 88
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-25",
+"image": "写真代替図（線画）",
+"caption": "1号上部シールダンパ 作業後"
+},
+"seq": 88,
+"r": 89
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-26",
+"unit": "1号下部シールダンパ",
+"code": "1-10-1-04",
+"date": "10/23〜10/25",
+"kubun": "整備",
+"work": "給じん装置（シールダンパ）点検",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 89,
+"r": 90
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-26",
+"image": "写真代替図（線画）",
+"caption": "1号下部シールダンパ 作業前"
+},
+"seq": 90,
+"r": 91
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-26",
+"image": "写真代替図（線画）",
+"caption": "1号下部シールダンパ 作業後"
+},
+"seq": 91,
+"r": 92
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-27",
+"unit": "1号炉頂温度計",
+"code": "1-20-1-06",
+"date": "10/23〜10/30",
+"kubun": "点検",
+"work": "計装校正",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 92,
+"r": 93
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-27",
+"image": "写真代替図（線画）",
+"caption": "1号炉頂温度計 作業前"
+},
+"seq": 93,
+"r": 94
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-27",
+"image": "写真代替図（線画）",
+"caption": "1号炉頂温度計 作業後"
+},
+"seq": 94,
+"r": 95
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-28",
+"unit": "1号炉別動力制御盤（MCC）",
+"code": "1-B0-1-01",
+"date": "10/29〜10/30",
+"kubun": "点検",
+"work": "MCC 点検",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 95,
+"r": 96
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-28",
+"image": "写真代替図（線画）",
+"caption": "1号炉別動力制御盤（MCC） 作業前"
+},
+"seq": 96,
+"r": 97
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-28",
+"image": "写真代替図（線画）",
+"caption": "1号炉別動力制御盤（MCC） 作業後"
+},
+"seq": 97,
+"r": 98
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-29",
+"unit": "1号溶融炉本体",
+"code": "1-20-1-01",
+"date": "10/29〜10/30",
+"kubun": "補修",
+"work": "足場解体",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "丸鳥足場工業"
+},
+"seq": 98,
+"r": 99
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-29",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業前"
+},
+"seq": 99,
+"r": 100
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-29",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業後"
+},
+"seq": 100,
+"r": 101
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-30",
+"unit": "1号溶融炉本体",
+"code": "1-20-1-01",
+"date": "10/30〜11/1",
+"kubun": "補修",
+"work": "復旧・マンホール閉止",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 101,
+"r": 102
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-30",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業前"
+},
+"seq": 102,
+"r": 103
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-30",
+"image": "写真代替図（線画）",
+"caption": "1号溶融炉本体 作業後"
+},
+"seq": 103,
+"r": 104
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-31",
+"unit": "1号炉別制御ステーション（FCS）",
+"code": "1-B0-2-01",
+"date": "11/1",
+"kubun": "点検",
+"work": "インターロック試験",
+"result": "異常なし",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 104,
+"r": 105
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-31",
+"image": "写真代替図（線画）",
+"caption": "1号炉別制御ステーション（FCS） 作業前"
+},
+"seq": 105,
+"r": 106
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-31",
+"image": "写真代替図（線画）",
+"caption": "1号炉別制御ステーション（FCS） 作業後"
+},
+"seq": 106,
+"r": 107
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-32",
+"unit": "1号出湯口",
+"code": "1-20-2-01",
+"date": "10/17〜10/21",
+"kubun": "補修",
+"work": "出湯口 部分補修",
+"result": "部分補修",
+"judge": "補修済",
+"company": "東雲築炉"
+},
+"seq": 107,
+"r": 108
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-32",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業前"
+},
+"seq": 108,
+"r": 109
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-32",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口 作業後"
+},
+"seq": 109,
+"r": 110
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-33",
+"unit": "1号ホッパゲート",
+"code": "1-10-1-02",
+"date": "10/17",
+"kubun": "整備",
+"work": "給じん設備 回転機・機械 整備（1台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 110,
+"r": 111
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-33",
+"image": "写真代替図（線画）",
+"caption": "1号ホッパゲート 作業前"
+},
+"seq": 111,
+"r": 112
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-33",
+"image": "写真代替図（線画）",
+"caption": "1号ホッパゲート 作業後"
+},
+"seq": 112,
+"r": 113
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-34",
+"unit": "1号出湯樋予熱バーナ",
+"code": "1-20-2-06",
+"date": "10/20〜10/21",
+"kubun": "整備",
+"work": "溶融炉設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 113,
+"r": 114
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-34",
+"image": "写真代替図（線画）",
+"caption": "1号出湯樋予熱バーナ 作業前"
+},
+"seq": 114,
+"r": 115
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-34",
+"image": "写真代替図（線画）",
+"caption": "1号出湯樋予熱バーナ 作業後"
+},
+"seq": 115,
+"r": 116
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-35",
+"unit": "1号炉体冷却水ポンプ（B）",
+"code": "1-20-4-02",
+"date": "10/20〜10/21",
+"kubun": "整備",
+"work": "溶融炉設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 116,
+"r": 117
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-35",
+"image": "写真代替図（線画）",
+"caption": "1号炉体冷却水ポンプ（B） 作業前"
+},
+"seq": 117,
+"r": 118
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-35",
+"image": "写真代替図（線画）",
+"caption": "1号炉体冷却水ポンプ（B） 作業後"
+},
+"seq": 118,
+"r": 119
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-36",
+"unit": "1号水砕水冷却塔",
+"code": "1-30-1-06",
+"date": "10/23",
+"kubun": "整備",
+"work": "スラグ水砕設備 回転機・機械 整備（1台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 119,
+"r": 120
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-36",
+"image": "写真代替図（線画）",
+"caption": "1号水砕水冷却塔 作業前"
+},
+"seq": 120,
+"r": 121
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-36",
+"image": "写真代替図（線画）",
+"caption": "1号水砕水冷却塔 作業後"
+},
+"seq": 121,
+"r": 122
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-37",
+"unit": "1号助燃バーナ",
+"code": "1-40-1-03",
+"date": "10/26",
+"kubun": "補修",
+"work": "燃焼設備 回転機・機械 整備（1台）",
+"result": "故障補修",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 122,
+"r": 123
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-37",
+"image": "写真代替図（線画）",
+"caption": "1号助燃バーナ 作業前"
+},
+"seq": 123,
+"r": 124
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-37",
+"image": "写真代替図（線画）",
+"caption": "1号助燃バーナ 作業後"
+},
+"seq": 124,
+"r": 125
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-38",
+"unit": "1号燃焼空気流量調節ダンパ",
+"code": "1-40-1-06",
+"date": "10/29",
+"kubun": "整備",
+"work": "燃焼設備 電動弁・調節弁 整備（1台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 125,
+"r": 126
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-38",
+"image": "写真代替図（線画）",
+"caption": "1号燃焼空気流量調節ダンパ 作業前"
+},
+"seq": 126,
+"r": 127
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-38",
+"image": "写真代替図（線画）",
+"caption": "1号燃焼空気流量調節ダンパ 作業後"
+},
+"seq": 127,
+"r": 128
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-39",
+"unit": "1号ボイラ安全弁（ドラム）（B）",
+"code": "1-50-1-07",
+"date": "10/16",
+"kubun": "整備",
+"work": "ボイラ設備 回転機・機械 整備（1台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 128,
+"r": 129
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-39",
+"image": "写真代替図（線画）",
+"caption": "1号ボイラ安全弁（ドラム）（B） 作業前"
+},
+"seq": 129,
+"r": 130
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-39",
+"image": "写真代替図（線画）",
+"caption": "1号ボイラ安全弁（ドラム）（B） 作業後"
+},
+"seq": 130,
+"r": 131
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-40",
+"unit": "1号消石灰切出しロータリーバルブ",
+"code": "1-70-1-02",
+"date": "10/19〜10/20",
+"kubun": "整備",
+"work": "有害ガス除去設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 131,
+"r": 132
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-40",
+"image": "写真代替図（線画）",
+"caption": "1号消石灰切出しロータリーバルブ 作業前"
+},
+"seq": 132,
+"r": 133
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-40",
+"image": "写真代替図（線画）",
+"caption": "1号消石灰切出しロータリーバルブ 作業後"
+},
+"seq": 133,
+"r": 134
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-41",
+"unit": "1号活性炭吹込ブロワ",
+"code": "1-70-1-08",
+"date": "10/19〜10/20",
+"kubun": "整備",
+"work": "有害ガス除去設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 134,
+"r": 135
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-41",
+"image": "写真代替図（線画）",
+"caption": "1号活性炭吹込ブロワ 作業前"
+},
+"seq": 135,
+"r": 136
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-41",
+"image": "写真代替図（線画）",
+"caption": "1号活性炭吹込ブロワ 作業後"
+},
+"seq": 136,
+"r": 137
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-42",
+"unit": "1号BFダストスクリューコンベヤ（A）",
+"code": "1-80-1-05",
+"date": "10/22〜10/23",
+"kubun": "整備",
+"work": "ろ過式集じん設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 137,
+"r": 138
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-42",
+"image": "写真代替図（線画）",
+"caption": "1号BFダストスクリューコンベヤ（A） 作業前"
+},
+"seq": 138,
+"r": 139
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-42",
+"image": "写真代替図（線画）",
+"caption": "1号BFダストスクリューコンベヤ（A） 作業後"
+},
+"seq": 139,
+"r": 140
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-43",
+"unit": "1号飛灰搬送コンベヤ",
+"code": "1-80-1-10",
+"date": "10/22〜10/23",
+"kubun": "整備",
+"work": "ろ過式集じん設備 回転機・機械 整備（2台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 140,
+"r": 141
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-43",
+"image": "写真代替図（線画）",
+"caption": "1号飛灰搬送コンベヤ 作業前"
+},
+"seq": 141,
+"r": 142
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-43",
+"image": "写真代替図（線画）",
+"caption": "1号飛灰搬送コンベヤ 作業後"
+},
+"seq": 142,
+"r": 143
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-44",
+"unit": "1号排ガス再加熱器",
+"code": "1-90-1-01",
+"date": "10/25",
+"kubun": "補修",
+"work": "触媒脱硝設備 静機器 点検補修（1台）",
+"result": "補修後 良",
+"judge": "補修済",
+"company": "千草環境"
+},
+"seq": 143,
+"r": 144
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-44",
+"image": "写真代替図（線画）",
+"caption": "1号排ガス再加熱器 作業前"
+},
+"seq": 144,
+"r": 145
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-44",
+"image": "写真代替図（線画）",
+"caption": "1号排ガス再加熱器 作業後"
+},
+"seq": 145,
+"r": 146
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-45",
+"unit": "1号誘引通風機インバータ盤",
+"code": "1-A0-1-02",
+"date": "10/28〜10/31",
+"kubun": "点検",
+"work": "通風設備 電気・計装 点検整備（8台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 146,
+"r": 147
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-45",
+"image": "写真代替図（線画）",
+"caption": "1号誘引通風機インバータ盤 作業前"
+},
+"seq": 147,
+"r": 148
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-45",
+"image": "写真代替図（線画）",
+"caption": "1号誘引通風機インバータ盤 作業後"
+},
+"seq": 148,
+"r": 149
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-46",
+"unit": "1号排ガスO2計",
+"code": "1-A0-3-01",
+"date": "10/28〜10/31",
+"kubun": "整備",
+"work": "通風設備 電気・計装 点検整備（8台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 149,
+"r": 150
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-46",
+"image": "写真代替図（線画）",
+"caption": "1号排ガスO2計 作業前"
+},
+"seq": 150,
+"r": 151
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-46",
+"image": "写真代替図（線画）",
+"caption": "1号排ガスO2計 作業後"
+},
+"seq": 151,
+"r": 152
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-47",
+"unit": "1号排ガスCO計",
+"code": "1-A0-3-02",
+"date": "10/28〜10/31",
+"kubun": "整備",
+"work": "通風設備 電気・計装 点検整備（8台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 152,
+"r": 153
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-47",
+"image": "写真代替図（線画）",
+"caption": "1号排ガスCO計 作業前"
+},
+"seq": 153,
+"r": 154
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-47",
+"image": "写真代替図（線画）",
+"caption": "1号排ガスCO計 作業後"
+},
+"seq": 154,
+"r": 155
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-48",
+"unit": "1号排ガスHCl計",
+"code": "1-A0-3-03",
+"date": "10/28〜10/31",
+"kubun": "整備",
+"work": "通風設備 電気・計装 点検整備（8台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 155,
+"r": 156
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-48",
+"image": "写真代替図（線画）",
+"caption": "1号排ガスHCl計 作業前"
+},
+"seq": 156,
+"r": 157
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-48",
+"image": "写真代替図（線画）",
+"caption": "1号排ガスHCl計 作業後"
+},
+"seq": 157,
+"r": 158
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-49",
+"unit": "1号排ガスNOx計",
+"code": "1-A0-3-05",
+"date": "10/28〜10/31",
+"kubun": "整備",
+"work": "通風設備 電気・計装 点検整備（8台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 158,
+"r": 159
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-49",
+"image": "写真代替図（線画）",
+"caption": "1号排ガスNOx計 作業前"
+},
+"seq": 159,
+"r": 160
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-49",
+"image": "写真代替図（線画）",
+"caption": "1号排ガスNOx計 作業後"
+},
+"seq": 160,
+"r": 161
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-50",
+"unit": "1号ばいじん計",
+"code": "1-A0-3-06",
+"date": "10/28〜10/31",
+"kubun": "整備",
+"work": "通風設備 電気・計装 点検整備（8台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 161,
+"r": 162
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-50",
+"image": "写真代替図（線画）",
+"caption": "1号ばいじん計 作業前"
+},
+"seq": 162,
+"r": 163
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-50",
+"image": "写真代替図（線画）",
+"caption": "1号ばいじん計 作業後"
+},
+"seq": 163,
+"r": 164
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-51",
+"unit": "1号排ガス流量計",
+"code": "1-A0-3-07",
+"date": "10/28〜10/31",
+"kubun": "整備",
+"work": "通風設備 電気・計装 点検整備（8台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 164,
+"r": 165
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-51",
+"image": "写真代替図（線画）",
+"caption": "1号排ガス流量計 作業前"
+},
+"seq": 165,
+"r": 166
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-51",
+"image": "写真代替図（線画）",
+"caption": "1号排ガス流量計 作業後"
+},
+"seq": 166,
+"r": 167
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-52",
+"unit": "1号水銀連続測定装置",
+"code": "1-A0-3-08",
+"date": "10/28〜10/31",
+"kubun": "整備",
+"work": "通風設備 電気・計装 点検整備（8台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 167,
+"r": 168
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-52",
+"image": "写真代替図（線画）",
+"caption": "1号水銀連続測定装置 作業前"
+},
+"seq": 168,
+"r": 169
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-52",
+"image": "写真代替図（線画）",
+"caption": "1号水銀連続測定装置 作業後"
+},
+"seq": 169,
+"r": 170
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-53",
+"unit": "1号出湯口現場操作盤",
+"code": "1-B0-1-03",
+"date": "10/15",
+"kubun": "点検",
+"work": "炉別電気計装設備 電気・計装 点検整備（1台）",
+"result": "異常なし",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 170,
+"r": 171
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-53",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口現場操作盤 作業前"
+},
+"seq": 171,
+"r": 172
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-53",
+"image": "写真代替図（線画）",
+"caption": "1号出湯口現場操作盤 作業後"
+},
+"seq": 172,
+"r": 173
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-54",
+"unit": "1号送風予熱器ドレン電動弁",
+"code": "1-C0-1-08",
+"date": "10/18〜10/19",
+"kubun": "整備",
+"work": "炉別弁類 電動弁・調節弁 整備（3台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 173,
+"r": 174
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-54",
+"image": "写真代替図（線画）",
+"caption": "1号送風予熱器ドレン電動弁 作業前"
+},
+"seq": 174,
+"r": 175
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-54",
+"image": "写真代替図（線画）",
+"caption": "1号送風予熱器ドレン電動弁 作業後"
+},
+"seq": 175,
+"r": 176
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-55",
+"unit": "1号羽口冷却水遮断弁",
+"code": "1-C0-1-11",
+"date": "10/18〜10/19",
+"kubun": "整備",
+"work": "炉別弁類 電動弁・調節弁 整備（3台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 176,
+"r": 177
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-55",
+"image": "写真代替図（線画）",
+"caption": "1号羽口冷却水遮断弁 作業前"
+},
+"seq": 177,
+"r": 178
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-55",
+"image": "写真代替図（線画）",
+"caption": "1号羽口冷却水遮断弁 作業後"
+},
+"seq": 178,
+"r": 179
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-56",
+"unit": "1号煙突入口ダンパ",
+"code": "1-C0-1-23",
+"date": "10/18〜10/19",
+"kubun": "整備",
+"work": "炉別弁類 電動弁・調節弁 整備（3台）",
+"result": "整備後 試運転 良",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 179,
+"r": 180
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-56",
+"image": "写真代替図（線画）",
+"caption": "1号煙突入口ダンパ 作業前"
+},
+"seq": 180,
+"r": 181
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-56",
+"image": "写真代替図（線画）",
+"caption": "1号煙突入口ダンパ 作業後"
+},
+"seq": 181,
+"r": 182
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "使用部品",
+"name": "吹付材",
+"spec": "アルミナ質",
+"qty": "1〜2 t",
+"kind": "委託範囲",
+"place": "炉内耐火物点検・部分補修"
+},
+"seq": 182,
+"r": 183
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "使用部品",
+"name": "減温塔噴霧ノズル",
+"spec": "二流体ノズル",
+"qty": "6 本",
+"kind": "委託範囲",
+"place": "減温塔点検・噴霧ノズル交換"
+},
+"seq": 183,
+"r": 184
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "使用部品",
+"name": "SiC れんが",
+"spec": "出湯口用",
+"qty": "20〜40 個",
+"kind": "委託範囲",
+"place": "出湯口 部分補修"
+},
+"seq": 184,
+"r": 185
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "使用部品",
+"name": "パッキン・ガスケット類",
+"spec": "—",
+"qty": "一式",
+"kind": "委託範囲",
+"place": "各マンホール"
+},
+"seq": 185,
+"r": 186
+}
+]
+}

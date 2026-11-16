@@ -1,0 +1,70 @@
+{
+"file": "【架空】あかね台資源化センター_工程表_令和6年度1号ボイラ2次過熱器下部ベンド部分更新工事_p2R3様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "1号炉",
+"kind": "item",
+"fields": {
+"no": "1",
+"unit": "1号2次過熱器",
+"name": "2次過熱器 下部ベンド 管切断・撤去（4本）",
+"company": "千草環境",
+"manDays": 8,
+"planStart": "2024-10-14",
+"planEnd": "2024-10-15",
+"actStart": "2024-10-14",
+"actEnd": "2024-10-15"
+},
+"r": 10
+},
+{
+"sheet": "1号炉",
+"kind": "item",
+"fields": {
+"no": "2",
+"unit": "1号2次過熱器",
+"name": "新管 取付・溶接",
+"company": "千草環境",
+"manDays": 16,
+"planStart": "2024-10-16",
+"planEnd": "2024-10-19",
+"actStart": "2024-10-16",
+"actEnd": "2024-10-19"
+},
+"r": 12
+},
+{
+"sheet": "1号炉",
+"kind": "item",
+"fields": {
+"no": "3",
+"unit": "1号2次過熱器",
+"name": "RT 検査",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-20",
+"planEnd": "2024-10-20",
+"actStart": "2024-10-20",
+"actEnd": "2024-10-20"
+},
+"r": 14
+},
+{
+"sheet": "1号炉",
+"kind": "item",
+"fields": {
+"no": "4",
+"unit": "1号2次過熱器",
+"name": "水圧試験（年間保守と同時）",
+"company": "千草環境",
+"manDays": 2,
+"planStart": "2024-10-24",
+"planEnd": "2024-10-24",
+"actStart": "2024-10-24",
+"actEnd": "2024-10-24"
+},
+"r": 16
+}
+]
+}

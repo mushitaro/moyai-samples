@@ -1,0 +1,241 @@
+{
+"file": "【架空】あかね台資源化センター_発注台帳_平成23年度_副資材単価契約台帳旧様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2011-04",
+"cokeT": 389.2,
+"cokeN": 29,
+"cokeYen": 18716628,
+"limeT": 235.6,
+"limeN": 13,
+"limeYen": 2251158,
+"loxKg": 11300,
+"loxN": 1,
+"loxYen": 616980,
+"totalYen": 21584766
+},
+"r": 9
+},
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2011-05",
+"cokeT": 309.4,
+"cokeN": 23,
+"cokeYen": 14879045,
+"limeT": 161.3,
+"limeN": 9,
+"limeYen": 1541221,
+"loxKg": 8400,
+"loxN": 1,
+"loxYen": 458640,
+"totalYen": 16878906,
+"memo": "1号炉 停止 10日　2号炉 停止 10日"
+},
+"r": 10
+},
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2011-06",
+"cokeT": 254.4,
+"cokeN": 19,
+"cokeYen": 12234096,
+"limeT": 138.6,
+"limeN": 8,
+"limeYen": 1324323,
+"loxKg": 7300,
+"loxN": 1,
+"loxYen": 398580,
+"totalYen": 13956999,
+"memo": "2号炉 停止 25日"
+},
+"r": 11
+},
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2011-07",
+"cokeT": 378.1,
+"cokeN": 28,
+"cokeYen": 18182829,
+"limeT": 210.0,
+"limeN": 12,
+"limeYen": 2006550,
+"loxKg": 12100,
+"loxN": 1,
+"loxYen": 660660,
+"totalYen": 20850039,
+"memo": "2号炉 停止 8日"
+},
+"r": 12
+},
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2011-08",
+"cokeT": 412.4,
+"cokeN": 31,
+"cokeYen": 19832316,
+"limeT": 239.7,
+"limeN": 13,
+"limeYen": 2290333,
+"loxKg": 14100,
+"loxN": 1,
+"loxYen": 769860,
+"totalYen": 22892509
+},
+"r": 13
+},
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2011-09",
+"cokeT": 405.5,
+"cokeN": 30,
+"cokeYen": 19500495,
+"limeT": 236.9,
+"limeN": 13,
+"limeYen": 2263579,
+"loxKg": 14800,
+"loxN": 2,
+"loxYen": 808080,
+"totalYen": 22572154
+},
+"r": 14
+},
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2011-10",
+"cokeT": 232.0,
+"cokeN": 17,
+"cokeYen": 11156880,
+"limeT": 133.7,
+"limeN": 7,
+"limeYen": 1277503,
+"loxKg": 6600,
+"loxN": 1,
+"loxYen": 360360,
+"totalYen": 12794743,
+"memo": "1号炉 停止 29日"
+},
+"r": 15
+},
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2011-11",
+"cokeT": 332.6,
+"cokeN": 25,
+"cokeYen": 15994734,
+"limeT": 181.7,
+"limeN": 10,
+"limeYen": 1736143,
+"loxKg": 9700,
+"loxN": 1,
+"loxYen": 529620,
+"totalYen": 18260497,
+"memo": "1号炉 停止 13日"
+},
+"r": 16
+},
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2011-12",
+"cokeT": 412.7,
+"cokeN": 31,
+"cokeYen": 19846743,
+"limeT": 238.8,
+"limeN": 13,
+"limeYen": 2281734,
+"loxKg": 15100,
+"loxN": 2,
+"loxYen": 824460,
+"totalYen": 22952937
+},
+"r": 17
+},
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2012-01",
+"cokeT": 412.9,
+"cokeN": 31,
+"cokeYen": 19856361,
+"limeT": 241.0,
+"limeN": 13,
+"limeYen": 2302755,
+"loxKg": 13200,
+"loxN": 1,
+"loxYen": 720720,
+"totalYen": 22879836
+},
+"r": 18
+},
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2012-02",
+"cokeT": 382.8,
+"cokeN": 28,
+"cokeYen": 18408852,
+"limeT": 237.8,
+"limeN": 13,
+"limeYen": 2272179,
+"loxKg": 14300,
+"loxN": 1,
+"loxYen": 780780,
+"totalYen": 21461811
+},
+"r": 19
+},
+{
+"sheet": "H23",
+"kind": "item",
+"fields": {
+"month": "2012-03",
+"cokeT": 416.4,
+"cokeN": 31,
+"cokeYen": 20024676,
+"limeT": 249.7,
+"limeN": 14,
+"limeYen": 2385883,
+"loxKg": 13700,
+"loxN": 1,
+"loxYen": 748020,
+"totalYen": 23158579
+},
+"r": 20
+},
+{
+"sheet": "H23",
+"kind": "total",
+"fields": {
+"cokeT": 4338.4,
+"cokeYen": 208633655,
+"limeT": 2504.8,
+"limeYen": 23933361,
+"loxKg": 140600,
+"loxYen": 7676760,
+"totalYen": 240243776
+},
+"r": 21
+}
+]
+}

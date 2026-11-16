@@ -1,0 +1,992 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_令和3年度1号溶融炉出湯口補修工事_R1様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "1005",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 5
+},
+{
+"sheet": "1005",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"company": "千草環境",
+"persons": 2,
+"time": "9:00〜17:00",
+"manHours": 14.0,
+"manDaysText": "14.0",
+"manDays": 1.75
+},
+"r": 6
+},
+{
+"sheet": "1005",
+"kind": "total",
+"fields": {
+"date": "2021-10-05",
+"persons": 6,
+"manHours": 44.0,
+"manDaysText": "44.0",
+"manDays": 5.5
+},
+"r": 7
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "S-1",
+"place": "1号出湯口",
+"content": "作業区画設定・養生、旧れんが はつり 着手",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "25%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "S-1",
+"place": "〃",
+"content": "冷却水 縁切り・ジャケット配管取外し",
+"time": "9:00〜17:00",
+"persons": 2,
+"manHours": 14.0,
+"progress": "25%",
+"manDaysText": "14.0",
+"manDays": 1.75,
+"days": 1
+},
+"r": 14
+},
+{
+"sheet": "1006",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-06",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 5,
+"time": "13:00〜17:00",
+"manHours": 20.0,
+"manDaysText": "20.0",
+"manDays": 2.5
+},
+"r": 5
+},
+{
+"sheet": "1006",
+"kind": "total",
+"fields": {
+"date": "2021-10-06",
+"persons": 5,
+"manHours": 20.0,
+"manDaysText": "20.0",
+"manDays": 2.5
+},
+"r": 6
+},
+{
+"sheet": "1006",
+"kind": "item",
+"fields": {
+"date": "2021-10-06",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "S-1",
+"place": "1号出湯口",
+"content": "出湯口れんが築造 1段目",
+"time": "13:00〜17:00",
+"persons": 5,
+"manHours": 20.0,
+"progress": "50%",
+"manDaysText": "20.0",
+"manDays": 2.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1007",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5,
+"manDaysText": "37.5",
+"manDays": 4.69
+},
+"r": 5
+},
+{
+"sheet": "1007",
+"kind": "total",
+"fields": {
+"date": "2021-10-07",
+"persons": 5,
+"manHours": 37.5,
+"manDaysText": "37.5",
+"manDays": 4.69
+},
+"r": 6
+},
+{
+"sheet": "1007",
+"kind": "item",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "S-1",
+"place": "1号出湯口",
+"content": "出湯口れんが築造 2段目",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "75%",
+"manDaysText": "37.5",
+"manDays": 4.69,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1008",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-08",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 5
+},
+{
+"sheet": "1008",
+"kind": "total",
+"fields": {
+"date": "2021-10-08",
+"persons": 4,
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 6
+},
+{
+"sheet": "1008",
+"kind": "item",
+"fields": {
+"date": "2021-10-08",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "S-1",
+"place": "1号出湯口",
+"content": "出湯口 キャスタブル施工・養生",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "100%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1011",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-11",
+"weather": "曇のち雨",
+"company": "千草環境",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5,
+"manDaysText": "22.5",
+"manDays": 2.81
+},
+"r": 5
+},
+{
+"sheet": "1011",
+"kind": "total",
+"fields": {
+"date": "2021-10-11",
+"persons": 3,
+"manHours": 22.5,
+"manDaysText": "22.5",
+"manDays": 2.81
+},
+"r": 6
+},
+{
+"sheet": "1011",
+"kind": "item",
+"fields": {
+"date": "2021-10-11",
+"weather": "曇のち雨",
+"blockCompany": "千草環境",
+"no": "S-2",
+"place": "1号出湯口",
+"content": "出湯口 解体・はつり 着手",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "33%",
+"manDaysText": "22.5",
+"manDays": 2.81,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1012",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-12",
+"weather": "晴",
+"company": "千草環境",
+"persons": 6,
+"time": "8:30〜17:30",
+"manHours": 31.5,
+"manDaysText": "31.5",
+"manDays": 3.94
+},
+"r": 5
+},
+{
+"sheet": "1012",
+"kind": "total",
+"fields": {
+"date": "2021-10-12",
+"persons": 6,
+"manHours": 31.5,
+"manDaysText": "31.5",
+"manDays": 3.94
+},
+"r": 6
+},
+{
+"sheet": "1012",
+"kind": "item",
+"fields": {
+"date": "2021-10-12",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "S-2",
+"place": "1号出湯口",
+"content": "冷却ジャケット 旧品取外し・新品据付",
+"time": "8:30〜17:30",
+"persons": 3,
+"manHours": 24.0,
+"progress": "67%",
+"finding": "旧品 内面に亀裂 2箇所",
+"manDaysText": "24.0",
+"manDays": 3.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1012",
+"kind": "item",
+"fields": {
+"date": "2021-10-12",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "S-2",
+"place": "〃",
+"content": "冷却水 通水試験（0.5MPa）",
+"time": "15:00〜17:30",
+"persons": 3,
+"manHours": 7.5,
+"progress": "67%",
+"finding": "良",
+"manDaysText": "7.5",
+"manDays": 0.94,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "1013",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-13",
+"weather": "曇",
+"company": "千草環境",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 5
+},
+{
+"sheet": "1013",
+"kind": "total",
+"fields": {
+"date": "2021-10-13",
+"persons": 4,
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 6
+},
+{
+"sheet": "1013",
+"kind": "item",
+"fields": {
+"date": "2021-10-13",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "S-2",
+"place": "1号出湯口",
+"content": "出湯口 キャスタブル施工・養生",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "100%",
+"manDaysText": "36.0",
+"manDays": 4.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1014",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-14",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 5,
+"time": "9:00〜16:30",
+"manHours": 32.5,
+"manDaysText": "32.5",
+"manDays": 4.06
+},
+"r": 5
+},
+{
+"sheet": "1014",
+"kind": "total",
+"fields": {
+"date": "2021-10-14",
+"persons": 5,
+"manHours": 32.5,
+"manDaysText": "32.5",
+"manDays": 4.06
+},
+"r": 6
+},
+{
+"sheet": "1014",
+"kind": "item",
+"fields": {
+"date": "2021-10-14",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "S-3",
+"place": "1号出湯口",
+"content": "出湯口 解体・はつり 着手",
+"time": "9:00〜16:30",
+"persons": 5,
+"manHours": 32.5,
+"progress": "17%",
+"manDaysText": "32.5",
+"manDays": 4.06,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1015",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-15",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 5
+},
+{
+"sheet": "1015",
+"kind": "total",
+"fields": {
+"date": "2021-10-15",
+"persons": 4,
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 6
+},
+{
+"sheet": "1015",
+"kind": "item",
+"fields": {
+"date": "2021-10-15",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "S-3",
+"place": "1号出湯口",
+"content": "SiC れんが 築造 2段目〜4段目",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "33%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1016",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-16",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 4,
+"time": "9:00〜16:30",
+"manHours": 26.0,
+"manDaysText": "26.0",
+"manDays": 3.25
+},
+"r": 5
+},
+{
+"sheet": "1016",
+"kind": "total",
+"fields": {
+"date": "2021-10-16",
+"persons": 4,
+"manHours": 26.0,
+"manDaysText": "26.0",
+"manDays": 3.25
+},
+"r": 6
+},
+{
+"sheet": "1016",
+"kind": "item",
+"fields": {
+"date": "2021-10-16",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "S-3",
+"place": "1号出湯口",
+"content": "出湯口れんが築造 2段目",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "50%",
+"manDaysText": "26.0",
+"manDays": 3.25,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1018",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-18",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 4,
+"time": "13:00〜17:00",
+"manHours": 16.0,
+"manDaysText": "16.0",
+"manDays": 2.0
+},
+"r": 5
+},
+{
+"sheet": "1018",
+"kind": "total",
+"fields": {
+"date": "2021-10-18",
+"persons": 4,
+"manHours": 16.0,
+"manDaysText": "16.0",
+"manDays": 2.0
+},
+"r": 6
+},
+{
+"sheet": "1018",
+"kind": "item",
+"fields": {
+"date": "2021-10-18",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "S-3",
+"place": "1号出湯口",
+"content": "出湯口れんが築造 4段目",
+"time": "13:00〜17:00",
+"persons": 4,
+"manHours": 16.0,
+"progress": "83%",
+"manDaysText": "16.0",
+"manDays": 2.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1019",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-19",
+"weather": "曇のち雨",
+"company": "東雲築炉",
+"persons": 4,
+"time": "13:00〜17:00",
+"manHours": 16.0,
+"manDaysText": "16.0",
+"manDays": 2.0
+},
+"r": 5
+},
+{
+"sheet": "1019",
+"kind": "total",
+"fields": {
+"date": "2021-10-19",
+"persons": 4,
+"manHours": 16.0,
+"manDaysText": "16.0",
+"manDays": 2.0
+},
+"r": 6
+},
+{
+"sheet": "1019",
+"kind": "item",
+"fields": {
+"date": "2021-10-19",
+"weather": "曇のち雨",
+"blockCompany": "東雲築炉",
+"no": "S-3",
+"place": "1号出湯口",
+"content": "出湯口 キャスタブル施工・養生",
+"time": "13:00〜17:00",
+"persons": 4,
+"manHours": 16.0,
+"progress": "100%",
+"manDaysText": "16.0",
+"manDays": 2.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1020",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-20",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 3,
+"time": "8:30〜16:00",
+"manHours": 19.5,
+"manDaysText": "19.5",
+"manDays": 2.44
+},
+"r": 5
+},
+{
+"sheet": "1020",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-20",
+"weather": "晴",
+"company": "千草環境",
+"persons": 1,
+"time": "13:00〜15:00",
+"manHours": 2.0,
+"manDaysText": "2.0",
+"manDays": 0.25
+},
+"r": 6
+},
+{
+"sheet": "1020",
+"kind": "total",
+"fields": {
+"date": "2021-10-20",
+"persons": 4,
+"manHours": 21.5,
+"manDaysText": "21.5",
+"manDays": 2.69
+},
+"r": 7
+},
+{
+"sheet": "1020",
+"kind": "item",
+"fields": {
+"date": "2021-10-20",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "S-4",
+"place": "1号出湯口",
+"content": "キャスタブル 流込み（0.38m³）",
+"time": "8:30〜16:00",
+"persons": 3,
+"manHours": 19.5,
+"progress": "33%",
+"manDaysText": "19.5",
+"manDays": 2.44,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1020",
+"kind": "item",
+"fields": {
+"date": "2021-10-20",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "S-4",
+"place": "〃",
+"content": "出湯口 中心・角度 確認",
+"time": "13:00〜15:00",
+"persons": 1,
+"manHours": 2.0,
+"progress": "33%",
+"finding": "角度 10° 良",
+"manDaysText": "2.0",
+"manDays": 0.25,
+"days": 1
+},
+"r": 14
+},
+{
+"sheet": "1021",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-21",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 5
+},
+{
+"sheet": "1021",
+"kind": "total",
+"fields": {
+"date": "2021-10-21",
+"persons": 4,
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 6
+},
+{
+"sheet": "1021",
+"kind": "item",
+"fields": {
+"date": "2021-10-21",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "S-4",
+"place": "1号出湯口",
+"content": "出湯口れんが築造 1段目",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "67%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1022",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-22",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5,
+"manDaysText": "22.5",
+"manDays": 2.81
+},
+"r": 5
+},
+{
+"sheet": "1022",
+"kind": "total",
+"fields": {
+"date": "2021-10-22",
+"persons": 3,
+"manHours": 22.5,
+"manDaysText": "22.5",
+"manDays": 2.81
+},
+"r": 6
+},
+{
+"sheet": "1022",
+"kind": "item",
+"fields": {
+"date": "2021-10-22",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "S-4",
+"place": "1号出湯口",
+"content": "出湯口 キャスタブル施工・養生",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "100%",
+"manDaysText": "22.5",
+"manDays": 2.81,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1030",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-30",
+"weather": "曇",
+"company": "千草環境",
+"persons": 1,
+"time": "8:30〜17:00",
+"manHours": 7.5,
+"manDaysText": "7.5",
+"manDays": 0.94
+},
+"r": 5
+},
+{
+"sheet": "1030",
+"kind": "total",
+"fields": {
+"date": "2021-10-30",
+"persons": 1,
+"manHours": 7.5,
+"manDaysText": "7.5",
+"manDays": 0.94
+},
+"r": 6
+},
+{
+"sheet": "1030",
+"kind": "item",
+"fields": {
+"date": "2021-10-30",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "S-5",
+"place": "1号出湯口",
+"content": "出湯口 解体・はつり 着手",
+"time": "8:30〜17:00",
+"persons": 1,
+"manHours": 7.5,
+"progress": "25%",
+"manDaysText": "7.5",
+"manDays": 0.94,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1101",
+"kind": "subtotal",
+"fields": {
+"date": "2021-11-01",
+"weather": "晴",
+"company": "千草環境",
+"persons": 1,
+"time": "8:00〜17:00",
+"manHours": 8.0,
+"manDaysText": "8.0",
+"manDays": 1.0
+},
+"r": 5
+},
+{
+"sheet": "1101",
+"kind": "total",
+"fields": {
+"date": "2021-11-01",
+"persons": 1,
+"manHours": 8.0,
+"manDaysText": "8.0",
+"manDays": 1.0
+},
+"r": 6
+},
+{
+"sheet": "1101",
+"kind": "item",
+"fields": {
+"date": "2021-11-01",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "S-5",
+"place": "1号出湯口",
+"content": "出湯口れんが築造 2段目",
+"time": "8:00〜17:00",
+"persons": 1,
+"manHours": 8.0,
+"progress": "75%",
+"manDaysText": "8.0",
+"manDays": 1.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1102",
+"kind": "subtotal",
+"fields": {
+"date": "2021-11-02",
+"weather": "晴",
+"company": "千草環境",
+"persons": 1,
+"time": "8:30〜17:00",
+"manHours": 7.5,
+"manDaysText": "7.5",
+"manDays": 0.94
+},
+"r": 5
+},
+{
+"sheet": "1102",
+"kind": "total",
+"fields": {
+"date": "2021-11-02",
+"persons": 1,
+"manHours": 7.5,
+"manDaysText": "7.5",
+"manDays": 0.94
+},
+"r": 6
+},
+{
+"sheet": "1102",
+"kind": "item",
+"fields": {
+"date": "2021-11-02",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "S-5",
+"place": "1号出湯口",
+"content": "出湯口 キャスタブル施工・養生",
+"time": "8:30〜17:00",
+"persons": 1,
+"manHours": 7.5,
+"progress": "100%",
+"manDaysText": "7.5",
+"manDays": 0.94,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1106",
+"kind": "subtotal",
+"fields": {
+"date": "2021-11-06",
+"weather": "晴のち曇",
+"company": "千草環境",
+"persons": 1,
+"time": "9:00〜16:30",
+"manHours": 6.5,
+"manDaysText": "6.5",
+"manDays": 0.81
+},
+"r": 5
+},
+{
+"sheet": "1106",
+"kind": "total",
+"fields": {
+"date": "2021-11-06",
+"persons": 1,
+"manHours": 6.5,
+"manDaysText": "6.5",
+"manDays": 0.81
+},
+"r": 6
+},
+{
+"sheet": "1106",
+"kind": "item",
+"fields": {
+"date": "2021-11-06",
+"weather": "晴のち曇",
+"blockCompany": "千草環境",
+"no": "S-6",
+"place": "1号出湯口",
+"content": "出湯口 解体・はつり 着手",
+"time": "9:00〜16:30",
+"persons": 1,
+"manHours": 6.5,
+"progress": "100%",
+"manDaysText": "6.5",
+"manDays": 0.81,
+"days": 1
+},
+"r": 12
+}
+]
+}

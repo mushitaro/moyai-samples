@@ -1,0 +1,476 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_令和2年度2号溶融炉出湯口再築工事_R1様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "0608",
+"kind": "subtotal",
+"fields": {
+"date": "2020-06-08",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 5,
+"time": "9:00〜16:30",
+"manHours": 32.5,
+"manDaysText": "32.5",
+"manDays": 4.06
+},
+"r": 5
+},
+{
+"sheet": "0608",
+"kind": "total",
+"fields": {
+"date": "2020-06-08",
+"persons": 5,
+"manHours": 32.5,
+"manDaysText": "32.5",
+"manDays": 4.06
+},
+"r": 6
+},
+{
+"sheet": "0608",
+"kind": "item",
+"fields": {
+"date": "2020-06-08",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "1",
+"place": "2号出湯口",
+"content": "出湯口れんが築造 1段目",
+"time": "9:00〜16:30",
+"persons": 5,
+"manHours": 32.5,
+"progress": "50%",
+"manDaysText": "32.5",
+"manDays": 4.06,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0609",
+"kind": "subtotal",
+"fields": {
+"date": "2020-06-09",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 5
+},
+{
+"sheet": "0609",
+"kind": "total",
+"fields": {
+"date": "2020-06-09",
+"persons": 4,
+"manHours": 30.0,
+"manDaysText": "30.0",
+"manDays": 3.75
+},
+"r": 6
+},
+{
+"sheet": "0609",
+"kind": "item",
+"fields": {
+"date": "2020-06-09",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "1",
+"place": "2号出湯口",
+"content": "出湯口れんが築造 2段目",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "75%",
+"manDaysText": "30.0",
+"manDays": 3.75,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0610",
+"kind": "subtotal",
+"fields": {
+"date": "2020-06-10",
+"weather": "晴のち曇",
+"company": "東雲築炉",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 5
+},
+{
+"sheet": "0610",
+"kind": "total",
+"fields": {
+"date": "2020-06-10",
+"persons": 4,
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 6
+},
+{
+"sheet": "0610",
+"kind": "item",
+"fields": {
+"date": "2020-06-10",
+"weather": "晴のち曇",
+"blockCompany": "東雲築炉",
+"no": "1",
+"place": "2号出湯口",
+"content": "出湯口 キャスタブル施工・養生",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "100%",
+"manDaysText": "36.0",
+"manDays": 4.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0612",
+"kind": "subtotal",
+"fields": {
+"date": "2020-06-12",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 5
+},
+{
+"sheet": "0612",
+"kind": "total",
+"fields": {
+"date": "2020-06-12",
+"persons": 4,
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 6
+},
+{
+"sheet": "0612",
+"kind": "item",
+"fields": {
+"date": "2020-06-12",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "2",
+"place": "2号出湯口",
+"content": "出湯口 解体・はつり 着手",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "20%",
+"manDaysText": "36.0",
+"manDays": 4.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0613",
+"kind": "subtotal",
+"fields": {
+"date": "2020-06-13",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 5,
+"time": "8:30〜18:30",
+"manHours": 45.0,
+"manDaysText": "45.0",
+"manDays": 5.62
+},
+"r": 5
+},
+{
+"sheet": "0613",
+"kind": "total",
+"fields": {
+"date": "2020-06-13",
+"persons": 5,
+"manHours": 45.0,
+"manDaysText": "45.0",
+"manDays": 5.62
+},
+"r": 6
+},
+{
+"sheet": "0613",
+"kind": "item",
+"fields": {
+"date": "2020-06-13",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "2",
+"place": "2号出湯口",
+"content": "出湯口れんが築造 1段目",
+"time": "8:30〜18:30",
+"persons": 5,
+"manHours": 45.0,
+"progress": "40%",
+"manDaysText": "45.0",
+"manDays": 5.62,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0615",
+"kind": "subtotal",
+"fields": {
+"date": "2020-06-15",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 3,
+"time": "8:30〜18:30",
+"manHours": 27.0,
+"manDaysText": "27.0",
+"manDays": 3.38
+},
+"r": 5
+},
+{
+"sheet": "0615",
+"kind": "total",
+"fields": {
+"date": "2020-06-15",
+"persons": 3,
+"manHours": 27.0,
+"manDaysText": "27.0",
+"manDays": 3.38
+},
+"r": 6
+},
+{
+"sheet": "0615",
+"kind": "item",
+"fields": {
+"date": "2020-06-15",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "2",
+"place": "2号出湯口",
+"content": "出湯口れんが築造 3段目",
+"time": "8:30〜18:30",
+"persons": 3,
+"manHours": 27.0,
+"progress": "80%",
+"manDaysText": "27.0",
+"manDays": 3.38,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0616",
+"kind": "subtotal",
+"fields": {
+"date": "2020-06-16",
+"weather": "曇のち雨",
+"company": "東雲築炉",
+"persons": 4,
+"time": "9:00〜16:30",
+"manHours": 26.0,
+"manDaysText": "26.0",
+"manDays": 3.25
+},
+"r": 5
+},
+{
+"sheet": "0616",
+"kind": "total",
+"fields": {
+"date": "2020-06-16",
+"persons": 4,
+"manHours": 26.0,
+"manDaysText": "26.0",
+"manDays": 3.25
+},
+"r": 6
+},
+{
+"sheet": "0616",
+"kind": "item",
+"fields": {
+"date": "2020-06-16",
+"weather": "曇のち雨",
+"blockCompany": "東雲築炉",
+"no": "2",
+"place": "2号出湯口",
+"content": "出湯口 キャスタブル施工・養生",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "100%",
+"manDaysText": "26.0",
+"manDays": 3.25,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0617",
+"kind": "subtotal",
+"fields": {
+"date": "2020-06-17",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 5
+},
+{
+"sheet": "0617",
+"kind": "total",
+"fields": {
+"date": "2020-06-17",
+"persons": 4,
+"manHours": 36.0,
+"manDaysText": "36.0",
+"manDays": 4.5
+},
+"r": 6
+},
+{
+"sheet": "0617",
+"kind": "item",
+"fields": {
+"date": "2020-06-17",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "3",
+"place": "2号出湯設備",
+"content": "2号出湯口 整備",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "50%",
+"manDaysText": "36.0",
+"manDays": 4.5,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0618",
+"kind": "subtotal",
+"fields": {
+"date": "2020-06-18",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 3,
+"time": "9:00〜16:30",
+"manHours": 19.5,
+"manDaysText": "19.5",
+"manDays": 2.44
+},
+"r": 5
+},
+{
+"sheet": "0618",
+"kind": "total",
+"fields": {
+"date": "2020-06-18",
+"persons": 3,
+"manHours": 19.5,
+"manDaysText": "19.5",
+"manDays": 2.44
+},
+"r": 6
+},
+{
+"sheet": "0618",
+"kind": "item",
+"fields": {
+"date": "2020-06-18",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "3",
+"place": "2号出湯設備",
+"content": "2号出湯口 整備",
+"time": "9:00〜16:30",
+"persons": 3,
+"manHours": 19.5,
+"progress": "100%",
+"manDaysText": "19.5",
+"manDays": 2.44,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "0626",
+"kind": "subtotal",
+"fields": {
+"date": "2020-06-26",
+"weather": "晴",
+"company": "千草環境",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5,
+"manDaysText": "22.5",
+"manDays": 2.81
+},
+"r": 5
+},
+{
+"sheet": "0626",
+"kind": "total",
+"fields": {
+"date": "2020-06-26",
+"persons": 3,
+"manHours": 22.5,
+"manDaysText": "22.5",
+"manDays": 2.81
+},
+"r": 6
+},
+{
+"sheet": "0626",
+"kind": "item",
+"fields": {
+"date": "2020-06-26",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "4",
+"place": "2号出湯設備",
+"content": "2号出湯口 整備",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "100%",
+"manDaysText": "22.5",
+"manDays": 2.81,
+"days": 1
+},
+"r": 12
+}
+]
+}

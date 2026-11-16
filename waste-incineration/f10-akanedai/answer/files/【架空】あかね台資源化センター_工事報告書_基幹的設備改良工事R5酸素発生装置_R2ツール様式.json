@@ -1,0 +1,1775 @@
+{
+"file": "【架空】あかね台資源化センター_工事報告書_基幹的設備改良工事R5酸素発生装置_R2ツール様式.pdf",
+"plan": false,
+"records": [
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "系統別件数",
+"system": "酸素発生設備",
+"機器数": 41,
+"交換": 41,
+"良": 41
+},
+"seq": 0,
+"r": 1
+},
+{
+"sheet": null,
+"kind": "total",
+"fields": {
+"section": "系統別件数",
+"機器数": 41
+},
+"seq": 1,
+"r": 2
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "総括",
+"text": "令和5年度 施工（酸素発生装置 更新）"
+},
+"seq": 2,
+"r": 3
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-01",
+"unit": "PSA原料空気ブロワ",
+"code": "0-03-1-01",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 3,
+"r": 4
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ 作業前"
+},
+"seq": 4,
+"r": 5
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-01",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ 作業後"
+},
+"seq": 5,
+"r": 6
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-02",
+"unit": "PSA原料空気ブロワ用電動機",
+"code": "M-0141",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 6,
+"r": 7
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ用電動機 作業前"
+},
+"seq": 7,
+"r": 8
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-02",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ用電動機 作業後"
+},
+"seq": 8,
+"r": 9
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-03",
+"unit": "PSA真空ポンプ（A）",
+"code": "0-03-1-02",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 9,
+"r": 10
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（A） 作業前"
+},
+"seq": 10,
+"r": 11
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-03",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（A） 作業後"
+},
+"seq": 11,
+"r": 12
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-04",
+"unit": "PSA真空ポンプ（A）用電動機",
+"code": "M-0142",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 12,
+"r": 13
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（A）用電動機 作業前"
+},
+"seq": 13,
+"r": 14
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-04",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（A）用電動機 作業後"
+},
+"seq": 14,
+"r": 15
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-05",
+"unit": "PSA真空ポンプ（B）",
+"code": "0-03-1-03",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 15,
+"r": 16
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-05",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（B） 作業前"
+},
+"seq": 16,
+"r": 17
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-05",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（B） 作業後"
+},
+"seq": 17,
+"r": 18
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-06",
+"unit": "PSA真空ポンプ（B）用電動機",
+"code": "M-0143",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 18,
+"r": 19
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-06",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（B）用電動機 作業前"
+},
+"seq": 19,
+"r": 20
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-06",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（B）用電動機 作業後"
+},
+"seq": 20,
+"r": 21
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-07",
+"unit": "PSA吸着塔（A）",
+"code": "0-03-1-04",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 21,
+"r": 22
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-07",
+"image": "写真代替図（線画）",
+"caption": "PSA吸着塔（A） 作業前"
+},
+"seq": 22,
+"r": 23
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-07",
+"image": "写真代替図（線画）",
+"caption": "PSA吸着塔（A） 作業後"
+},
+"seq": 23,
+"r": 24
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-08",
+"unit": "PSA吸着塔（B）",
+"code": "0-03-1-05",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 24,
+"r": 25
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-08",
+"image": "写真代替図（線画）",
+"caption": "PSA吸着塔（B） 作業前"
+},
+"seq": 25,
+"r": 26
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-08",
+"image": "写真代替図（線画）",
+"caption": "PSA吸着塔（B） 作業後"
+},
+"seq": 26,
+"r": 27
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-09",
+"unit": "PSA製品酸素槽",
+"code": "0-03-1-06",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 27,
+"r": 28
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-09",
+"image": "写真代替図（線画）",
+"caption": "PSA製品酸素槽 作業前"
+},
+"seq": 28,
+"r": 29
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-09",
+"image": "写真代替図（線画）",
+"caption": "PSA製品酸素槽 作業後"
+},
+"seq": 29,
+"r": 30
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-10",
+"unit": "酸素圧縮機（A）",
+"code": "0-03-1-07",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 30,
+"r": 31
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-10",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（A） 作業前"
+},
+"seq": 31,
+"r": 32
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-10",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（A） 作業後"
+},
+"seq": 32,
+"r": 33
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-11",
+"unit": "酸素圧縮機（A）用電動機",
+"code": "M-0144",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 33,
+"r": 34
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-11",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（A）用電動機 作業前"
+},
+"seq": 34,
+"r": 35
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-11",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（A）用電動機 作業後"
+},
+"seq": 35,
+"r": 36
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-12",
+"unit": "酸素圧縮機（B）",
+"code": "0-03-1-08",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 36,
+"r": 37
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-12",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（B） 作業前"
+},
+"seq": 37,
+"r": 38
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-12",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（B） 作業後"
+},
+"seq": 38,
+"r": 39
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-13",
+"unit": "酸素圧縮機（B）用電動機",
+"code": "M-0145",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 39,
+"r": 40
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-13",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（B）用電動機 作業前"
+},
+"seq": 40,
+"r": 41
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-13",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（B）用電動機 作業後"
+},
+"seq": 41,
+"r": 42
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-14",
+"unit": "PSA原料空気冷却器",
+"code": "0-03-1-09",
+"date": "6/13〜6/20",
+"kubun": "交換",
+"work": "旧PSA 撤去",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 42,
+"r": 43
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-14",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気冷却器 作業前"
+},
+"seq": 43,
+"r": 44
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-14",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気冷却器 作業後"
+},
+"seq": 44,
+"r": 45
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-15",
+"unit": "PSA原料空気ブロワ",
+"code": "0-03-1-01",
+"date": "6/21〜6/26",
+"kubun": "交換",
+"work": "基礎改修",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 45,
+"r": 46
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-15",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ 作業前"
+},
+"seq": 46,
+"r": 47
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-15",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ 作業後"
+},
+"seq": 47,
+"r": 48
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-16",
+"unit": "PSA原料空気ブロワ",
+"code": "0-03-1-01",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 48,
+"r": 49
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-16",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ 作業前"
+},
+"seq": 49,
+"r": 50
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-16",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ 作業後"
+},
+"seq": 50,
+"r": 51
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-17",
+"unit": "PSA原料空気ブロワ用電動機",
+"code": "M-0141",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 51,
+"r": 52
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-17",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ用電動機 作業前"
+},
+"seq": 52,
+"r": 53
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-17",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ用電動機 作業後"
+},
+"seq": 53,
+"r": 54
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-18",
+"unit": "PSA真空ポンプ（A）",
+"code": "0-03-1-02",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 54,
+"r": 55
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-18",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（A） 作業前"
+},
+"seq": 55,
+"r": 56
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-18",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（A） 作業後"
+},
+"seq": 56,
+"r": 57
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-19",
+"unit": "PSA真空ポンプ（A）用電動機",
+"code": "M-0142",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 57,
+"r": 58
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-19",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（A）用電動機 作業前"
+},
+"seq": 58,
+"r": 59
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-19",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（A）用電動機 作業後"
+},
+"seq": 59,
+"r": 60
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-20",
+"unit": "PSA真空ポンプ（B）",
+"code": "0-03-1-03",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 60,
+"r": 61
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-20",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（B） 作業前"
+},
+"seq": 61,
+"r": 62
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-20",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（B） 作業後"
+},
+"seq": 62,
+"r": 63
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-21",
+"unit": "PSA真空ポンプ（B）用電動機",
+"code": "M-0143",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 63,
+"r": 64
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-21",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（B）用電動機 作業前"
+},
+"seq": 64,
+"r": 65
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-21",
+"image": "写真代替図（線画）",
+"caption": "PSA真空ポンプ（B）用電動機 作業後"
+},
+"seq": 65,
+"r": 66
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-22",
+"unit": "PSA吸着塔（A）",
+"code": "0-03-1-04",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 66,
+"r": 67
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-22",
+"image": "写真代替図（線画）",
+"caption": "PSA吸着塔（A） 作業前"
+},
+"seq": 67,
+"r": 68
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-22",
+"image": "写真代替図（線画）",
+"caption": "PSA吸着塔（A） 作業後"
+},
+"seq": 68,
+"r": 69
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-23",
+"unit": "PSA吸着塔（B）",
+"code": "0-03-1-05",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 69,
+"r": 70
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-23",
+"image": "写真代替図（線画）",
+"caption": "PSA吸着塔（B） 作業前"
+},
+"seq": 70,
+"r": 71
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-23",
+"image": "写真代替図（線画）",
+"caption": "PSA吸着塔（B） 作業後"
+},
+"seq": 71,
+"r": 72
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-24",
+"unit": "PSA製品酸素槽",
+"code": "0-03-1-06",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 72,
+"r": 73
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-24",
+"image": "写真代替図（線画）",
+"caption": "PSA製品酸素槽 作業前"
+},
+"seq": 73,
+"r": 74
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-24",
+"image": "写真代替図（線画）",
+"caption": "PSA製品酸素槽 作業後"
+},
+"seq": 74,
+"r": 75
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-25",
+"unit": "酸素圧縮機（A）",
+"code": "0-03-1-07",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 75,
+"r": 76
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-25",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（A） 作業前"
+},
+"seq": 76,
+"r": 77
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-25",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（A） 作業後"
+},
+"seq": 77,
+"r": 78
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-26",
+"unit": "酸素圧縮機（A）用電動機",
+"code": "M-0144",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 78,
+"r": 79
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-26",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（A）用電動機 作業前"
+},
+"seq": 79,
+"r": 80
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-26",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（A）用電動機 作業後"
+},
+"seq": 80,
+"r": 81
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-27",
+"unit": "酸素圧縮機（B）",
+"code": "0-03-1-08",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 81,
+"r": 82
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-27",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（B） 作業前"
+},
+"seq": 82,
+"r": 83
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-27",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（B） 作業後"
+},
+"seq": 83,
+"r": 84
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-28",
+"unit": "酸素圧縮機（B）用電動機",
+"code": "M-0145",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 84,
+"r": 85
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-28",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（B）用電動機 作業前"
+},
+"seq": 85,
+"r": 86
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-28",
+"image": "写真代替図（線画）",
+"caption": "酸素圧縮機（B）用電動機 作業後"
+},
+"seq": 86,
+"r": 87
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-29",
+"unit": "PSA原料空気冷却器",
+"code": "0-03-1-09",
+"date": "6/27〜7/10",
+"kubun": "交換",
+"work": "機器据付（ブロワ・真空ポンプ・吸着塔・製品槽・圧縮機・冷却器）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 87,
+"r": 88
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-29",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気冷却器 作業前"
+},
+"seq": 88,
+"r": 89
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-29",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気冷却器 作業後"
+},
+"seq": 89,
+"r": 90
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-30",
+"unit": "PSA切替弁（A）",
+"code": "0-03-1-10",
+"date": "7/6〜7/16",
+"kubun": "交換",
+"work": "配管・切替弁 据付",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 90,
+"r": 91
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-30",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（A） 作業前"
+},
+"seq": 91,
+"r": 92
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-30",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（A） 作業後"
+},
+"seq": 92,
+"r": 93
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-31",
+"unit": "PSA切替弁（B）",
+"code": "0-03-1-11",
+"date": "7/6〜7/16",
+"kubun": "交換",
+"work": "配管・切替弁 据付",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 93,
+"r": 94
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-31",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（B） 作業前"
+},
+"seq": 94,
+"r": 95
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-31",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（B） 作業後"
+},
+"seq": 95,
+"r": 96
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-32",
+"unit": "PSA切替弁（C）",
+"code": "0-03-1-12",
+"date": "7/6〜7/16",
+"kubun": "交換",
+"work": "配管・切替弁 据付",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 96,
+"r": 97
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-32",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（C） 作業前"
+},
+"seq": 97,
+"r": 98
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-32",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（C） 作業後"
+},
+"seq": 98,
+"r": 99
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-33",
+"unit": "PSA切替弁（D）",
+"code": "0-03-1-13",
+"date": "7/6〜7/16",
+"kubun": "交換",
+"work": "配管・切替弁 据付",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 99,
+"r": 100
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-33",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（D） 作業前"
+},
+"seq": 100,
+"r": 101
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-33",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（D） 作業後"
+},
+"seq": 101,
+"r": 102
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-34",
+"unit": "PSA切替弁（E）",
+"code": "0-03-1-14",
+"date": "7/6〜7/16",
+"kubun": "交換",
+"work": "配管・切替弁 据付",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 102,
+"r": 103
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-34",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（E） 作業前"
+},
+"seq": 103,
+"r": 104
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-34",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（E） 作業後"
+},
+"seq": 104,
+"r": 105
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-35",
+"unit": "PSA切替弁（F）",
+"code": "0-03-1-15",
+"date": "7/6〜7/16",
+"kubun": "交換",
+"work": "配管・切替弁 据付",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 105,
+"r": 106
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-35",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（F） 作業前"
+},
+"seq": 106,
+"r": 107
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-35",
+"image": "写真代替図（線画）",
+"caption": "PSA切替弁（F） 作業後"
+},
+"seq": 107,
+"r": 108
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-36",
+"unit": "PSA制御盤",
+"code": "0-03-1-16",
+"date": "7/10〜7/20",
+"kubun": "交換",
+"work": "制御盤・インバータ盤・濃度計 据付・配線",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 108,
+"r": 109
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-36",
+"image": "写真代替図（線画）",
+"caption": "PSA制御盤 作業前"
+},
+"seq": 109,
+"r": 110
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-36",
+"image": "写真代替図（線画）",
+"caption": "PSA制御盤 作業後"
+},
+"seq": 110,
+"r": 111
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-37",
+"unit": "製品酸素濃度計（PSA出口）",
+"code": "0-03-1-17",
+"date": "7/10〜7/20",
+"kubun": "交換",
+"work": "制御盤・インバータ盤・濃度計 据付・配線",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 111,
+"r": 112
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-37",
+"image": "写真代替図（線画）",
+"caption": "製品酸素濃度計（PSA出口） 作業前"
+},
+"seq": 112,
+"r": 113
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-37",
+"image": "写真代替図（線画）",
+"caption": "製品酸素濃度計（PSA出口） 作業後"
+},
+"seq": 113,
+"r": 114
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-38",
+"unit": "PSA原料空気ブロワインバータ盤",
+"code": "0-03-1-18",
+"date": "7/10〜7/20",
+"kubun": "交換",
+"work": "制御盤・インバータ盤・濃度計 据付・配線",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 114,
+"r": 115
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-38",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワインバータ盤 作業前"
+},
+"seq": 115,
+"r": 116
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-38",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワインバータ盤 作業後"
+},
+"seq": 116,
+"r": 117
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-39",
+"unit": "製品酸素濃度計（PSA出口）",
+"code": "0-03-1-17",
+"date": "7/10〜7/20",
+"kubun": "交換",
+"work": "制御盤・インバータ盤・濃度計 据付・配線",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 117,
+"r": 118
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-39",
+"image": "写真代替図（線画）",
+"caption": "製品酸素濃度計（PSA出口） 作業前"
+},
+"seq": 118,
+"r": 119
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-39",
+"image": "写真代替図（線画）",
+"caption": "製品酸素濃度計（PSA出口） 作業後"
+},
+"seq": 119,
+"r": 120
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-40",
+"unit": "PSA原料空気ブロワインバータ盤",
+"code": "0-03-1-18",
+"date": "7/10〜7/20",
+"kubun": "交換",
+"work": "制御盤・インバータ盤・濃度計 据付・配線",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "あかね電設"
+},
+"seq": 120,
+"r": 121
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-40",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワインバータ盤 作業前"
+},
+"seq": 121,
+"r": 122
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-40",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワインバータ盤 作業後"
+},
+"seq": 122,
+"r": 123
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "機器シート",
+"sheet": "M-41",
+"unit": "PSA原料空気ブロワ",
+"code": "0-03-1-01",
+"date": "7/21〜7/27",
+"kubun": "交換",
+"work": "試運転・調整（製品酸素 濃度・流量）",
+"result": "更新（据付・試験）完了",
+"judge": "良",
+"company": "千草環境"
+},
+"seq": 123,
+"r": 124
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-41",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ 作業前"
+},
+"seq": 124,
+"r": 125
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "写真",
+"sheet": "M-41",
+"image": "写真代替図（線画）",
+"caption": "PSA原料空気ブロワ 作業後"
+},
+"seq": 125,
+"r": 126
+},
+{
+"sheet": null,
+"kind": "item",
+"fields": {
+"section": "使用部品",
+"name": "パッキン・ガスケット類",
+"spec": "—",
+"qty": "一式",
+"kind": "委託範囲",
+"place": "各マンホール"
+},
+"seq": 126,
+"r": 127
+}
+]
+}

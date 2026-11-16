@@ -1,0 +1,335 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_令和6年度1号ボイラ2次過熱器下部ベンド部分更新工事_R1様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "1014",
+"kind": "subtotal",
+"fields": {
+"date": "2024-10-14",
+"weather": "曇のち雨",
+"company": "千草環境",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5,
+"manDaysText": "22.5",
+"manDays": 2.81
+},
+"r": 5
+},
+{
+"sheet": "1014",
+"kind": "total",
+"fields": {
+"date": "2024-10-14",
+"persons": 3,
+"manHours": 22.5,
+"manDaysText": "22.5",
+"manDays": 2.81
+},
+"r": 6
+},
+{
+"sheet": "1014",
+"kind": "item",
+"fields": {
+"date": "2024-10-14",
+"weather": "曇のち雨",
+"blockCompany": "千草環境",
+"no": "1",
+"place": "1号ボイラ本体",
+"content": "1号2次過熱器 補修（肉盛・塗装）",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "50%",
+"manDaysText": "22.5",
+"manDays": 2.81,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1015",
+"kind": "subtotal",
+"fields": {
+"date": "2024-10-15",
+"weather": "曇",
+"company": "千草環境",
+"persons": 3,
+"time": "8:30〜18:30",
+"manHours": 27.0,
+"manDaysText": "27.0",
+"manDays": 3.38
+},
+"r": 5
+},
+{
+"sheet": "1015",
+"kind": "total",
+"fields": {
+"date": "2024-10-15",
+"persons": 3,
+"manHours": 27.0,
+"manDaysText": "27.0",
+"manDays": 3.38
+},
+"r": 6
+},
+{
+"sheet": "1015",
+"kind": "item",
+"fields": {
+"date": "2024-10-15",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "1",
+"place": "1号ボイラ本体",
+"content": "1号2次過熱器 補修（肉盛・塗装）",
+"time": "8:30〜18:30",
+"persons": 3,
+"manHours": 27.0,
+"progress": "100%",
+"manDaysText": "27.0",
+"manDays": 3.38,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1016",
+"kind": "subtotal",
+"fields": {
+"date": "2024-10-16",
+"weather": "晴",
+"company": "千草環境",
+"persons": 4,
+"time": "13:00〜17:00",
+"manHours": 16.0,
+"manDaysText": "16.0",
+"manDays": 2.0
+},
+"r": 5
+},
+{
+"sheet": "1016",
+"kind": "total",
+"fields": {
+"date": "2024-10-16",
+"persons": 4,
+"manHours": 16.0,
+"manDaysText": "16.0",
+"manDays": 2.0
+},
+"r": 6
+},
+{
+"sheet": "1016",
+"kind": "item",
+"fields": {
+"date": "2024-10-16",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "2",
+"place": "1号ボイラ本体",
+"content": "1号2次過熱器 補修（肉盛・塗装）",
+"time": "13:00〜17:00",
+"persons": 4,
+"manHours": 16.0,
+"progress": "25%",
+"manDaysText": "16.0",
+"manDays": 2.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1017",
+"kind": "subtotal",
+"fields": {
+"date": "2024-10-17",
+"weather": "晴",
+"company": "千草環境",
+"persons": 4,
+"time": "8:00〜17:00",
+"manHours": 32.0,
+"manDaysText": "32.0",
+"manDays": 4.0
+},
+"r": 5
+},
+{
+"sheet": "1017",
+"kind": "total",
+"fields": {
+"date": "2024-10-17",
+"persons": 4,
+"manHours": 32.0,
+"manDaysText": "32.0",
+"manDays": 4.0
+},
+"r": 6
+},
+{
+"sheet": "1017",
+"kind": "item",
+"fields": {
+"date": "2024-10-17",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "2",
+"place": "1号ボイラ本体",
+"content": "1号2次過熱器 補修（肉盛・塗装）",
+"time": "8:00〜17:00",
+"persons": 4,
+"manHours": 32.0,
+"progress": "50%",
+"manDaysText": "32.0",
+"manDays": 4.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1018",
+"kind": "subtotal",
+"fields": {
+"date": "2024-10-18",
+"weather": "晴",
+"company": "千草環境",
+"persons": 3,
+"time": "8:30〜18:30",
+"manHours": 27.0,
+"manDaysText": "27.0",
+"manDays": 3.38
+},
+"r": 5
+},
+{
+"sheet": "1018",
+"kind": "total",
+"fields": {
+"date": "2024-10-18",
+"persons": 3,
+"manHours": 27.0,
+"manDaysText": "27.0",
+"manDays": 3.38
+},
+"r": 6
+},
+{
+"sheet": "1018",
+"kind": "item",
+"fields": {
+"date": "2024-10-18",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "2",
+"place": "1号ボイラ本体",
+"content": "1号2次過熱器 補修（肉盛・塗装）",
+"time": "8:30〜18:30",
+"persons": 3,
+"manHours": 27.0,
+"progress": "75%",
+"manDaysText": "27.0",
+"manDays": 3.38,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1019",
+"kind": "subtotal",
+"fields": {
+"date": "2024-10-19",
+"weather": "曇",
+"company": "千草環境",
+"persons": 3,
+"time": "8:00〜17:00",
+"manHours": 24.0,
+"manDaysText": "24.0",
+"manDays": 3.0
+},
+"r": 5
+},
+{
+"sheet": "1019",
+"kind": "total",
+"fields": {
+"date": "2024-10-19",
+"persons": 3,
+"manHours": 24.0,
+"manDaysText": "24.0",
+"manDays": 3.0
+},
+"r": 6
+},
+{
+"sheet": "1019",
+"kind": "item",
+"fields": {
+"date": "2024-10-19",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "2",
+"place": "1号ボイラ本体",
+"content": "1号2次過熱器 補修（肉盛・塗装）",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "100%",
+"manDaysText": "24.0",
+"manDays": 3.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "1024",
+"kind": "subtotal",
+"fields": {
+"date": "2024-10-24",
+"weather": "晴",
+"company": "千草環境",
+"persons": 2,
+"time": "8:30〜18:30",
+"manHours": 18.0,
+"manDaysText": "18.0",
+"manDays": 2.25
+},
+"r": 5
+},
+{
+"sheet": "1024",
+"kind": "total",
+"fields": {
+"date": "2024-10-24",
+"persons": 2,
+"manHours": 18.0,
+"manDaysText": "18.0",
+"manDays": 2.25
+},
+"r": 6
+},
+{
+"sheet": "1024",
+"kind": "item",
+"fields": {
+"date": "2024-10-24",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "4",
+"place": "1号ボイラ本体",
+"content": "1号2次過熱器 補修（肉盛・塗装）",
+"time": "8:30〜18:30",
+"persons": 2,
+"manHours": 18.0,
+"progress": "100%",
+"manDaysText": "18.0",
+"manDays": 2.25,
+"days": 1
+},
+"r": 12
+}
+]
+}

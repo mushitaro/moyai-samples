@@ -1,0 +1,111 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_平成24年度2号ボイラエコノマイザ管漏れ補修工事_p1班別様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "2.15",
+"kind": "item",
+"fields": {
+"date": "2013-02-15",
+"weather": "晴",
+"blockTeam": "補修",
+"content": "2号ボイラ本体　2号エコノマイザ 補修（肉盛・塗装）",
+"persons": 3
+},
+"r": 6
+},
+{
+"sheet": "2.15",
+"kind": "total",
+"fields": {
+"date": "2013-02-15",
+"persons": 3
+},
+"r": 7
+},
+{
+"sheet": "2.16",
+"kind": "item",
+"fields": {
+"date": "2013-02-16",
+"weather": "雨",
+"blockTeam": "補修",
+"content": "2号ボイラ本体　2号エコノマイザ 補修（肉盛・塗装）",
+"persons": 3
+},
+"r": 6
+},
+{
+"sheet": "2.16",
+"kind": "total",
+"fields": {
+"date": "2013-02-16",
+"persons": 3
+},
+"r": 7
+},
+{
+"sheet": "2.18",
+"kind": "item",
+"fields": {
+"date": "2013-02-18",
+"weather": "曇",
+"blockTeam": "補修",
+"content": "2号ボイラ本体　2号エコノマイザ 補修（肉盛・塗装）",
+"persons": 4
+},
+"r": 6
+},
+{
+"sheet": "2.18",
+"kind": "total",
+"fields": {
+"date": "2013-02-18",
+"persons": 4
+},
+"r": 7
+},
+{
+"sheet": "2.19",
+"kind": "item",
+"fields": {
+"date": "2013-02-19",
+"weather": "曇",
+"blockTeam": "補修",
+"content": "2号ボイラ本体　2号エコノマイザ 補修（肉盛・塗装）",
+"persons": 4
+},
+"r": 6
+},
+{
+"sheet": "2.19",
+"kind": "total",
+"fields": {
+"date": "2013-02-19",
+"persons": 4
+},
+"r": 7
+},
+{
+"sheet": "2.20",
+"kind": "item",
+"fields": {
+"date": "2013-02-20",
+"weather": "晴",
+"blockTeam": "補修",
+"content": "2号ボイラ本体　2号エコノマイザ 補修（肉盛・塗装）",
+"persons": 3
+},
+"r": 6
+},
+{
+"sheet": "2.20",
+"kind": "total",
+"fields": {
+"date": "2013-02-20",
+"persons": 3
+},
+"r": 7
+}
+]
+}

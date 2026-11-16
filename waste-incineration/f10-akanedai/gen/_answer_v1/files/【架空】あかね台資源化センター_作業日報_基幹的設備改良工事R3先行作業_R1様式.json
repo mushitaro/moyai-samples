@@ -1,0 +1,726 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_基幹的設備改良工事R3先行作業_R1様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "1005",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-05",
+"weather": "曇",
+"company": "千草環境",
+"persons": 3,
+"time": "13:00〜17:00",
+"manHours": 12.0
+},
+"r": 5
+},
+{
+"sheet": "1005",
+"kind": "total",
+"fields": {
+"date": "2021-10-05",
+"persons": 3,
+"manHours": 12.0
+},
+"r": 6
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2021-10-05",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "K-1",
+"place": "1号溶融炉本体",
+"content": "鉄皮 外面 UT（シャフト上部）",
+"time": "13:00〜17:00",
+"persons": 3,
+"manHours": 12.0,
+"progress": "25%"
+},
+"r": 12
+},
+{
+"sheet": "1006",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-06",
+"weather": "晴",
+"company": "千草環境",
+"persons": 3,
+"time": "9:00〜16:30",
+"manHours": 19.5
+},
+"r": 5
+},
+{
+"sheet": "1006",
+"kind": "total",
+"fields": {
+"date": "2021-10-06",
+"persons": 3,
+"manHours": 19.5
+},
+"r": 6
+},
+{
+"sheet": "1006",
+"kind": "item",
+"fields": {
+"date": "2021-10-06",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "K-1",
+"place": "1号溶融炉本体",
+"content": "鉄皮 外面 UT（シャフト中部）",
+"time": "9:00〜16:30",
+"persons": 3,
+"manHours": 19.5,
+"progress": "50%"
+},
+"r": 12
+},
+{
+"sheet": "1007",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"company": "千草環境",
+"persons": 3,
+"time": "9:00〜16:30",
+"manHours": 19.5
+},
+"r": 5
+},
+{
+"sheet": "1007",
+"kind": "total",
+"fields": {
+"date": "2021-10-07",
+"persons": 3,
+"manHours": 19.5
+},
+"r": 6
+},
+{
+"sheet": "1007",
+"kind": "item",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "K-1",
+"place": "1号溶融炉本体",
+"content": "鉄皮 外面 UT（シャフト下部）",
+"time": "9:00〜16:30",
+"persons": 3,
+"manHours": 19.5,
+"progress": "75%"
+},
+"r": 12
+},
+{
+"sheet": "1008",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-08",
+"weather": "曇",
+"company": "千草環境",
+"persons": 2,
+"time": "8:30〜17:00",
+"manHours": 15.0
+},
+"r": 5
+},
+{
+"sheet": "1008",
+"kind": "total",
+"fields": {
+"date": "2021-10-08",
+"persons": 2,
+"manHours": 15.0
+},
+"r": 6
+},
+{
+"sheet": "1008",
+"kind": "item",
+"fields": {
+"date": "2021-10-08",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "K-1",
+"place": "1号溶融炉本体",
+"content": "鉄皮 外面 UT（朝顔部）",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1011",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-11",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0
+},
+"r": 5
+},
+{
+"sheet": "1011",
+"kind": "total",
+"fields": {
+"date": "2021-10-11",
+"persons": 4,
+"manHours": 30.0
+},
+"r": 6
+},
+{
+"sheet": "1011",
+"kind": "item",
+"fields": {
+"date": "2021-10-11",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "K-2",
+"place": "1号炉別制御ステーション（FCS）",
+"content": "FCS・I/O盤 基礎 施工",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "20%"
+},
+"r": 12
+},
+{
+"sheet": "1012",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-12",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0
+},
+"r": 5
+},
+{
+"sheet": "1012",
+"kind": "total",
+"fields": {
+"date": "2021-10-12",
+"persons": 4,
+"manHours": 30.0
+},
+"r": 6
+},
+{
+"sheet": "1012",
+"kind": "item",
+"fields": {
+"date": "2021-10-12",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "K-2",
+"place": "1号炉別制御ステーション（FCS）",
+"content": "ケーブルラック 取付",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "40%"
+},
+"r": 12
+},
+{
+"sheet": "1013",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-13",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0
+},
+"r": 5
+},
+{
+"sheet": "1013",
+"kind": "total",
+"fields": {
+"date": "2021-10-13",
+"persons": 4,
+"manHours": 36.0
+},
+"r": 6
+},
+{
+"sheet": "1013",
+"kind": "item",
+"fields": {
+"date": "2021-10-13",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "K-2",
+"place": "1号炉別制御ステーション（FCS）",
+"content": "FCS・I/O盤 基礎 施工",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "60%"
+},
+"r": 12
+},
+{
+"sheet": "1014",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-14",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0
+},
+"r": 5
+},
+{
+"sheet": "1014",
+"kind": "total",
+"fields": {
+"date": "2021-10-14",
+"persons": 4,
+"manHours": 30.0
+},
+"r": 6
+},
+{
+"sheet": "1014",
+"kind": "item",
+"fields": {
+"date": "2021-10-14",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "K-2",
+"place": "1号炉別制御ステーション（FCS）",
+"content": "ケーブルラック 取付",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "80%"
+},
+"r": 12
+},
+{
+"sheet": "1015",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-15",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0
+},
+"r": 5
+},
+{
+"sheet": "1015",
+"kind": "total",
+"fields": {
+"date": "2021-10-15",
+"persons": 4,
+"manHours": 36.0
+},
+"r": 6
+},
+{
+"sheet": "1015",
+"kind": "item",
+"fields": {
+"date": "2021-10-15",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "K-2",
+"place": "1号炉別制御ステーション（FCS）",
+"content": "FCS・I/O盤 基礎 施工",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1018",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-18",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5
+},
+"r": 5
+},
+{
+"sheet": "1018",
+"kind": "total",
+"fields": {
+"date": "2021-10-18",
+"persons": 3,
+"manHours": 22.5
+},
+"r": 6
+},
+{
+"sheet": "1018",
+"kind": "item",
+"fields": {
+"date": "2021-10-18",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "K-3",
+"place": "1号炉別入出力盤（I/O-1）",
+"content": "ケーブル 先行敷設（6条）",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "10%"
+},
+"r": 12
+},
+{
+"sheet": "1019",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-19",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:00〜17:00",
+"manHours": 32.0
+},
+"r": 5
+},
+{
+"sheet": "1019",
+"kind": "total",
+"fields": {
+"date": "2021-10-19",
+"persons": 4,
+"manHours": 32.0
+},
+"r": 6
+},
+{
+"sheet": "1019",
+"kind": "item",
+"fields": {
+"date": "2021-10-19",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "K-3",
+"place": "1号炉別入出力盤（I/O-1）",
+"content": "ケーブル 先行敷設（7条）",
+"time": "8:00〜17:00",
+"persons": 4,
+"manHours": 32.0,
+"progress": "20%"
+},
+"r": 12
+},
+{
+"sheet": "1020",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-20",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0
+},
+"r": 5
+},
+{
+"sheet": "1020",
+"kind": "total",
+"fields": {
+"date": "2021-10-20",
+"persons": 4,
+"manHours": 36.0
+},
+"r": 6
+},
+{
+"sheet": "1020",
+"kind": "item",
+"fields": {
+"date": "2021-10-20",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "K-3",
+"place": "1号炉別入出力盤（I/O-1）",
+"content": "ケーブル 先行敷設（5条）",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "30%"
+},
+"r": 12
+},
+{
+"sheet": "1021",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-21",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 4,
+"time": "13:00〜17:00",
+"manHours": 16.0
+},
+"r": 5
+},
+{
+"sheet": "1021",
+"kind": "total",
+"fields": {
+"date": "2021-10-21",
+"persons": 4,
+"manHours": 16.0
+},
+"r": 6
+},
+{
+"sheet": "1021",
+"kind": "item",
+"fields": {
+"date": "2021-10-21",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "K-3",
+"place": "1号炉別入出力盤（I/O-1）",
+"content": "ケーブル 先行敷設（6条）",
+"time": "13:00〜17:00",
+"persons": 4,
+"manHours": 16.0,
+"progress": "40%"
+},
+"r": 12
+},
+{
+"sheet": "1022",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-22",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "13:00〜17:00",
+"manHours": 16.0
+},
+"r": 5
+},
+{
+"sheet": "1022",
+"kind": "total",
+"fields": {
+"date": "2021-10-22",
+"persons": 4,
+"manHours": 16.0
+},
+"r": 6
+},
+{
+"sheet": "1022",
+"kind": "item",
+"fields": {
+"date": "2021-10-22",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "K-3",
+"place": "1号炉別入出力盤（I/O-1）",
+"content": "ケーブル 先行敷設（7条）",
+"time": "13:00〜17:00",
+"persons": 4,
+"manHours": 16.0,
+"progress": "50%"
+},
+"r": 12
+},
+{
+"sheet": "1023",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-23",
+"weather": "晴のち曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:00〜17:00",
+"manHours": 32.0
+},
+"r": 5
+},
+{
+"sheet": "1023",
+"kind": "total",
+"fields": {
+"date": "2021-10-23",
+"persons": 4,
+"manHours": 32.0
+},
+"r": 6
+},
+{
+"sheet": "1023",
+"kind": "item",
+"fields": {
+"date": "2021-10-23",
+"weather": "晴のち曇",
+"blockCompany": "あかね電設",
+"no": "K-3",
+"place": "1号炉別入出力盤（I/O-1）",
+"content": "ケーブル 先行敷設（7条）",
+"time": "8:00〜17:00",
+"persons": 4,
+"manHours": 32.0,
+"progress": "60%"
+},
+"r": 12
+},
+{
+"sheet": "1025",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-25",
+"weather": "雨",
+"company": "あかね電設",
+"persons": 3,
+"time": "8:30〜18:30",
+"manHours": 27.0
+},
+"r": 5
+},
+{
+"sheet": "1025",
+"kind": "total",
+"fields": {
+"date": "2021-10-25",
+"persons": 3,
+"manHours": 27.0
+},
+"r": 6
+},
+{
+"sheet": "1025",
+"kind": "item",
+"fields": {
+"date": "2021-10-25",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "K-3",
+"place": "1号炉別入出力盤（I/O-1）",
+"content": "ケーブル 先行敷設（9条）",
+"time": "8:30〜18:30",
+"persons": 3,
+"manHours": 27.0,
+"progress": "80%"
+},
+"r": 12
+},
+{
+"sheet": "1026",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-26",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "9:00〜16:30",
+"manHours": 26.0
+},
+"r": 5
+},
+{
+"sheet": "1026",
+"kind": "total",
+"fields": {
+"date": "2021-10-26",
+"persons": 4,
+"manHours": 26.0
+},
+"r": 6
+},
+{
+"sheet": "1026",
+"kind": "item",
+"fields": {
+"date": "2021-10-26",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "K-3",
+"place": "1号炉別入出力盤（I/O-1）",
+"content": "ケーブル 先行敷設（9条）",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "90%"
+},
+"r": 12
+},
+{
+"sheet": "1027",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-27",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0
+},
+"r": 5
+},
+{
+"sheet": "1027",
+"kind": "total",
+"fields": {
+"date": "2021-10-27",
+"persons": 4,
+"manHours": 36.0
+},
+"r": 6
+},
+{
+"sheet": "1027",
+"kind": "item",
+"fields": {
+"date": "2021-10-27",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "K-3",
+"place": "1号炉別入出力盤（I/O-1）",
+"content": "ケーブル 先行敷設（9条）",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "100%"
+},
+"r": 12
+}
+]
+}

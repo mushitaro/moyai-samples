@@ -1,0 +1,510 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_平成24年度年間保守点検整備業務委託全炉停止_p1班別様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "5.15",
+"kind": "item",
+"fields": {
+"date": "2012-05-15",
+"weather": "曇のち雨",
+"blockTeam": "電計",
+"content": "電気室　MCC・配電盤 停電点検（端子増締め・絶縁抵抗）（あかね電設）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "5.15",
+"kind": "item",
+"fields": {
+"date": "2012-05-15",
+"weather": "曇のち雨",
+"blockTeam": "電計",
+"content": "PSA酸素発生装置　PSA原料空気ブロワ用電動機 絶縁抵抗測定・軸受音確認（あかね電設）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "5.15",
+"kind": "item",
+"fields": {
+"date": "2012-05-15",
+"weather": "曇のち雨",
+"blockTeam": "電計",
+"content": "機器冷却水　機器冷却水ポンプ（A）用電動機 絶縁抵抗測定・軸受音確認（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "5.15",
+"kind": "item",
+"fields": {
+"date": "2012-05-15",
+"weather": "曇のち雨",
+"blockTeam": "機械",
+"content": "PSA酸素発生装置　PSA切替弁（B） 分解整備（グランド・弁座）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 9
+},
+{
+"sheet": "5.15",
+"kind": "item",
+"fields": {
+"date": "2012-05-15",
+"weather": "曇のち雨",
+"blockTeam": "機械",
+"content": "選別装置　スラグ粒度調整機 補修",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 10
+},
+{
+"sheet": "5.15",
+"kind": "item",
+"fields": {
+"date": "2012-05-15",
+"weather": "曇のち雨",
+"blockTeam": "機械",
+"content": "ボイラ給水　ボイラ給水ポンプ（B）・脱気器給水ポンプ（B） 分解整備（軸受・シール交換）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 11
+},
+{
+"sheet": "5.15",
+"kind": "total",
+"fields": {
+"date": "2012-05-15",
+"persons": 15
+},
+"r": 12
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2012-05-16",
+"weather": "晴のち曇",
+"blockTeam": "電計",
+"content": "電気室　MCC・配電盤 停電点検（端子増締め・絶縁抵抗）（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2012-05-16",
+"weather": "晴のち曇",
+"blockTeam": "電計",
+"content": "液体酸素設備　酸素漏えい検知器 メーカー点検・校正（あかね電設）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2012-05-16",
+"weather": "晴のち曇",
+"blockTeam": "電計",
+"content": "機器冷却水　機器冷却水ポンプ（B）用電動機 絶縁抵抗測定・軸受音確認（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2012-05-16",
+"weather": "晴のち曇",
+"blockTeam": "電計",
+"content": "高圧配電　高圧き電盤（共通）・動力変圧器（1号炉） 盤内点検・清掃・増締め（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 9
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2012-05-16",
+"weather": "晴のち曇",
+"blockTeam": "機械",
+"content": "液体酸素設備　液酸供給圧力調節弁 分解整備（グランド・弁座）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 10
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2012-05-16",
+"weather": "晴のち曇",
+"blockTeam": "機械",
+"content": "ボイラ給水　純水ポンプ（A） 分解点検・消耗品交換",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 11
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2012-05-16",
+"weather": "晴のち曇",
+"blockTeam": "機械",
+"content": "飛灰処理　処理灰搬送コンベヤ 分解整備（軸受・シール交換）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2012-05-16",
+"weather": "晴のち曇",
+"blockTeam": "機械",
+"content": "電動弁・調節弁　主蒸気ヘッダ電動弁・純水補給電動弁 分解整備（グランド・弁座）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 13
+},
+{
+"sheet": "5.16",
+"kind": "total",
+"fields": {
+"date": "2012-05-16",
+"persons": 22
+},
+"r": 14
+},
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2012-05-17",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "電気室　MCC・配電盤 停電点検（端子増締め・絶縁抵抗）（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2012-05-17",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "ごみピット　ピット火災検知装置 メーカー点検・校正（あかね電設）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2012-05-17",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "圧縮空気　空気圧縮機（C）用電動機 絶縁抵抗測定・軸受音確認（あかね電設）",
+"persons": 1,
+"manDaysText": "1名",
+"manDays": 1.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2012-05-17",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "変圧器　動力変圧器（共通）・建築動力変圧器 盤内点検・清掃・増締め（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 9
+},
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2012-05-17",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "PSA酸素発生装置　PSA真空ポンプ（A） 分解整備（軸受・シール交換）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 10
+},
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2012-05-17",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "電動弁・調節弁　プラットホーム排気ダンパ・副資材集じんダンパ 分解整備（グランド・弁座）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 11
+},
+{
+"sheet": "5.17",
+"kind": "total",
+"fields": {
+"date": "2012-05-17",
+"persons": 14
+},
+"r": 12
+},
+{
+"sheet": "5.18",
+"kind": "item",
+"fields": {
+"date": "2012-05-18",
+"weather": "曇",
+"blockTeam": "機械",
+"content": "PSA酸素発生装置　PSA真空ポンプ（B） 分解点検・消耗品交換",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "5.18",
+"kind": "item",
+"fields": {
+"date": "2012-05-18",
+"weather": "曇",
+"blockTeam": "機械",
+"content": "PSA酸素発生装置　PSA原料空気冷却器 補修（肉盛・塗装）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "5.18",
+"kind": "item",
+"fields": {
+"date": "2012-05-18",
+"weather": "曇",
+"blockTeam": "機械",
+"content": "電動弁・調節弁　副資材集じんダンパ 分解整備（グランド・弁座）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "5.18",
+"kind": "item",
+"fields": {
+"date": "2012-05-18",
+"weather": "曇",
+"blockTeam": "電計",
+"content": "低圧配電　低圧配電盤（2号炉）・共通動力制御盤（MCC-1） 盤内点検・清掃・増締め（あかね電設）",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 9
+},
+{
+"sheet": "5.18",
+"kind": "total",
+"fields": {
+"date": "2012-05-18",
+"persons": 12
+},
+"r": 10
+},
+{
+"sheet": "5.19",
+"kind": "item",
+"fields": {
+"date": "2012-05-19",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "プラットホーム　ごみ投入扉（D） 分解整備（軸受・シール交換）",
+"persons": 1,
+"manDaysText": "1名",
+"manDays": 1.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "5.19",
+"kind": "item",
+"fields": {
+"date": "2012-05-19",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "プラント排水　排水移送ポンプ（B） 補修",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "5.19",
+"kind": "item",
+"fields": {
+"date": "2012-05-19",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "圧縮空気　空気圧縮機（B） 分解整備（軸受・シール交換）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "5.19",
+"kind": "item",
+"fields": {
+"date": "2012-05-19",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "ボイラ給水　ボイラ給水ポンプ（A）用電動機 絶縁抵抗測定・軸受音確認（あかね電設）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 9
+},
+{
+"sheet": "5.19",
+"kind": "item",
+"fields": {
+"date": "2012-05-19",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "非常用電源　無停電電源装置（UPS-1）・系統連系保護継電器盤 盤内点検・清掃・増締め（あかね電設）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 10
+},
+{
+"sheet": "5.19",
+"kind": "total",
+"fields": {
+"date": "2012-05-19",
+"persons": 12
+},
+"r": 11
+},
+{
+"sheet": "5.21",
+"kind": "item",
+"fields": {
+"date": "2012-05-21",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "ボイラ給水　脱気器 補修（肉盛・塗装）",
+"persons": 1,
+"manDaysText": "1名",
+"manDays": 1.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "5.21",
+"kind": "total",
+"fields": {
+"date": "2012-05-21",
+"persons": 1
+},
+"r": 7
+}
+]
+}

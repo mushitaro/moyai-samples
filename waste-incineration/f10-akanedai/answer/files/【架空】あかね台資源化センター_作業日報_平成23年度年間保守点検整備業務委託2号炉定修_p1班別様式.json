@@ -1,0 +1,1065 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_平成23年度年間保守点検整備業務委託2号炉定修_p1班別様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "6.11",
+"kind": "item",
+"fields": {
+"date": "2011-06-11",
+"weather": "雨",
+"blockTeam": "機械A",
+"content": "2号溶融炉　炉内 酸欠・CO 測定、入槽許可（市立会）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.11",
+"kind": "item",
+"fields": {
+"date": "2011-06-11",
+"weather": "雨",
+"blockTeam": "足場",
+"content": "2号炉内・ボイラ　足場組立 着手（羽口レベル）（丸鳥足場工業）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.11",
+"kind": "total",
+"fields": {
+"date": "2011-06-11",
+"persons": 7
+},
+"r": 8
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2011-06-13",
+"weather": "雨",
+"blockTeam": "足場",
+"content": "2号炉内・ボイラ　足場組立 完了・点検（市確認）（丸鳥足場工業）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2011-06-13",
+"weather": "雨",
+"blockTeam": "炉内",
+"content": "2号溶融炉 炉内　残留物除去 シャフト下部、フレコン 5袋 搬出（東雲築炉）",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2011-06-13",
+"weather": "雨",
+"blockTeam": "機械A",
+"content": "2号溶融炉 羽口部　主羽口・副羽口 漏水試験 準備（縁切り）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2011-06-13",
+"weather": "雨",
+"blockTeam": "清掃",
+"content": "2号ボイラ　ボイラ水洗 2パス（ひかり工業）",
+"persons": 6,
+"manDaysText": "6名",
+"manDays": 6.0,
+"days": 1
+},
+"r": 9
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2011-06-13",
+"weather": "雨",
+"blockTeam": "清掃",
+"content": "2号水砕槽　掻揚コンベヤ チェーン伸び測定 0.9%（ひかり工業）",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 10
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2011-06-13",
+"weather": "雨",
+"blockTeam": "機械B",
+"content": "2号減温塔　減温塔 内部点検（付着確認）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 11
+},
+{
+"sheet": "6.13",
+"kind": "total",
+"fields": {
+"date": "2011-06-13",
+"persons": 25
+},
+"r": 12
+},
+{
+"sheet": "6.14",
+"kind": "item",
+"fields": {
+"date": "2011-06-14",
+"weather": "雨",
+"blockTeam": "炉内",
+"content": "2号溶融炉 炉内　残留物除去 完了（羽口部まで清掃）（東雲築炉）",
+"persons": 7,
+"manDaysText": "7名",
+"manDays": 7.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.14",
+"kind": "item",
+"fields": {
+"date": "2011-06-14",
+"weather": "雨",
+"blockTeam": "清掃",
+"content": "2号ボイラ　ボイラ水洗 3パス・エコノマイザ（ひかり工業）",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.14",
+"kind": "item",
+"fields": {
+"date": "2011-06-14",
+"weather": "雨",
+"blockTeam": "清掃",
+"content": "2号水砕槽　掻揚コンベヤ チェーン伸び測定 1.0%（ひかり工業）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.14",
+"kind": "total",
+"fields": {
+"date": "2011-06-14",
+"persons": 16
+},
+"r": 9
+},
+{
+"sheet": "6.15",
+"kind": "item",
+"fields": {
+"date": "2011-06-15",
+"weather": "晴",
+"blockTeam": "機械B",
+"content": "2号水砕装置　2号水砕水循環ポンプ（B） 分解整備（軸受・シール交換）",
+"persons": 1,
+"manDaysText": "1名",
+"manDays": 1.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.15",
+"kind": "item",
+"fields": {
+"date": "2011-06-15",
+"weather": "晴",
+"blockTeam": "機械B",
+"content": "2号薬剤吹込装置　2号活性炭定量供給機 分解整備（軸受・シール交換）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.15",
+"kind": "item",
+"fields": {
+"date": "2011-06-15",
+"weather": "晴",
+"blockTeam": "機械B",
+"content": "2号電動弁・調節弁　2号羽口冷却水圧力調節弁・2号羽口冷却水遮断弁 分解整備（グランド・弁座）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.15",
+"kind": "total",
+"fields": {
+"date": "2011-06-15",
+"persons": 7
+},
+"r": 9
+},
+{
+"sheet": "6.16",
+"kind": "item",
+"fields": {
+"date": "2011-06-16",
+"weather": "曇",
+"blockTeam": "炉内",
+"content": "2号溶融炉 炉内　耐火物 損耗測定（シャフト部）（東雲築炉）",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.16",
+"kind": "item",
+"fields": {
+"date": "2011-06-16",
+"weather": "曇",
+"blockTeam": "機械B",
+"content": "2号水砕装置　2号水砕水冷却塔 分解点検・消耗品交換",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.16",
+"kind": "item",
+"fields": {
+"date": "2011-06-16",
+"weather": "曇",
+"blockTeam": "機械B",
+"content": "2号電動弁・調節弁　2号炉頂ガス緊急放散弁・2号酸素ラインパージ電動弁 分解整備（グランド・弁座）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.16",
+"kind": "total",
+"fields": {
+"date": "2011-06-16",
+"persons": 12
+},
+"r": 9
+},
+{
+"sheet": "6.17",
+"kind": "item",
+"fields": {
+"date": "2011-06-17",
+"weather": "晴",
+"blockTeam": "炉内",
+"content": "2号溶融炉 炉内　耐火物 部分補修（吹付 1.1m²）（東雲築炉）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.17",
+"kind": "item",
+"fields": {
+"date": "2011-06-17",
+"weather": "晴",
+"blockTeam": "機械B",
+"content": "2号BF　ろ布 取外し 1・2室",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.17",
+"kind": "item",
+"fields": {
+"date": "2011-06-17",
+"weather": "晴",
+"blockTeam": "機械B",
+"content": "2号電動弁・調節弁　2号送風機吐出ダンパ（A）・2号送風機吐出ダンパ（B） 分解整備（グランド・弁座）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.17",
+"kind": "total",
+"fields": {
+"date": "2011-06-17",
+"persons": 12
+},
+"r": 9
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2011-06-18",
+"weather": "雨",
+"blockTeam": "炉内",
+"content": "2号溶融炉 炉内　耐火物 部分補修（吹付 1.2m²）（東雲築炉）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2011-06-18",
+"weather": "雨",
+"blockTeam": "機械B",
+"content": "2号BF　ろ布 取付 1・2室",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2011-06-18",
+"weather": "雨",
+"blockTeam": "機械B",
+"content": "2号ごみ供給装置　2号給じん油圧ユニット 補修",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2011-06-18",
+"weather": "雨",
+"blockTeam": "機械B",
+"content": "2号ボイラ本体　2号ボイラ安全弁（ドラム）（A）・2号ボイラ安全弁（ドラム）（B） 分解整備（軸受・シール交換）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 9
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2011-06-18",
+"weather": "雨",
+"blockTeam": "機械B",
+"content": "2号ろ過式集じん器　2号飛灰集合コンベヤ 分解整備（軸受・シール交換）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 10
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2011-06-18",
+"weather": "雨",
+"blockTeam": "機械B",
+"content": "2号電動弁・調節弁　2号送風機吐出ダンパ（B） 分解整備（グランド・弁座）",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 11
+},
+{
+"sheet": "6.18",
+"kind": "total",
+"fields": {
+"date": "2011-06-18",
+"persons": 20
+},
+"r": 12
+},
+{
+"sheet": "6.20",
+"kind": "item",
+"fields": {
+"date": "2011-06-20",
+"weather": "雨",
+"blockTeam": "炉内",
+"content": "2号溶融炉 炉内　耐火物 部分補修（吹付 1.0m²）（東雲築炉）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.20",
+"kind": "item",
+"fields": {
+"date": "2011-06-20",
+"weather": "雨",
+"blockTeam": "機械B",
+"content": "2号BF　ろ布 取付 5・6室",
+"persons": 6,
+"manDaysText": "6名",
+"manDays": 6.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.20",
+"kind": "total",
+"fields": {
+"date": "2011-06-20",
+"persons": 10
+},
+"r": 8
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2011-06-21",
+"weather": "晴",
+"blockTeam": "炉内",
+"content": "2号溶融炉 炉内　耐火物 部分補修（吹付 0.8m²）（東雲築炉）",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2011-06-21",
+"weather": "晴",
+"blockTeam": "機械B",
+"content": "2号BF　ろ布 取付 6・6室",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2011-06-21",
+"weather": "晴",
+"blockTeam": "機械B",
+"content": "2号出湯設備　2号マッドガン 補修",
+"persons": 1,
+"manDaysText": "1名",
+"manDays": 1.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2011-06-21",
+"weather": "晴",
+"blockTeam": "機械B",
+"content": "2号ボイラ計装・弁　2号主蒸気止弁 分解整備（グランド・弁座）",
+"persons": 1,
+"manDaysText": "1名",
+"manDays": 1.0,
+"days": 1
+},
+"r": 9
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2011-06-21",
+"weather": "晴",
+"blockTeam": "機械B",
+"content": "2号ろ過式集じん器　2号BF逆洗空気槽 補修（肉盛・塗装）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 10
+},
+{
+"sheet": "6.21",
+"kind": "total",
+"fields": {
+"date": "2011-06-21",
+"persons": 14
+},
+"r": 11
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2011-06-22",
+"weather": "雨",
+"blockTeam": "炉内",
+"content": "2号溶融炉 炉内　耐火物 部分補修（吹付 1.4m²）（東雲築炉）",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2011-06-22",
+"weather": "雨",
+"blockTeam": "機械B",
+"content": "2号BF　ろ布全数交換 完了・差圧確認",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2011-06-22",
+"weather": "雨",
+"blockTeam": "機械B",
+"content": "2号誘引通風機　振動測定 1.8mm/s・外観点検",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2011-06-22",
+"weather": "雨",
+"blockTeam": "機械B",
+"content": "2号出湯設備　2号出湯口油圧ポンプ（B） 分解点検・消耗品交換",
+"persons": 1,
+"manDaysText": "1名",
+"manDays": 1.0,
+"days": 1
+},
+"r": 9
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2011-06-22",
+"weather": "雨",
+"blockTeam": "機械A",
+"content": "2号送風機　羽口送風機（A）（B） 軸受点検・グリス交換",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 10
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2011-06-22",
+"weather": "雨",
+"blockTeam": "機械A",
+"content": "2号給じん装置　上部シールダンパ シール面点検",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 11
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2011-06-22",
+"weather": "雨",
+"blockTeam": "電計",
+"content": "2号炉 計装　炉頂温度計・炉内圧力計 校正（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 12
+},
+{
+"sheet": "6.22",
+"kind": "total",
+"fields": {
+"date": "2011-06-22",
+"persons": 22
+},
+"r": 13
+},
+{
+"sheet": "6.23",
+"kind": "item",
+"fields": {
+"date": "2011-06-23",
+"weather": "晴のち曇",
+"blockTeam": "炉内",
+"content": "2号溶融炉 炉内　耐火物補修 仕上げ・確認（東雲築炉）",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.23",
+"kind": "item",
+"fields": {
+"date": "2011-06-23",
+"weather": "晴のち曇",
+"blockTeam": "機械A",
+"content": "2号給じん装置　下部シールダンパ シール面点検・研磨",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.23",
+"kind": "item",
+"fields": {
+"date": "2011-06-23",
+"weather": "晴のち曇",
+"blockTeam": "電計",
+"content": "2号炉 計装　送風流量計・送風酸素濃度計 校正（あかね電設）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.23",
+"kind": "total",
+"fields": {
+"date": "2011-06-23",
+"persons": 10
+},
+"r": 9
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2011-06-24",
+"weather": "晴",
+"blockTeam": "機械A",
+"content": "2号ボイラ　ボイラ水圧試験 5.0MPa 保持 30分 異常なし",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2011-06-24",
+"weather": "晴",
+"blockTeam": "機械A",
+"content": "2号給じん装置　給じん油圧ユニット 作動確認",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2011-06-24",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "2号炉 計装　排ガス分析計（O2・CO） 校正（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2011-06-24",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "2号誘引通風機　2号誘引通風機インバータ盤・2号排ガスO2計 盤内点検・清掃・増締め（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 9
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2011-06-24",
+"weather": "晴",
+"blockTeam": "機械B",
+"content": "2号送風設備　2号送風流量調節弁 分解整備（グランド・弁座）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 10
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2011-06-24",
+"weather": "晴",
+"blockTeam": "機械B",
+"content": "2号減温塔　2号噴霧水調節弁 分解整備（グランド・弁座）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 11
+},
+{
+"sheet": "6.24",
+"kind": "total",
+"fields": {
+"date": "2011-06-24",
+"persons": 18
+},
+"r": 12
+},
+{
+"sheet": "6.25",
+"kind": "item",
+"fields": {
+"date": "2011-06-25",
+"weather": "雨",
+"blockTeam": "電計",
+"content": "2号炉 計装　排ガス分析計（HCl・SOx・NOx） 校正（あかね電設）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.25",
+"kind": "item",
+"fields": {
+"date": "2011-06-25",
+"weather": "雨",
+"blockTeam": "電計",
+"content": "2号排ガス分析計　2号排ガスCO計 メーカー点検・校正（あかね電設）",
+"persons": 2,
+"manDaysText": "2名",
+"manDays": 2.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.25",
+"kind": "item",
+"fields": {
+"date": "2011-06-25",
+"weather": "雨",
+"blockTeam": "機械B",
+"content": "2号送風設備　2号酸素富化流量調節弁 分解整備（グランド・弁座）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.25",
+"kind": "total",
+"fields": {
+"date": "2011-06-25",
+"persons": 9
+},
+"r": 9
+},
+{
+"sheet": "6.27",
+"kind": "item",
+"fields": {
+"date": "2011-06-27",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "2号炉 計装　ボイラ計装（ドラム水位・主蒸気） 校正（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.27",
+"kind": "item",
+"fields": {
+"date": "2011-06-27",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "2号電気室　MCC・配電盤 停電点検（端子増締め・絶縁抵抗）（あかね電設）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.27",
+"kind": "item",
+"fields": {
+"date": "2011-06-27",
+"weather": "晴",
+"blockTeam": "足場",
+"content": "2号炉内・ボイラ　足場解体（丸鳥足場工業）",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.27",
+"kind": "total",
+"fields": {
+"date": "2011-06-27",
+"persons": 12
+},
+"r": 9
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2011-06-28",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "2号炉 計装　炉頂温度計・炉内圧力計 校正（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2011-06-28",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "2号電気室　MCC・配電盤 停電点検（端子増締め・絶縁抵抗）（あかね電設）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2011-06-28",
+"weather": "晴",
+"blockTeam": "足場",
+"content": "2号炉内・ボイラ　足場解体・搬出（丸鳥足場工業）",
+"persons": 4,
+"manDaysText": "4名",
+"manDays": 4.0,
+"days": 1
+},
+"r": 8
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2011-06-28",
+"weather": "晴",
+"blockTeam": "機械A",
+"content": "2号溶融炉・ボイラ　マンホール閉止",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 9
+},
+{
+"sheet": "6.28",
+"kind": "total",
+"fields": {
+"date": "2011-06-28",
+"persons": 15
+},
+"r": 10
+},
+{
+"sheet": "6.29",
+"kind": "item",
+"fields": {
+"date": "2011-06-29",
+"weather": "曇",
+"blockTeam": "機械A",
+"content": "2号溶融炉・ボイラ　マンホール閉止 完了",
+"persons": 5,
+"manDaysText": "5名",
+"manDays": 5.0,
+"days": 1
+},
+"r": 6
+},
+{
+"sheet": "6.29",
+"kind": "item",
+"fields": {
+"date": "2011-06-29",
+"weather": "曇",
+"blockTeam": "機械A",
+"content": "2号炉　インターロック試験（送風・給じん・出湯口・IDF）",
+"persons": 3,
+"manDaysText": "3名",
+"manDays": 3.0,
+"days": 1
+},
+"r": 7
+},
+{
+"sheet": "6.29",
+"kind": "total",
+"fields": {
+"date": "2011-06-29",
+"persons": 8
+},
+"r": 8
+}
+]
+}

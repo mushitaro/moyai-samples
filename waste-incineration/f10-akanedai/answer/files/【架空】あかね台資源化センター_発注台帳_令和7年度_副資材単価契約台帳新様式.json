@@ -1,0 +1,7323 @@
+{
+"file": "【架空】あかね台資源化センター_発注台帳_令和7年度_副資材単価契約台帳新様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 1,
+"date": "2025-04-01",
+"item": "コークス",
+"slip": "TK2504-01",
+"qty": 13.32,
+"unit": "t",
+"price": 71500,
+"amount": 1047618,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 5
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 2,
+"date": "2025-04-02",
+"item": "コークス",
+"slip": "TK2504-02",
+"qty": 13.17,
+"unit": "t",
+"price": 71500,
+"amount": 1035820,
+"checker": "j3",
+"stock": 61.6
+},
+"r": 6
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 3,
+"date": "2025-04-03",
+"item": "コークス",
+"slip": "TK2504-03",
+"qty": 13.61,
+"unit": "t",
+"price": 71500,
+"amount": 1070426,
+"checker": "j3",
+"stock": 61.8
+},
+"r": 7
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 4,
+"date": "2025-04-04",
+"item": "コークス",
+"slip": "TK2504-04",
+"qty": 13.23,
+"unit": "t",
+"price": 71500,
+"amount": 1040539,
+"checker": "j3",
+"stock": 61.6
+},
+"r": 8
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 5,
+"date": "2025-04-07",
+"item": "コークス",
+"slip": "TK2504-05",
+"qty": 13.07,
+"unit": "t",
+"price": 71500,
+"amount": 1027955,
+"checker": "j3",
+"stock": 61.2
+},
+"r": 9
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 6,
+"date": "2025-04-08",
+"item": "コークス",
+"slip": "TK2504-06",
+"qty": 13.73,
+"unit": "t",
+"price": 71500,
+"amount": 1079864,
+"checker": "j3",
+"stock": 61.5
+},
+"r": 10
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 7,
+"date": "2025-04-09",
+"item": "コークス",
+"slip": "TK2504-07",
+"qty": 13.12,
+"unit": "t",
+"price": 71500,
+"amount": 1031888,
+"checker": "j3",
+"stock": 61.2
+},
+"r": 11
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 8,
+"date": "2025-04-10",
+"item": "コークス",
+"slip": "TK2504-08",
+"qty": 13.11,
+"unit": "t",
+"price": 71500,
+"amount": 1031101,
+"checker": "j3",
+"stock": 60.9
+},
+"r": 12
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 9,
+"date": "2025-04-11",
+"item": "コークス",
+"slip": "TK2504-09",
+"qty": 13.68,
+"unit": "t",
+"price": 71500,
+"amount": 1075932,
+"checker": "j3",
+"stock": 61.1
+},
+"r": 13
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 10,
+"date": "2025-04-14",
+"item": "コークス",
+"slip": "TK2504-10",
+"qty": 13.69,
+"unit": "t",
+"price": 71500,
+"amount": 1076718,
+"checker": "j3",
+"stock": 61.3
+},
+"r": 14
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 11,
+"date": "2025-04-15",
+"item": "コークス",
+"slip": "TK2504-11",
+"qty": 13.21,
+"unit": "t",
+"price": 71500,
+"amount": 1038966,
+"checker": "j3",
+"stock": 61.1
+},
+"r": 15
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 12,
+"date": "2025-04-16",
+"item": "コークス",
+"slip": "TK2504-12",
+"qty": 13.33,
+"unit": "t",
+"price": 71500,
+"amount": 1048404,
+"checker": "j3",
+"stock": 61.0
+},
+"r": 16
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 13,
+"date": "2025-04-17",
+"item": "コークス",
+"slip": "TK2504-13",
+"qty": 13.19,
+"unit": "t",
+"price": 71500,
+"amount": 1037393,
+"checker": "j3",
+"stock": 60.7
+},
+"r": 17
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 14,
+"date": "2025-04-18",
+"item": "コークス",
+"slip": "TK2504-14",
+"qty": 13.14,
+"unit": "t",
+"price": 71500,
+"amount": 1033461,
+"checker": "k1",
+"stock": 60.4
+},
+"r": 18
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 15,
+"date": "2025-04-21",
+"item": "コークス",
+"slip": "TK2504-15",
+"qty": 13.72,
+"unit": "t",
+"price": 71500,
+"amount": 1079078,
+"checker": "j3",
+"stock": 60.7
+},
+"r": 19
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 16,
+"date": "2025-04-22",
+"item": "コークス",
+"slip": "TK2504-16",
+"qty": 13.73,
+"unit": "t",
+"price": 71500,
+"amount": 1079864,
+"checker": "k1",
+"stock": 61.0
+},
+"r": 20
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 17,
+"date": "2025-04-23",
+"item": "コークス",
+"slip": "TK2504-17",
+"qty": 13.78,
+"unit": "t",
+"price": 71500,
+"amount": 1083797,
+"checker": "j3",
+"stock": 61.3
+},
+"r": 21
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 18,
+"date": "2025-04-24",
+"item": "コークス",
+"slip": "TK2504-18",
+"qty": 13.38,
+"unit": "t",
+"price": 71500,
+"amount": 1052337,
+"checker": "k1",
+"stock": 61.2
+},
+"r": 22
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 19,
+"date": "2025-04-25",
+"item": "コークス",
+"slip": "TK2504-19",
+"qty": 13.25,
+"unit": "t",
+"price": 71500,
+"amount": 1042112,
+"checker": "j3",
+"stock": 61.0
+},
+"r": 23
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 20,
+"date": "2025-04-28",
+"item": "コークス",
+"slip": "TK2504-20",
+"qty": 13.35,
+"unit": "t",
+"price": 71500,
+"amount": 1049977,
+"checker": "j3",
+"stock": 60.9
+},
+"r": 24
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 21,
+"date": "2025-04-29",
+"item": "コークス",
+"slip": "TK2504-21",
+"qty": 13.09,
+"unit": "t",
+"price": 71500,
+"amount": 1029528,
+"checker": "j3",
+"stock": 60.5
+},
+"r": 25
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 22,
+"date": "2025-04-30",
+"item": "コークス",
+"slip": "TK2504-22",
+"qty": 13.4,
+"unit": "t",
+"price": 71500,
+"amount": 1053910,
+"checker": "j3",
+"stock": 60.4
+},
+"r": 26
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 23,
+"date": "2025-04-30",
+"item": "コークス",
+"slip": "TK2504-23",
+"qty": 13.17,
+"unit": "t",
+"price": 71500,
+"amount": 1035820,
+"checker": "j3",
+"stock": 60.1
+},
+"r": 27
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 24,
+"date": "2025-04-30",
+"item": "コークス",
+"slip": "TK2504-24",
+"qty": 13.6,
+"unit": "t",
+"price": 71500,
+"amount": 1069640,
+"checker": "j3",
+"stock": 60.2
+},
+"r": 28
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 25,
+"date": "2025-04-30",
+"item": "コークス",
+"slip": "TK2504-25",
+"qty": 13.79,
+"unit": "t",
+"price": 71500,
+"amount": 1084583,
+"checker": "j3",
+"stock": 60.5
+},
+"r": 29
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 26,
+"date": "2025-04-30",
+"item": "コークス",
+"slip": "TK2504-26",
+"qty": 15.04,
+"unit": "t",
+"price": 71500,
+"amount": 1182904,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 30
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 27,
+"date": "2025-04-01",
+"item": "石灰石",
+"slip": "SH2504-01",
+"qty": 18.66,
+"unit": "t",
+"price": 10890,
+"amount": 223528,
+"checker": "j3",
+"stock": 95.0
+},
+"r": 31
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 28,
+"date": "2025-04-03",
+"item": "石灰石",
+"slip": "SH2504-02",
+"qty": 18.51,
+"unit": "t",
+"price": 10890,
+"amount": 221731,
+"checker": "k1",
+"stock": 94.9
+},
+"r": 32
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 29,
+"date": "2025-04-04",
+"item": "石灰石",
+"slip": "SH2504-03",
+"qty": 19.18,
+"unit": "t",
+"price": 10890,
+"amount": 229757,
+"checker": "j3",
+"stock": 95.4
+},
+"r": 33
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 30,
+"date": "2025-04-07",
+"item": "石灰石",
+"slip": "SH2504-04",
+"qty": 18.16,
+"unit": "t",
+"price": 10890,
+"amount": 217538,
+"checker": "j3",
+"stock": 94.9
+},
+"r": 34
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 31,
+"date": "2025-04-15",
+"item": "石灰石",
+"slip": "SH2504-05",
+"qty": 18.5,
+"unit": "t",
+"price": 10890,
+"amount": 221611,
+"checker": "j3",
+"stock": 94.7
+},
+"r": 35
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 32,
+"date": "2025-04-17",
+"item": "石灰石",
+"slip": "SH2504-06",
+"qty": 18.9,
+"unit": "t",
+"price": 10890,
+"amount": 226403,
+"checker": "j3",
+"stock": 94.9
+},
+"r": 36
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 33,
+"date": "2025-04-18",
+"item": "石灰石",
+"slip": "SH2504-07",
+"qty": 18.27,
+"unit": "t",
+"price": 10890,
+"amount": 218856,
+"checker": "k1",
+"stock": 94.5
+},
+"r": 37
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 34,
+"date": "2025-04-21",
+"item": "石灰石",
+"slip": "SH2504-08",
+"qty": 18.6,
+"unit": "t",
+"price": 10890,
+"amount": 222809,
+"checker": "j3",
+"stock": 94.4
+},
+"r": 38
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 35,
+"date": "2025-04-22",
+"item": "石灰石",
+"slip": "SH2504-09",
+"qty": 19.02,
+"unit": "t",
+"price": 10890,
+"amount": 227840,
+"checker": "j3",
+"stock": 94.8
+},
+"r": 39
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 36,
+"date": "2025-04-23",
+"item": "石灰石",
+"slip": "SH2504-10",
+"qty": 18.47,
+"unit": "t",
+"price": 10890,
+"amount": 221252,
+"checker": "j3",
+"stock": 94.6
+},
+"r": 40
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 37,
+"date": "2025-04-24",
+"item": "石灰石",
+"slip": "SH2504-11",
+"qty": 18.54,
+"unit": "t",
+"price": 10890,
+"amount": 222090,
+"checker": "j3",
+"stock": 94.5
+},
+"r": 41
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 38,
+"date": "2025-04-28",
+"item": "石灰石",
+"slip": "SH2504-12",
+"qty": 18.57,
+"unit": "t",
+"price": 10890,
+"amount": 222450,
+"checker": "k1",
+"stock": 94.4
+},
+"r": 42
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 39,
+"date": "2025-04-30",
+"item": "石灰石",
+"slip": "SH2504-13",
+"qty": 19.12,
+"unit": "t",
+"price": 10890,
+"amount": 229042,
+"checker": "j3",
+"stock": 94.9
+},
+"r": 43
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 40,
+"date": "2025-05-02",
+"item": "コークス",
+"slip": "TK2505-01",
+"qty": 12.87,
+"unit": "t",
+"price": 71500,
+"amount": 1012225,
+"checker": "k1",
+"stock": 61.8
+},
+"r": 44
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 41,
+"date": "2025-05-05",
+"item": "コークス",
+"slip": "TK2505-02",
+"qty": 13.51,
+"unit": "t",
+"price": 71500,
+"amount": 1062561,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 45
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 42,
+"date": "2025-05-06",
+"item": "コークス",
+"slip": "TK2505-03",
+"qty": 13.04,
+"unit": "t",
+"price": 71500,
+"amount": 1025596,
+"checker": "k1",
+"stock": 61.9
+},
+"r": 46
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 43,
+"date": "2025-05-07",
+"item": "コークス",
+"slip": "TK2505-04",
+"qty": 12.88,
+"unit": "t",
+"price": 71500,
+"amount": 1013012,
+"checker": "j3",
+"stock": 61.6
+},
+"r": 47
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 44,
+"date": "2025-05-09",
+"item": "コークス",
+"slip": "TK2505-05",
+"qty": 13.44,
+"unit": "t",
+"price": 71500,
+"amount": 1057056,
+"checker": "j3",
+"stock": 61.8
+},
+"r": 48
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 45,
+"date": "2025-05-12",
+"item": "コークス",
+"slip": "TK2505-06",
+"qty": 13.49,
+"unit": "t",
+"price": 71500,
+"amount": 1060988,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 49
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 46,
+"date": "2025-05-13",
+"item": "コークス",
+"slip": "TK2505-07",
+"qty": 13.42,
+"unit": "t",
+"price": 71500,
+"amount": 1055483,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 50
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 47,
+"date": "2025-05-14",
+"item": "コークス",
+"slip": "TK2505-08",
+"qty": 13.33,
+"unit": "t",
+"price": 71500,
+"amount": 1048404,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 51
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 48,
+"date": "2025-05-15",
+"item": "コークス",
+"slip": "TK2505-09",
+"qty": 13.02,
+"unit": "t",
+"price": 71500,
+"amount": 1024023,
+"checker": "k1",
+"stock": 62.2
+},
+"r": 52
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 49,
+"date": "2025-05-16",
+"item": "コークス",
+"slip": "TK2505-10",
+"qty": 13.45,
+"unit": "t",
+"price": 71500,
+"amount": 1057842,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 53
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 50,
+"date": "2025-05-19",
+"item": "コークス",
+"slip": "TK2505-11",
+"qty": 13.3,
+"unit": "t",
+"price": 71500,
+"amount": 1046045,
+"checker": "j3",
+"stock": 62.5
+},
+"r": 54
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 51,
+"date": "2025-05-20",
+"item": "コークス",
+"slip": "TK2505-12",
+"qty": 12.89,
+"unit": "t",
+"price": 71500,
+"amount": 1013798,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 55
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 52,
+"date": "2025-05-21",
+"item": "コークス",
+"slip": "TK2505-13",
+"qty": 13.04,
+"unit": "t",
+"price": 71500,
+"amount": 1025596,
+"checker": "k1",
+"stock": 62.0
+},
+"r": 56
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 53,
+"date": "2025-05-22",
+"item": "コークス",
+"slip": "TK2505-14",
+"qty": 13.01,
+"unit": "t",
+"price": 71500,
+"amount": 1023236,
+"checker": "k1",
+"stock": 61.8
+},
+"r": 57
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 54,
+"date": "2025-05-23",
+"item": "コークス",
+"slip": "TK2505-15",
+"qty": 13.31,
+"unit": "t",
+"price": 71500,
+"amount": 1046831,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 58
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 55,
+"date": "2025-05-26",
+"item": "コークス",
+"slip": "TK2505-16",
+"qty": 13.54,
+"unit": "t",
+"price": 71500,
+"amount": 1064921,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 59
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 56,
+"date": "2025-05-27",
+"item": "コークス",
+"slip": "TK2505-17",
+"qty": 12.93,
+"unit": "t",
+"price": 71500,
+"amount": 1016944,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 60
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 57,
+"date": "2025-05-28",
+"item": "コークス",
+"slip": "TK2505-18",
+"qty": 13.06,
+"unit": "t",
+"price": 71500,
+"amount": 1027169,
+"checker": "k1",
+"stock": 61.8
+},
+"r": 61
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 58,
+"date": "2025-05-29",
+"item": "コークス",
+"slip": "TK2505-19",
+"qty": 12.91,
+"unit": "t",
+"price": 71500,
+"amount": 1015371,
+"checker": "j3",
+"stock": 61.5
+},
+"r": 62
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 59,
+"date": "2025-05-30",
+"item": "コークス",
+"slip": "TK2505-20",
+"qty": 13.66,
+"unit": "t",
+"price": 71500,
+"amount": 1074364,
+"checker": "j3",
+"stock": 62.0
+},
+"r": 63
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 60,
+"date": "2025-05-01",
+"item": "石灰石",
+"slip": "SH2505-01",
+"qty": 17.9,
+"unit": "t",
+"price": 10890,
+"amount": 214424,
+"checker": "k1",
+"stock": 94.6
+},
+"r": 64
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 61,
+"date": "2025-05-02",
+"item": "石灰石",
+"slip": "SH2505-02",
+"qty": 18.66,
+"unit": "t",
+"price": 10890,
+"amount": 223528,
+"checker": "j3",
+"stock": 95.1
+},
+"r": 65
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 62,
+"date": "2025-05-05",
+"item": "石灰石",
+"slip": "SH2505-03",
+"qty": 18.05,
+"unit": "t",
+"price": 10890,
+"amount": 216220,
+"checker": "j3",
+"stock": 95.0
+},
+"r": 66
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 63,
+"date": "2025-05-07",
+"item": "石灰石",
+"slip": "SH2505-04",
+"qty": 18.06,
+"unit": "t",
+"price": 10890,
+"amount": 216340,
+"checker": "j3",
+"stock": 94.9
+},
+"r": 67
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 64,
+"date": "2025-05-13",
+"item": "石灰石",
+"slip": "SH2505-05",
+"qty": 18.36,
+"unit": "t",
+"price": 10890,
+"amount": 219934,
+"checker": "k1",
+"stock": 95.1
+},
+"r": 68
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 65,
+"date": "2025-05-15",
+"item": "石灰石",
+"slip": "SH2505-06",
+"qty": 17.76,
+"unit": "t",
+"price": 10890,
+"amount": 212747,
+"checker": "k1",
+"stock": 94.7
+},
+"r": 69
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 66,
+"date": "2025-05-23",
+"item": "石灰石",
+"slip": "SH2505-07",
+"qty": 18.58,
+"unit": "t",
+"price": 10890,
+"amount": 222569,
+"checker": "k1",
+"stock": 95.1
+},
+"r": 70
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 67,
+"date": "2025-05-26",
+"item": "石灰石",
+"slip": "SH2505-08",
+"qty": 17.98,
+"unit": "t",
+"price": 10890,
+"amount": 215382,
+"checker": "k1",
+"stock": 94.9
+},
+"r": 71
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 68,
+"date": "2025-05-29",
+"item": "石灰石",
+"slip": "SH2505-09",
+"qty": 18.35,
+"unit": "t",
+"price": 10890,
+"amount": 219818,
+"checker": "j3",
+"stock": 95.1
+},
+"r": 72
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 69,
+"date": "2025-05-02",
+"item": "液体酸素",
+"slip": "AO2505-01",
+"qty": 10500,
+"unit": "kg",
+"price": 61,
+"amount": 704550,
+"checker": "j3",
+"memo": "PSA 点検"
+},
+"r": 73
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 70,
+"date": "2025-05-16",
+"item": "液体酸素",
+"slip": "AO2505-02",
+"qty": 10500,
+"unit": "kg",
+"price": 61,
+"amount": 704550,
+"checker": "j3",
+"memo": "PSA 点検"
+},
+"r": 74
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 71,
+"date": "2025-05-27",
+"item": "液体酸素",
+"slip": "AO2505-03",
+"qty": 10400,
+"unit": "kg",
+"price": 61,
+"amount": 697840,
+"checker": "j3",
+"memo": "PSA 点検"
+},
+"r": 75
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 72,
+"date": "2025-06-03",
+"item": "コークス",
+"slip": "TK2506-01",
+"qty": 13.82,
+"unit": "t",
+"price": 71500,
+"amount": 1086943,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 76
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 73,
+"date": "2025-06-05",
+"item": "コークス",
+"slip": "TK2506-02",
+"qty": 14.12,
+"unit": "t",
+"price": 71500,
+"amount": 1110538,
+"checker": "j3",
+"stock": 62.5
+},
+"r": 77
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 74,
+"date": "2025-06-06",
+"item": "コークス",
+"slip": "TK2506-03",
+"qty": 13.96,
+"unit": "t",
+"price": 71500,
+"amount": 1097954,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 78
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 75,
+"date": "2025-06-11",
+"item": "コークス",
+"slip": "TK2506-04",
+"qty": 13.74,
+"unit": "t",
+"price": 71500,
+"amount": 1080651,
+"checker": "k1",
+"stock": 62.7
+},
+"r": 79
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 76,
+"date": "2025-06-12",
+"item": "コークス",
+"slip": "TK2506-05",
+"qty": 13.45,
+"unit": "t",
+"price": 71500,
+"amount": 1057842,
+"checker": "k1",
+"stock": 62.4
+},
+"r": 80
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 77,
+"date": "2025-06-13",
+"item": "コークス",
+"slip": "TK2506-06",
+"qty": 13.72,
+"unit": "t",
+"price": 71500,
+"amount": 1079078,
+"checker": "k1",
+"stock": 62.4
+},
+"r": 81
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 78,
+"date": "2025-06-17",
+"item": "コークス",
+"slip": "TK2506-07",
+"qty": 13.73,
+"unit": "t",
+"price": 71500,
+"amount": 1079864,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 82
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 79,
+"date": "2025-06-18",
+"item": "コークス",
+"slip": "TK2506-08",
+"qty": 14.05,
+"unit": "t",
+"price": 71500,
+"amount": 1105032,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 83
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 80,
+"date": "2025-06-19",
+"item": "コークス",
+"slip": "TK2506-09",
+"qty": 13.7,
+"unit": "t",
+"price": 71500,
+"amount": 1077505,
+"checker": "j3",
+"stock": 62.6
+},
+"r": 84
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 81,
+"date": "2025-06-20",
+"item": "コークス",
+"slip": "TK2506-10",
+"qty": 14.04,
+"unit": "t",
+"price": 71500,
+"amount": 1104246,
+"checker": "k1",
+"stock": 62.9
+},
+"r": 85
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 82,
+"date": "2025-06-23",
+"item": "コークス",
+"slip": "TK2506-11",
+"qty": 13.89,
+"unit": "t",
+"price": 71500,
+"amount": 1092448,
+"checker": "j3",
+"stock": 63.0
+},
+"r": 86
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 83,
+"date": "2025-06-24",
+"item": "コークス",
+"slip": "TK2506-12",
+"qty": 13.99,
+"unit": "t",
+"price": 71500,
+"amount": 1100313,
+"checker": "j3",
+"stock": 63.2
+},
+"r": 87
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 84,
+"date": "2025-06-25",
+"item": "コークス",
+"slip": "TK2506-13",
+"qty": 13.75,
+"unit": "t",
+"price": 71500,
+"amount": 1081437,
+"checker": "j3",
+"stock": 63.2
+},
+"r": 88
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 85,
+"date": "2025-06-27",
+"item": "コークス",
+"slip": "TK2506-14",
+"qty": 12.64,
+"unit": "t",
+"price": 71500,
+"amount": 994139,
+"checker": "k1",
+"stock": 62.1
+},
+"r": 89
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 86,
+"date": "2025-06-03",
+"item": "石灰石",
+"slip": "SH2506-01",
+"qty": 16.8,
+"unit": "t",
+"price": 10890,
+"amount": 201247,
+"checker": "k1",
+"stock": 95.0
+},
+"r": 90
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 87,
+"date": "2025-06-05",
+"item": "石灰石",
+"slip": "SH2506-02",
+"qty": 16.84,
+"unit": "t",
+"price": 10890,
+"amount": 201726,
+"checker": "k1",
+"stock": 95.0
+},
+"r": 91
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 88,
+"date": "2025-06-10",
+"item": "石灰石",
+"slip": "SH2506-03",
+"qty": 16.73,
+"unit": "t",
+"price": 10890,
+"amount": 200408,
+"checker": "k1",
+"stock": 94.9
+},
+"r": 92
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 89,
+"date": "2025-06-11",
+"item": "石灰石",
+"slip": "SH2506-04",
+"qty": 16.55,
+"unit": "t",
+"price": 10890,
+"amount": 198252,
+"checker": "j3",
+"stock": 94.6
+},
+"r": 93
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 90,
+"date": "2025-06-12",
+"item": "石灰石",
+"slip": "SH2506-05",
+"qty": 16.81,
+"unit": "t",
+"price": 10890,
+"amount": 201366,
+"checker": "k1",
+"stock": 94.5
+},
+"r": 94
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 91,
+"date": "2025-06-18",
+"item": "石灰石",
+"slip": "SH2506-06",
+"qty": 16.43,
+"unit": "t",
+"price": 10890,
+"amount": 196814,
+"checker": "k1",
+"stock": 94.1
+},
+"r": 95
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 92,
+"date": "2025-06-25",
+"item": "石灰石",
+"slip": "SH2506-07",
+"qty": 17.94,
+"unit": "t",
+"price": 10890,
+"amount": 214906,
+"checker": "j3",
+"stock": 95.2
+},
+"r": 96
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 93,
+"date": "2025-07-01",
+"item": "コークス",
+"slip": "TK2507-01",
+"qty": 13.47,
+"unit": "t",
+"price": 68900,
+"amount": 1020891,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 97
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 94,
+"date": "2025-07-02",
+"item": "コークス",
+"slip": "TK2507-02",
+"qty": 13.69,
+"unit": "t",
+"price": 68900,
+"amount": 1037565,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 98
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 95,
+"date": "2025-07-03",
+"item": "コークス",
+"slip": "TK2507-03",
+"qty": 13.74,
+"unit": "t",
+"price": 68900,
+"amount": 1041354,
+"checker": "k1",
+"stock": 61.9
+},
+"r": 99
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 96,
+"date": "2025-07-04",
+"item": "コークス",
+"slip": "TK2507-04",
+"qty": 13.61,
+"unit": "t",
+"price": 68900,
+"amount": 1031501,
+"checker": "j3",
+"stock": 61.8
+},
+"r": 100
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 97,
+"date": "2025-07-07",
+"item": "コークス",
+"slip": "TK2507-05",
+"qty": 13.54,
+"unit": "t",
+"price": 68900,
+"amount": 1026196,
+"checker": "j3",
+"stock": 61.6
+},
+"r": 101
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 98,
+"date": "2025-07-08",
+"item": "コークス",
+"slip": "TK2507-06",
+"qty": 13.89,
+"unit": "t",
+"price": 68900,
+"amount": 1052723,
+"checker": "j3",
+"stock": 61.8
+},
+"r": 102
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 99,
+"date": "2025-07-09",
+"item": "コークス",
+"slip": "TK2507-07",
+"qty": 13.71,
+"unit": "t",
+"price": 68900,
+"amount": 1039080,
+"checker": "j3",
+"stock": 61.8
+},
+"r": 103
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 100,
+"date": "2025-07-10",
+"item": "コークス",
+"slip": "TK2507-08",
+"qty": 13.37,
+"unit": "t",
+"price": 68900,
+"amount": 1013312,
+"checker": "j3",
+"stock": 61.5
+},
+"r": 104
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 101,
+"date": "2025-07-11",
+"item": "コークス",
+"slip": "TK2507-09",
+"qty": 13.76,
+"unit": "t",
+"price": 68900,
+"amount": 1042870,
+"checker": "j3",
+"stock": 61.5
+},
+"r": 105
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 102,
+"date": "2025-07-14",
+"item": "コークス",
+"slip": "TK2507-10",
+"qty": 13.99,
+"unit": "t",
+"price": 68900,
+"amount": 1060302,
+"checker": "k1",
+"stock": 61.8
+},
+"r": 106
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 103,
+"date": "2025-07-15",
+"item": "コークス",
+"slip": "TK2507-11",
+"qty": 13.41,
+"unit": "t",
+"price": 68900,
+"amount": 1016343,
+"checker": "j3",
+"stock": 61.5
+},
+"r": 107
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 104,
+"date": "2025-07-16",
+"item": "コークス",
+"slip": "TK2507-12",
+"qty": 13.64,
+"unit": "t",
+"price": 68900,
+"amount": 1033775,
+"checker": "j3",
+"stock": 61.4
+},
+"r": 108
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 105,
+"date": "2025-07-17",
+"item": "コークス",
+"slip": "TK2507-13",
+"qty": 13.68,
+"unit": "t",
+"price": 68900,
+"amount": 1036807,
+"checker": "j3",
+"stock": 61.4
+},
+"r": 109
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 106,
+"date": "2025-07-18",
+"item": "コークス",
+"slip": "TK2507-14",
+"qty": 14.04,
+"unit": "t",
+"price": 68900,
+"amount": 1064091,
+"checker": "k1",
+"stock": 61.7
+},
+"r": 110
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 107,
+"date": "2025-07-21",
+"item": "コークス",
+"slip": "TK2507-15",
+"qty": 14.09,
+"unit": "t",
+"price": 68900,
+"amount": 1067881,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 111
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 108,
+"date": "2025-07-22",
+"item": "コークス",
+"slip": "TK2507-16",
+"qty": 13.48,
+"unit": "t",
+"price": 68900,
+"amount": 1021649,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 112
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 109,
+"date": "2025-07-23",
+"item": "コークス",
+"slip": "TK2507-17",
+"qty": 13.47,
+"unit": "t",
+"price": 68900,
+"amount": 1020891,
+"checker": "j3",
+"stock": 61.7
+},
+"r": 113
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 110,
+"date": "2025-07-24",
+"item": "コークス",
+"slip": "TK2507-18",
+"qty": 13.67,
+"unit": "t",
+"price": 68900,
+"amount": 1036049,
+"checker": "j3",
+"stock": 61.7
+},
+"r": 114
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 111,
+"date": "2025-07-25",
+"item": "コークス",
+"slip": "TK2507-19",
+"qty": 13.39,
+"unit": "t",
+"price": 68900,
+"amount": 1014828,
+"checker": "k1",
+"stock": 61.4
+},
+"r": 115
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 112,
+"date": "2025-07-28",
+"item": "コークス",
+"slip": "TK2507-20",
+"qty": 13.8,
+"unit": "t",
+"price": 68900,
+"amount": 1045902,
+"checker": "j3",
+"stock": 61.5
+},
+"r": 116
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 113,
+"date": "2025-07-29",
+"item": "コークス",
+"slip": "TK2507-21",
+"qty": 13.79,
+"unit": "t",
+"price": 68900,
+"amount": 1045144,
+"checker": "j3",
+"stock": 61.6
+},
+"r": 117
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 114,
+"date": "2025-07-30",
+"item": "コークス",
+"slip": "TK2507-22",
+"qty": 13.97,
+"unit": "t",
+"price": 68900,
+"amount": 1058786,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 118
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 115,
+"date": "2025-07-31",
+"item": "コークス",
+"slip": "TK2507-23",
+"qty": 13.82,
+"unit": "t",
+"price": 68900,
+"amount": 1047417,
+"checker": "k1",
+"stock": 62.0
+},
+"r": 119
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 116,
+"date": "2025-07-31",
+"item": "コークス",
+"slip": "TK2507-24",
+"qty": 14.08,
+"unit": "t",
+"price": 68900,
+"amount": 1067132,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 120
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 117,
+"date": "2025-07-01",
+"item": "石灰石",
+"slip": "SH2507-01",
+"qty": 17.39,
+"unit": "t",
+"price": 10890,
+"amount": 208314,
+"checker": "j3",
+"stock": 94.8
+},
+"r": 121
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 118,
+"date": "2025-07-02",
+"item": "石灰石",
+"slip": "SH2507-02",
+"qty": 18.23,
+"unit": "t",
+"price": 10890,
+"amount": 218377,
+"checker": "j3",
+"stock": 95.2
+},
+"r": 122
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 119,
+"date": "2025-07-07",
+"item": "石灰石",
+"slip": "SH2507-03",
+"qty": 17.93,
+"unit": "t",
+"price": 10890,
+"amount": 214783,
+"checker": "j3",
+"stock": 95.3
+},
+"r": 123
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 120,
+"date": "2025-07-09",
+"item": "石灰石",
+"slip": "SH2507-04",
+"qty": 17.58,
+"unit": "t",
+"price": 10890,
+"amount": 210590,
+"checker": "j3",
+"stock": 95.1
+},
+"r": 124
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 121,
+"date": "2025-07-10",
+"item": "石灰石",
+"slip": "SH2507-05",
+"qty": 18.25,
+"unit": "t",
+"price": 10890,
+"amount": 218616,
+"checker": "k1",
+"stock": 95.5
+},
+"r": 125
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 122,
+"date": "2025-07-15",
+"item": "石灰石",
+"slip": "SH2507-06",
+"qty": 17.56,
+"unit": "t",
+"price": 10890,
+"amount": 210351,
+"checker": "k1",
+"stock": 95.3
+},
+"r": 126
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 123,
+"date": "2025-07-21",
+"item": "石灰石",
+"slip": "SH2507-07",
+"qty": 17.8,
+"unit": "t",
+"price": 10890,
+"amount": 213226,
+"checker": "j3",
+"stock": 95.3
+},
+"r": 127
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 124,
+"date": "2025-07-22",
+"item": "石灰石",
+"slip": "SH2507-08",
+"qty": 17.3,
+"unit": "t",
+"price": 10890,
+"amount": 207236,
+"checker": "j3",
+"stock": 94.8
+},
+"r": 128
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 125,
+"date": "2025-07-23",
+"item": "石灰石",
+"slip": "SH2507-09",
+"qty": 17.39,
+"unit": "t",
+"price": 10890,
+"amount": 208314,
+"checker": "j3",
+"stock": 94.4
+},
+"r": 129
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 126,
+"date": "2025-07-24",
+"item": "石灰石",
+"slip": "SH2507-10",
+"qty": 17.68,
+"unit": "t",
+"price": 10890,
+"amount": 211788,
+"checker": "j3",
+"stock": 94.3
+},
+"r": 130
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 127,
+"date": "2025-07-29",
+"item": "石灰石",
+"slip": "SH2507-11",
+"qty": 17.37,
+"unit": "t",
+"price": 10890,
+"amount": 208075,
+"checker": "j3",
+"stock": 93.9
+},
+"r": 131
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 128,
+"date": "2025-07-30",
+"item": "石灰石",
+"slip": "SH2507-12",
+"qty": 17.4,
+"unit": "t",
+"price": 10890,
+"amount": 208434,
+"checker": "j3",
+"stock": 93.5
+},
+"r": 132
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 129,
+"date": "2025-07-31",
+"item": "石灰石",
+"slip": "SH2507-13",
+"qty": 19.62,
+"unit": "t",
+"price": 10890,
+"amount": 235034,
+"checker": "k1",
+"stock": 95.3
+},
+"r": 133
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 130,
+"date": "2025-08-01",
+"item": "コークス",
+"slip": "TK2508-01",
+"qty": 13.19,
+"unit": "t",
+"price": 68900,
+"amount": 999670,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 134
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 131,
+"date": "2025-08-04",
+"item": "コークス",
+"slip": "TK2508-02",
+"qty": 13.71,
+"unit": "t",
+"price": 68900,
+"amount": 1039080,
+"checker": "k1",
+"stock": 62.3
+},
+"r": 135
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 132,
+"date": "2025-08-05",
+"item": "コークス",
+"slip": "TK2508-03",
+"qty": 13.15,
+"unit": "t",
+"price": 68900,
+"amount": 996638,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 136
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 133,
+"date": "2025-08-06",
+"item": "コークス",
+"slip": "TK2508-04",
+"qty": 13.57,
+"unit": "t",
+"price": 68900,
+"amount": 1028470,
+"checker": "j3",
+"stock": 62.0
+},
+"r": 137
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 134,
+"date": "2025-08-07",
+"item": "コークス",
+"slip": "TK2508-05",
+"qty": 13.74,
+"unit": "t",
+"price": 68900,
+"amount": 1041354,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 138
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 135,
+"date": "2025-08-08",
+"item": "コークス",
+"slip": "TK2508-06",
+"qty": 13.41,
+"unit": "t",
+"price": 68900,
+"amount": 1016343,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 139
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 136,
+"date": "2025-08-11",
+"item": "コークス",
+"slip": "TK2508-07",
+"qty": 13.62,
+"unit": "t",
+"price": 68900,
+"amount": 1032259,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 140
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 137,
+"date": "2025-08-12",
+"item": "コークス",
+"slip": "TK2508-08",
+"qty": 13.39,
+"unit": "t",
+"price": 68900,
+"amount": 1014828,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 141
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 138,
+"date": "2025-08-13",
+"item": "コークス",
+"slip": "TK2508-09",
+"qty": 13.81,
+"unit": "t",
+"price": 68900,
+"amount": 1046659,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 142
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 139,
+"date": "2025-08-14",
+"item": "コークス",
+"slip": "TK2508-10",
+"qty": 13.66,
+"unit": "t",
+"price": 68900,
+"amount": 1035291,
+"checker": "j3",
+"stock": 62.6
+},
+"r": 143
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 140,
+"date": "2025-08-15",
+"item": "コークス",
+"slip": "TK2508-11",
+"qty": 13.42,
+"unit": "t",
+"price": 68900,
+"amount": 1017101,
+"checker": "j3",
+"stock": 62.5
+},
+"r": 144
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 141,
+"date": "2025-08-18",
+"item": "コークス",
+"slip": "TK2508-12",
+"qty": 13.59,
+"unit": "t",
+"price": 68900,
+"amount": 1029986,
+"checker": "j3",
+"stock": 62.6
+},
+"r": 145
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 142,
+"date": "2025-08-19",
+"item": "コークス",
+"slip": "TK2508-13",
+"qty": 13.12,
+"unit": "t",
+"price": 68900,
+"amount": 994364,
+"checker": "k1",
+"stock": 62.2
+},
+"r": 146
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 143,
+"date": "2025-08-20",
+"item": "コークス",
+"slip": "TK2508-14",
+"qty": 13.58,
+"unit": "t",
+"price": 68900,
+"amount": 1029228,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 147
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 144,
+"date": "2025-08-21",
+"item": "コークス",
+"slip": "TK2508-15",
+"qty": 13.23,
+"unit": "t",
+"price": 68900,
+"amount": 1002701,
+"checker": "j3",
+"stock": 62.0
+},
+"r": 148
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 145,
+"date": "2025-08-22",
+"item": "コークス",
+"slip": "TK2508-16",
+"qty": 13.14,
+"unit": "t",
+"price": 68900,
+"amount": 995880,
+"checker": "j3",
+"stock": 61.6
+},
+"r": 149
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 146,
+"date": "2025-08-25",
+"item": "コークス",
+"slip": "TK2508-17",
+"qty": 13.63,
+"unit": "t",
+"price": 68900,
+"amount": 1033017,
+"checker": "j3",
+"stock": 61.7
+},
+"r": 150
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 147,
+"date": "2025-08-26",
+"item": "コークス",
+"slip": "TK2508-18",
+"qty": 13.51,
+"unit": "t",
+"price": 68900,
+"amount": 1023922,
+"checker": "j3",
+"stock": 61.7
+},
+"r": 151
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 148,
+"date": "2025-08-27",
+"item": "コークス",
+"slip": "TK2508-19",
+"qty": 13.63,
+"unit": "t",
+"price": 68900,
+"amount": 1033017,
+"checker": "j3",
+"stock": 61.8
+},
+"r": 152
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 149,
+"date": "2025-08-28",
+"item": "コークス",
+"slip": "TK2508-20",
+"qty": 13.46,
+"unit": "t",
+"price": 68900,
+"amount": 1020133,
+"checker": "k1",
+"stock": 61.8
+},
+"r": 153
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 150,
+"date": "2025-08-29",
+"item": "コークス",
+"slip": "TK2508-21",
+"qty": 13.58,
+"unit": "t",
+"price": 68900,
+"amount": 1029228,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 154
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 151,
+"date": "2025-08-29",
+"item": "コークス",
+"slip": "TK2508-22",
+"qty": 13.77,
+"unit": "t",
+"price": 68900,
+"amount": 1043628,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 155
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 152,
+"date": "2025-08-29",
+"item": "コークス",
+"slip": "TK2508-23",
+"qty": 13.22,
+"unit": "t",
+"price": 68900,
+"amount": 1001943,
+"checker": "k1",
+"stock": 61.9
+},
+"r": 156
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 153,
+"date": "2025-08-29",
+"item": "コークス",
+"slip": "TK2508-24",
+"qty": 13.24,
+"unit": "t",
+"price": 68900,
+"amount": 1003459,
+"checker": "j3",
+"stock": 61.6
+},
+"r": 157
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 154,
+"date": "2025-08-29",
+"item": "コークス",
+"slip": "TK2508-25",
+"qty": 13.73,
+"unit": "t",
+"price": 68900,
+"amount": 1040596,
+"checker": "j3",
+"stock": 61.8
+},
+"r": 158
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 155,
+"date": "2025-08-29",
+"item": "コークス",
+"slip": "TK2508-26",
+"qty": 14.1,
+"unit": "t",
+"price": 68900,
+"amount": 1068653,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 159
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 156,
+"date": "2025-08-06",
+"item": "石灰石",
+"slip": "SH2508-01",
+"qty": 19.03,
+"unit": "t",
+"price": 10890,
+"amount": 227960,
+"checker": "j3",
+"stock": 95.8
+},
+"r": 160
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 157,
+"date": "2025-08-07",
+"item": "石灰石",
+"slip": "SH2508-02",
+"qty": 18.5,
+"unit": "t",
+"price": 10890,
+"amount": 221611,
+"checker": "j3",
+"stock": 95.7
+},
+"r": 161
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 158,
+"date": "2025-08-12",
+"item": "石灰石",
+"slip": "SH2508-03",
+"qty": 18.67,
+"unit": "t",
+"price": 10890,
+"amount": 223647,
+"checker": "k1",
+"stock": 95.8
+},
+"r": 162
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 159,
+"date": "2025-08-13",
+"item": "石灰石",
+"slip": "SH2508-04",
+"qty": 18.24,
+"unit": "t",
+"price": 10890,
+"amount": 218496,
+"checker": "j3",
+"stock": 95.5
+},
+"r": 163
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 160,
+"date": "2025-08-14",
+"item": "石灰石",
+"slip": "SH2508-05",
+"qty": 18.43,
+"unit": "t",
+"price": 10890,
+"amount": 220772,
+"checker": "j3",
+"stock": 95.4
+},
+"r": 164
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 161,
+"date": "2025-08-20",
+"item": "石灰石",
+"slip": "SH2508-06",
+"qty": 18.69,
+"unit": "t",
+"price": 10890,
+"amount": 223887,
+"checker": "j3",
+"stock": 95.5
+},
+"r": 165
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 162,
+"date": "2025-08-21",
+"item": "石灰石",
+"slip": "SH2508-07",
+"qty": 18.49,
+"unit": "t",
+"price": 10890,
+"amount": 221491,
+"checker": "j3",
+"stock": 95.4
+},
+"r": 166
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 163,
+"date": "2025-08-22",
+"item": "石灰石",
+"slip": "SH2508-08",
+"qty": 18.12,
+"unit": "t",
+"price": 10890,
+"amount": 217059,
+"checker": "j3",
+"stock": 95.0
+},
+"r": 167
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 164,
+"date": "2025-08-25",
+"item": "石灰石",
+"slip": "SH2508-09",
+"qty": 18.7,
+"unit": "t",
+"price": 10890,
+"amount": 224007,
+"checker": "j3",
+"stock": 95.1
+},
+"r": 168
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 165,
+"date": "2025-08-26",
+"item": "石灰石",
+"slip": "SH2508-10",
+"qty": 18.6,
+"unit": "t",
+"price": 10890,
+"amount": 222809,
+"checker": "j3",
+"stock": 95.1
+},
+"r": 169
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 166,
+"date": "2025-08-27",
+"item": "石灰石",
+"slip": "SH2508-11",
+"qty": 18.16,
+"unit": "t",
+"price": 10890,
+"amount": 217538,
+"checker": "j3",
+"stock": 94.7
+},
+"r": 170
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 167,
+"date": "2025-08-28",
+"item": "石灰石",
+"slip": "SH2508-12",
+"qty": 18.41,
+"unit": "t",
+"price": 10890,
+"amount": 220533,
+"checker": "j3",
+"stock": 94.5
+},
+"r": 171
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 168,
+"date": "2025-08-29",
+"item": "石灰石",
+"slip": "SH2508-13",
+"qty": 19.36,
+"unit": "t",
+"price": 10890,
+"amount": 231920,
+"checker": "k1",
+"stock": 95.3
+},
+"r": 172
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 169,
+"date": "2025-09-01",
+"item": "コークス",
+"slip": "TK2509-01",
+"qty": 13.61,
+"unit": "t",
+"price": 68900,
+"amount": 1031501,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 173
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 170,
+"date": "2025-09-02",
+"item": "コークス",
+"slip": "TK2509-02",
+"qty": 13.94,
+"unit": "t",
+"price": 68900,
+"amount": 1056512,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 174
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 171,
+"date": "2025-09-03",
+"item": "コークス",
+"slip": "TK2509-03",
+"qty": 13.24,
+"unit": "t",
+"price": 68900,
+"amount": 1003459,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 175
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 172,
+"date": "2025-09-04",
+"item": "コークス",
+"slip": "TK2509-04",
+"qty": 14.01,
+"unit": "t",
+"price": 68900,
+"amount": 1061817,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 176
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 173,
+"date": "2025-09-05",
+"item": "コークス",
+"slip": "TK2509-05",
+"qty": 13.21,
+"unit": "t",
+"price": 68900,
+"amount": 1001185,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 177
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 174,
+"date": "2025-09-08",
+"item": "コークス",
+"slip": "TK2509-06",
+"qty": 14.0,
+"unit": "t",
+"price": 68900,
+"amount": 1061060,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 178
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 175,
+"date": "2025-09-09",
+"item": "コークス",
+"slip": "TK2509-07",
+"qty": 13.58,
+"unit": "t",
+"price": 68900,
+"amount": 1029228,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 179
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 176,
+"date": "2025-09-10",
+"item": "コークス",
+"slip": "TK2509-08",
+"qty": 13.96,
+"unit": "t",
+"price": 68900,
+"amount": 1058028,
+"checker": "j3",
+"stock": 63.0
+},
+"r": 180
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 177,
+"date": "2025-09-11",
+"item": "コークス",
+"slip": "TK2509-09",
+"qty": 13.32,
+"unit": "t",
+"price": 68900,
+"amount": 1009522,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 181
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 178,
+"date": "2025-09-12",
+"item": "コークス",
+"slip": "TK2509-10",
+"qty": 13.46,
+"unit": "t",
+"price": 68900,
+"amount": 1020133,
+"checker": "j3",
+"stock": 62.5
+},
+"r": 182
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 179,
+"date": "2025-09-15",
+"item": "コークス",
+"slip": "TK2509-11",
+"qty": 13.34,
+"unit": "t",
+"price": 68900,
+"amount": 1011038,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 183
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 180,
+"date": "2025-09-16",
+"item": "コークス",
+"slip": "TK2509-12",
+"qty": 13.97,
+"unit": "t",
+"price": 68900,
+"amount": 1058786,
+"checker": "k1",
+"stock": 62.6
+},
+"r": 184
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 181,
+"date": "2025-09-17",
+"item": "コークス",
+"slip": "TK2509-13",
+"qty": 13.68,
+"unit": "t",
+"price": 68900,
+"amount": 1036807,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 185
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 182,
+"date": "2025-09-18",
+"item": "コークス",
+"slip": "TK2509-14",
+"qty": 13.47,
+"unit": "t",
+"price": 68900,
+"amount": 1020891,
+"checker": "j3",
+"stock": 62.6
+},
+"r": 186
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 183,
+"date": "2025-09-19",
+"item": "コークス",
+"slip": "TK2509-15",
+"qty": 13.56,
+"unit": "t",
+"price": 68900,
+"amount": 1027712,
+"checker": "j3",
+"stock": 62.5
+},
+"r": 187
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 184,
+"date": "2025-09-22",
+"item": "コークス",
+"slip": "TK2509-16",
+"qty": 13.69,
+"unit": "t",
+"price": 68900,
+"amount": 1037565,
+"checker": "k1",
+"stock": 62.6
+},
+"r": 188
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 185,
+"date": "2025-09-23",
+"item": "コークス",
+"slip": "TK2509-17",
+"qty": 13.25,
+"unit": "t",
+"price": 68900,
+"amount": 1004217,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 189
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 186,
+"date": "2025-09-24",
+"item": "コークス",
+"slip": "TK2509-18",
+"qty": 13.97,
+"unit": "t",
+"price": 68900,
+"amount": 1058786,
+"checker": "j3",
+"stock": 62.6
+},
+"r": 190
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 187,
+"date": "2025-09-25",
+"item": "コークス",
+"slip": "TK2509-19",
+"qty": 13.3,
+"unit": "t",
+"price": 68900,
+"amount": 1008007,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 191
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 188,
+"date": "2025-09-26",
+"item": "コークス",
+"slip": "TK2509-20",
+"qty": 13.7,
+"unit": "t",
+"price": 68900,
+"amount": 1038323,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 192
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 189,
+"date": "2025-09-29",
+"item": "コークス",
+"slip": "TK2509-21",
+"qty": 13.75,
+"unit": "t",
+"price": 68900,
+"amount": 1042112,
+"checker": "j3",
+"stock": 62.5
+},
+"r": 193
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 190,
+"date": "2025-09-30",
+"item": "コークス",
+"slip": "TK2509-22",
+"qty": 13.69,
+"unit": "t",
+"price": 68900,
+"amount": 1037565,
+"checker": "j3",
+"stock": 62.6
+},
+"r": 194
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 191,
+"date": "2025-09-30",
+"item": "コークス",
+"slip": "TK2509-23",
+"qty": 13.39,
+"unit": "t",
+"price": 68900,
+"amount": 1014828,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 195
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 192,
+"date": "2025-09-30",
+"item": "コークス",
+"slip": "TK2509-24",
+"qty": 13.53,
+"unit": "t",
+"price": 68900,
+"amount": 1025438,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 196
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 193,
+"date": "2025-09-30",
+"item": "コークス",
+"slip": "TK2509-25",
+"qty": 13.31,
+"unit": "t",
+"price": 68900,
+"amount": 1008764,
+"checker": "j3",
+"stock": 62.0
+},
+"r": 197
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 194,
+"date": "2025-09-30",
+"item": "コークス",
+"slip": "TK2509-26",
+"qty": 14.17,
+"unit": "t",
+"price": 68900,
+"amount": 1073955,
+"checker": "k1",
+"stock": 62.6
+},
+"r": 198
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 195,
+"date": "2025-09-05",
+"item": "石灰石",
+"slip": "SH2509-01",
+"qty": 18.89,
+"unit": "t",
+"price": 10890,
+"amount": 226283,
+"checker": "k1",
+"stock": 95.5
+},
+"r": 199
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 196,
+"date": "2025-09-08",
+"item": "石灰石",
+"slip": "SH2509-02",
+"qty": 18.95,
+"unit": "t",
+"price": 10890,
+"amount": 227002,
+"checker": "j3",
+"stock": 95.7
+},
+"r": 200
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 197,
+"date": "2025-09-10",
+"item": "石灰石",
+"slip": "SH2509-03",
+"qty": 19.24,
+"unit": "t",
+"price": 10890,
+"amount": 230475,
+"checker": "j3",
+"stock": 96.2
+},
+"r": 201
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 198,
+"date": "2025-09-11",
+"item": "石灰石",
+"slip": "SH2509-04",
+"qty": 18.96,
+"unit": "t",
+"price": 10890,
+"amount": 227121,
+"checker": "j3",
+"stock": 96.4
+},
+"r": 202
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 199,
+"date": "2025-09-12",
+"item": "石灰石",
+"slip": "SH2509-05",
+"qty": 18.24,
+"unit": "t",
+"price": 10890,
+"amount": 218496,
+"checker": "j3",
+"stock": 95.9
+},
+"r": 203
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 200,
+"date": "2025-09-15",
+"item": "石灰石",
+"slip": "SH2509-06",
+"qty": 18.66,
+"unit": "t",
+"price": 10890,
+"amount": 223528,
+"checker": "j3",
+"stock": 95.8
+},
+"r": 204
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 201,
+"date": "2025-09-17",
+"item": "石灰石",
+"slip": "SH2509-07",
+"qty": 18.4,
+"unit": "t",
+"price": 10890,
+"amount": 220413,
+"checker": "j3",
+"stock": 95.5
+},
+"r": 205
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 202,
+"date": "2025-09-18",
+"item": "石灰石",
+"slip": "SH2509-08",
+"qty": 18.42,
+"unit": "t",
+"price": 10890,
+"amount": 220653,
+"checker": "j3",
+"stock": 95.2
+},
+"r": 206
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 203,
+"date": "2025-09-22",
+"item": "石灰石",
+"slip": "SH2509-09",
+"qty": 18.4,
+"unit": "t",
+"price": 10890,
+"amount": 220413,
+"checker": "j3",
+"stock": 94.9
+},
+"r": 207
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 204,
+"date": "2025-09-24",
+"item": "石灰石",
+"slip": "SH2509-10",
+"qty": 18.45,
+"unit": "t",
+"price": 10890,
+"amount": 221012,
+"checker": "j3",
+"stock": 94.6
+},
+"r": 208
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 205,
+"date": "2025-09-25",
+"item": "石灰石",
+"slip": "SH2509-11",
+"qty": 19.08,
+"unit": "t",
+"price": 10890,
+"amount": 228559,
+"checker": "j3",
+"stock": 94.9
+},
+"r": 209
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 206,
+"date": "2025-09-26",
+"item": "石灰石",
+"slip": "SH2509-12",
+"qty": 19.11,
+"unit": "t",
+"price": 10890,
+"amount": 228924,
+"checker": "k1",
+"stock": 95.3
+},
+"r": 210
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 207,
+"date": "2025-10-02",
+"item": "コークス",
+"slip": "TK2510-01",
+"qty": 13.34,
+"unit": "t",
+"price": 68900,
+"amount": 1011038,
+"checker": "j3",
+"stock": 62.8
+},
+"r": 211
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 208,
+"date": "2025-10-03",
+"item": "コークス",
+"slip": "TK2510-02",
+"qty": 12.92,
+"unit": "t",
+"price": 68900,
+"amount": 979206,
+"checker": "j3",
+"stock": 62.6
+},
+"r": 212
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 209,
+"date": "2025-10-07",
+"item": "コークス",
+"slip": "TK2510-03",
+"qty": 13.55,
+"unit": "t",
+"price": 68900,
+"amount": 1026954,
+"checker": "j3",
+"stock": 63.0
+},
+"r": 213
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 210,
+"date": "2025-10-10",
+"item": "コークス",
+"slip": "TK2510-04",
+"qty": 13.4,
+"unit": "t",
+"price": 68900,
+"amount": 1015586,
+"checker": "j3",
+"stock": 63.2
+},
+"r": 214
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 211,
+"date": "2025-10-13",
+"item": "コークス",
+"slip": "TK2510-05",
+"qty": 12.95,
+"unit": "t",
+"price": 68900,
+"amount": 981480,
+"checker": "j3",
+"stock": 63.0
+},
+"r": 215
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 212,
+"date": "2025-10-14",
+"item": "コークス",
+"slip": "TK2510-06",
+"qty": 13.2,
+"unit": "t",
+"price": 68900,
+"amount": 1000428,
+"checker": "j3",
+"stock": 63.0
+},
+"r": 216
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 213,
+"date": "2025-10-15",
+"item": "コークス",
+"slip": "TK2510-07",
+"qty": 13.54,
+"unit": "t",
+"price": 68900,
+"amount": 1026196,
+"checker": "j3",
+"stock": 63.4
+},
+"r": 217
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 214,
+"date": "2025-10-17",
+"item": "コークス",
+"slip": "TK2510-08",
+"qty": 12.99,
+"unit": "t",
+"price": 68900,
+"amount": 984512,
+"checker": "k1",
+"stock": 63.2
+},
+"r": 218
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 215,
+"date": "2025-10-22",
+"item": "コークス",
+"slip": "TK2510-09",
+"qty": 13.5,
+"unit": "t",
+"price": 68900,
+"amount": 1023165,
+"checker": "j3",
+"stock": 63.5
+},
+"r": 219
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 216,
+"date": "2025-10-23",
+"item": "コークス",
+"slip": "TK2510-10",
+"qty": 13.07,
+"unit": "t",
+"price": 68900,
+"amount": 990575,
+"checker": "k1",
+"stock": 63.4
+},
+"r": 220
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 217,
+"date": "2025-10-27",
+"item": "コークス",
+"slip": "TK2510-11",
+"qty": 13.26,
+"unit": "t",
+"price": 68900,
+"amount": 1004975,
+"checker": "j3",
+"stock": 63.5
+},
+"r": 221
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 218,
+"date": "2025-10-30",
+"item": "コークス",
+"slip": "TK2510-12",
+"qty": 13.32,
+"unit": "t",
+"price": 68900,
+"amount": 1009522,
+"checker": "j3",
+"stock": 63.7
+},
+"r": 222
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 219,
+"date": "2025-10-31",
+"item": "コークス",
+"slip": "TK2510-13",
+"qty": 11.96,
+"unit": "t",
+"price": 68900,
+"amount": 906453,
+"checker": "j3",
+"stock": 62.5
+},
+"r": 223
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 220,
+"date": "2025-10-13",
+"item": "石灰石",
+"slip": "SH2510-01",
+"qty": 18.73,
+"unit": "t",
+"price": 10890,
+"amount": 224366,
+"checker": "k1",
+"stock": 95.6
+},
+"r": 224
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 221,
+"date": "2025-10-14",
+"item": "石灰石",
+"slip": "SH2510-02",
+"qty": 18.01,
+"unit": "t",
+"price": 10890,
+"amount": 215741,
+"checker": "j3",
+"stock": 95.1
+},
+"r": 225
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 222,
+"date": "2025-10-17",
+"item": "石灰石",
+"slip": "SH2510-03",
+"qty": 18.16,
+"unit": "t",
+"price": 10890,
+"amount": 217538,
+"checker": "j3",
+"stock": 94.8
+},
+"r": 226
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 223,
+"date": "2025-10-21",
+"item": "石灰石",
+"slip": "SH2510-04",
+"qty": 18.79,
+"unit": "t",
+"price": 10890,
+"amount": 225085,
+"checker": "j3",
+"stock": 95.1
+},
+"r": 227
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 224,
+"date": "2025-10-23",
+"item": "石灰石",
+"slip": "SH2510-05",
+"qty": 18.67,
+"unit": "t",
+"price": 10890,
+"amount": 223647,
+"checker": "j3",
+"stock": 95.3
+},
+"r": 228
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 225,
+"date": "2025-10-24",
+"item": "石灰石",
+"slip": "SH2510-06",
+"qty": 18.34,
+"unit": "t",
+"price": 10890,
+"amount": 219694,
+"checker": "j3",
+"stock": 95.2
+},
+"r": 229
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 226,
+"date": "2025-10-31",
+"item": "石灰石",
+"slip": "SH2510-07",
+"qty": 18.6,
+"unit": "t",
+"price": 10890,
+"amount": 222813,
+"checker": "j3",
+"stock": 95.3
+},
+"r": 230
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 227,
+"date": "2025-11-03",
+"item": "コークス",
+"slip": "TK2511-01",
+"qty": 13.69,
+"unit": "t",
+"price": 68900,
+"amount": 1037565,
+"checker": "j3",
+"stock": 62.8
+},
+"r": 231
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 228,
+"date": "2025-11-04",
+"item": "コークス",
+"slip": "TK2511-02",
+"qty": 13.68,
+"unit": "t",
+"price": 68900,
+"amount": 1036807,
+"checker": "j3",
+"stock": 63.1
+},
+"r": 232
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 229,
+"date": "2025-11-05",
+"item": "コークス",
+"slip": "TK2511-03",
+"qty": 13.13,
+"unit": "t",
+"price": 68900,
+"amount": 995122,
+"checker": "k1",
+"stock": 62.9
+},
+"r": 233
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 230,
+"date": "2025-11-06",
+"item": "コークス",
+"slip": "TK2511-04",
+"qty": 13.56,
+"unit": "t",
+"price": 68900,
+"amount": 1027712,
+"checker": "j3",
+"stock": 63.1
+},
+"r": 234
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 231,
+"date": "2025-11-07",
+"item": "コークス",
+"slip": "TK2511-05",
+"qty": 13.63,
+"unit": "t",
+"price": 68900,
+"amount": 1033017,
+"checker": "j3",
+"stock": 63.4
+},
+"r": 235
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 232,
+"date": "2025-11-10",
+"item": "コークス",
+"slip": "TK2511-06",
+"qty": 13.51,
+"unit": "t",
+"price": 68900,
+"amount": 1023922,
+"checker": "j3",
+"stock": 63.6
+},
+"r": 236
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 233,
+"date": "2025-11-11",
+"item": "コークス",
+"slip": "TK2511-07",
+"qty": 13.59,
+"unit": "t",
+"price": 68900,
+"amount": 1029986,
+"checker": "j3",
+"stock": 63.8
+},
+"r": 237
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 234,
+"date": "2025-11-12",
+"item": "コークス",
+"slip": "TK2511-08",
+"qty": 13.37,
+"unit": "t",
+"price": 68900,
+"amount": 1013312,
+"checker": "j3",
+"stock": 63.8
+},
+"r": 238
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 235,
+"date": "2025-11-13",
+"item": "コークス",
+"slip": "TK2511-09",
+"qty": 13.75,
+"unit": "t",
+"price": 68900,
+"amount": 1042112,
+"checker": "k1",
+"stock": 64.2
+},
+"r": 239
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 236,
+"date": "2025-11-14",
+"item": "コークス",
+"slip": "TK2511-10",
+"qty": 13.58,
+"unit": "t",
+"price": 68900,
+"amount": 1029228,
+"checker": "k1",
+"stock": 64.4
+},
+"r": 240
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 237,
+"date": "2025-11-17",
+"item": "コークス",
+"slip": "TK2511-11",
+"qty": 13.47,
+"unit": "t",
+"price": 68900,
+"amount": 1020891,
+"checker": "j3",
+"stock": 64.5
+},
+"r": 241
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 238,
+"date": "2025-11-18",
+"item": "コークス",
+"slip": "TK2511-12",
+"qty": 13.68,
+"unit": "t",
+"price": 68900,
+"amount": 1036807,
+"checker": "j3",
+"stock": 64.8
+},
+"r": 242
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 239,
+"date": "2025-11-19",
+"item": "コークス",
+"slip": "TK2511-13",
+"qty": 13.43,
+"unit": "t",
+"price": 68900,
+"amount": 1017859,
+"checker": "j3",
+"stock": 64.9
+},
+"r": 243
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 240,
+"date": "2025-11-20",
+"item": "コークス",
+"slip": "TK2511-14",
+"qty": 13.3,
+"unit": "t",
+"price": 68900,
+"amount": 1008007,
+"checker": "j3",
+"stock": 64.9
+},
+"r": 244
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 241,
+"date": "2025-11-21",
+"item": "コークス",
+"slip": "TK2511-15",
+"qty": 13.61,
+"unit": "t",
+"price": 68900,
+"amount": 1031501,
+"checker": "j3",
+"stock": 65.2
+},
+"r": 245
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 242,
+"date": "2025-11-24",
+"item": "コークス",
+"slip": "TK2511-16",
+"qty": 13.74,
+"unit": "t",
+"price": 68900,
+"amount": 1041354,
+"checker": "j3",
+"stock": 65.6
+},
+"r": 246
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 243,
+"date": "2025-11-25",
+"item": "コークス",
+"slip": "TK2511-17",
+"qty": 13.37,
+"unit": "t",
+"price": 68900,
+"amount": 1013312,
+"checker": "j3",
+"stock": 65.6
+},
+"r": 247
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 244,
+"date": "2025-11-26",
+"item": "コークス",
+"slip": "TK2511-18",
+"qty": 13.32,
+"unit": "t",
+"price": 68900,
+"amount": 1009522,
+"checker": "j3",
+"stock": 65.6
+},
+"r": 248
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 245,
+"date": "2025-11-27",
+"item": "コークス",
+"slip": "TK2511-19",
+"qty": 13.28,
+"unit": "t",
+"price": 68900,
+"amount": 1006491,
+"checker": "j3",
+"stock": 65.5
+},
+"r": 249
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 246,
+"date": "2025-11-28",
+"item": "コークス",
+"slip": "TK2511-20",
+"qty": 13.08,
+"unit": "t",
+"price": 68900,
+"amount": 991333,
+"checker": "j3",
+"stock": 65.2
+},
+"r": 250
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 247,
+"date": "2025-11-28",
+"item": "コークス",
+"slip": "TK2511-21",
+"qty": 13.13,
+"unit": "t",
+"price": 68900,
+"amount": 995122,
+"checker": "k1",
+"stock": 65.0
+},
+"r": 251
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 248,
+"date": "2025-11-28",
+"item": "コークス",
+"slip": "TK2511-22",
+"qty": 10.8,
+"unit": "t",
+"price": 68900,
+"amount": 818541,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 252
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 249,
+"date": "2025-11-06",
+"item": "石灰石",
+"slip": "SH2511-01",
+"qty": 18.32,
+"unit": "t",
+"price": 10890,
+"amount": 219455,
+"checker": "j3",
+"stock": 94.8
+},
+"r": 253
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 250,
+"date": "2025-11-07",
+"item": "石灰石",
+"slip": "SH2511-02",
+"qty": 19.11,
+"unit": "t",
+"price": 10890,
+"amount": 228918,
+"checker": "j3",
+"stock": 95.1
+},
+"r": 254
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 251,
+"date": "2025-11-11",
+"item": "石灰石",
+"slip": "SH2511-03",
+"qty": 18.38,
+"unit": "t",
+"price": 10890,
+"amount": 220174,
+"checker": "k1",
+"stock": 94.6
+},
+"r": 255
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 252,
+"date": "2025-11-12",
+"item": "石灰石",
+"slip": "SH2511-04",
+"qty": 19.09,
+"unit": "t",
+"price": 10890,
+"amount": 228679,
+"checker": "j3",
+"stock": 94.9
+},
+"r": 256
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 253,
+"date": "2025-11-17",
+"item": "石灰石",
+"slip": "SH2511-05",
+"qty": 18.9,
+"unit": "t",
+"price": 10890,
+"amount": 226403,
+"checker": "j3",
+"stock": 95.0
+},
+"r": 257
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 254,
+"date": "2025-11-18",
+"item": "石灰石",
+"slip": "SH2511-06",
+"qty": 19.27,
+"unit": "t",
+"price": 10890,
+"amount": 230835,
+"checker": "j3",
+"stock": 95.4
+},
+"r": 258
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 255,
+"date": "2025-11-20",
+"item": "石灰石",
+"slip": "SH2511-07",
+"qty": 19.1,
+"unit": "t",
+"price": 10890,
+"amount": 228798,
+"checker": "k1",
+"stock": 95.7
+},
+"r": 259
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 256,
+"date": "2025-11-24",
+"item": "石灰石",
+"slip": "SH2511-08",
+"qty": 18.89,
+"unit": "t",
+"price": 10890,
+"amount": 226283,
+"checker": "j3",
+"stock": 95.8
+},
+"r": 260
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 257,
+"date": "2025-11-27",
+"item": "石灰石",
+"slip": "SH2511-09",
+"qty": 19.3,
+"unit": "t",
+"price": 10890,
+"amount": 231194,
+"checker": "j3",
+"stock": 96.3
+},
+"r": 261
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 258,
+"date": "2025-11-28",
+"item": "石灰石",
+"slip": "SH2511-10",
+"qty": 17.94,
+"unit": "t",
+"price": 10890,
+"amount": 214906,
+"checker": "k1",
+"stock": 95.4
+},
+"r": 262
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 259,
+"date": "2025-11-28",
+"item": "液体酸素",
+"slip": "AO2511-01",
+"qty": 4600,
+"unit": "kg",
+"price": 61,
+"amount": 308660,
+"checker": "j3"
+},
+"r": 263
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 260,
+"date": "2025-12-01",
+"item": "コークス",
+"slip": "TK2512-01",
+"qty": 13.67,
+"unit": "t",
+"price": 68900,
+"amount": 1036049,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 264
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 261,
+"date": "2025-12-02",
+"item": "コークス",
+"slip": "TK2512-02",
+"qty": 13.36,
+"unit": "t",
+"price": 68900,
+"amount": 1012554,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 265
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 262,
+"date": "2025-12-03",
+"item": "コークス",
+"slip": "TK2512-03",
+"qty": 13.47,
+"unit": "t",
+"price": 68900,
+"amount": 1020891,
+"checker": "j3",
+"stock": 62.8
+},
+"r": 266
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 263,
+"date": "2025-12-04",
+"item": "コークス",
+"slip": "TK2512-04",
+"qty": 13.51,
+"unit": "t",
+"price": 68900,
+"amount": 1023922,
+"checker": "j3",
+"stock": 62.9
+},
+"r": 267
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 264,
+"date": "2025-12-05",
+"item": "コークス",
+"slip": "TK2512-05",
+"qty": 13.09,
+"unit": "t",
+"price": 68900,
+"amount": 992091,
+"checker": "k1",
+"stock": 62.6
+},
+"r": 268
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 265,
+"date": "2025-12-08",
+"item": "コークス",
+"slip": "TK2512-06",
+"qty": 13.08,
+"unit": "t",
+"price": 68900,
+"amount": 991333,
+"checker": "k1",
+"stock": 62.3
+},
+"r": 269
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 266,
+"date": "2025-12-09",
+"item": "コークス",
+"slip": "TK2512-07",
+"qty": 13.09,
+"unit": "t",
+"price": 68900,
+"amount": 992091,
+"checker": "j3",
+"stock": 62.0
+},
+"r": 270
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 267,
+"date": "2025-12-10",
+"item": "コークス",
+"slip": "TK2512-08",
+"qty": 13.08,
+"unit": "t",
+"price": 68900,
+"amount": 991333,
+"checker": "j3",
+"stock": 61.7
+},
+"r": 271
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 268,
+"date": "2025-12-11",
+"item": "コークス",
+"slip": "TK2512-09",
+"qty": 13.45,
+"unit": "t",
+"price": 68900,
+"amount": 1019375,
+"checker": "k1",
+"stock": 61.8
+},
+"r": 272
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 269,
+"date": "2025-12-12",
+"item": "コークス",
+"slip": "TK2512-10",
+"qty": 13.59,
+"unit": "t",
+"price": 68900,
+"amount": 1029986,
+"checker": "j3",
+"stock": 62.0
+},
+"r": 273
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 270,
+"date": "2025-12-15",
+"item": "コークス",
+"slip": "TK2512-11",
+"qty": 13.26,
+"unit": "t",
+"price": 68900,
+"amount": 1004975,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 274
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 271,
+"date": "2025-12-16",
+"item": "コークス",
+"slip": "TK2512-12",
+"qty": 13.05,
+"unit": "t",
+"price": 68900,
+"amount": 989059,
+"checker": "j3",
+"stock": 61.6
+},
+"r": 275
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 272,
+"date": "2025-12-17",
+"item": "コークス",
+"slip": "TK2512-13",
+"qty": 13.53,
+"unit": "t",
+"price": 68900,
+"amount": 1025438,
+"checker": "j3",
+"stock": 61.7
+},
+"r": 276
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 273,
+"date": "2025-12-18",
+"item": "コークス",
+"slip": "TK2512-14",
+"qty": 13.58,
+"unit": "t",
+"price": 68900,
+"amount": 1029228,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 277
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 274,
+"date": "2025-12-19",
+"item": "コークス",
+"slip": "TK2512-15",
+"qty": 13.14,
+"unit": "t",
+"price": 68900,
+"amount": 995880,
+"checker": "j3",
+"stock": 61.7
+},
+"r": 278
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 275,
+"date": "2025-12-22",
+"item": "コークス",
+"slip": "TK2512-16",
+"qty": 12.99,
+"unit": "t",
+"price": 68900,
+"amount": 984512,
+"checker": "j3",
+"stock": 61.3
+},
+"r": 279
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 276,
+"date": "2025-12-23",
+"item": "コークス",
+"slip": "TK2512-17",
+"qty": 13.05,
+"unit": "t",
+"price": 68900,
+"amount": 989059,
+"checker": "j3",
+"stock": 61.0
+},
+"r": 280
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 277,
+"date": "2025-12-24",
+"item": "コークス",
+"slip": "TK2512-18",
+"qty": 13.0,
+"unit": "t",
+"price": 68900,
+"amount": 985270,
+"checker": "j3",
+"stock": 60.6
+},
+"r": 281
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 278,
+"date": "2025-12-25",
+"item": "コークス",
+"slip": "TK2512-19",
+"qty": 13.64,
+"unit": "t",
+"price": 68900,
+"amount": 1033775,
+"checker": "j3",
+"stock": 60.9
+},
+"r": 282
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 279,
+"date": "2025-12-26",
+"item": "コークス",
+"slip": "TK2512-20",
+"qty": 13.14,
+"unit": "t",
+"price": 68900,
+"amount": 995880,
+"checker": "j3",
+"stock": 60.7
+},
+"r": 283
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 280,
+"date": "2025-12-29",
+"item": "コークス",
+"slip": "TK2512-21",
+"qty": 12.99,
+"unit": "t",
+"price": 68900,
+"amount": 984512,
+"checker": "j3",
+"stock": 60.3
+},
+"r": 284
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 281,
+"date": "2025-12-30",
+"item": "コークス",
+"slip": "TK2512-22",
+"qty": 13.4,
+"unit": "t",
+"price": 68900,
+"amount": 1015586,
+"checker": "j3",
+"stock": 60.3
+},
+"r": 285
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 282,
+"date": "2025-12-31",
+"item": "コークス",
+"slip": "TK2512-23",
+"qty": 13.1,
+"unit": "t",
+"price": 68900,
+"amount": 992849,
+"checker": "j3",
+"stock": 60.0
+},
+"r": 286
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 283,
+"date": "2025-12-31",
+"item": "コークス",
+"slip": "TK2512-24",
+"qty": 13.78,
+"unit": "t",
+"price": 68900,
+"amount": 1044386,
+"checker": "k1",
+"stock": 60.4
+},
+"r": 287
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 284,
+"date": "2025-12-31",
+"item": "コークス",
+"slip": "TK2512-25",
+"qty": 13.54,
+"unit": "t",
+"price": 68900,
+"amount": 1026196,
+"checker": "j3",
+"stock": 60.6
+},
+"r": 288
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 285,
+"date": "2025-12-31",
+"item": "コークス",
+"slip": "TK2512-26",
+"qty": 13.75,
+"unit": "t",
+"price": 68900,
+"amount": 1042112,
+"checker": "j3",
+"stock": 61.0
+},
+"r": 289
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 286,
+"date": "2025-12-31",
+"item": "コークス",
+"slip": "TK2512-27",
+"qty": 15.17,
+"unit": "t",
+"price": 68900,
+"amount": 1149743,
+"checker": "j3",
+"stock": 62.8
+},
+"r": 290
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 287,
+"date": "2025-12-01",
+"item": "石灰石",
+"slip": "SH2512-01",
+"qty": 17.46,
+"unit": "t",
+"price": 10890,
+"amount": 209153,
+"checker": "k1",
+"stock": 95.1
+},
+"r": 291
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 288,
+"date": "2025-12-02",
+"item": "石灰石",
+"slip": "SH2512-02",
+"qty": 17.33,
+"unit": "t",
+"price": 10890,
+"amount": 207596,
+"checker": "j3",
+"stock": 94.6
+},
+"r": 292
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 289,
+"date": "2025-12-08",
+"item": "石灰石",
+"slip": "SH2512-03",
+"qty": 17.38,
+"unit": "t",
+"price": 10890,
+"amount": 208195,
+"checker": "j3",
+"stock": 94.2
+},
+"r": 293
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 290,
+"date": "2025-12-09",
+"item": "石灰石",
+"slip": "SH2512-04",
+"qty": 18.05,
+"unit": "t",
+"price": 10890,
+"amount": 216220,
+"checker": "j3",
+"stock": 94.4
+},
+"r": 294
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 291,
+"date": "2025-12-11",
+"item": "石灰石",
+"slip": "SH2512-05",
+"qty": 17.3,
+"unit": "t",
+"price": 10890,
+"amount": 207236,
+"checker": "j3",
+"stock": 93.9
+},
+"r": 295
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 292,
+"date": "2025-12-12",
+"item": "石灰石",
+"slip": "SH2512-06",
+"qty": 17.96,
+"unit": "t",
+"price": 10890,
+"amount": 215142,
+"checker": "j3",
+"stock": 94.1
+},
+"r": 296
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 293,
+"date": "2025-12-17",
+"item": "石灰石",
+"slip": "SH2512-07",
+"qty": 17.76,
+"unit": "t",
+"price": 10890,
+"amount": 212747,
+"checker": "j3",
+"stock": 94.1
+},
+"r": 297
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 294,
+"date": "2025-12-19",
+"item": "石灰石",
+"slip": "SH2512-08",
+"qty": 18.33,
+"unit": "t",
+"price": 10890,
+"amount": 219575,
+"checker": "j3",
+"stock": 94.6
+},
+"r": 298
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 295,
+"date": "2025-12-22",
+"item": "石灰石",
+"slip": "SH2512-09",
+"qty": 17.45,
+"unit": "t",
+"price": 10890,
+"amount": 209033,
+"checker": "j3",
+"stock": 94.2
+},
+"r": 299
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 296,
+"date": "2025-12-23",
+"item": "石灰石",
+"slip": "SH2512-10",
+"qty": 18.28,
+"unit": "t",
+"price": 10890,
+"amount": 218976,
+"checker": "j3",
+"stock": 94.7
+},
+"r": 300
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 297,
+"date": "2025-12-24",
+"item": "石灰石",
+"slip": "SH2512-11",
+"qty": 18.12,
+"unit": "t",
+"price": 10890,
+"amount": 217059,
+"checker": "k1",
+"stock": 95.0
+},
+"r": 301
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 298,
+"date": "2025-12-25",
+"item": "石灰石",
+"slip": "SH2512-12",
+"qty": 17.82,
+"unit": "t",
+"price": 10890,
+"amount": 213465,
+"checker": "k1",
+"stock": 95.0
+},
+"r": 302
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 299,
+"date": "2025-12-26",
+"item": "石灰石",
+"slip": "SH2512-13",
+"qty": 17.43,
+"unit": "t",
+"price": 10890,
+"amount": 208793,
+"checker": "j3",
+"stock": 94.6
+},
+"r": 303
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 300,
+"date": "2025-12-31",
+"item": "石灰石",
+"slip": "SH2512-14",
+"qty": 18.63,
+"unit": "t",
+"price": 10890,
+"amount": 223174,
+"checker": "k1",
+"stock": 95.4
+},
+"r": 304
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 301,
+"date": "2026-01-01",
+"item": "コークス",
+"slip": "TK2601-01",
+"qty": 13.44,
+"unit": "t",
+"price": 70700,
+"amount": 1045228,
+"checker": "j3",
+"stock": 62.9
+},
+"r": 305
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 302,
+"date": "2026-01-02",
+"item": "コークス",
+"slip": "TK2601-02",
+"qty": 13.22,
+"unit": "t",
+"price": 70700,
+"amount": 1028119,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 306
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 303,
+"date": "2026-01-05",
+"item": "コークス",
+"slip": "TK2601-03",
+"qty": 13.02,
+"unit": "t",
+"price": 70700,
+"amount": 1012565,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 307
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 304,
+"date": "2026-01-06",
+"item": "コークス",
+"slip": "TK2601-04",
+"qty": 13.49,
+"unit": "t",
+"price": 70700,
+"amount": 1049117,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 308
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 305,
+"date": "2026-01-07",
+"item": "コークス",
+"slip": "TK2601-05",
+"qty": 13.29,
+"unit": "t",
+"price": 70700,
+"amount": 1033563,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 309
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 306,
+"date": "2026-01-08",
+"item": "コークス",
+"slip": "TK2601-06",
+"qty": 13.1,
+"unit": "t",
+"price": 70700,
+"amount": 1018787,
+"checker": "j3",
+"stock": 62.0
+},
+"r": 310
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 307,
+"date": "2026-01-09",
+"item": "コークス",
+"slip": "TK2601-07",
+"qty": 13.05,
+"unit": "t",
+"price": 70700,
+"amount": 1014898,
+"checker": "j3",
+"stock": 61.7
+},
+"r": 311
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 308,
+"date": "2026-01-12",
+"item": "コークス",
+"slip": "TK2601-08",
+"qty": 13.43,
+"unit": "t",
+"price": 70700,
+"amount": 1044451,
+"checker": "j3",
+"stock": 61.8
+},
+"r": 312
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 309,
+"date": "2026-01-13",
+"item": "コークス",
+"slip": "TK2601-09",
+"qty": 12.98,
+"unit": "t",
+"price": 70700,
+"amount": 1009454,
+"checker": "j3",
+"stock": 61.4
+},
+"r": 313
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 310,
+"date": "2026-01-14",
+"item": "コークス",
+"slip": "TK2601-10",
+"qty": 13.77,
+"unit": "t",
+"price": 70700,
+"amount": 1070892,
+"checker": "k1",
+"stock": 61.8
+},
+"r": 314
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 311,
+"date": "2026-01-15",
+"item": "コークス",
+"slip": "TK2601-11",
+"qty": 13.63,
+"unit": "t",
+"price": 70700,
+"amount": 1060005,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 315
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 312,
+"date": "2026-01-16",
+"item": "コークス",
+"slip": "TK2601-12",
+"qty": 13.15,
+"unit": "t",
+"price": 70700,
+"amount": 1022675,
+"checker": "k1",
+"stock": 61.9
+},
+"r": 316
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 313,
+"date": "2026-01-19",
+"item": "コークス",
+"slip": "TK2601-13",
+"qty": 13.61,
+"unit": "t",
+"price": 70700,
+"amount": 1058449,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 317
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 314,
+"date": "2026-01-20",
+"item": "コークス",
+"slip": "TK2601-14",
+"qty": 13.15,
+"unit": "t",
+"price": 70700,
+"amount": 1022675,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 318
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 315,
+"date": "2026-01-21",
+"item": "コークス",
+"slip": "TK2601-15",
+"qty": 13.5,
+"unit": "t",
+"price": 70700,
+"amount": 1049895,
+"checker": "j3",
+"stock": 62.0
+},
+"r": 319
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 316,
+"date": "2026-01-22",
+"item": "コークス",
+"slip": "TK2601-16",
+"qty": 13.64,
+"unit": "t",
+"price": 70700,
+"amount": 1060782,
+"checker": "k1",
+"stock": 62.3
+},
+"r": 320
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 317,
+"date": "2026-01-23",
+"item": "コークス",
+"slip": "TK2601-17",
+"qty": 13.41,
+"unit": "t",
+"price": 70700,
+"amount": 1042895,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 321
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 318,
+"date": "2026-01-26",
+"item": "コークス",
+"slip": "TK2601-18",
+"qty": 13.6,
+"unit": "t",
+"price": 70700,
+"amount": 1057672,
+"checker": "j3",
+"stock": 62.5
+},
+"r": 322
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 319,
+"date": "2026-01-27",
+"item": "コークス",
+"slip": "TK2601-19",
+"qty": 13.3,
+"unit": "t",
+"price": 70700,
+"amount": 1034341,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 323
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 320,
+"date": "2026-01-28",
+"item": "コークス",
+"slip": "TK2601-20",
+"qty": 13.41,
+"unit": "t",
+"price": 70700,
+"amount": 1042895,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 324
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 321,
+"date": "2026-01-29",
+"item": "コークス",
+"slip": "TK2601-21",
+"qty": 13.23,
+"unit": "t",
+"price": 70700,
+"amount": 1028897,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 325
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 322,
+"date": "2026-01-30",
+"item": "コークス",
+"slip": "TK2601-22",
+"qty": 13.61,
+"unit": "t",
+"price": 70700,
+"amount": 1058449,
+"checker": "j3",
+"stock": 62.5
+},
+"r": 326
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 323,
+"date": "2026-01-30",
+"item": "コークス",
+"slip": "TK2601-23",
+"qty": 13.38,
+"unit": "t",
+"price": 70700,
+"amount": 1040562,
+"checker": "j3",
+"stock": 62.5
+},
+"r": 327
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 324,
+"date": "2026-01-30",
+"item": "コークス",
+"slip": "TK2601-24",
+"qty": 13.0,
+"unit": "t",
+"price": 70700,
+"amount": 1011010,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 328
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 325,
+"date": "2026-01-30",
+"item": "コークス",
+"slip": "TK2601-25",
+"qty": 13.48,
+"unit": "t",
+"price": 70700,
+"amount": 1048339,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 329
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 326,
+"date": "2026-01-30",
+"item": "コークス",
+"slip": "TK2601-26",
+"qty": 13.51,
+"unit": "t",
+"price": 70700,
+"amount": 1050672,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 330
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 327,
+"date": "2026-01-30",
+"item": "コークス",
+"slip": "TK2601-27",
+"qty": 13.8,
+"unit": "t",
+"price": 70700,
+"amount": 1073237,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 331
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 328,
+"date": "2026-01-01",
+"item": "石灰石",
+"slip": "SH2601-01",
+"qty": 18.03,
+"unit": "t",
+"price": 10890,
+"amount": 215981,
+"checker": "j3",
+"stock": 95.1
+},
+"r": 332
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 329,
+"date": "2026-01-02",
+"item": "石灰石",
+"slip": "SH2601-02",
+"qty": 18.88,
+"unit": "t",
+"price": 10890,
+"amount": 226163,
+"checker": "j3",
+"stock": 95.6
+},
+"r": 333
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 330,
+"date": "2026-01-06",
+"item": "石灰石",
+"slip": "SH2601-03",
+"qty": 18.04,
+"unit": "t",
+"price": 10890,
+"amount": 216101,
+"checker": "k1",
+"stock": 95.3
+},
+"r": 334
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 331,
+"date": "2026-01-08",
+"item": "石灰石",
+"slip": "SH2601-04",
+"qty": 18.54,
+"unit": "t",
+"price": 10890,
+"amount": 222090,
+"checker": "j3",
+"stock": 95.5
+},
+"r": 335
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 332,
+"date": "2026-01-09",
+"item": "石灰石",
+"slip": "SH2601-05",
+"qty": 18.17,
+"unit": "t",
+"price": 10890,
+"amount": 217658,
+"checker": "j3",
+"stock": 95.3
+},
+"r": 336
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 333,
+"date": "2026-01-15",
+"item": "石灰石",
+"slip": "SH2601-06",
+"qty": 18.5,
+"unit": "t",
+"price": 10890,
+"amount": 221611,
+"checker": "k1",
+"stock": 95.5
+},
+"r": 337
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 334,
+"date": "2026-01-16",
+"item": "石灰石",
+"slip": "SH2601-07",
+"qty": 18.21,
+"unit": "t",
+"price": 10890,
+"amount": 218137,
+"checker": "j3",
+"stock": 95.4
+},
+"r": 338
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 335,
+"date": "2026-01-20",
+"item": "石灰石",
+"slip": "SH2601-08",
+"qty": 18.37,
+"unit": "t",
+"price": 10890,
+"amount": 220054,
+"checker": "j3",
+"stock": 95.4
+},
+"r": 339
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 336,
+"date": "2026-01-21",
+"item": "石灰石",
+"slip": "SH2601-09",
+"qty": 18.64,
+"unit": "t",
+"price": 10890,
+"amount": 223288,
+"checker": "j3",
+"stock": 95.7
+},
+"r": 340
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 337,
+"date": "2026-01-22",
+"item": "石灰石",
+"slip": "SH2601-10",
+"qty": 18.44,
+"unit": "t",
+"price": 10890,
+"amount": 220892,
+"checker": "j3",
+"stock": 95.8
+},
+"r": 341
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 338,
+"date": "2026-01-26",
+"item": "石灰石",
+"slip": "SH2601-11",
+"qty": 18.48,
+"unit": "t",
+"price": 10890,
+"amount": 221371,
+"checker": "j3",
+"stock": 95.9
+},
+"r": 342
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 339,
+"date": "2026-01-27",
+"item": "石灰石",
+"slip": "SH2601-12",
+"qty": 18.61,
+"unit": "t",
+"price": 10890,
+"amount": 222929,
+"checker": "j3",
+"stock": 96.2
+},
+"r": 343
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 340,
+"date": "2026-01-28",
+"item": "石灰石",
+"slip": "SH2601-13",
+"qty": 18.6,
+"unit": "t",
+"price": 10890,
+"amount": 222809,
+"checker": "j3",
+"stock": 96.5
+},
+"r": 344
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 341,
+"date": "2026-01-29",
+"item": "石灰石",
+"slip": "SH2601-14",
+"qty": 17.39,
+"unit": "t",
+"price": 10890,
+"amount": 208321,
+"checker": "j3",
+"stock": 95.5
+},
+"r": 345
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 342,
+"date": "2026-02-02",
+"item": "コークス",
+"slip": "TK2602-01",
+"qty": 13.34,
+"unit": "t",
+"price": 70700,
+"amount": 1037451,
+"checker": "j3",
+"stock": 62.8
+},
+"r": 346
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 343,
+"date": "2026-02-03",
+"item": "コークス",
+"slip": "TK2602-02",
+"qty": 13.1,
+"unit": "t",
+"price": 70700,
+"amount": 1018787,
+"checker": "k1",
+"stock": 62.6
+},
+"r": 347
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 344,
+"date": "2026-02-04",
+"item": "コークス",
+"slip": "TK2602-03",
+"qty": 13.1,
+"unit": "t",
+"price": 70700,
+"amount": 1018787,
+"checker": "k1",
+"stock": 62.4
+},
+"r": 348
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 345,
+"date": "2026-02-05",
+"item": "コークス",
+"slip": "TK2602-04",
+"qty": 13.17,
+"unit": "t",
+"price": 70700,
+"amount": 1024230,
+"checker": "k1",
+"stock": 62.3
+},
+"r": 349
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 346,
+"date": "2026-02-06",
+"item": "コークス",
+"slip": "TK2602-05",
+"qty": 13.23,
+"unit": "t",
+"price": 70700,
+"amount": 1028897,
+"checker": "k1",
+"stock": 62.3
+},
+"r": 350
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 347,
+"date": "2026-02-09",
+"item": "コークス",
+"slip": "TK2602-06",
+"qty": 13.18,
+"unit": "t",
+"price": 70700,
+"amount": 1025008,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 351
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 348,
+"date": "2026-02-10",
+"item": "コークス",
+"slip": "TK2602-07",
+"qty": 13.4,
+"unit": "t",
+"price": 70700,
+"amount": 1042118,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 352
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 349,
+"date": "2026-02-11",
+"item": "コークス",
+"slip": "TK2602-08",
+"qty": 13.49,
+"unit": "t",
+"price": 70700,
+"amount": 1049117,
+"checker": "j3",
+"stock": 62.5
+},
+"r": 353
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 350,
+"date": "2026-02-12",
+"item": "コークス",
+"slip": "TK2602-09",
+"qty": 13.35,
+"unit": "t",
+"price": 70700,
+"amount": 1038229,
+"checker": "j3",
+"stock": 62.6
+},
+"r": 354
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 351,
+"date": "2026-02-13",
+"item": "コークス",
+"slip": "TK2602-10",
+"qty": 13.07,
+"unit": "t",
+"price": 70700,
+"amount": 1016453,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 355
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 352,
+"date": "2026-02-16",
+"item": "コークス",
+"slip": "TK2602-11",
+"qty": 13.43,
+"unit": "t",
+"price": 70700,
+"amount": 1044451,
+"checker": "j3",
+"stock": 62.6
+},
+"r": 356
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 353,
+"date": "2026-02-17",
+"item": "コークス",
+"slip": "TK2602-12",
+"qty": 13.53,
+"unit": "t",
+"price": 70700,
+"amount": 1052228,
+"checker": "j3",
+"stock": 62.9
+},
+"r": 357
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 354,
+"date": "2026-02-18",
+"item": "コークス",
+"slip": "TK2602-13",
+"qty": 13.6,
+"unit": "t",
+"price": 70700,
+"amount": 1057672,
+"checker": "j3",
+"stock": 63.2
+},
+"r": 358
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 355,
+"date": "2026-02-19",
+"item": "コークス",
+"slip": "TK2602-14",
+"qty": 12.92,
+"unit": "t",
+"price": 70700,
+"amount": 1004788,
+"checker": "j3",
+"stock": 62.9
+},
+"r": 359
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 356,
+"date": "2026-02-20",
+"item": "コークス",
+"slip": "TK2602-15",
+"qty": 13.58,
+"unit": "t",
+"price": 70700,
+"amount": 1056116,
+"checker": "j3",
+"stock": 63.2
+},
+"r": 360
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 357,
+"date": "2026-02-23",
+"item": "コークス",
+"slip": "TK2602-16",
+"qty": 12.96,
+"unit": "t",
+"price": 70700,
+"amount": 1007899,
+"checker": "j3",
+"stock": 62.9
+},
+"r": 361
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 358,
+"date": "2026-02-24",
+"item": "コークス",
+"slip": "TK2602-17",
+"qty": 13.06,
+"unit": "t",
+"price": 70700,
+"amount": 1015676,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 362
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 359,
+"date": "2026-02-25",
+"item": "コークス",
+"slip": "TK2602-18",
+"qty": 12.92,
+"unit": "t",
+"price": 70700,
+"amount": 1004788,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 363
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 360,
+"date": "2026-02-26",
+"item": "コークス",
+"slip": "TK2602-19",
+"qty": 13.28,
+"unit": "t",
+"price": 70700,
+"amount": 1032785,
+"checker": "k1",
+"stock": 62.4
+},
+"r": 364
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 361,
+"date": "2026-02-27",
+"item": "コークス",
+"slip": "TK2602-20",
+"qty": 12.87,
+"unit": "t",
+"price": 70700,
+"amount": 1000899,
+"checker": "k1",
+"stock": 62.0
+},
+"r": 365
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 362,
+"date": "2026-02-27",
+"item": "コークス",
+"slip": "TK2602-21",
+"qty": 13.45,
+"unit": "t",
+"price": 70700,
+"amount": 1046006,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 366
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 363,
+"date": "2026-02-27",
+"item": "コークス",
+"slip": "TK2602-22",
+"qty": 12.87,
+"unit": "t",
+"price": 70700,
+"amount": 1000899,
+"checker": "j3",
+"stock": 61.8
+},
+"r": 367
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 364,
+"date": "2026-02-27",
+"item": "コークス",
+"slip": "TK2602-23",
+"qty": 13.03,
+"unit": "t",
+"price": 70700,
+"amount": 1013343,
+"checker": "k1",
+"stock": 61.6
+},
+"r": 368
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 365,
+"date": "2026-02-27",
+"item": "コークス",
+"slip": "TK2602-24",
+"qty": 13.19,
+"unit": "t",
+"price": 70700,
+"amount": 1025786,
+"checker": "j3",
+"stock": 61.5
+},
+"r": 369
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 366,
+"date": "2026-02-27",
+"item": "コークス",
+"slip": "TK2602-25",
+"qty": 14.38,
+"unit": "t",
+"price": 70700,
+"amount": 1118342,
+"checker": "k1",
+"stock": 62.6
+},
+"r": 370
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 367,
+"date": "2026-02-02",
+"item": "石灰石",
+"slip": "SH2602-01",
+"qty": 18.63,
+"unit": "t",
+"price": 10890,
+"amount": 223168,
+"checker": "j3",
+"stock": 95.5
+},
+"r": 371
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 368,
+"date": "2026-02-04",
+"item": "石灰石",
+"slip": "SH2602-02",
+"qty": 19.04,
+"unit": "t",
+"price": 10890,
+"amount": 228080,
+"checker": "k1",
+"stock": 95.9
+},
+"r": 372
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 369,
+"date": "2026-02-06",
+"item": "石灰石",
+"slip": "SH2602-03",
+"qty": 19.12,
+"unit": "t",
+"price": 10890,
+"amount": 229038,
+"checker": "j3",
+"stock": 96.4
+},
+"r": 373
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 370,
+"date": "2026-02-10",
+"item": "石灰石",
+"slip": "SH2602-04",
+"qty": 19.07,
+"unit": "t",
+"price": 10890,
+"amount": 228439,
+"checker": "j3",
+"stock": 96.8
+},
+"r": 374
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 371,
+"date": "2026-02-11",
+"item": "石灰石",
+"slip": "SH2602-05",
+"qty": 18.3,
+"unit": "t",
+"price": 10890,
+"amount": 219215,
+"checker": "k1",
+"stock": 96.5
+},
+"r": 375
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 372,
+"date": "2026-02-12",
+"item": "石灰石",
+"slip": "SH2602-06",
+"qty": 18.2,
+"unit": "t",
+"price": 10890,
+"amount": 218017,
+"checker": "j3",
+"stock": 96.1
+},
+"r": 376
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 373,
+"date": "2026-02-16",
+"item": "石灰石",
+"slip": "SH2602-07",
+"qty": 18.17,
+"unit": "t",
+"price": 10890,
+"amount": 217658,
+"checker": "j3",
+"stock": 95.6
+},
+"r": 377
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 374,
+"date": "2026-02-17",
+"item": "石灰石",
+"slip": "SH2602-08",
+"qty": 18.19,
+"unit": "t",
+"price": 10890,
+"amount": 217898,
+"checker": "j3",
+"stock": 95.1
+},
+"r": 378
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 375,
+"date": "2026-02-19",
+"item": "石灰石",
+"slip": "SH2602-09",
+"qty": 19.09,
+"unit": "t",
+"price": 10890,
+"amount": 228679,
+"checker": "j3",
+"stock": 95.5
+},
+"r": 379
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 376,
+"date": "2026-02-20",
+"item": "石灰石",
+"slip": "SH2602-10",
+"qty": 18.96,
+"unit": "t",
+"price": 10890,
+"amount": 227121,
+"checker": "k1",
+"stock": 95.8
+},
+"r": 380
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 377,
+"date": "2026-02-24",
+"item": "石灰石",
+"slip": "SH2602-11",
+"qty": 18.96,
+"unit": "t",
+"price": 10890,
+"amount": 227121,
+"checker": "j3",
+"stock": 96.1
+},
+"r": 381
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 378,
+"date": "2026-02-26",
+"item": "石灰石",
+"slip": "SH2602-12",
+"qty": 17.97,
+"unit": "t",
+"price": 10890,
+"amount": 215268,
+"checker": "j3",
+"stock": 95.4
+},
+"r": 382
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 379,
+"date": "2026-03-02",
+"item": "コークス",
+"slip": "TK2603-01",
+"qty": 13.75,
+"unit": "t",
+"price": 70700,
+"amount": 1069337,
+"checker": "k1",
+"stock": 62.8
+},
+"r": 383
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 380,
+"date": "2026-03-03",
+"item": "コークス",
+"slip": "TK2603-02",
+"qty": 13.53,
+"unit": "t",
+"price": 70700,
+"amount": 1052228,
+"checker": "j3",
+"stock": 62.8
+},
+"r": 384
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 381,
+"date": "2026-03-04",
+"item": "コークス",
+"slip": "TK2603-03",
+"qty": 13.79,
+"unit": "t",
+"price": 70700,
+"amount": 1072448,
+"checker": "k1",
+"stock": 63.1
+},
+"r": 385
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 382,
+"date": "2026-03-05",
+"item": "コークス",
+"slip": "TK2603-04",
+"qty": 13.65,
+"unit": "t",
+"price": 70700,
+"amount": 1061560,
+"checker": "j3",
+"stock": 63.2
+},
+"r": 386
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 383,
+"date": "2026-03-06",
+"item": "コークス",
+"slip": "TK2603-05",
+"qty": 13.66,
+"unit": "t",
+"price": 70700,
+"amount": 1062338,
+"checker": "j3",
+"stock": 63.3
+},
+"r": 387
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 384,
+"date": "2026-03-09",
+"item": "コークス",
+"slip": "TK2603-06",
+"qty": 13.36,
+"unit": "t",
+"price": 70700,
+"amount": 1039007,
+"checker": "j3",
+"stock": 63.1
+},
+"r": 388
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 385,
+"date": "2026-03-10",
+"item": "コークス",
+"slip": "TK2603-07",
+"qty": 13.18,
+"unit": "t",
+"price": 70700,
+"amount": 1025008,
+"checker": "j3",
+"stock": 62.8
+},
+"r": 389
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 386,
+"date": "2026-03-11",
+"item": "コークス",
+"slip": "TK2603-08",
+"qty": 13.81,
+"unit": "t",
+"price": 70700,
+"amount": 1074003,
+"checker": "j3",
+"stock": 63.1
+},
+"r": 390
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 387,
+"date": "2026-03-12",
+"item": "コークス",
+"slip": "TK2603-09",
+"qty": 13.24,
+"unit": "t",
+"price": 70700,
+"amount": 1029674,
+"checker": "k1",
+"stock": 62.8
+},
+"r": 391
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 388,
+"date": "2026-03-13",
+"item": "コークス",
+"slip": "TK2603-10",
+"qty": 13.13,
+"unit": "t",
+"price": 70700,
+"amount": 1021120,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 392
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 389,
+"date": "2026-03-16",
+"item": "コークス",
+"slip": "TK2603-11",
+"qty": 13.58,
+"unit": "t",
+"price": 70700,
+"amount": 1056116,
+"checker": "k1",
+"stock": 62.5
+},
+"r": 393
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 390,
+"date": "2026-03-17",
+"item": "コークス",
+"slip": "TK2603-12",
+"qty": 13.58,
+"unit": "t",
+"price": 70700,
+"amount": 1056116,
+"checker": "j3",
+"stock": 62.6
+},
+"r": 394
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 391,
+"date": "2026-03-18",
+"item": "コークス",
+"slip": "TK2603-13",
+"qty": 13.16,
+"unit": "t",
+"price": 70700,
+"amount": 1023453,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 395
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 392,
+"date": "2026-03-19",
+"item": "コークス",
+"slip": "TK2603-14",
+"qty": 13.53,
+"unit": "t",
+"price": 70700,
+"amount": 1052228,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 396
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 393,
+"date": "2026-03-20",
+"item": "コークス",
+"slip": "TK2603-15",
+"qty": 13.43,
+"unit": "t",
+"price": 70700,
+"amount": 1044451,
+"checker": "j3",
+"stock": 62.1
+},
+"r": 397
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 394,
+"date": "2026-03-23",
+"item": "コークス",
+"slip": "TK2603-16",
+"qty": 13.7,
+"unit": "t",
+"price": 70700,
+"amount": 1065449,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 398
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 395,
+"date": "2026-03-24",
+"item": "コークス",
+"slip": "TK2603-17",
+"qty": 13.56,
+"unit": "t",
+"price": 70700,
+"amount": 1054561,
+"checker": "j3",
+"stock": 62.3
+},
+"r": 399
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 396,
+"date": "2026-03-25",
+"item": "コークス",
+"slip": "TK2603-18",
+"qty": 13.13,
+"unit": "t",
+"price": 70700,
+"amount": 1021120,
+"checker": "k1",
+"stock": 61.9
+},
+"r": 400
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 397,
+"date": "2026-03-26",
+"item": "コークス",
+"slip": "TK2603-19",
+"qty": 13.64,
+"unit": "t",
+"price": 70700,
+"amount": 1060782,
+"checker": "j3",
+"stock": 62.0
+},
+"r": 401
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 398,
+"date": "2026-03-27",
+"item": "コークス",
+"slip": "TK2603-20",
+"qty": 13.41,
+"unit": "t",
+"price": 70700,
+"amount": 1042895,
+"checker": "j3",
+"stock": 61.9
+},
+"r": 402
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 399,
+"date": "2026-03-30",
+"item": "コークス",
+"slip": "TK2603-21",
+"qty": 13.82,
+"unit": "t",
+"price": 70700,
+"amount": 1074781,
+"checker": "j3",
+"stock": 62.2
+},
+"r": 403
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 400,
+"date": "2026-03-31",
+"item": "コークス",
+"slip": "TK2603-22",
+"qty": 13.7,
+"unit": "t",
+"price": 70700,
+"amount": 1065449,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 404
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 401,
+"date": "2026-03-31",
+"item": "コークス",
+"slip": "TK2603-23",
+"qty": 13.77,
+"unit": "t",
+"price": 70700,
+"amount": 1070892,
+"checker": "j3",
+"stock": 62.7
+},
+"r": 405
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 402,
+"date": "2026-03-31",
+"item": "コークス",
+"slip": "TK2603-24",
+"qty": 13.8,
+"unit": "t",
+"price": 70700,
+"amount": 1073226,
+"checker": "j3",
+"stock": 63.0
+},
+"r": 406
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 403,
+"date": "2026-03-31",
+"item": "コークス",
+"slip": "TK2603-25",
+"qty": 13.59,
+"unit": "t",
+"price": 70700,
+"amount": 1056894,
+"checker": "j3",
+"stock": 63.1
+},
+"r": 407
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 404,
+"date": "2026-03-31",
+"item": "コークス",
+"slip": "TK2603-26",
+"qty": 12.8,
+"unit": "t",
+"price": 70700,
+"amount": 995465,
+"checker": "j3",
+"stock": 62.4
+},
+"r": 408
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 405,
+"date": "2026-03-03",
+"item": "石灰石",
+"slip": "SH2603-01",
+"qty": 17.93,
+"unit": "t",
+"price": 10890,
+"amount": 214783,
+"checker": "j3",
+"stock": 95.3
+},
+"r": 409
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 406,
+"date": "2026-03-05",
+"item": "石灰石",
+"slip": "SH2603-02",
+"qty": 18.58,
+"unit": "t",
+"price": 10890,
+"amount": 222569,
+"checker": "k1",
+"stock": 95.8
+},
+"r": 410
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 407,
+"date": "2026-03-10",
+"item": "石灰石",
+"slip": "SH2603-03",
+"qty": 18.49,
+"unit": "t",
+"price": 10890,
+"amount": 221491,
+"checker": "k1",
+"stock": 96.2
+},
+"r": 411
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 408,
+"date": "2026-03-11",
+"item": "石灰石",
+"slip": "SH2603-04",
+"qty": 18.22,
+"unit": "t",
+"price": 10890,
+"amount": 218257,
+"checker": "j3",
+"stock": 96.4
+},
+"r": 412
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 409,
+"date": "2026-03-13",
+"item": "石灰石",
+"slip": "SH2603-05",
+"qty": 17.67,
+"unit": "t",
+"price": 10890,
+"amount": 211668,
+"checker": "j3",
+"stock": 96.0
+},
+"r": 413
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 410,
+"date": "2026-03-17",
+"item": "石灰石",
+"slip": "SH2603-06",
+"qty": 17.97,
+"unit": "t",
+"price": 10890,
+"amount": 215262,
+"checker": "j3",
+"stock": 95.9
+},
+"r": 414
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 411,
+"date": "2026-03-18",
+"item": "石灰石",
+"slip": "SH2603-07",
+"qty": 17.81,
+"unit": "t",
+"price": 10890,
+"amount": 213345,
+"checker": "j3",
+"stock": 95.7
+},
+"r": 415
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 412,
+"date": "2026-03-19",
+"item": "石灰石",
+"slip": "SH2603-08",
+"qty": 18.01,
+"unit": "t",
+"price": 10890,
+"amount": 215741,
+"checker": "k1",
+"stock": 95.7
+},
+"r": 416
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 413,
+"date": "2026-03-23",
+"item": "石灰石",
+"slip": "SH2603-09",
+"qty": 17.65,
+"unit": "t",
+"price": 10890,
+"amount": 211429,
+"checker": "j3",
+"stock": 95.3
+},
+"r": 417
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 414,
+"date": "2026-03-25",
+"item": "石灰石",
+"slip": "SH2603-10",
+"qty": 17.87,
+"unit": "t",
+"price": 10890,
+"amount": 214064,
+"checker": "j3",
+"stock": 95.1
+},
+"r": 418
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 415,
+"date": "2026-03-26",
+"item": "石灰石",
+"slip": "SH2603-11",
+"qty": 18.5,
+"unit": "t",
+"price": 10890,
+"amount": 221611,
+"checker": "k1",
+"stock": 95.6
+},
+"r": 419
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 416,
+"date": "2026-03-30",
+"item": "石灰石",
+"slip": "SH2603-12",
+"qty": 17.6,
+"unit": "t",
+"price": 10890,
+"amount": 210830,
+"checker": "j3",
+"stock": 95.2
+},
+"r": 420
+},
+{
+"sheet": "納入記録",
+"kind": "item",
+"fields": {
+"no": 417,
+"date": "2026-03-31",
+"item": "石灰石",
+"slip": "SH2603-13",
+"qty": 18.3,
+"unit": "t",
+"price": 10890,
+"amount": 219223,
+"checker": "j3",
+"stock": 95.5
+},
+"r": 421
+},
+{
+"sheet": "単価改定",
+"kind": "item",
+"fields": {
+"date": "2025-04-01",
+"item": "コークス",
+"price": 71500,
+"reason": "契約単価"
+},
+"r": 4
+},
+{
+"sheet": "単価改定",
+"kind": "item",
+"fields": {
+"date": "2025-07-01",
+"item": "コークス",
+"price": 68900,
+"reason": "指数 -3.6%"
+},
+"r": 5
+},
+{
+"sheet": "単価改定",
+"kind": "item",
+"fields": {
+"date": "2026-01-01",
+"item": "コークス",
+"price": 70700,
+"reason": "指数 +2.6%（3%未満のため据置の申出あり→協議で改定）"
+},
+"r": 6
+},
+{
+"sheet": "単価改定",
+"kind": "item",
+"fields": {
+"date": "2025-04-01",
+"item": "石灰石",
+"price": 10890,
+"reason": "契約単価"
+},
+"r": 7
+},
+{
+"sheet": "単価改定",
+"kind": "item",
+"fields": {
+"date": "2025-04-01",
+"item": "液体酸素",
+"price": 61,
+"reason": "契約単価（円/kg）"
+},
+"r": 8
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2025-04",
+"cokeT": 349.9,
+"cokeYen": 27519635,
+"limeT": 242.5,
+"limeYen": 2904907,
+"totalYen": 30424542
+},
+"r": 4
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2025-05",
+"cokeT": 264.1,
+"cokeYen": 20771465,
+"limeT": 163.7,
+"limeYen": 1960962,
+"loxKg": 31400,
+"loxYen": 2106940,
+"totalYen": 24839367
+},
+"r": 5
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2025-06",
+"cokeT": 192.6,
+"cokeYen": 15147990,
+"limeT": 118.1,
+"limeYen": 1414719,
+"totalYen": 16562709
+},
+"r": 6
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2025-07",
+"cokeT": 329.1,
+"cokeYen": 24942489,
+"limeT": 231.5,
+"limeYen": 2773138,
+"totalYen": 27715627
+},
+"r": 7
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2025-08",
+"cokeT": 351.2,
+"cokeYen": 26617448,
+"limeT": 241.4,
+"limeYen": 2891730,
+"totalYen": 29509178
+},
+"r": 8
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2025-09",
+"cokeT": 354.1,
+"cokeYen": 26837239,
+"limeT": 224.8,
+"limeYen": 2692879,
+"totalYen": 29530118
+},
+"r": 9
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2025-10",
+"cokeT": 171.0,
+"cokeYen": 12960090,
+"limeT": 129.3,
+"limeYen": 1548884,
+"totalYen": 14508974
+},
+"r": 10
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2025-11",
+"cokeT": 293.7,
+"cokeYen": 22259523,
+"limeT": 188.3,
+"limeYen": 2255645,
+"loxKg": 4600,
+"loxYen": 308660,
+"totalYen": 24823828
+},
+"r": 11
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2025-12",
+"cokeT": 361.5,
+"cokeYen": 27398085,
+"limeT": 249.3,
+"limeYen": 2986364,
+"totalYen": 30384449
+},
+"r": 12
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2026-01",
+"cokeT": 361.2,
+"cokeYen": 28090524,
+"limeT": 256.9,
+"limeYen": 3077405,
+"totalYen": 31167929
+},
+"r": 13
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2026-02",
+"cokeT": 331.5,
+"cokeYen": 25780755,
+"limeT": 223.7,
+"limeYen": 2679702,
+"totalYen": 28460457
+},
+"r": 14
+},
+{
+"sheet": "月計",
+"kind": "subtotal",
+"fields": {
+"month": "2026-03",
+"cokeT": 351.3,
+"cokeYen": 27320601,
+"limeT": 234.6,
+"limeYen": 2810273,
+"totalYen": 30130874
+},
+"r": 15
+},
+{
+"sheet": "月計",
+"kind": "total",
+"fields": {
+"cokeT": 3711.2,
+"cokeYen": 285645844,
+"limeT": 2504.1,
+"limeYen": 29996608,
+"loxKg": 36000,
+"loxYen": 2415600,
+"totalYen": 318058052
+},
+"r": 16
+}
+]
+}

@@ -1,0 +1,2451 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_令和3年度年間保守点検整備業務委託1号炉定修_R1様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "1004",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-04",
+"weather": "晴",
+"company": "千草環境",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5
+},
+"r": 5
+},
+{
+"sheet": "1004",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-04",
+"weather": "晴",
+"company": "丸鳥足場工業",
+"persons": 4,
+"time": "9:00〜16:30",
+"manHours": 26.0
+},
+"r": 6
+},
+{
+"sheet": "1004",
+"kind": "total",
+"fields": {
+"date": "2021-10-04",
+"persons": 7,
+"manHours": 48.5
+},
+"r": 7
+},
+{
+"sheet": "1004",
+"kind": "item",
+"fields": {
+"date": "2021-10-04",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "2",
+"place": "1号溶融炉本体",
+"content": "入槽前測定・安全措置",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1004",
+"kind": "item",
+"fields": {
+"date": "2021-10-04",
+"weather": "晴",
+"blockCompany": "丸鳥足場工業",
+"no": "3",
+"place": "1号溶融炉本体",
+"content": "足場組立（炉内・ボイラ・BF）",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "33%"
+},
+"r": 14
+},
+{
+"sheet": "1005",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"company": "丸鳥足場工業",
+"persons": 4,
+"time": "8:00〜17:00",
+"manHours": 32.0
+},
+"r": 5
+},
+{
+"sheet": "1005",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0
+},
+"r": 6
+},
+{
+"sheet": "1005",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"company": "ひかり工業",
+"persons": 8,
+"time": "8:00〜17:30",
+"manHours": 65.0
+},
+"r": 7
+},
+{
+"sheet": "1005",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"company": "千草環境",
+"persons": 2,
+"time": "9:00〜16:00",
+"manHours": 12.0
+},
+"r": 8
+},
+{
+"sheet": "1005",
+"kind": "total",
+"fields": {
+"date": "2021-10-05",
+"persons": 20,
+"manHours": 154.0
+},
+"r": 9
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"blockCompany": "丸鳥足場工業",
+"no": "3",
+"place": "1号炉 炉内・ボイラ",
+"content": "足場組立（炉内 羽口レベル、ボイラ 2パス）",
+"time": "8:00〜17:00",
+"persons": 4,
+"manHours": 32.0,
+"progress": "67%"
+},
+"r": 14
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "4",
+"place": "1号溶融炉 炉内",
+"content": "残留物除去 着手（上段）フレコン 5袋",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "20%"
+},
+"r": 16
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"blockCompany": "ひかり工業",
+"no": "7",
+"place": "1号ボイラ",
+"content": "ボイラ水洗 1パス〜2パス",
+"time": "8:00〜17:30",
+"persons": 6,
+"manHours": 51.0,
+"progress": "25%"
+},
+"r": 18
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"blockCompany": "ひかり工業",
+"no": "17",
+"place": "1号水砕槽",
+"content": "水抜き・堆積スラグ排出",
+"time": "9:00〜17:00",
+"persons": 2,
+"manHours": 14.0,
+"progress": "25%"
+},
+"r": 19
+},
+{
+"sheet": "1005",
+"kind": "item",
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "17",
+"place": "1号水砕槽",
+"content": "掻揚コンベヤ 点検準備",
+"time": "9:00〜16:00",
+"persons": 2,
+"manHours": 12.0,
+"progress": "25%"
+},
+"r": 21
+},
+{
+"sheet": "1006",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"company": "丸鳥足場工業",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5
+},
+"r": 5
+},
+{
+"sheet": "1006",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 6,
+"time": "9:00〜16:30",
+"manHours": 39.0
+},
+"r": 6
+},
+{
+"sheet": "1006",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"company": "千草環境",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0
+},
+"r": 7
+},
+{
+"sheet": "1006",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"company": "ひかり工業",
+"persons": 10,
+"time": "8:30〜18:30",
+"manHours": 81.0
+},
+"r": 8
+},
+{
+"sheet": "1006",
+"kind": "total",
+"fields": {
+"date": "2021-10-06",
+"persons": 27,
+"manHours": 202.5
+},
+"r": 9
+},
+{
+"sheet": "1006",
+"kind": "item",
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"blockCompany": "丸鳥足場工業",
+"no": "3",
+"place": "1号溶融炉本体",
+"content": "足場組立（炉内・ボイラ・BF）",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "1006",
+"kind": "item",
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "4",
+"place": "1号溶融炉本体",
+"content": "炉内残留物除去",
+"time": "9:00〜16:30",
+"persons": 6,
+"manHours": 39.0,
+"progress": "40%"
+},
+"r": 16
+},
+{
+"sheet": "1006",
+"kind": "item",
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "5",
+"place": "1号主羽口装置",
+"content": "羽口点検・漏水試験",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "50%"
+},
+"r": 18
+},
+{
+"sheet": "1006",
+"kind": "item",
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "11",
+"place": "1号減温塔噴霧ノズル",
+"content": "減温塔点検・噴霧ノズル交換",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "50%"
+},
+"r": 19
+},
+{
+"sheet": "1006",
+"kind": "item",
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"blockCompany": "ひかり工業",
+"no": "7",
+"place": "1号ボイラ本体",
+"content": "ボイラ水洗",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "50%"
+},
+"r": 21
+},
+{
+"sheet": "1006",
+"kind": "item",
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"blockCompany": "ひかり工業",
+"no": "17",
+"place": "1号スラグ掻揚コンベヤ",
+"content": "水砕槽清掃・掻揚コンベヤ点検",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "50%"
+},
+"r": 22
+},
+{
+"sheet": "1007",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 6,
+"time": "8:30〜18:00",
+"manHours": 51.0
+},
+"r": 5
+},
+{
+"sheet": "1007",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"company": "千草環境",
+"persons": 7,
+"time": "9:00〜17:00",
+"manHours": 44.0
+},
+"r": 6
+},
+{
+"sheet": "1007",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"company": "ひかり工業",
+"persons": 6,
+"time": "8:00〜17:00",
+"manHours": 48.0
+},
+"r": 7
+},
+{
+"sheet": "1007",
+"kind": "total",
+"fields": {
+"date": "2021-10-07",
+"persons": 19,
+"manHours": 143.0
+},
+"r": 8
+},
+{
+"sheet": "1007",
+"kind": "item",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "4",
+"place": "1号溶融炉 炉内",
+"content": "残留物除去 シャフト下部 固着物はつり",
+"time": "8:30〜18:00",
+"persons": 6,
+"manHours": 51.0,
+"progress": "60%",
+"finding": "固着が硬く 1日延長の見込み"
+},
+"r": 13
+},
+{
+"sheet": "1007",
+"kind": "item",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "5",
+"place": "1号溶融炉 羽口部",
+"content": "主羽口 8本 漏水試験",
+"time": "9:00〜17:00",
+"persons": 3,
+"manHours": 21.0,
+"progress": "100%",
+"finding": "羽口 No.5 圧力降下（漏水）"
+},
+"r": 15
+},
+{
+"sheet": "1007",
+"kind": "item",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "11",
+"place": "1号減温塔",
+"content": "噴霧ノズル 6本 交換・噴霧試験",
+"time": "9:00〜16:30",
+"persons": 2,
+"manHours": 13.0,
+"progress": "100%",
+"finding": "ノズル先端摩耗 2本"
+},
+"r": 16
+},
+{
+"sheet": "1007",
+"kind": "item",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "17",
+"place": "1号水砕槽",
+"content": "掻揚コンベヤ チェーン伸び測定 1.2%",
+"time": "9:00〜15:00",
+"persons": 2,
+"manHours": 10.0,
+"progress": "75%"
+},
+"r": 17
+},
+{
+"sheet": "1007",
+"kind": "item",
+"fields": {
+"date": "2021-10-07",
+"weather": "曇",
+"blockCompany": "ひかり工業",
+"no": "7",
+"place": "1号ボイラ",
+"content": "水洗 3パス・エコノマイザ",
+"time": "8:00〜17:00",
+"persons": 6,
+"manHours": 48.0,
+"progress": "75%"
+},
+"r": 19
+},
+{
+"sheet": "1008",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-08",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 6,
+"time": "8:30〜17:00",
+"manHours": 45.0
+},
+"r": 5
+},
+{
+"sheet": "1008",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-08",
+"weather": "晴",
+"company": "ひかり工業",
+"persons": 11,
+"time": "8:30〜17:00",
+"manHours": 75.5
+},
+"r": 6
+},
+{
+"sheet": "1008",
+"kind": "total",
+"fields": {
+"date": "2021-10-08",
+"persons": 17,
+"manHours": 120.5
+},
+"r": 7
+},
+{
+"sheet": "1008",
+"kind": "item",
+"fields": {
+"date": "2021-10-08",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "4",
+"place": "1号溶融炉本体",
+"content": "炉内残留物除去",
+"time": "8:30〜17:00",
+"persons": 6,
+"manHours": 45.0,
+"progress": "80%"
+},
+"r": 12
+},
+{
+"sheet": "1008",
+"kind": "item",
+"fields": {
+"date": "2021-10-08",
+"weather": "晴",
+"blockCompany": "ひかり工業",
+"no": "7",
+"place": "1号ボイラ本体",
+"content": "ボイラ水洗",
+"time": "9:00〜16:30",
+"persons": 7,
+"manHours": 45.5,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "1008",
+"kind": "item",
+"fields": {
+"date": "2021-10-08",
+"weather": "晴",
+"blockCompany": "ひかり工業",
+"no": "17",
+"place": "1号スラグ掻揚コンベヤ",
+"content": "水砕槽清掃・掻揚コンベヤ点検",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "100%"
+},
+"r": 15
+},
+{
+"sheet": "1009",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-09",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 7,
+"time": "8:30〜17:00",
+"manHours": 52.5
+},
+"r": 5
+},
+{
+"sheet": "1009",
+"kind": "total",
+"fields": {
+"date": "2021-10-09",
+"persons": 7,
+"manHours": 52.5
+},
+"r": 6
+},
+{
+"sheet": "1009",
+"kind": "item",
+"fields": {
+"date": "2021-10-09",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "4",
+"place": "1号溶融炉本体",
+"content": "炉内残留物除去",
+"time": "8:30〜17:00",
+"persons": 7,
+"manHours": 52.5,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1011",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-11",
+"weather": "曇",
+"company": "千草環境",
+"persons": 11,
+"time": "8:00〜18:30",
+"manHours": 86.0
+},
+"r": 5
+},
+{
+"sheet": "1011",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-11",
+"weather": "曇",
+"company": "東雲築炉",
+"persons": 5,
+"time": "8:00〜17:00",
+"manHours": 40.0
+},
+"r": 6
+},
+{
+"sheet": "1011",
+"kind": "total",
+"fields": {
+"date": "2021-10-11",
+"persons": 16,
+"manHours": 126.0
+},
+"r": 7
+},
+{
+"sheet": "1011",
+"kind": "item",
+"fields": {
+"date": "2021-10-11",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "5-2",
+"place": "1号主羽口装置",
+"content": "羽口交換 No.5",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "50%"
+},
+"r": 12
+},
+{
+"sheet": "1011",
+"kind": "item",
+"fields": {
+"date": "2021-10-11",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "8",
+"place": "1号2次過熱器",
+"content": "過熱器・蒸発管 肉厚測定",
+"time": "8:00〜17:00",
+"persons": 2,
+"manHours": 16.0,
+"progress": "33%"
+},
+"r": 13
+},
+{
+"sheet": "1011",
+"kind": "item",
+"fields": {
+"date": "2021-10-11",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "E6",
+"place": "1号水砕装置",
+"content": "1号水砕樋 補修（肉盛・塗装）",
+"time": "13:00〜17:00",
+"persons": 1,
+"manHours": 4.0,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "1011",
+"kind": "item",
+"fields": {
+"date": "2021-10-11",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "E11",
+"place": "1号減温塔",
+"content": "1号減温塔ロータリーバルブ 分解点検・消耗品交換",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "100%"
+},
+"r": 15
+},
+{
+"sheet": "1011",
+"kind": "item",
+"fields": {
+"date": "2021-10-11",
+"weather": "曇",
+"blockCompany": "東雲築炉",
+"no": "6",
+"place": "1号溶融炉本体",
+"content": "炉内耐火物点検・部分補修",
+"time": "8:00〜17:00",
+"persons": 5,
+"manHours": 40.0,
+"progress": "10%"
+},
+"r": 17
+},
+{
+"sheet": "1012",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-12",
+"weather": "晴",
+"company": "千草環境",
+"persons": 12,
+"time": "8:00〜17:00",
+"manHours": 87.5
+},
+"r": 5
+},
+{
+"sheet": "1012",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-12",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5
+},
+"r": 6
+},
+{
+"sheet": "1012",
+"kind": "total",
+"fields": {
+"date": "2021-10-12",
+"persons": 17,
+"manHours": 125.0
+},
+"r": 7
+},
+{
+"sheet": "1012",
+"kind": "item",
+"fields": {
+"date": "2021-10-12",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "5-2",
+"place": "1号溶融炉 羽口部",
+"content": "主羽口 No.5 新品取付・漏水試験 良",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1012",
+"kind": "item",
+"fields": {
+"date": "2021-10-12",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "8",
+"place": "1号ボイラ",
+"content": "2次過熱器 肉厚測定（UT）3列目まで",
+"time": "9:00〜17:00",
+"persons": 2,
+"manHours": 14.0,
+"progress": "67%",
+"finding": "下部ベンド 2本 3.1mm／3.2mm"
+},
+"r": 13
+},
+{
+"sheet": "1012",
+"kind": "item",
+"fields": {
+"date": "2021-10-12",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "12",
+"place": "1号BF",
+"content": "内部点検 1〜3室 ろ布外観",
+"time": "9:00〜16:30",
+"persons": 3,
+"manHours": 19.5,
+"progress": "25%"
+},
+"r": 14
+},
+{
+"sheet": "1012",
+"kind": "item",
+"fields": {
+"date": "2021-10-12",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E1",
+"place": "1号ごみ供給装置",
+"content": "1号給じん油圧ポンプ（B） 分解整備（軸受・シール交換）",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "100%"
+},
+"r": 15
+},
+{
+"sheet": "1012",
+"kind": "item",
+"fields": {
+"date": "2021-10-12",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "6",
+"place": "1号溶融炉 炉内",
+"content": "耐火物 損耗測定（シャフト部）",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "20%"
+},
+"r": 17
+},
+{
+"sheet": "1013",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-13",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5
+},
+"r": 5
+},
+{
+"sheet": "1013",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-13",
+"weather": "雨",
+"company": "千草環境",
+"persons": 8,
+"time": "9:00〜17:00",
+"manHours": 39.5
+},
+"r": 6
+},
+{
+"sheet": "1013",
+"kind": "total",
+"fields": {
+"date": "2021-10-13",
+"persons": 13,
+"manHours": 77.0
+},
+"r": 7
+},
+{
+"sheet": "1013",
+"kind": "item",
+"fields": {
+"date": "2021-10-13",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "6",
+"place": "1号溶融炉本体",
+"content": "炉内耐火物点検・部分補修",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "30%"
+},
+"r": 12
+},
+{
+"sheet": "1013",
+"kind": "item",
+"fields": {
+"date": "2021-10-13",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "8",
+"place": "1号2次過熱器",
+"content": "過熱器・蒸発管 肉厚測定",
+"time": "13:00〜17:00",
+"persons": 2,
+"manHours": 8.0,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "1013",
+"kind": "item",
+"fields": {
+"date": "2021-10-13",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "12",
+"place": "1号ろ過式集じん器本体",
+"content": "BF 内部点検・逆洗弁点検",
+"time": "13:00〜17:00",
+"persons": 3,
+"manHours": 12.0,
+"progress": "50%"
+},
+"r": 15
+},
+{
+"sheet": "1013",
+"kind": "item",
+"fields": {
+"date": "2021-10-13",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "E12",
+"place": "1号薬剤吹込装置",
+"content": "1号消石灰定量供給機 分解整備（軸受・シール交換）",
+"time": "9:00〜16:30",
+"persons": 3,
+"manHours": 19.5,
+"progress": "50%"
+},
+"r": 16
+},
+{
+"sheet": "1014",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-14",
+"weather": "雨",
+"company": "千草環境",
+"persons": 11,
+"time": "8:00〜19:00",
+"manHours": 88.5
+},
+"r": 5
+},
+{
+"sheet": "1014",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-14",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5
+},
+"r": 6
+},
+{
+"sheet": "1014",
+"kind": "total",
+"fields": {
+"date": "2021-10-14",
+"persons": 16,
+"manHours": 126.0
+},
+"r": 7
+},
+{
+"sheet": "1014",
+"kind": "item",
+"fields": {
+"date": "2021-10-14",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "8-2",
+"place": "1号ボイラ",
+"content": "2次過熱器 下部ベンド 肉盛溶接 1本目（予熱・肉盛）",
+"time": "8:30〜19:00",
+"persons": 3,
+"manHours": 28.5,
+"progress": "33%",
+"finding": "追加"
+},
+"r": 12
+},
+{
+"sheet": "1014",
+"kind": "item",
+"fields": {
+"date": "2021-10-14",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "12",
+"place": "1号BF",
+"content": "逆洗弁（電磁弁）点検 4〜6室",
+"time": "9:00〜17:00",
+"persons": 3,
+"manHours": 21.0,
+"progress": "75%",
+"finding": "電磁弁 1個 交換"
+},
+"r": 13
+},
+{
+"sheet": "1014",
+"kind": "item",
+"fields": {
+"date": "2021-10-14",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "E7",
+"place": "1号燃焼室",
+"content": "1号助燃バーナ 分解整備（軸受・シール交換）",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "1014",
+"kind": "item",
+"fields": {
+"date": "2021-10-14",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "E12",
+"place": "1号薬剤吹込装置",
+"content": "1号活性炭定量供給機 分解点検・消耗品交換",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "100%"
+},
+"r": 15
+},
+{
+"sheet": "1014",
+"kind": "item",
+"fields": {
+"date": "2021-10-14",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "6",
+"place": "1号溶融炉 炉内",
+"content": "耐火物 部分補修（羽口上 吹付）",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "40%"
+},
+"r": 17
+},
+{
+"sheet": "1015",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-15",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 5,
+"time": "9:00〜16:30",
+"manHours": 32.5
+},
+"r": 5
+},
+{
+"sheet": "1015",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-15",
+"weather": "雨",
+"company": "千草環境",
+"persons": 5,
+"time": "9:00〜17:00",
+"manHours": 25.0
+},
+"r": 6
+},
+{
+"sheet": "1015",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-15",
+"weather": "雨",
+"company": "あかね電設",
+"persons": 2,
+"time": "9:00〜16:30",
+"manHours": 13.0
+},
+"r": 7
+},
+{
+"sheet": "1015",
+"kind": "total",
+"fields": {
+"date": "2021-10-15",
+"persons": 12,
+"manHours": 70.5
+},
+"r": 8
+},
+{
+"sheet": "1015",
+"kind": "item",
+"fields": {
+"date": "2021-10-15",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "6",
+"place": "1号溶融炉本体",
+"content": "炉内耐火物点検・部分補修",
+"time": "9:00〜16:30",
+"persons": 5,
+"manHours": 32.5,
+"progress": "50%"
+},
+"r": 13
+},
+{
+"sheet": "1015",
+"kind": "item",
+"fields": {
+"date": "2021-10-15",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "8-2",
+"place": "1号2次過熱器",
+"content": "2次過熱器 下部ベンド肉盛溶接（追加）",
+"time": "13:00〜17:00",
+"persons": 3,
+"manHours": 12.0,
+"progress": "67%"
+},
+"r": 15
+},
+{
+"sheet": "1015",
+"kind": "item",
+"fields": {
+"date": "2021-10-15",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "12",
+"place": "1号ろ過式集じん器本体",
+"content": "BF 内部点検・逆洗弁点検",
+"time": "9:00〜16:30",
+"persons": 2,
+"manHours": 13.0,
+"progress": "100%"
+},
+"r": 16
+},
+{
+"sheet": "1015",
+"kind": "item",
+"fields": {
+"date": "2021-10-15",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "E2",
+"place": "1号炉体冷却水設備",
+"content": "1号炉体冷却水ポンプ（B）用電動機 絶縁抵抗測定・軸受音確認",
+"time": "9:00〜16:30",
+"persons": 2,
+"manHours": 13.0,
+"progress": "50%"
+},
+"r": 18
+},
+{
+"sheet": "1016",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-16",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 4,
+"time": "9:00〜16:30",
+"manHours": 26.0
+},
+"r": 5
+},
+{
+"sheet": "1016",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-16",
+"weather": "晴",
+"company": "千草環境",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 34.5
+},
+"r": 6
+},
+{
+"sheet": "1016",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-16",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 2,
+"time": "8:30〜17:00",
+"manHours": 15.0
+},
+"r": 7
+},
+{
+"sheet": "1016",
+"kind": "total",
+"fields": {
+"date": "2021-10-16",
+"persons": 11,
+"manHours": 75.5
+},
+"r": 8
+},
+{
+"sheet": "1016",
+"kind": "item",
+"fields": {
+"date": "2021-10-16",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "6",
+"place": "1号溶融炉本体",
+"content": "炉内耐火物点検・部分補修",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "60%"
+},
+"r": 13
+},
+{
+"sheet": "1016",
+"kind": "item",
+"fields": {
+"date": "2021-10-16",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "8-2",
+"place": "1号2次過熱器",
+"content": "2次過熱器 下部ベンド肉盛溶接（追加）",
+"time": "9:00〜16:30",
+"persons": 3,
+"manHours": 19.5,
+"progress": "100%"
+},
+"r": 15
+},
+{
+"sheet": "1016",
+"kind": "item",
+"fields": {
+"date": "2021-10-16",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E13",
+"place": "1号ろ過式集じん器",
+"content": "1号飛灰集合コンベヤ 分解整備（軸受・シール交換）",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "100%"
+},
+"r": 16
+},
+{
+"sheet": "1016",
+"kind": "item",
+"fields": {
+"date": "2021-10-16",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "E2",
+"place": "1号炉体冷却水設備",
+"content": "1号羽口冷却水ポンプ（B）用電動機 絶縁抵抗測定・軸受音確認",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "100%"
+},
+"r": 18
+},
+{
+"sheet": "1018",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-18",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5
+},
+"r": 5
+},
+{
+"sheet": "1018",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-18",
+"weather": "雨",
+"company": "千草環境",
+"persons": 9,
+"time": "8:00〜17:00",
+"manHours": 69.0
+},
+"r": 6
+},
+{
+"sheet": "1018",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-18",
+"weather": "雨",
+"company": "あかね電設",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5
+},
+"r": 7
+},
+{
+"sheet": "1018",
+"kind": "total",
+"fields": {
+"date": "2021-10-18",
+"persons": 17,
+"manHours": 129.0
+},
+"r": 8
+},
+{
+"sheet": "1018",
+"kind": "item",
+"fields": {
+"date": "2021-10-18",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "6",
+"place": "1号溶融炉本体",
+"content": "炉内耐火物点検・部分補修",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "80%"
+},
+"r": 13
+},
+{
+"sheet": "1018",
+"kind": "item",
+"fields": {
+"date": "2021-10-18",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "13",
+"place": "1号触媒反応塔",
+"content": "触媒反応塔 外観点検",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "100%"
+},
+"r": 15
+},
+{
+"sheet": "1018",
+"kind": "item",
+"fields": {
+"date": "2021-10-18",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "18",
+"place": "1号羽口送風機（A）",
+"content": "送風機・燃焼空気送風機 点検",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "50%"
+},
+"r": 16
+},
+{
+"sheet": "1018",
+"kind": "item",
+"fields": {
+"date": "2021-10-18",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "E3",
+"place": "1号出湯設備",
+"content": "1号マッドガン・1号出湯口油圧ユニット 分解整備（軸受・シール交換）",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "33%"
+},
+"r": 17
+},
+{
+"sheet": "1018",
+"kind": "item",
+"fields": {
+"date": "2021-10-18",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "20",
+"place": "1号炉頂温度計",
+"content": "計装校正",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "11%"
+},
+"r": 19
+},
+{
+"sheet": "1019",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-19",
+"weather": "晴",
+"company": "千草環境",
+"persons": 8,
+"time": "9:00〜16:30",
+"manHours": 44.0
+},
+"r": 5
+},
+{
+"sheet": "1019",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-19",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 30.5
+},
+"r": 6
+},
+{
+"sheet": "1019",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-19",
+"weather": "晴",
+"company": "東雲築炉",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5
+},
+"r": 7
+},
+{
+"sheet": "1019",
+"kind": "total",
+"fields": {
+"date": "2021-10-19",
+"persons": 18,
+"manHours": 112.0
+},
+"r": 8
+},
+{
+"sheet": "1019",
+"kind": "item",
+"fields": {
+"date": "2021-10-19",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "18",
+"place": "1号羽口送風機",
+"content": "(A)(B) 軸受点検・グリス交換",
+"time": "9:00〜16:00",
+"persons": 2,
+"manHours": 12.0,
+"progress": "100%"
+},
+"r": 13
+},
+{
+"sheet": "1019",
+"kind": "item",
+"fields": {
+"date": "2021-10-19",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "14",
+"place": "1号誘引通風機",
+"content": "振動測定 1.8mm/s・外観",
+"time": "9:00〜12:00",
+"persons": 2,
+"manHours": 6.0,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "1019",
+"kind": "item",
+"fields": {
+"date": "2021-10-19",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E3",
+"place": "1号出湯設備",
+"content": "1号出湯口油圧ポンプ（A）・1号羽口冷却水ポンプ（B） 分解点検・消耗品交換",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "67%",
+"finding": "塗装剥離 一部、タッチアップ"
+},
+"r": 15
+},
+{
+"sheet": "1019",
+"kind": "item",
+"fields": {
+"date": "2021-10-19",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "20",
+"place": "1号炉 計装",
+"content": "炉頂温度計・炉内圧力計・送風流量計 校正",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "22%"
+},
+"r": 17
+},
+{
+"sheet": "1019",
+"kind": "item",
+"fields": {
+"date": "2021-10-19",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "E14",
+"place": "1号誘引通風機",
+"content": "1号誘引通風機用電動機 絶縁抵抗測定・軸受音確認",
+"time": "13:00〜17:00",
+"persons": 2,
+"manHours": 8.0,
+"progress": "100%"
+},
+"r": 18
+},
+{
+"sheet": "1019",
+"kind": "item",
+"fields": {
+"date": "2021-10-19",
+"weather": "晴",
+"blockCompany": "東雲築炉",
+"no": "6",
+"place": "1号溶融炉 炉内",
+"content": "耐火物 部分補修",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "90%"
+},
+"r": 20
+},
+{
+"sheet": "1020",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-20",
+"weather": "雨",
+"company": "東雲築炉",
+"persons": 5,
+"time": "8:30〜18:30",
+"manHours": 45.0
+},
+"r": 5
+},
+{
+"sheet": "1020",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-20",
+"weather": "雨",
+"company": "千草環境",
+"persons": 9,
+"time": "8:00〜17:00",
+"manHours": 65.0
+},
+"r": 6
+},
+{
+"sheet": "1020",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-20",
+"weather": "雨",
+"company": "あかね電設",
+"persons": 3,
+"time": "13:00〜17:00",
+"manHours": 12.0
+},
+"r": 7
+},
+{
+"sheet": "1020",
+"kind": "total",
+"fields": {
+"date": "2021-10-20",
+"persons": 17,
+"manHours": 122.0
+},
+"r": 8
+},
+{
+"sheet": "1020",
+"kind": "item",
+"fields": {
+"date": "2021-10-20",
+"weather": "雨",
+"blockCompany": "東雲築炉",
+"no": "6",
+"place": "1号溶融炉本体",
+"content": "炉内耐火物点検・部分補修",
+"time": "8:30〜18:30",
+"persons": 5,
+"manHours": 45.0,
+"progress": "100%"
+},
+"r": 13
+},
+{
+"sheet": "1020",
+"kind": "item",
+"fields": {
+"date": "2021-10-20",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "19",
+"place": "1号上部シールダンパ",
+"content": "給じん装置（シールダンパ）点検",
+"time": "9:00〜16:30",
+"persons": 4,
+"manHours": 26.0,
+"progress": "33%"
+},
+"r": 15
+},
+{
+"sheet": "1020",
+"kind": "item",
+"fields": {
+"date": "2021-10-20",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "E3",
+"place": "1号炉体冷却水設備",
+"content": "1号羽口冷却水ポンプ（B） 開放・部品点検・組立",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "100%"
+},
+"r": 16
+},
+{
+"sheet": "1020",
+"kind": "item",
+"fields": {
+"date": "2021-10-20",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "E9",
+"place": "1号ボイラ本体",
+"content": "1号過熱器減温器 補修（肉盛・塗装）",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "100%"
+},
+"r": 17
+},
+{
+"sheet": "1020",
+"kind": "item",
+"fields": {
+"date": "2021-10-20",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "20",
+"place": "1号炉頂温度計",
+"content": "計装校正",
+"time": "13:00〜17:00",
+"persons": 3,
+"manHours": 12.0,
+"progress": "33%"
+},
+"r": 19
+},
+{
+"sheet": "1021",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-21",
+"weather": "曇",
+"company": "千草環境",
+"persons": 11,
+"time": "8:30〜17:00",
+"manHours": 68.5
+},
+"r": 5
+},
+{
+"sheet": "1021",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-21",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 2,
+"time": "9:00〜16:30",
+"manHours": 13.0
+},
+"r": 6
+},
+{
+"sheet": "1021",
+"kind": "total",
+"fields": {
+"date": "2021-10-21",
+"persons": 13,
+"manHours": 81.5
+},
+"r": 7
+},
+{
+"sheet": "1021",
+"kind": "item",
+"fields": {
+"date": "2021-10-21",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "9",
+"place": "1号ボイラ本体",
+"content": "ボイラ水圧試験",
+"time": "13:00〜17:00",
+"persons": 4,
+"manHours": 16.0,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1021",
+"kind": "item",
+"fields": {
+"date": "2021-10-21",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "19",
+"place": "1号上部シールダンパ",
+"content": "給じん装置（シールダンパ）点検",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "67%"
+},
+"r": 13
+},
+{
+"sheet": "1021",
+"kind": "item",
+"fields": {
+"date": "2021-10-21",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "E4",
+"place": "1号送風設備",
+"content": "1号送風空気予熱器 補修（肉盛・塗装）",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "50%"
+},
+"r": 14
+},
+{
+"sheet": "1021",
+"kind": "item",
+"fields": {
+"date": "2021-10-21",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "20",
+"place": "1号炉頂温度計",
+"content": "計装校正",
+"time": "9:00〜16:30",
+"persons": 2,
+"manHours": 13.0,
+"progress": "44%"
+},
+"r": 16
+},
+{
+"sheet": "1022",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-22",
+"weather": "晴",
+"company": "千草環境",
+"persons": 11,
+"time": "8:30〜17:00",
+"manHours": 77.5
+},
+"r": 5
+},
+{
+"sheet": "1022",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-22",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 3,
+"time": "8:30〜17:00",
+"manHours": 22.5
+},
+"r": 6
+},
+{
+"sheet": "1022",
+"kind": "total",
+"fields": {
+"date": "2021-10-22",
+"persons": 14,
+"manHours": 100.0
+},
+"r": 7
+},
+{
+"sheet": "1022",
+"kind": "item",
+"fields": {
+"date": "2021-10-22",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "10",
+"place": "1号ボイラ",
+"content": "ボイラ定期事業者検査 立会（内部・水圧試験記録）",
+"time": "9:00〜15:00",
+"persons": 2,
+"manHours": 10.0,
+"progress": "100%",
+"finding": "良"
+},
+"r": 12
+},
+{
+"sheet": "1022",
+"kind": "item",
+"fields": {
+"date": "2021-10-22",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "19",
+"place": "1号給じん装置",
+"content": "下部シールダンパ シール面 研磨",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "100%"
+},
+"r": 13
+},
+{
+"sheet": "1022",
+"kind": "item",
+"fields": {
+"date": "2021-10-22",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E4",
+"place": "1号炉体冷却水設備",
+"content": "1号炉体冷却水槽 補修（肉盛・塗装）",
+"time": "8:30〜17:00",
+"persons": 1,
+"manHours": 7.5,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "1022",
+"kind": "item",
+"fields": {
+"date": "2021-10-22",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E15",
+"place": "1号電動弁・調節弁",
+"content": "1号主蒸気ドレン電動弁・1号送風予熱器ドレン電動弁 分解整備（グランド・弁座）",
+"time": "8:30〜17:00",
+"persons": 5,
+"manHours": 37.5,
+"progress": "25%"
+},
+"r": 15
+},
+{
+"sheet": "1022",
+"kind": "item",
+"fields": {
+"date": "2021-10-22",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "20",
+"place": "1号炉 計装",
+"content": "排ガス分析計（O2・CO・NOx）校正",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "56%"
+},
+"r": 17
+},
+{
+"sheet": "1023",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-23",
+"weather": "雨",
+"company": "あかね電設",
+"persons": 3,
+"time": "13:00〜17:00",
+"manHours": 12.0
+},
+"r": 5
+},
+{
+"sheet": "1023",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-23",
+"weather": "雨",
+"company": "千草環境",
+"persons": 6,
+"time": "8:30〜18:30",
+"manHours": 51.0
+},
+"r": 6
+},
+{
+"sheet": "1023",
+"kind": "total",
+"fields": {
+"date": "2021-10-23",
+"persons": 9,
+"manHours": 63.0
+},
+"r": 7
+},
+{
+"sheet": "1023",
+"kind": "item",
+"fields": {
+"date": "2021-10-23",
+"weather": "雨",
+"blockCompany": "あかね電設",
+"no": "20",
+"place": "1号炉頂温度計",
+"content": "計装校正",
+"time": "13:00〜17:00",
+"persons": 3,
+"manHours": 12.0,
+"progress": "67%"
+},
+"r": 12
+},
+{
+"sheet": "1023",
+"kind": "item",
+"fields": {
+"date": "2021-10-23",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "E10",
+"place": "1号ボイラ計装・弁",
+"content": "1号主蒸気止弁 分解整備（グランド・弁座）",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "1023",
+"kind": "item",
+"fields": {
+"date": "2021-10-23",
+"weather": "雨",
+"blockCompany": "千草環境",
+"no": "E15",
+"place": "1号電動弁・調節弁",
+"content": "1号水砕水補給水調節弁・1号噴霧空気調節弁 分解整備（グランド・弁座）",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "50%",
+"finding": "軸受に軽い異音、次回確認"
+},
+"r": 15
+},
+{
+"sheet": "1025",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-25",
+"weather": "晴",
+"company": "あかね電設",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 27.0
+},
+"r": 5
+},
+{
+"sheet": "1025",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-25",
+"weather": "晴",
+"company": "丸鳥足場工業",
+"persons": 3,
+"time": "13:00〜17:00",
+"manHours": 12.0
+},
+"r": 6
+},
+{
+"sheet": "1025",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-25",
+"weather": "晴",
+"company": "千草環境",
+"persons": 3,
+"time": "8:00〜17:00",
+"manHours": 24.0
+},
+"r": 7
+},
+{
+"sheet": "1025",
+"kind": "total",
+"fields": {
+"date": "2021-10-25",
+"persons": 11,
+"manHours": 63.0
+},
+"r": 8
+},
+{
+"sheet": "1025",
+"kind": "item",
+"fields": {
+"date": "2021-10-25",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "20",
+"place": "1号炉頂温度計",
+"content": "計装校正",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "89%"
+},
+"r": 13
+},
+{
+"sheet": "1025",
+"kind": "item",
+"fields": {
+"date": "2021-10-25",
+"weather": "晴",
+"blockCompany": "あかね電設",
+"no": "21",
+"place": "1号炉別動力制御盤（MCC）",
+"content": "MCC 点検",
+"time": "13:00〜17:00",
+"persons": 3,
+"manHours": 12.0,
+"progress": "50%"
+},
+"r": 14
+},
+{
+"sheet": "1025",
+"kind": "item",
+"fields": {
+"date": "2021-10-25",
+"weather": "晴",
+"blockCompany": "丸鳥足場工業",
+"no": "22",
+"place": "1号溶融炉本体",
+"content": "足場解体",
+"time": "13:00〜17:00",
+"persons": 3,
+"manHours": 12.0,
+"progress": "50%"
+},
+"r": 16
+},
+{
+"sheet": "1025",
+"kind": "item",
+"fields": {
+"date": "2021-10-25",
+"weather": "晴",
+"blockCompany": "千草環境",
+"no": "E15",
+"place": "1号電動弁・調節弁",
+"content": "1号再加熱器入口ダンパ 作動確認",
+"time": "8:00〜17:00",
+"persons": 3,
+"manHours": 24.0,
+"progress": "100%"
+},
+"r": 18
+},
+{
+"sheet": "1026",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-26",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 5,
+"time": "8:30〜17:00",
+"manHours": 37.5
+},
+"r": 5
+},
+{
+"sheet": "1026",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-26",
+"weather": "曇",
+"company": "丸鳥足場工業",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0
+},
+"r": 6
+},
+{
+"sheet": "1026",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-26",
+"weather": "曇",
+"company": "千草環境",
+"persons": 4,
+"time": "8:30〜17:00",
+"manHours": 30.0
+},
+"r": 7
+},
+{
+"sheet": "1026",
+"kind": "total",
+"fields": {
+"date": "2021-10-26",
+"persons": 13,
+"manHours": 97.5
+},
+"r": 8
+},
+{
+"sheet": "1026",
+"kind": "item",
+"fields": {
+"date": "2021-10-26",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "20",
+"place": "1号炉頂温度計",
+"content": "計装校正",
+"time": "8:30〜17:00",
+"persons": 2,
+"manHours": 15.0,
+"progress": "100%"
+},
+"r": 13
+},
+{
+"sheet": "1026",
+"kind": "item",
+"fields": {
+"date": "2021-10-26",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "21",
+"place": "1号炉別動力制御盤（MCC）",
+"content": "MCC 点検",
+"time": "8:30〜17:00",
+"persons": 3,
+"manHours": 22.5,
+"progress": "100%"
+},
+"r": 14
+},
+{
+"sheet": "1026",
+"kind": "item",
+"fields": {
+"date": "2021-10-26",
+"weather": "曇",
+"blockCompany": "丸鳥足場工業",
+"no": "22",
+"place": "1号溶融炉本体",
+"content": "足場解体",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "100%"
+},
+"r": 16
+},
+{
+"sheet": "1026",
+"kind": "item",
+"fields": {
+"date": "2021-10-26",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "23",
+"place": "1号溶融炉本体",
+"content": "復旧・マンホール閉止",
+"time": "8:30〜17:00",
+"persons": 4,
+"manHours": 30.0,
+"progress": "33%"
+},
+"r": 18
+},
+{
+"sheet": "1027",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-27",
+"weather": "曇",
+"company": "千草環境",
+"persons": 4,
+"time": "8:30〜18:30",
+"manHours": 36.0
+},
+"r": 5
+},
+{
+"sheet": "1027",
+"kind": "total",
+"fields": {
+"date": "2021-10-27",
+"persons": 4,
+"manHours": 36.0
+},
+"r": 6
+},
+{
+"sheet": "1027",
+"kind": "item",
+"fields": {
+"date": "2021-10-27",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "23",
+"place": "1号溶融炉本体",
+"content": "復旧・マンホール閉止",
+"time": "8:30〜18:30",
+"persons": 4,
+"manHours": 36.0,
+"progress": "67%"
+},
+"r": 12
+},
+{
+"sheet": "1028",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-28",
+"weather": "曇",
+"company": "千草環境",
+"persons": 7,
+"time": "8:30〜19:00",
+"manHours": 40.0
+},
+"r": 5
+},
+{
+"sheet": "1028",
+"kind": "subtotal",
+"fields": {
+"date": "2021-10-28",
+"weather": "曇",
+"company": "あかね電設",
+"persons": 2,
+"time": "13:00〜19:00",
+"manHours": 12.0
+},
+"r": 6
+},
+{
+"sheet": "1028",
+"kind": "total",
+"fields": {
+"date": "2021-10-28",
+"persons": 9,
+"manHours": 52.0
+},
+"r": 7
+},
+{
+"sheet": "1028",
+"kind": "item",
+"fields": {
+"date": "2021-10-28",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "23",
+"place": "1号溶融炉・ボイラ",
+"content": "マンホール閉止 完了",
+"time": "8:30〜15:00",
+"persons": 4,
+"manHours": 22.0,
+"progress": "100%"
+},
+"r": 12
+},
+{
+"sheet": "1028",
+"kind": "item",
+"fields": {
+"date": "2021-10-28",
+"weather": "曇",
+"blockCompany": "千草環境",
+"no": "24",
+"place": "1号炉",
+"content": "インターロック試験（送風・給じん・出湯口・IDF）",
+"time": "13:00〜19:00",
+"persons": 3,
+"manHours": 18.0,
+"progress": "100%",
+"finding": "1件 再試験 良"
+},
+"r": 13
+},
+{
+"sheet": "1028",
+"kind": "item",
+"fields": {
+"date": "2021-10-28",
+"weather": "曇",
+"blockCompany": "あかね電設",
+"no": "24",
+"place": "1号炉",
+"content": "同上 立会・信号確認",
+"time": "13:00〜19:00",
+"persons": 2,
+"manHours": 12.0,
+"progress": "100%"
+},
+"r": 15
+}
+]
+}

@@ -1,0 +1,336 @@
+{
+"file": "【架空】あかね台資源化センター_作業日報_平成23年度年間保守点検整備業務委託全炉停止_p1班別様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "5.10",
+"kind": "item",
+"fields": {
+"date": "2011-05-10",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "電気室　MCC・配電盤 停電点検（端子増締め・絶縁抵抗）（あかね電設）",
+"persons": 4
+},
+"r": 6
+},
+{
+"sheet": "5.10",
+"kind": "item",
+"fields": {
+"date": "2011-05-10",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "薬剤貯留　アンモニア漏えい検知器 メーカー点検・校正（あかね電設）",
+"persons": 2
+},
+"r": 7
+},
+{
+"sheet": "5.10",
+"kind": "item",
+"fields": {
+"date": "2011-05-10",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "受変電　特高受電設備（GIS）・主変圧器 盤内点検・清掃・増締め（あかね電設）",
+"persons": 4
+},
+"r": 8
+},
+{
+"sheet": "5.10",
+"kind": "item",
+"fields": {
+"date": "2011-05-10",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "PSA酸素発生装置　PSA切替弁（A） 分解整備（グランド・弁座）",
+"persons": 2
+},
+"r": 9
+},
+{
+"sheet": "5.10",
+"kind": "item",
+"fields": {
+"date": "2011-05-10",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "飛灰処理　飛灰定量供給機・飛灰混練機（B） 分解整備（軸受・シール交換）",
+"persons": 3
+},
+"r": 10
+},
+{
+"sheet": "5.10",
+"kind": "item",
+"fields": {
+"date": "2011-05-10",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "灯油設備　灯油移送ポンプ（B）・ピット消火ポンプ 分解整備（軸受・シール交換）",
+"persons": 3
+},
+"r": 11
+},
+{
+"sheet": "5.10",
+"kind": "total",
+"fields": {
+"date": "2011-05-10",
+"persons": 18
+},
+"r": 12
+},
+{
+"sheet": "5.11",
+"kind": "item",
+"fields": {
+"date": "2011-05-11",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "電気室　MCC・配電盤 停電点検（端子増締め・絶縁抵抗）（あかね電設）",
+"persons": 3
+},
+"r": 6
+},
+{
+"sheet": "5.11",
+"kind": "item",
+"fields": {
+"date": "2011-05-11",
+"weather": "晴",
+"blockTeam": "電計",
+"content": "変圧器　動力変圧器（2号炉）・照明変圧器 盤内点検・清掃・増締め（あかね電設）",
+"persons": 4
+},
+"r": 7
+},
+{
+"sheet": "5.11",
+"kind": "item",
+"fields": {
+"date": "2011-05-11",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "PSA酸素発生装置　PSA切替弁（D） 分解整備（グランド・弁座）",
+"persons": 3
+},
+"r": 8
+},
+{
+"sheet": "5.11",
+"kind": "item",
+"fields": {
+"date": "2011-05-11",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "選別装置　メタル搬送コンベヤ 分解整備（軸受・シール交換）",
+"persons": 1
+},
+"r": 9
+},
+{
+"sheet": "5.11",
+"kind": "item",
+"fields": {
+"date": "2011-05-11",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "飛灰処理　キレート薬剤ポンプ（B） 不具合箇所 補修",
+"persons": 2
+},
+"r": 10
+},
+{
+"sheet": "5.11",
+"kind": "item",
+"fields": {
+"date": "2011-05-11",
+"weather": "晴",
+"blockTeam": "機械",
+"content": "その他　コークス篩 不具合箇所 補修",
+"persons": 4
+},
+"r": 11
+},
+{
+"sheet": "5.11",
+"kind": "total",
+"fields": {
+"date": "2011-05-11",
+"persons": 17
+},
+"r": 12
+},
+{
+"sheet": "5.12",
+"kind": "item",
+"fields": {
+"date": "2011-05-12",
+"weather": "雨",
+"blockTeam": "電計",
+"content": "電気室　MCC・配電盤 停電点検（端子増締め・絶縁抵抗）（あかね電設）",
+"persons": 2
+},
+"r": 6
+},
+{
+"sheet": "5.12",
+"kind": "item",
+"fields": {
+"date": "2011-05-12",
+"weather": "雨",
+"blockTeam": "電計",
+"content": "低圧配電　低圧配電盤（1号炉）・低圧配電盤（共通-2） 盤内点検・清掃・増締め（あかね電設）",
+"persons": 5
+},
+"r": 7
+},
+{
+"sheet": "5.12",
+"kind": "item",
+"fields": {
+"date": "2011-05-12",
+"weather": "雨",
+"blockTeam": "機械",
+"content": "プラットホーム　ごみ投入扉（C） 分解整備（軸受・シール交換）",
+"persons": 2
+},
+"r": 8
+},
+{
+"sheet": "5.12",
+"kind": "total",
+"fields": {
+"date": "2011-05-12",
+"persons": 9
+},
+"r": 9
+},
+{
+"sheet": "5.13",
+"kind": "item",
+"fields": {
+"date": "2011-05-13",
+"weather": "曇",
+"blockTeam": "機械",
+"content": "ボイラ給水　ボイラ給水ポンプ（B） 補修",
+"persons": 1
+},
+"r": 6
+},
+{
+"sheet": "5.13",
+"kind": "item",
+"fields": {
+"date": "2011-05-13",
+"weather": "曇",
+"blockTeam": "電計",
+"content": "低圧配電　低圧配電盤（PSA）・共通動力制御盤（MCC-3） 盤内点検・清掃・増締め（あかね電設）",
+"persons": 4
+},
+"r": 7
+},
+{
+"sheet": "5.13",
+"kind": "total",
+"fields": {
+"date": "2011-05-13",
+"persons": 5
+},
+"r": 8
+},
+{
+"sheet": "5.14",
+"kind": "item",
+"fields": {
+"date": "2011-05-14",
+"weather": "曇",
+"blockTeam": "機械",
+"content": "コークス受入　コークス受入コンベヤ・コークスバケットエレベータ 分解整備（軸受・シール交換）",
+"persons": 4
+},
+"r": 6
+},
+{
+"sheet": "5.14",
+"kind": "item",
+"fields": {
+"date": "2011-05-14",
+"weather": "曇",
+"blockTeam": "機械",
+"content": "機器冷却水　機器冷却水ポンプ（B） 分解整備（軸受・シール交換）",
+"persons": 2
+},
+"r": 7
+},
+{
+"sheet": "5.14",
+"kind": "item",
+"fields": {
+"date": "2011-05-14",
+"weather": "曇",
+"blockTeam": "機械",
+"content": "圧縮空気　計装用空気槽 補修（肉盛・塗装）",
+"persons": 3
+},
+"r": 8
+},
+{
+"sheet": "5.14",
+"kind": "item",
+"fields": {
+"date": "2011-05-14",
+"weather": "曇",
+"blockTeam": "機械",
+"content": "電動弁・調節弁　脱気器圧力調節弁・プラント用水電動弁 作動確認",
+"persons": 3
+},
+"r": 9
+},
+{
+"sheet": "5.14",
+"kind": "item",
+"fields": {
+"date": "2011-05-14",
+"weather": "曇",
+"blockTeam": "電計",
+"content": "非常用電源　直流電源装置・無停電電源装置（UPS-2） 盤内点検・清掃・増締め（あかね電設）",
+"persons": 3
+},
+"r": 10
+},
+{
+"sheet": "5.14",
+"kind": "total",
+"fields": {
+"date": "2011-05-14",
+"persons": 15
+},
+"r": 11
+},
+{
+"sheet": "5.16",
+"kind": "item",
+"fields": {
+"date": "2011-05-16",
+"weather": "晴のち曇",
+"blockTeam": "機械",
+"content": "石灰石受入　石灰石バケットエレベータ 開放・部品点検・組立",
+"persons": 3
+},
+"r": 6
+},
+{
+"sheet": "5.16",
+"kind": "total",
+"fields": {
+"date": "2011-05-16",
+"persons": 3
+},
+"r": 7
+}
+]
+}
