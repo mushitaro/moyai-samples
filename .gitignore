@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+work/
+build/
+gen/_render*/
+gen/_work/
