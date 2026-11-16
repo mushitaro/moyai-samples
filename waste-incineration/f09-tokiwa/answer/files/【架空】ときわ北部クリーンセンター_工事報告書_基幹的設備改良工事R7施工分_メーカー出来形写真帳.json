@@ -1,0 +1,426 @@
+{
+"file": "【架空】ときわ北部クリーンセンター_工事報告書_基幹的設備改良工事R7施工分_メーカー出来形写真帳.pdf",
+"plan": false,
+"records": [
+{
+"sheet": null,
+"r": 1,
+"seq": 0,
+"kind": "item",
+"fields": {
+"label": "発注者",
+"value": "【架空】ときわ北部環境組合"
+}
+},
+{
+"sheet": null,
+"r": 2,
+"seq": 1,
+"kind": "item",
+"fields": {
+"label": "受注者",
+"value": "【架空】鷹羽エンジニアリング株式会社　現場代理人 m1"
+}
+},
+{
+"sheet": null,
+"r": 3,
+"seq": 2,
+"kind": "item",
+"fields": {
+"label": "契約工期",
+"value": "令和7年4月18日〜令和10年3月31日（継続費 3 か年）"
+}
+},
+{
+"sheet": null,
+"r": 4,
+"seq": 3,
+"kind": "item",
+"fields": {
+"label": "令和7年度施工",
+"value": "2号炉　令和7年9月1日（停止）〜令和8年1月16日（引渡し）"
+}
+},
+{
+"sheet": null,
+"r": 5,
+"seq": 4,
+"kind": "item",
+"fields": {
+"label": "変更",
+"value": "第1回変更（R7.12.5）：2号炉施工 12/19→1/16 に延長（過熱器管材の納期遅れ）"
+}
+},
+{
+"sheet": null,
+"r": 6,
+"seq": 5,
+"kind": "item",
+"fields": {
+"label": "提出日",
+"value": "令和8年2月6日"
+}
+},
+{
+"sheet": null,
+"r": 7,
+"seq": 6,
+"kind": "item",
+"fields": {
+"kou": "溶融炉",
+"content": "旋回溶融炉 耐火物全面更新（高クロミア質）",
+"equipment": "2-310-01",
+"qty": "一式（約 42m²）",
+"progress": "100%"
+}
+},
+{
+"sheet": null,
+"r": 8,
+"seq": 7,
+"kind": "item",
+"fields": {
+"kou": "溶融炉",
+"content": "鉄皮補修（当て板 追加 2.6m²）",
+"equipment": "2-310-01",
+"qty": "一式",
+"progress": "100%"
+}
+},
+{
+"sheet": null,
+"r": 9,
+"seq": 8,
+"kind": "item",
+"fields": {
+"kou": "溶融炉",
+"content": "二次燃焼室 耐火物更新",
+"equipment": "2-310-02",
+"qty": "一式",
+"progress": "100%"
+}
+},
+{
+"sheet": null,
+"r": 10,
+"seq": 9,
+"kind": "item",
+"fields": {
+"kou": "溶融炉",
+"content": "溶融炉バーナ 更新",
+"equipment": "2-310-03",
+"qty": "1 基",
+"progress": "100%"
+}
+},
+{
+"sheet": null,
+"r": 11,
+"seq": 10,
+"kind": "item",
+"fields": {
+"kou": "溶融炉",
+"content": "炉体冷却水ポンプ A・B 更新",
+"equipment": "2-310-06/07",
+"qty": "2 台",
+"progress": "100%"
+}
+},
+{
+"sheet": null,
+"r": 12,
+"seq": 11,
+"kind": "item",
+"fields": {
+"kou": "ボイラ",
+"content": "過熱器 一式更新（SUS310S 系）",
+"equipment": "2-410-02",
+"qty": "一式",
+"progress": "100%"
+}
+},
+{
+"sheet": null,
+"r": 13,
+"seq": 12,
+"kind": "item",
+"fields": {
+"kou": "ボイラ",
+"content": "エコノマイザ 管群更新",
+"equipment": "2-410-03",
+"qty": "一式",
+"progress": "100%"
+}
+},
+{
+"sheet": null,
+"r": 14,
+"seq": 13,
+"kind": "item",
+"fields": {
+"kou": "通風",
+"content": "誘引通風機 更新（高効率型）",
+"equipment": "2-620-01",
+"qty": "1 台",
+"progress": "100%"
+}
+},
+{
+"sheet": null,
+"r": 15,
+"seq": 14,
+"kind": "item",
+"fields": {
+"kou": "通風",
+"content": "押込送風機・燃焼用送風機 更新",
+"equipment": "2-610-01/02",
+"qty": "2 台",
+"progress": "100%"
+}
+},
+{
+"sheet": null,
+"r": 16,
+"seq": 15,
+"kind": "item",
+"fields": {
+"kou": "電気計装",
+"content": "インバータ盤 更新（誘引・押込）",
+"equipment": "2-810-17/18",
+"qty": "2 面",
+"progress": "100%"
+}
+},
+{
+"sheet": null,
+"r": 17,
+"seq": 16,
+"kind": "item",
+"fields": {
+"kou": "電気計装",
+"content": "炉コントローラ盤 制御改造",
+"equipment": "2-850-01/02",
+"qty": "一式",
+"progress": "100%"
+}
+},
+{
+"sheet": null,
+"r": 18,
+"seq": 17,
+"kind": "item",
+"fields": {
+"text": "※ 出来高・金額は別途 出来高報告書による。本書には記載しない。"
+}
+},
+{
+"sheet": null,
+"r": 19,
+"seq": 18,
+"kind": "item",
+"fields": {
+"section": "経過・結果・申し送り",
+"text": "令和7年9月1日に2号炉を停止し、9月8日から溶融炉の耐火物解体と誘引通風機の撤去に着手した。"
+}
+},
+{
+"sheet": null,
+"r": 20,
+"seq": 19,
+"kind": "item",
+"fields": {
+"section": "経過・結果・申し送り",
+"text": "定格負荷（95t/日相当）で 72 時間の連続運転を確認した。"
+}
+},
+{
+"sheet": null,
+"r": 21,
+"seq": 20,
+"kind": "item",
+"fields": {
+"section": "経過・結果・申し送り",
+"text": "1号炉の施工（令和8年9月〜）では、鉄皮の減肉範囲を停止前に超音波で再調査する。"
+}
+},
+{
+"sheet": null,
+"r": 22,
+"seq": 21,
+"kind": "item",
+"fields": {
+"section": "経過・結果・申し送り",
+"text": "過熱器管材は令和8年度分を 2 か月前倒しで手配済み。"
+}
+},
+{
+"sheet": null,
+"r": 23,
+"seq": 22,
+"kind": "item",
+"fields": {
+"photo": 1,
+"date": "R7.9.10",
+"kou": "溶融炉",
+"place": "2号 旋回溶融炉 上段側壁",
+"content": "耐火物解体 状況",
+"image": "写真 1（図形の枠、実写真なし）"
+}
+},
+{
+"sheet": null,
+"r": 24,
+"seq": 23,
+"kind": "item",
+"fields": {
+"photo": 2,
+"date": "R7.9.26",
+"kou": "溶融炉",
+"place": "2号 旋回溶融炉 炉内",
+"content": "解体完了 鉄皮露出",
+"image": "写真 2（図形の枠、実写真なし）"
+}
+},
+{
+"sheet": null,
+"r": 25,
+"seq": 24,
+"kind": "item",
+"fields": {
+"photo": 3,
+"date": "R7.10.1",
+"kou": "溶融炉",
+"place": "2号 旋回溶融炉 鉄皮 下段",
+"content": "鉄皮 減肉 範囲確認（想定より広い）",
+"image": "写真 3（図形の枠、実写真なし）"
+}
+},
+{
+"sheet": null,
+"r": 26,
+"seq": 25,
+"kind": "item",
+"fields": {
+"photo": 4,
+"date": "R7.10.7",
+"kou": "溶融炉",
+"place": "2号 旋回溶融炉 鉄皮 下段",
+"content": "当て板 溶接 完了",
+"image": "写真 4（図形の枠、実写真なし）"
+}
+},
+{
+"sheet": null,
+"r": 27,
+"seq": 26,
+"kind": "item",
+"fields": {
+"photo": 5,
+"date": "R7.11.19",
+"kou": "溶融炉",
+"place": "2号 旋回溶融炉 炉内",
+"content": "築炉 完了（高クロミア質）",
+"image": "写真 5（図形の枠、実写真なし）"
+}
+},
+{
+"sheet": null,
+"r": 28,
+"seq": 27,
+"kind": "item",
+"fields": {
+"photo": 6,
+"date": "R7.10.2",
+"kou": "ボイラ",
+"place": "2号 過熱器",
+"content": "既設過熱器 撤去 完了",
+"image": "写真 6（図形の枠、実写真なし）"
+}
+},
+{
+"sheet": null,
+"r": 29,
+"seq": 28,
+"kind": "item",
+"fields": {
+"photo": 7,
+"date": "R7.10.21",
+"kou": "ボイラ",
+"place": "過熱器管材",
+"content": "工場 製作状況（納期遅れ 3 週）",
+"image": "写真 7（図形の枠、実写真なし）"
+}
+},
+{
+"sheet": null,
+"r": 30,
+"seq": 29,
+"kind": "item",
+"fields": {
+"photo": 8,
+"date": "R7.12.12",
+"kou": "ボイラ",
+"place": "2号 過熱器",
+"content": "現地溶接・RT 状況",
+"image": "写真 8（図形の枠、実写真なし）"
+}
+},
+{
+"sheet": null,
+"r": 31,
+"seq": 30,
+"kind": "item",
+"fields": {
+"photo": 9,
+"date": "R7.12.22",
+"kou": "ボイラ",
+"place": "2号 ボイラ",
+"content": "水圧試験（6.0MPa）組合立会",
+"image": "写真 9（図形の枠、実写真なし）"
+}
+},
+{
+"sheet": null,
+"r": 32,
+"seq": 31,
+"kind": "item",
+"fields": {
+"photo": 10,
+"date": "R7.11.14",
+"kou": "通風",
+"place": "2号 誘引通風機",
+"content": "新設 誘引通風機 据付・芯出し",
+"image": "写真 10（図形の枠、実写真なし）"
+}
+},
+{
+"sheet": null,
+"r": 33,
+"seq": 32,
+"kind": "item",
+"fields": {
+"photo": 11,
+"date": "R7.11.18",
+"kou": "電気計装",
+"place": "2号 誘引通風機インバータ盤",
+"content": "新盤 据付 完了",
+"image": "写真 11（図形の枠、実写真なし）"
+}
+},
+{
+"sheet": null,
+"r": 34,
+"seq": 33,
+"kind": "item",
+"fields": {
+"photo": 12,
+"date": "R8.1.15",
+"kou": "試運転",
+"place": "2号炉 中央制御室",
+"content": "定格負荷 確認",
+"image": "写真 12（図形の枠、実写真なし）"
+}
+}
+]
+}

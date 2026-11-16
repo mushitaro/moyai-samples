@@ -1,0 +1,1685 @@
+{
+"file": "【架空】ときわ北部クリーンセンター_作業日報_2018年度1号炉定期整備工事_x1の2014様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "5.17",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-17",
+"weather": "晴",
+"place": "1号炉",
+"content": "炉室 足場組立・養生",
+"people": 7,
+"time": "8:00～17:00",
+"manDays": 7.0,
+"manDaysText": "7",
+"crew": {
+"職長": 1,
+"とび工": 4,
+"作業員": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.17",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-17",
+"weather": "晴",
+"place": "1号炉",
+"content": "ガス化炉：マンホール開放、流動砂抜出し（約 6m³）",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"機械工": 2,
+"作業員": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.17",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-17",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：マンホール・点検口開放",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.17",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-17",
+"people": 15
+}
+},
+{
+"sheet": "5.17",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-17",
+"KY": "マンホール開放時の高温・粉じん　→　温度確認、防じんマスク"
+}
+},
+{
+"sheet": "5.17",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-17",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "5.18",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-18",
+"weather": "晴",
+"place": "1号炉",
+"content": "ガス化炉：炉内清掃、散気ノズル摩耗測定（96 本中 20 本 交換基準超え）",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4",
+"crew": {
+"職長": 1,
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-18",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：水管・過熱器 ダスト除去",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"機械工": 2,
+"作業員": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-18",
+"weather": "晴",
+"place": "1号炉",
+"content": "バグフィルタ：第1室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2018-05-18",
+"weather": "晴",
+"place": "1号炉",
+"content": "助燃バーナ 取外し・分解",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2018-05-18",
+"weather": "晴",
+"place": "1号炉",
+"content": "助燃バーナ 分解点検・組立（点火装置点検、良）",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 13,
+"kind": "item",
+"fields": {
+"date": "2018-05-18",
+"weather": "晴",
+"place": "1号炉",
+"content": "砂循環エレベータ 取外し・分解",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-18",
+"people": 20
+}
+},
+{
+"sheet": "5.18",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-18",
+"KY": "足場上の工具落下　→　工具ひも付け"
+}
+},
+{
+"sheet": "5.18",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-18",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "5.19",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-19",
+"weather": "晴",
+"place": "1号炉",
+"content": "ガス化炉：散気ノズル交換 10 本",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4",
+"crew": {
+"職長": 1,
+"機械工": 2,
+"溶接工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.19",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-19",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：エコノマイザ ダスト除去、ドラム内部清掃",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4",
+"crew": {
+"機械工": 2,
+"作業員": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.19",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-19",
+"weather": "晴",
+"place": "1号炉",
+"content": "バグフィルタ：第2室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "5.19",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2018-05-19",
+"weather": "晴",
+"place": "1号炉",
+"content": "砂循環エレベータ 部品点検・計測（チェーン伸び 1.4%）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.19",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2018-05-19",
+"weather": "晴",
+"place": "1号炉",
+"content": "砂循環ロータリフィーダ 取外し・分解",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.19",
+"r": 13,
+"kind": "item",
+"fields": {
+"date": "2018-05-19",
+"weather": "晴",
+"place": "1号炉",
+"content": "砂循環ロータリフィーダ 分解点検・組立（ロータ・ケーシングすきま 0.2mm、調整）",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.19",
+"r": 14,
+"kind": "item",
+"fields": {
+"date": "2018-05-19",
+"weather": "晴",
+"place": "（丸越築炉）",
+"content": "旋回溶融炉：炉内点検、残存厚測定（側壁下段 最小 167mm）",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"築炉工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.19",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-19",
+"people": 21
+}
+},
+{
+"sheet": "5.19",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-19",
+"KY": "溶接作業の火気　→　消火器配置・監視人"
+}
+},
+{
+"sheet": "5.19",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-19",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "5.19",
+"r": 22,
+"kind": "item",
+"fields": {
+"date": "2018-05-19",
+"note": "残存厚測定（側壁下段 最小 167mm） を SPC へ報告。"
+}
+},
+{
+"sheet": "5.21",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-21",
+"weather": "晴",
+"place": "1号炉",
+"content": "ガス化炉：散気ノズル交換 10 本（計 20 本）、取付部溶接",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4",
+"crew": {
+"職長": 1,
+"機械工": 2,
+"溶接工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.21",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-21",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：肉厚測定（水管・過熱器・エコノマイザ）、過熱器 最小 3.1mm",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.21",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-21",
+"weather": "晴",
+"place": "1号炉",
+"content": "バグフィルタ：第3室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "5.21",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2018-05-21",
+"weather": "晴",
+"place": "1号炉",
+"content": "砂循環エレベータ 組立・芯出し",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.21",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2018-05-21",
+"weather": "晴",
+"place": "1号炉",
+"content": "BFダスト排出弁 No.4 取外し・分解",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.21",
+"r": 13,
+"kind": "item",
+"fields": {
+"date": "2018-05-21",
+"weather": "晴",
+"place": "1号炉",
+"content": "BFダスト排出弁 No.4 分解点検・組立（シール交換）",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.21",
+"r": 14,
+"kind": "item",
+"fields": {
+"date": "2018-05-21",
+"weather": "晴",
+"place": "（丸越築炉）",
+"content": "旋回溶融炉：出滓口まわり 目視点検、目地補修",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"築炉工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.21",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-21",
+"people": 19
+}
+},
+{
+"sheet": "5.21",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-21",
+"KY": "狭い炉内での挟まれ・転倒　→　声かけ・照明確保"
+}
+},
+{
+"sheet": "5.21",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-21",
+"equipmentUsed": "超音波厚さ計、チェーンブロック"
+}
+},
+{
+"sheet": "5.21",
+"r": 22,
+"kind": "item",
+"fields": {
+"date": "2018-05-21",
+"note": "過熱器 最小 3.1mm を SPC へ報告。"
+}
+},
+{
+"sheet": "5.22",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-22",
+"weather": "晴",
+"place": "1号炉",
+"content": "ガス化炉：炉内耐火物点検、異常なし",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"職長": 1,
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.22",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-22",
+"weather": "晴",
+"place": "1号炉",
+"content": "バグフィルタ：第4室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "5.22",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-22",
+"weather": "晴",
+"place": "1号炉",
+"content": "出滓口加熱バーナ 取外し・分解",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.22",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2018-05-22",
+"weather": "晴",
+"place": "1号炉",
+"content": "出滓口加熱バーナ 分解点検・組立（点火装置点検、良）",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.22",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2018-05-22",
+"weather": "晴",
+"place": "共通",
+"content": "共通：1号前処理破砕機 取外し・分解",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.22",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-22",
+"people": 13
+}
+},
+{
+"sheet": "5.22",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-22",
+"KY": "マンホール開放時の高温・粉じん　→　温度確認、防じんマスク"
+}
+},
+{
+"sheet": "5.22",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-22",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "5.23",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-23",
+"weather": "晴",
+"place": "1号炉",
+"content": "バグフィルタ：第5室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 7,
+"time": "8:00～17:00",
+"manDays": 7.0,
+"manDaysText": "7",
+"crew": {
+"職長": 1,
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "5.23",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-23",
+"weather": "晴",
+"place": "1号炉",
+"content": "流動空気押込送風機 取外し・分解",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.23",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-23",
+"weather": "晴",
+"place": "共通",
+"content": "共通：1号前処理破砕機 摩耗部品交換（カッタ刃交換）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.23",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-23",
+"people": 13
+}
+},
+{
+"sheet": "5.23",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-23",
+"KY": "足場上の工具落下　→　工具ひも付け"
+}
+},
+{
+"sheet": "5.23",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-23",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "5.24",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-24",
+"weather": "晴",
+"place": "1号炉",
+"content": "バグフィルタ：第6室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 7,
+"time": "8:00～17:00",
+"manDays": 7.0,
+"manDaysText": "7",
+"crew": {
+"職長": 1,
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "5.24",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-24",
+"weather": "晴",
+"place": "1号炉",
+"content": "スートブロワ LR-1 取外し・分解",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.24",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-24",
+"weather": "晴",
+"place": "1号炉",
+"content": "流動空気押込送風機 清掃・部品交換（振動 3.3mm/s（整備後 1.5mm/s））",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.24",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2018-05-24",
+"weather": "晴",
+"place": "共通",
+"content": "共通：1号前処理破砕機 部品交換・組立",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.24",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-24",
+"people": 15
+}
+},
+{
+"sheet": "5.24",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-24",
+"KY": "溶接作業の火気　→　消火器配置・監視人"
+}
+},
+{
+"sheet": "5.24",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-24",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "5.25",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-25",
+"weather": "晴",
+"place": "1号炉",
+"content": "バグフィルタ：全室 点検口閉止、パルス弁作動確認",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4",
+"crew": {
+"職長": 1,
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.25",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-25",
+"weather": "晴",
+"place": "1号炉",
+"content": "スートブロワ LR-1 組立・芯出し",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.25",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-25",
+"weather": "晴",
+"place": "1号炉",
+"content": "流動空気押込送風機 組立・芯出し",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.25",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2018-05-25",
+"weather": "晴",
+"place": "共通",
+"content": "共通：1号前処理破砕機 組立・芯出し",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.25",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-25",
+"people": 12
+}
+},
+{
+"sheet": "5.25",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-25",
+"KY": "重量物の吊込み　→　合図者を決める"
+}
+},
+{
+"sheet": "5.25",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-25",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "5.26",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-26",
+"weather": "晴",
+"place": "1号炉",
+"content": "触媒反応塔 開放、触媒サンプル採取、閉止",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"職長": 1,
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.26",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-26",
+"weather": "晴",
+"place": "1号炉",
+"content": "スートブロワ LR-5 取外し・分解",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.26",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-26",
+"weather": "晴",
+"place": "共通",
+"content": "共通：純水装置 No.1 取外し・分解",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.26",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2018-05-26",
+"weather": "晴",
+"place": "共通",
+"content": "共通：純水装置 No.2 取外し・分解",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.26",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-26",
+"people": 9
+}
+},
+{
+"sheet": "5.26",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-26",
+"KY": "狭い炉内での挟まれ・転倒　→　声かけ・照明確保"
+}
+},
+{
+"sheet": "5.26",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-26",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "5.28",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-28",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：マンホール・点検口閉止",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4",
+"crew": {
+"職長": 1,
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-28",
+"weather": "晴",
+"place": "1号炉",
+"content": "スートブロワ LR-5 組立・芯出し",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-28",
+"weather": "晴",
+"place": "共通",
+"content": "共通：純水装置 No.1 組立・芯出し",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2018-05-28",
+"weather": "晴",
+"place": "共通",
+"content": "共通：純水装置 No.2 組立・芯出し",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-28",
+"people": 10
+}
+},
+{
+"sheet": "5.28",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-28",
+"KY": "足場上の工具落下　→　工具ひも付け"
+}
+},
+{
+"sheet": "5.28",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-28",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "5.29",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-29",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：水張り・水圧試験（漏れなし）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"職長": 1,
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.29",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-29",
+"weather": "晴",
+"place": "共通",
+"content": "共通：ボイラ給水ポンプ No.1 取外し・分解",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.29",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-29",
+"weather": "晴",
+"place": "1号炉",
+"content": "電動弁・調節弁 整備（給じんシュート二重ダンパB、不燃物抜出二重ダンパB、一次燃焼空気調節弁）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.29",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-29",
+"people": 9
+}
+},
+{
+"sheet": "5.29",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-29",
+"KY": "溶接作業の火気　→　消火器配置・監視人"
+}
+},
+{
+"sheet": "5.29",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-29",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "5.30",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-30",
+"weather": "晴",
+"place": "1号炉",
+"content": "ガス化炉：マンホール閉止、珪砂投入（約 6m³）",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"機械工": 2,
+"作業員": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.30",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-30",
+"weather": "晴",
+"place": "共通",
+"content": "共通：ボイラ給水ポンプ No.1 清掃・部品交換（バランスディスク摩耗 0.23mm）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.30",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-30",
+"weather": "晴",
+"place": "1号炉",
+"content": "電動弁・調節弁 整備（安全弁（ドラム） No.1、安全弁（過熱器）、アンモニア水流量調節弁）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.30",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-30",
+"people": 12
+}
+},
+{
+"sheet": "5.30",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-30",
+"KY": "重量物の吊込み　→　合図者を決める"
+}
+},
+{
+"sheet": "5.30",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-30",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "5.31",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-05-31",
+"weather": "晴",
+"place": "1号炉",
+"content": "足場解体（炉まわり）",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"とび工": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "5.31",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2018-05-31",
+"weather": "晴",
+"place": "共通",
+"content": "共通：ボイラ給水ポンプ No.1 組立・芯出し",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.31",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2018-05-31",
+"weather": "晴",
+"place": "1号炉",
+"content": "電動弁・調節弁 整備（炉内水噴霧遮断弁、スートブロワ蒸気元弁、噴霧空気調節弁）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.31",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2018-05-31",
+"weather": "晴",
+"place": "1号炉",
+"content": "単体試運転（整備機器）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.31",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-05-31",
+"people": 14
+}
+},
+{
+"sheet": "5.31",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-05-31",
+"KY": "狭い炉内での挟まれ・転倒　→　声かけ・照明確保"
+}
+},
+{
+"sheet": "5.31",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-05-31",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "6.1",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-06-01",
+"weather": "晴",
+"place": "1号炉",
+"content": "足場解体・養生撤去・片付け",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"とび工": 3,
+"作業員": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "6.1",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-06-01",
+"people": 6
+}
+},
+{
+"sheet": "6.1",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-06-01",
+"KY": "マンホール開放時の高温・粉じん　→　温度確認、防じんマスク"
+}
+},
+{
+"sheet": "6.1",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-06-01",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "6.2",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-06-02",
+"weather": "晴",
+"place": "1号炉",
+"content": "点検口閉止確認、片付け",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4",
+"crew": {
+"職長": 1,
+"機械工": 1,
+"作業員": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "6.2",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-06-02",
+"people": 4
+}
+},
+{
+"sheet": "6.2",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-06-02",
+"KY": "足場上の工具落下　→　工具ひも付け"
+}
+},
+{
+"sheet": "6.2",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-06-02",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "6.5",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-06-05",
+"weather": "晴",
+"place": "1号炉",
+"content": "立上げ立会（漏れ・異音確認）",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"職長": 1,
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "6.5",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-06-05",
+"people": 2
+}
+},
+{
+"sheet": "6.5",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-06-05",
+"KY": "狭い炉内での挟まれ・転倒　→　声かけ・照明確保"
+}
+},
+{
+"sheet": "6.5",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-06-05",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "6.8",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2018-06-08",
+"weather": "晴",
+"place": "1号炉",
+"content": "定格運転確認",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2",
+"crew": {
+"職長": 1,
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "6.8",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2018-06-08",
+"people": 2
+}
+},
+{
+"sheet": "6.8",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2018-06-08",
+"KY": "溶接作業の火気　→　消火器配置・監視人"
+}
+},
+{
+"sheet": "6.8",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2018-06-08",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+}
+]
+}

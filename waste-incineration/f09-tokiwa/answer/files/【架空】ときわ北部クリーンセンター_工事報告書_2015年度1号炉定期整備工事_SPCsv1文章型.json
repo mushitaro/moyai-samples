@@ -1,0 +1,699 @@
+{
+"file": "【架空】ときわ北部クリーンセンター_工事報告書_2015年度1号炉定期整備工事_SPCsv1文章型.pdf",
+"plan": false,
+"records": [
+{
+"sheet": null,
+"r": 1,
+"seq": 0,
+"kind": "item",
+"fields": {
+"text": "【架空】ときわ北部環境組合　施設課　御中"
+}
+},
+{
+"sheet": null,
+"r": 2,
+"seq": 1,
+"kind": "item",
+"fields": {
+"label": "工事件名",
+"value": "平成27年度 ときわ北部クリーンセンター 1号炉定期整備工事"
+}
+},
+{
+"sheet": null,
+"r": 3,
+"seq": 2,
+"kind": "item",
+"fields": {
+"label": "工　　期",
+"value": "平成27年5月11日（炉停止）〜平成27年6月5日（定格運転確認）"
+}
+},
+{
+"sheet": null,
+"r": 4,
+"seq": 3,
+"kind": "item",
+"fields": {
+"label": "施　　工",
+"value": "【架空】北嶺プラント工業株式会社（職長 x1）／耐火物：【架空】丸越築炉株式会社"
+}
+},
+{
+"sheet": null,
+"r": 5,
+"seq": 4,
+"kind": "item",
+"fields": {
+"label": "監　　督",
+"value": "【架空】ときわ北部エコサービス株式会社 保全グループ sv1"
+}
+},
+{
+"sheet": null,
+"r": 6,
+"seq": 5,
+"kind": "item",
+"fields": {
+"label": "対象範囲",
+"value": "1号炉 ガス化炉、旋回溶融炉、ボイラ、ろ過式集じん器、減温塔、砂循環・不燃物、スラグ水砕、送風、前処理破砕、溶融飛灰処理、給水、"
+}
+},
+{
+"sheet": null,
+"r": 7,
+"seq": 6,
+"kind": "item",
+"fields": {
+"section": "工程",
+"text": "5 月 11 日に炉を停止し、冷却ののち開放・点検整備を行った。6 月 1 日に点火、6 月 5 日に定格運転を確認した。"
+}
+},
+{
+"sheet": null,
+"r": 8,
+"seq": 7,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(1) ガス化炉 開放点検",
+"text": "マンホール開放、流動砂抜出し（約 6m³）、炉内清掃、散気ノズル摩耗測定（96 本中 7 本 交換基準超え）、炉内耐火物点検、目地の一部に軽微な欠け（経過観察）、マンホール閉止、珪砂投入（約 6m³）を行った。",
+"equipment": [
+"ガス化炉本体"
+]
+}
+},
+{
+"sheet": null,
+"r": 9,
+"seq": 8,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(2) 旋回溶融炉 点検・残存厚測定",
+"text": "炉内点検、残存厚測定（側壁下段 最小 188mm）、出滓口まわり 目視点検、目地補修を行った。",
+"equipment": [
+"旋回溶融炉本体"
+]
+}
+},
+{
+"sheet": null,
+"r": 10,
+"seq": 9,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(3) ボイラ 開放清掃・肉厚測定・定期事業者検査",
+"text": "マンホール・点検口開放、水管・過熱器 ダスト除去、エコノマイザ ダスト除去、ドラム内部清掃、肉厚測定（水管・過熱器・エコノマイザ）、過熱器 最小 3.3mm、定期事業者検査 内部検査（SPC 立会）、マンホール・点検口閉止を行った。",
+"equipment": [
+"ボイラ本体",
+"過熱器",
+"エコノマイザ"
+]
+}
+},
+{
+"sheet": null,
+"r": 11,
+"seq": 10,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(4) バグフィルタ 点検",
+"text": "各室点検口開放、ろ布目視点検（6 室）、ろ布抜取（試験用 3 本）、予備ろ布取付、閉止を行った。",
+"equipment": [
+"バグフィルタ本体"
+]
+}
+},
+{
+"sheet": null,
+"r": 12,
+"seq": 11,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(5) 減温塔 噴霧ノズル交換",
+"text": "減温塔噴霧ノズル装置を分解点検した。ノズル詰まり清掃。組み立てて芯出しし、単体運転で異常のないことを確認した。",
+"equipment": [
+"減温塔噴霧ノズル装置"
+]
+}
+},
+{
+"sheet": null,
+"r": 13,
+"seq": 12,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(6) 不燃物抜出装置A 分解整備",
+"text": "不燃物抜出装置Aを分解点検した。軸受・軸封交換。組み立てて芯出しし、単体運転で異常のないことを確認した。",
+"equipment": [
+"不燃物抜出装置A"
+]
+}
+},
+{
+"sheet": null,
+"r": 14,
+"seq": 13,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(7) 不燃物抜出装置B 分解整備",
+"text": "不燃物抜出装置Bを分解点検した。軸受・軸封交換。組立後、芯出しを行った。",
+"equipment": [
+"不燃物抜出装置B"
+]
+}
+},
+{
+"sheet": null,
+"r": 15,
+"seq": 14,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(8) 砂循環エレベータ 分解整備",
+"text": "砂循環エレベータを分解点検した。チェーン伸び 1.4%。組立・芯出しのうえ復旧した。",
+"equipment": [
+"砂循環エレベータ"
+]
+}
+},
+{
+"sheet": null,
+"r": 16,
+"seq": 15,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(9) 出滓口加熱バーナ 分解整備",
+"text": "出滓口加熱バーナを分解点検した。フレームアイ清掃。組み立てて芯出しし、単体運転で異常のないことを確認した。",
+"equipment": [
+"出滓口加熱バーナ"
+]
+}
+},
+{
+"sheet": null,
+"r": 17,
+"seq": 16,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(10) スラグ水循環ポンプA 分解整備",
+"text": "スラグ水循環ポンプAを分解点検した。メカニカルシール摺動面に傷あり交換。復旧後の試運転で振動・温度とも問題なかった。",
+"equipment": [
+"スラグ水循環ポンプA"
+]
+}
+},
+{
+"sheet": null,
+"r": 18,
+"seq": 17,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(11) 減温塔噴霧水ポンプA 分解整備",
+"text": "減温塔噴霧水ポンプAを分解点検した。インペラ摩耗軽微。組立・芯出しのうえ復旧した。",
+"equipment": [
+"減温塔噴霧水ポンプA"
+]
+}
+},
+{
+"sheet": null,
+"r": 19,
+"seq": 18,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(12) 溶融炉燃焼用送風機 分解整備",
+"text": "溶融炉燃焼用送風機を分解点検した。羽根車ダスト付着、除去。組立後、芯出しを行った。",
+"equipment": [
+"溶融炉燃焼用送風機"
+]
+}
+},
+{
+"sheet": null,
+"r": 20,
+"seq": 19,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(13) 共通 2号前処理破砕機 分解整備",
+"text": "2号前処理破砕機を分解点検した。カッタ刃摩耗、交換。組立後、芯出しを行った。",
+"equipment": [
+"2号前処理破砕機"
+]
+}
+},
+{
+"sheet": null,
+"r": 21,
+"seq": 20,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(14) 共通 飛灰混練機A 分解整備",
+"text": "飛灰混練機Aを分解点検した。軸封交換。復旧後の試運転で振動・温度とも問題なかった。",
+"equipment": [
+"飛灰混練機A"
+]
+}
+},
+{
+"sheet": null,
+"r": 22,
+"seq": 21,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(15) 共通 飛灰混練機B 分解整備",
+"text": "飛灰混練機Bを分解点検した。パドル摩耗、肉盛。組立・芯出しのうえ復旧した。",
+"equipment": [
+"飛灰混練機B"
+]
+}
+},
+{
+"sheet": null,
+"r": 23,
+"seq": 22,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(16) 共通 ボイラ給水ポンプ No.2 分解整備",
+"text": "ボイラ給水ポンプ No.2を分解点検した。バランスディスク摩耗 0.25mm。組立・芯出しのうえ復旧した。",
+"equipment": [
+"ボイラ給水ポンプ No.2"
+]
+}
+},
+{
+"sheet": null,
+"r": 24,
+"seq": 23,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(17) 共通 補助油ポンプ 分解整備",
+"text": "補助油ポンプを分解点検した。ライナリング摩耗、交換。組み立てて芯出しし、単体運転で異常のないことを確認した。",
+"equipment": [
+"補助油ポンプ"
+]
+}
+},
+{
+"sheet": null,
+"r": 25,
+"seq": 24,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(18) 電動弁・調節弁 整備（9 台）",
+"text": "電動弁・調節弁 整備（燃料油流量調節弁、流動空気分配ダンパ No.2、二次燃焼空気調節弁）、電動弁・調節弁 整備（炉体冷却水流量調節弁、減温水調節弁、給水調節弁）、電動弁・調節弁 整備（主蒸気ドレン弁 No.2、安全弁（ドラム） No.2、BF室入口ダンパ No.4）を行った。",
+"equipment": [
+"燃料油流量調節弁",
+"流動空気分配ダンパ No.2",
+"二次燃焼空気調節弁",
+"炉体冷却水流量調節弁",
+"減温水調節弁",
+"給水調節弁",
+"主蒸気ドレン弁 No.2",
+"安全弁（ドラム） No.2",
+"BF室入口ダンパ No.4"
+]
+}
+},
+{
+"sheet": null,
+"r": 26,
+"seq": 25,
+"kind": "item",
+"fields": {
+"part": "蒸発管（前壁）",
+"points": "40",
+"new_mm": "4.5",
+"min_mm": "4.2",
+"judge": "良"
+}
+},
+{
+"sheet": null,
+"r": 27,
+"seq": 26,
+"kind": "item",
+"fields": {
+"part": "蒸発管（側壁）",
+"points": "80",
+"new_mm": "4.5",
+"min_mm": "4.2",
+"judge": "良"
+}
+},
+{
+"sheet": null,
+"r": 28,
+"seq": 27,
+"kind": "item",
+"fields": {
+"part": "二次過熱器 下部ベンド",
+"points": "32",
+"new_mm": "4.0",
+"min_mm": "3.3",
+"judge": "良"
+}
+},
+{
+"sheet": null,
+"r": 29,
+"seq": 28,
+"kind": "item",
+"fields": {
+"part": "二次過熱器 直管部",
+"points": "32",
+"new_mm": "4.0",
+"min_mm": "3.9",
+"judge": "良"
+}
+},
+{
+"sheet": null,
+"r": 30,
+"seq": 29,
+"kind": "item",
+"fields": {
+"part": "エコノマイザ",
+"points": "48",
+"new_mm": "4.0",
+"min_mm": "3.8",
+"judge": "良"
+}
+},
+{
+"sheet": null,
+"r": 31,
+"seq": 30,
+"kind": "item",
+"fields": {
+"name": "溶融炉 点検・目地補修",
+"spec": "材料込",
+"qty": "1 式",
+"used": "1 式",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 32,
+"seq": 31,
+"kind": "item",
+"fields": {
+"name": "減温塔噴霧ノズル",
+"spec": "二流体 TH-SPN-25",
+"qty": "8 個",
+"used": "6 個",
+"spare": "2 個"
+}
+},
+{
+"sheet": null,
+"r": 33,
+"seq": 32,
+"kind": "item",
+"fields": {
+"name": "不燃物抜出装置 軸受",
+"spec": "22220 CAKE4",
+"qty": "3 個",
+"used": "2 個",
+"spare": "1 個"
+}
+},
+{
+"sheet": null,
+"r": 34,
+"seq": 33,
+"kind": "item",
+"fields": {
+"name": "不燃物抜出装置 軸封パッキン",
+"spec": "グランド 一式",
+"qty": "2 個",
+"used": "1 個",
+"spare": "1 個"
+}
+},
+{
+"sheet": null,
+"r": 35,
+"seq": 34,
+"kind": "item",
+"fields": {
+"name": "不燃物抜出装置 軸受",
+"spec": "22220 CAKE4",
+"qty": "2 個",
+"used": "2 個",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 36,
+"seq": 35,
+"kind": "item",
+"fields": {
+"name": "不燃物抜出装置 軸封パッキン",
+"spec": "グランド 一式",
+"qty": "1 個",
+"used": "1 個",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 37,
+"seq": 36,
+"kind": "item",
+"fields": {
+"name": "砂循環エレベータ バケット",
+"qty": "8 本",
+"used": "8 本",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 38,
+"seq": 37,
+"kind": "item",
+"fields": {
+"name": "出滓口加熱バーナ バーナチップ",
+"qty": "2 個",
+"used": "2 個",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 39,
+"seq": 38,
+"kind": "item",
+"fields": {
+"name": "スラグ水循環ポンプ メカニカルシール",
+"qty": "1 個",
+"used": "1 個",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 40,
+"seq": 39,
+"kind": "item",
+"fields": {
+"name": "スラグ水循環ポンプ 軸受",
+"spec": "6310",
+"qty": "2 個",
+"used": "2 個",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 41,
+"seq": 40,
+"kind": "item",
+"fields": {
+"name": "減温塔噴霧水ポンプ メカニカルシール",
+"qty": "1 個",
+"used": "1 個",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 42,
+"seq": 41,
+"kind": "item",
+"fields": {
+"name": "減温塔噴霧水ポンプ 軸受",
+"spec": "6310",
+"qty": "2 個",
+"used": "2 個",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 43,
+"seq": 42,
+"kind": "item",
+"fields": {
+"name": "溶融炉燃焼用送風機 軸受",
+"spec": "22324",
+"qty": "3 個",
+"used": "2 個",
+"spare": "1 個"
+}
+},
+{
+"sheet": null,
+"r": 44,
+"seq": 43,
+"kind": "item",
+"fields": {
+"name": "前処理破砕機 破砕機カッタ刃",
+"spec": "t=50",
+"qty": "40 枚",
+"used": "40 枚",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 45,
+"seq": 44,
+"kind": "item",
+"fields": {
+"name": "前処理破砕機 軸受",
+"spec": "23228",
+"qty": "4 個",
+"used": "4 個",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 46,
+"seq": 45,
+"kind": "item",
+"fields": {
+"name": "飛灰混練機 パドル",
+"qty": "8 本",
+"used": "8 本",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 47,
+"seq": 46,
+"kind": "item",
+"fields": {
+"name": "飛灰混練機 パドル",
+"qty": "10 本",
+"used": "8 本",
+"spare": "2 本"
+}
+},
+{
+"sheet": null,
+"r": 48,
+"seq": 47,
+"kind": "item",
+"fields": {
+"name": "ボイラ給水ポンプ メカニカルシール",
+"qty": "3 個",
+"used": "2 個",
+"spare": "1 個"
+}
+},
+{
+"sheet": null,
+"r": 49,
+"seq": 48,
+"kind": "item",
+"fields": {
+"name": "ボイラ給水ポンプ ライナリング",
+"qty": "3 個",
+"used": "2 個",
+"spare": "1 個"
+}
+},
+{
+"sheet": null,
+"r": 50,
+"seq": 49,
+"kind": "item",
+"fields": {
+"name": "補助油ポンプ メカニカルシール",
+"qty": "1 個",
+"used": "1 個",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 51,
+"seq": 50,
+"kind": "item",
+"fields": {
+"name": "補助油ポンプ 軸受",
+"spec": "6310",
+"qty": "3 個",
+"used": "2 個",
+"spare": "1 個"
+}
+},
+{
+"sheet": null,
+"r": 52,
+"seq": 51,
+"kind": "item",
+"fields": {
+"name": "弁用パッキン類",
+"spec": "一式",
+"qty": "1 式",
+"used": "1 式",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 53,
+"seq": 52,
+"kind": "item",
+"fields": {
+"section": "今後の課題",
+"text": "・旋回溶融炉の側壁下段 残存厚は最小 188mm。次回も測定を続ける。"
+}
+},
+{
+"sheet": null,
+"r": 54,
+"seq": 53,
+"kind": "item",
+"fields": {
+"section": "今後の課題",
+"text": "・過熱器の最小肉厚は 3.3mm。高温側ベンド部を重点に測定する。"
+}
+}
+]
+}

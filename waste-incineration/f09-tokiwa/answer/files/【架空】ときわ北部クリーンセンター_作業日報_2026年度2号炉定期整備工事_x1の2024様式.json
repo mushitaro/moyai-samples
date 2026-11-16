@@ -1,0 +1,1834 @@
+{
+"file": "【架空】ときわ北部クリーンセンター_作業日報_2026年度2号炉定期整備工事_x1の2024様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "5.14",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-14",
+"weather": "晴　18℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "マンホール・点検口開放",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 17,
+"photo": "514-01",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.14",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-14",
+"weather": "晴　18℃",
+"team": "仮設",
+"place": "2号炉 全般",
+"content": "炉室 足場組立・養生",
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 33,
+"crew": {
+"とび工": 4,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.14",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-14",
+"weather": "晴　18℃",
+"team": "A班",
+"place": "2号 ガス化炉本体",
+"content": "マンホール開放、流動砂抜出し（約 6m³）",
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 25,
+"photo": "514-02",
+"crew": {
+"機械工": 2,
+"作業員": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.14",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2026-05-14",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.14",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-14",
+"people": 14,
+"manDays": 14.0,
+"manDaysText": "112"
+}
+},
+{
+"sheet": "5.15",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-15",
+"weather": "晴　19℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "水管・過熱器 ダスト除去",
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 33,
+"photo": "515-01",
+"crew": {
+"機械工": 2,
+"作業員": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.15",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-15",
+"weather": "晴　19℃",
+"team": "B班",
+"place": "2号 バグフィルタ本体",
+"content": "各室点検口開放、ろ布目視点検（6 室）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50,
+"photo": "515-02",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.15",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-15",
+"weather": "晴　19℃",
+"team": "C班",
+"place": "2号 定量供給機A",
+"content": "定量供給機A 既設撤去",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 33,
+"photo": "515-03",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.15",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2026-05-15",
+"weather": "晴　19℃",
+"team": "C班",
+"place": "2号 定量供給機B",
+"content": "定量供給機B 既設撤去",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 33,
+"photo": "515-04",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.15",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2026-05-15",
+"weather": "晴　19℃",
+"team": "A班",
+"place": "2号 ガス化炉本体",
+"content": "炉内清掃、散気ノズル摩耗測定（96 本中 5 本 交換基準超え）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50,
+"photo": "515-05",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.15",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2026-05-15",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.15",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-15",
+"people": 16,
+"manDays": 16.0,
+"manDaysText": "128"
+}
+},
+{
+"sheet": "5.16",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-16",
+"weather": "晴　20℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "エコノマイザ ダスト除去、ドラム内部清掃",
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 50,
+"photo": "516-01",
+"crew": {
+"機械工": 2,
+"作業員": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.16",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-16",
+"weather": "晴　20℃",
+"team": "B班",
+"place": "2号 バグフィルタ本体",
+"content": "ろ布抜取（試験用 3 本）、予備ろ布取付、閉止",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "516-02",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.16",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-16",
+"weather": "晴　20℃",
+"team": "C班",
+"place": "2号 定量供給機A",
+"content": "定量供給機A 新品据付・配管／配線接続",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 67,
+"photo": "516-03",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.16",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2026-05-16",
+"weather": "晴　20℃",
+"team": "C班",
+"place": "2号 定量供給機B",
+"content": "定量供給機B 新品据付・配管／配線接続",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 67,
+"photo": "516-04",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.16",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2026-05-16",
+"weather": "晴　20℃",
+"team": "A班",
+"place": "2号 ガス化炉本体",
+"content": "炉内耐火物点検、目地の一部に軽微な欠け（経過観察）",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 75,
+"photo": "516-05",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.16",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2026-05-16",
+"weather": "晴　20℃",
+"team": "築炉",
+"place": "2号 旋回溶融炉（丸越築炉）",
+"content": "炉内点検、残存厚測定（側壁下段 最小 66mm）",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 50,
+"photo": "516-06",
+"crew": {
+"築炉工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.16",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2026-05-16",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.16",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-16",
+"people": 14,
+"manDays": 14.0,
+"manDaysText": "112"
+}
+},
+{
+"sheet": "5.16",
+"r": 18,
+"kind": "item",
+"fields": {
+"date": "2026-05-16",
+"note": "残存厚測定（側壁下段 最小 66mm） を SPC へ報告。"
+}
+},
+{
+"sheet": "5.18",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-18",
+"weather": "雨　22℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "肉厚測定（水管・過熱器・エコノマイザ）、過熱器 最小 2.3mm",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 67,
+"photo": "518-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-18",
+"weather": "雨　22℃",
+"team": "B班",
+"place": "2号 減温塔噴霧ノズル装置",
+"content": "減温塔 噴霧ノズル 6 本取外し、摩耗点検",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 50,
+"photo": "518-02",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-18",
+"weather": "雨　22℃",
+"team": "C班",
+"place": "2号 定量供給機A",
+"content": "定量供給機A 芯出し・単体試運転",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "518-03",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2026-05-18",
+"weather": "雨　22℃",
+"team": "C班",
+"place": "2号 定量供給機B",
+"content": "定量供給機B 芯出し・単体試運転",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "518-04",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2026-05-18",
+"weather": "雨　22℃",
+"team": "築炉",
+"place": "2号 旋回溶融炉（丸越築炉）",
+"content": "出滓口まわり 目視点検、目地補修",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "518-05",
+"crew": {
+"築炉工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2026-05-18",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.18",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-18",
+"people": 11,
+"manDays": 11.0,
+"manDaysText": "88"
+}
+},
+{
+"sheet": "5.18",
+"r": 18,
+"kind": "item",
+"fields": {
+"date": "2026-05-18",
+"note": "過熱器 最小 2.3mm を SPC へ報告。"
+}
+},
+{
+"sheet": "5.19",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-19",
+"weather": "晴　23℃",
+"team": "B班",
+"place": "2号 減温塔噴霧ノズル装置",
+"content": "噴霧ノズル交換・取付",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "519-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.19",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-19",
+"weather": "晴　23℃",
+"team": "C班",
+"place": "2号 不燃物抜出装置B",
+"content": "不燃物抜出装置B 取外し・分解",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 25,
+"photo": "519-02",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.19",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-19",
+"weather": "晴　23℃",
+"team": "C班",
+"place": "2号 砂循環エレベータ",
+"content": "砂循環エレベータ 既設撤去",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 25,
+"photo": "519-03",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.19",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2026-05-19",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.19",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-19",
+"people": 9,
+"manDays": 9.0,
+"manDaysText": "72"
+}
+},
+{
+"sheet": "5.20",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-20",
+"weather": "晴　24℃",
+"team": "C班",
+"place": "2号 不燃物抜出装置B",
+"content": "不燃物抜出装置B 清掃・部品交換（スクリュー外径 φ341、羽根肉盛）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50,
+"photo": "520-01",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.20",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-20",
+"weather": "晴　24℃",
+"team": "C班",
+"place": "2号 砂循環エレベータ",
+"content": "砂循環エレベータ 新品据付・配管／配線接続",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50,
+"photo": "520-02",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.20",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-20",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.20",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-20",
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56"
+}
+},
+{
+"sheet": "5.21",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-21",
+"weather": "晴　18℃",
+"team": "C班",
+"place": "2号 不燃物抜出装置B",
+"content": "不燃物抜出装置B 部品交換・組立",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 75,
+"photo": "521-01",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.21",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-21",
+"weather": "晴　18℃",
+"team": "C班",
+"place": "2号 砂循環エレベータ",
+"content": "砂循環エレベータ 新品据付・配管／配線接続",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 75,
+"photo": "521-02",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.21",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-21",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.21",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-21",
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56"
+}
+},
+{
+"sheet": "5.22",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-22",
+"weather": "曇　19℃",
+"team": "C班",
+"place": "2号 不燃物抜出装置B",
+"content": "不燃物抜出装置B 組立・芯出し",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"photo": "522-01",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.22",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-22",
+"weather": "曇　19℃",
+"team": "C班",
+"place": "2号 砂循環エレベータ",
+"content": "砂循環エレベータ 芯出し・単体試運転",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"photo": "522-02",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.22",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-22",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.22",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-22",
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56"
+}
+},
+{
+"sheet": "5.23",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-23",
+"weather": "雨　20℃",
+"team": "C班",
+"place": "2号 出滓口加熱バーナ",
+"content": "出滓口加熱バーナ 取外し・分解",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 50,
+"photo": "523-01",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.23",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-23",
+"weather": "雨　20℃",
+"team": "C班",
+"place": "2号 出滓口加熱バーナ",
+"content": "出滓口加熱バーナ 分解点検・組立（バーナチップ交換）",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 100,
+"photo": "523-02",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.23",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-23",
+"weather": "雨　20℃",
+"team": "C班",
+"place": "2号 スラグ水砕コンベヤ",
+"content": "スラグ水砕コンベヤ 既設撤去",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 25,
+"photo": "523-03",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.23",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2026-05-23",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.23",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-23",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48"
+}
+},
+{
+"sheet": "5.25",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-25",
+"weather": "晴　22℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "マンホール・点検口閉止",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 83,
+"photo": "525-01",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.25",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-25",
+"weather": "晴　22℃",
+"team": "C班",
+"place": "共通 2号ごみクレーン",
+"content": "2号ごみクレーン 取外し・分解",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 33,
+"photo": "525-02",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.25",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-25",
+"weather": "晴　22℃",
+"team": "C班",
+"place": "2号 スラグ水砕コンベヤ",
+"content": "スラグ水砕コンベヤ 新品据付・配管／配線接続",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50,
+"photo": "525-03",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.25",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2026-05-25",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.25",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-25",
+"people": 10,
+"manDays": 10.0,
+"manDaysText": "80"
+}
+},
+{
+"sheet": "5.26",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-26",
+"weather": "晴　23℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "水張り・水圧試験（漏れなし）",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "526-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.26",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-26",
+"weather": "晴　23℃",
+"team": "C班",
+"place": "共通 2号ごみクレーン",
+"content": "2号ごみクレーン 部品点検・計測（油圧シリンダ パッキン交換）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 67,
+"photo": "526-02",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.26",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-26",
+"weather": "晴　23℃",
+"team": "C班",
+"place": "共通 計装用空気圧縮機B",
+"content": "計装用空気圧縮機B 既設撤去",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 33,
+"photo": "526-03",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.26",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2026-05-26",
+"weather": "晴　23℃",
+"team": "C班",
+"place": "2号 スラグ水砕コンベヤ",
+"content": "スラグ水砕コンベヤ 新品据付・配管／配線接続",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 75,
+"photo": "526-04",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.26",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2026-05-26",
+"weather": "晴　23℃",
+"team": "C班",
+"place": "2号 給じんホッパゲート、2号 給じんシュート二重ダンパB ほか7台",
+"content": "電動弁・調節弁 整備（給じんホッパゲート、給じんシュート二重ダンパB、燃料油流量調節弁）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 33,
+"photo": "526-05",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.26",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2026-05-26",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.26",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-26",
+"people": 14,
+"manDays": 14.0,
+"manDaysText": "112"
+}
+},
+{
+"sheet": "5.27",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-27",
+"weather": "曇　24℃",
+"team": "C班",
+"place": "共通 2号ごみクレーン",
+"content": "2号ごみクレーン 組立・芯出し",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"photo": "527-01",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.27",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-27",
+"weather": "曇　24℃",
+"team": "C班",
+"place": "共通 計装用空気圧縮機B",
+"content": "計装用空気圧縮機B 新品据付・配管／配線接続",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 67,
+"photo": "527-02",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.27",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-27",
+"weather": "曇　24℃",
+"team": "C班",
+"place": "2号 スラグ水砕コンベヤ",
+"content": "スラグ水砕コンベヤ 芯出し・単体試運転",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"photo": "527-03",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.27",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2026-05-27",
+"weather": "曇　24℃",
+"team": "C班",
+"place": "共通 非常用油ポンプ",
+"content": "非常用油ポンプ 取外し・分解",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 33,
+"photo": "527-04",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.27",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2026-05-27",
+"weather": "曇　24℃",
+"team": "C班",
+"place": "共通 非常用発電機",
+"content": "非常用発電機 取外し・分解",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50,
+"photo": "527-05",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.27",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2026-05-27",
+"weather": "曇　24℃",
+"team": "C班",
+"place": "2号 給じんホッパゲート、2号 給じんシュート二重ダンパB ほか7台",
+"content": "電動弁・調節弁 整備（流動空気流量調節弁、流動空気分配ダンパ No.4、不燃物抜出二重ダンパB）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 67,
+"photo": "527-06",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.27",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2026-05-27",
+"weather": "曇　24℃",
+"team": "A班",
+"place": "2号 ガス化炉本体",
+"content": "マンホール閉止、珪砂投入（約 6m³）",
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 100,
+"photo": "527-07",
+"crew": {
+"機械工": 2,
+"作業員": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "5.27",
+"r": 13,
+"kind": "item",
+"fields": {
+"date": "2026-05-27",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.27",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-27",
+"people": 22,
+"manDays": 22.0,
+"manDaysText": "176"
+}
+},
+{
+"sheet": "5.28",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-28",
+"weather": "雨　18℃",
+"team": "仮設",
+"place": "2号炉 全般",
+"content": "足場解体（炉まわり）",
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 67,
+"crew": {
+"とび工": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-28",
+"weather": "雨　18℃",
+"team": "C班",
+"place": "共通 復水ポンプB",
+"content": "復水ポンプB 取外し・分解",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 50,
+"photo": "528-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-28",
+"weather": "雨　18℃",
+"team": "C班",
+"place": "共通 計装用空気圧縮機B",
+"content": "計装用空気圧縮機B 芯出し・単体試運転",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "528-02",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2026-05-28",
+"weather": "雨　18℃",
+"team": "C班",
+"place": "2号炉 全般",
+"content": "単体試運転（整備機器）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50,
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2026-05-28",
+"weather": "雨　18℃",
+"team": "C班",
+"place": "共通 飛灰混練機B",
+"content": "飛灰混練機B 既設撤去",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 33,
+"photo": "528-03",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2026-05-28",
+"weather": "雨　18℃",
+"team": "C班",
+"place": "共通 非常用油ポンプ",
+"content": "非常用油ポンプ 組立・芯出し",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 67,
+"photo": "528-04",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2026-05-28",
+"weather": "雨　18℃",
+"team": "C班",
+"place": "共通 非常用発電機",
+"content": "非常用発電機 組立・芯出し",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"photo": "528-05",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 13,
+"kind": "item",
+"fields": {
+"date": "2026-05-28",
+"weather": "雨　18℃",
+"team": "C班",
+"place": "2号 給じんホッパゲート、2号 給じんシュート二重ダンパB ほか7台",
+"content": "電動弁・調節弁 整備（一次燃焼空気調節弁、二次燃焼空気調節弁、炉体冷却水流量調節弁）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"photo": "528-06",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 14,
+"kind": "item",
+"fields": {
+"date": "2026-05-28",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.28",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-28",
+"people": 22,
+"manDays": 22.0,
+"manDaysText": "176"
+}
+},
+{
+"sheet": "5.29",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-29",
+"weather": "晴　19℃",
+"team": "仮設",
+"place": "2号炉 全般",
+"content": "足場解体・養生撤去・片付け",
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 100,
+"crew": {
+"とび工": 3,
+"作業員": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.29",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-29",
+"weather": "晴　19℃",
+"team": "C班",
+"place": "共通 復水ポンプB",
+"content": "復水ポンプB 組立・芯出し",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "529-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.29",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-29",
+"weather": "晴　19℃",
+"team": "C班",
+"place": "共通 飛灰混練機B",
+"content": "飛灰混練機B 新品据付・配管／配線接続",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 67,
+"photo": "529-02",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.29",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2026-05-29",
+"weather": "晴　19℃",
+"team": "C班",
+"place": "共通 非常用油ポンプ",
+"content": "【追加】非常用油ポンプ 軸受箱に割れ、補修溶接",
+"people": 3,
+"manDays": 3.75,
+"manDaysText": "30",
+"progress": 100,
+"photo": "529-03",
+"memo": "残業 2h",
+"crew": {
+"機械工": 2,
+"溶接工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.29",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2026-05-29",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.29",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-29",
+"people": 13,
+"manDays": 13.75,
+"manDaysText": "110"
+}
+},
+{
+"sheet": "5.29",
+"r": 18,
+"kind": "item",
+"fields": {
+"date": "2026-05-29",
+"note": "非常用油ポンプ 軸受箱に割れ、補修溶接。SPC へ報告し追加で施工、残業。"
+}
+},
+{
+"sheet": "5.30",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-05-30",
+"weather": "晴　20℃",
+"team": "C班",
+"place": "2号炉 全般",
+"content": "残材搬出・清掃",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"crew": {
+"機械工": 1,
+"作業員": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.30",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-05-30",
+"weather": "晴　20℃",
+"team": "C班",
+"place": "共通 飛灰混練機B",
+"content": "飛灰混練機B 芯出し・単体試運転",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "530-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "5.30",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2026-05-30",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "5.30",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-05-30",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48"
+}
+},
+{
+"sheet": "6.2",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-06-02",
+"weather": "曇　20℃",
+"team": "-",
+"place": "2号炉 全般",
+"content": "立上げ立会（漏れ・異音確認）",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 50,
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "6.2",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-06-02",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "6.2",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-06-02",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16"
+}
+},
+{
+"sheet": "6.5",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2026-06-05",
+"weather": "晴　23℃",
+"team": "-",
+"place": "2号炉 全般",
+"content": "定格運転確認",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 100,
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "6.5",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2026-06-05",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "6.5",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2026-06-05",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16"
+}
+}
+]
+}

@@ -1,0 +1,377 @@
+{
+"file": "【架空】ときわ北部クリーンセンター_発注台帳_2009年度_SPC旧購買システム.csv",
+"plan": false,
+"records": [
+{
+"r": 3,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0001",
+"HACDT": "20090403",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20000,
+"KINGAKU": 600000,
+"NOUKI": "20090407",
+"YOSAN": "S-0-21-11"
+}
+},
+{
+"r": 4,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0002",
+"HACDT": "20090506",
+"TORICD": "T0130",
+"TORINM": "炭化工業所(ｶ",
+"HINMEI": "粉末活性炭",
+"KIKAKU": "フレコン 500kg",
+"SURYO": 6,
+"TANI": "袋",
+"TANKA": 92000,
+"KINGAKU": 552000,
+"NOUKI": "20090514",
+"YOSAN": "S-0-21-11"
+}
+},
+{
+"r": 5,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0003",
+"HACDT": "20090508",
+"TORICD": "T0141",
+"TORINM": "港北化成(ｶ",
+"HINMEI": "ｱﾝﾓﾆｱ水 25%",
+"KIKAKU": "ローリー",
+"SURYO": 8,
+"TANI": "t",
+"TANKA": 39000,
+"KINGAKU": 312000,
+"NOUKI": "20090513",
+"YOSAN": "S-0-21-11"
+}
+},
+{
+"r": 6,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0004",
+"HACDT": "20090604",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20000,
+"KINGAKU": 600000,
+"NOUKI": "20090608",
+"YOSAN": "S-0-21-11"
+}
+},
+{
+"r": 7,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0005",
+"HACDT": "20090807",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20000,
+"KINGAKU": 600000,
+"NOUKI": "20090811",
+"YOSAN": "S-0-21-11"
+}
+},
+{
+"r": 8,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0006",
+"HACDT": "20090810",
+"TORICD": "T0322",
+"TORINM": "丸越築炉(ｶ",
+"HINMEI": "溶融炉 点検・目地補修",
+"KIKAKU": "材料込",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 380000,
+"KINGAKU": 380000,
+"NOUKI": "20090911",
+"YOSAN": "S-1-21-01",
+"KOJINO": "K21-01"
+}
+},
+{
+"r": 9,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0007",
+"HACDT": "20090810",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "減温塔噴霧ノズル",
+"KIKAKU": "二流体 TH-SPN-25",
+"SURYO": 8,
+"TANI": "個",
+"TANKA": 64000,
+"KINGAKU": 512000,
+"NOUKI": "20090911",
+"YOSAN": "S-1-21-01",
+"KOJINO": "K21-01",
+"BIKO": "6使用+予備2"
+}
+},
+{
+"r": 10,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0008",
+"HACDT": "20090814",
+"TORICD": "T0310",
+"TORINM": "北嶺ﾌﾟﾗﾝﾄ工業(ｶ",
+"HINMEI": "1号炉定期整備工事",
+"KIKAKU": "工事仕様書による（足場・開放・整備・復旧）",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 2800000,
+"KINGAKU": 2800000,
+"NOUKI": "20091009",
+"YOSAN": "S-1-21-01",
+"KOJINO": "K21-01"
+}
+},
+{
+"r": 11,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0009",
+"HACDT": "20090816",
+"TORICD": "T0118",
+"TORINM": "三和珪砂(ｶ",
+"HINMEI": "珪砂 6号",
+"KIKAKU": "フレコン 1.5t",
+"SURYO": 6,
+"TANI": "袋",
+"TANKA": 32000,
+"KINGAKU": 192000,
+"NOUKI": "20090914",
+"YOSAN": "S-1-21-01",
+"KOJINO": "K21-01",
+"BIKO": "流動砂 補充"
+}
+},
+{
+"r": 12,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0010",
+"HACDT": "20090913",
+"TORICD": "T0130",
+"TORINM": "炭化工業所(ｶ",
+"HINMEI": "粉末活性炭",
+"KIKAKU": "フレコン 500kg",
+"SURYO": 6,
+"TANI": "袋",
+"TANKA": 92000,
+"KINGAKU": 552000,
+"NOUKI": "20090921",
+"YOSAN": "S-0-21-11"
+}
+},
+{
+"r": 13,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0011",
+"HACDT": "20090914",
+"TORICD": "T0322",
+"TORINM": "丸越築炉(ｶ",
+"HINMEI": "溶融炉 点検・目地補修",
+"KIKAKU": "材料込",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 380000,
+"KINGAKU": 380000,
+"NOUKI": "20091016",
+"YOSAN": "S-2-21-01",
+"KOJINO": "K21-02"
+}
+},
+{
+"r": 14,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0012",
+"HACDT": "20090915",
+"TORICD": "T0141",
+"TORINM": "港北化成(ｶ",
+"HINMEI": "ｱﾝﾓﾆｱ水 25%",
+"KIKAKU": "ローリー",
+"SURYO": 8,
+"TANI": "t",
+"TANKA": 39000,
+"KINGAKU": 312000,
+"NOUKI": "20090920",
+"YOSAN": "S-0-21-11"
+}
+},
+{
+"r": 15,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0013",
+"HACDT": "20090918",
+"TORICD": "T0310",
+"TORINM": "北嶺ﾌﾟﾗﾝﾄ工業(ｶ",
+"HINMEI": "2号炉定期整備工事",
+"KIKAKU": "工事仕様書による（足場・開放・整備・復旧）",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 2700000,
+"KINGAKU": 2700000,
+"NOUKI": "20091113",
+"YOSAN": "S-2-21-01",
+"KOJINO": "K21-02"
+}
+},
+{
+"r": 16,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0014",
+"HACDT": "20090920",
+"TORICD": "T0118",
+"TORINM": "三和珪砂(ｶ",
+"HINMEI": "珪砂 6号",
+"KIKAKU": "フレコン 1.5t",
+"SURYO": 6,
+"TANI": "袋",
+"TANKA": 32000,
+"KINGAKU": 192000,
+"NOUKI": "20091019",
+"YOSAN": "S-2-21-01",
+"KOJINO": "K21-02",
+"BIKO": "流動砂 補充"
+}
+},
+{
+"r": 17,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0015",
+"HACDT": "20090924",
+"TORICD": "T0560",
+"TORINM": "環境分析ｾﾝﾀｰ(ｶ",
+"HINMEI": "脱硝触媒 性能試験",
+"KIKAKU": "サンプル1層",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 480000,
+"KINGAKU": 480000,
+"NOUKI": "20091016",
+"YOSAN": "S-2-21-01",
+"KOJINO": "K21-02"
+}
+},
+{
+"r": 18,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0016",
+"HACDT": "20091005",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20000,
+"KINGAKU": 600000,
+"NOUKI": "20091009",
+"YOSAN": "S-0-21-11"
+}
+},
+{
+"r": 19,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0017",
+"HACDT": "20091205",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20000,
+"KINGAKU": 600000,
+"NOUKI": "20091209",
+"YOSAN": "S-0-21-11"
+}
+},
+{
+"r": 20,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0018",
+"HACDT": "20100113",
+"TORICD": "T0130",
+"TORINM": "炭化工業所(ｶ",
+"HINMEI": "粉末活性炭",
+"KIKAKU": "フレコン 500kg",
+"SURYO": 6,
+"TANI": "袋",
+"TANKA": 92000,
+"KINGAKU": 552000,
+"NOUKI": "20100121",
+"YOSAN": "S-0-21-11"
+}
+},
+{
+"r": 21,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0019",
+"HACDT": "20100115",
+"TORICD": "T0141",
+"TORINM": "港北化成(ｶ",
+"HINMEI": "アンモニア水 25%",
+"KIKAKU": "ローリー",
+"SURYO": 8,
+"TANI": "t",
+"TANKA": 39000,
+"KINGAKU": 312000,
+"NOUKI": "20100120",
+"YOSAN": "S-0-21-11"
+}
+},
+{
+"r": 22,
+"kind": "item",
+"fields": {
+"HACNO": "H21-0020",
+"HACDT": "20100212",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20000,
+"KINGAKU": 600000,
+"NOUKI": "20100216",
+"YOSAN": "S-0-21-11"
+}
+}
+]
+}

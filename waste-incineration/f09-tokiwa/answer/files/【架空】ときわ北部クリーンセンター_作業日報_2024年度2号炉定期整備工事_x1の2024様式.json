@@ -1,0 +1,1777 @@
+{
+"file": "【架空】ときわ北部クリーンセンター_作業日報_2024年度2号炉定期整備工事_x1の2024様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "10.10",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-10",
+"weather": "晴　21℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "マンホール・点検口開放",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 17,
+"photo": "1010-01",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.10",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-10",
+"weather": "晴　21℃",
+"team": "仮設",
+"place": "2号炉 全般",
+"content": "炉室 足場組立・養生",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 33,
+"crew": {
+"とび工": 4,
+"作業員": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.10",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-10",
+"weather": "晴　21℃",
+"team": "A班",
+"place": "2号 ガス化炉本体",
+"content": "マンホール開放、流動砂抜出し（約 6m³）",
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 25,
+"photo": "1010-02",
+"crew": {
+"機械工": 2,
+"作業員": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "10.10",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-10",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.10",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-10",
+"people": 15,
+"manDays": 15.0,
+"manDaysText": "120"
+}
+},
+{
+"sheet": "10.11",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-11",
+"weather": "晴　22℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "水管・過熱器 ダスト除去",
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 33,
+"photo": "1011-01",
+"crew": {
+"機械工": 2,
+"作業員": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "10.11",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-11",
+"weather": "晴　22℃",
+"team": "B班",
+"place": "2号 バグフィルタ本体",
+"content": "第1室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 14,
+"photo": "1011-02",
+"crew": {
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "10.11",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-11",
+"weather": "晴　22℃",
+"team": "C班",
+"place": "2号 給じんスクリューA",
+"content": "給じんスクリューA 既設撤去",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 33,
+"photo": "1011-03",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.11",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-11",
+"weather": "晴　22℃",
+"team": "C班",
+"place": "2号 給じんスクリューB",
+"content": "給じんスクリューB 既設撤去",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 33,
+"photo": "1011-04",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.11",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2024-10-11",
+"weather": "晴　22℃",
+"team": "A班",
+"place": "2号 ガス化炉本体",
+"content": "炉内清掃、散気ノズル摩耗測定（交換基準超えなし）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50,
+"photo": "1011-05",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.11",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2024-10-11",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.11",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-11",
+"people": 19,
+"manDays": 19.0,
+"manDaysText": "152"
+}
+},
+{
+"sheet": "10.12",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-12",
+"weather": "曇　23℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "エコノマイザ ダスト除去、ドラム内部清掃",
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 50,
+"photo": "1012-01",
+"crew": {
+"機械工": 2,
+"作業員": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.12",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-12",
+"weather": "曇　23℃",
+"team": "B班",
+"place": "2号 バグフィルタ本体",
+"content": "第2室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 29,
+"photo": "1012-02",
+"crew": {
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "10.12",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-12",
+"weather": "曇　23℃",
+"team": "C班",
+"place": "2号 給じんスクリューA",
+"content": "給じんスクリューA 新品据付・配管／配線接続",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 67,
+"photo": "1012-03",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.12",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-12",
+"weather": "曇　23℃",
+"team": "C班",
+"place": "2号 給じんスクリューB",
+"content": "給じんスクリューB 新品据付・配管／配線接続",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 67,
+"photo": "1012-04",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.12",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2024-10-12",
+"weather": "曇　23℃",
+"team": "A班",
+"place": "2号 ガス化炉本体",
+"content": "炉内耐火物点検、目地の一部に軽微な欠け（経過観察）",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 75,
+"photo": "1012-05",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.12",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2024-10-12",
+"weather": "曇　23℃",
+"team": "築炉",
+"place": "2号 旋回溶融炉（丸越築炉）",
+"content": "炉内点検、残存厚測定（側壁下段 最小 85mm）",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 50,
+"photo": "1012-06",
+"crew": {
+"築炉工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.12",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2024-10-12",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.12",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-12",
+"people": 18,
+"manDays": 18.0,
+"manDaysText": "144"
+}
+},
+{
+"sheet": "10.12",
+"r": 18,
+"kind": "item",
+"fields": {
+"date": "2024-10-12",
+"note": "残存厚測定（側壁下段 最小 85mm） を SPC へ報告。"
+}
+},
+{
+"sheet": "10.14",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-14",
+"weather": "晴　18℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "肉厚測定（水管・過熱器・エコノマイザ）、過熱器 最小 2.3mm",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 67,
+"photo": "1014-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.14",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-14",
+"weather": "晴　18℃",
+"team": "B班",
+"place": "2号 バグフィルタ本体",
+"content": "第3室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 43,
+"photo": "1014-02",
+"crew": {
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "10.14",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-14",
+"weather": "晴　18℃",
+"team": "C班",
+"place": "2号 給じんスクリューA",
+"content": "給じんスクリューA 芯出し・単体試運転",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "1014-03",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.14",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-14",
+"weather": "晴　18℃",
+"team": "C班",
+"place": "2号 給じんスクリューB",
+"content": "給じんスクリューB 芯出し・単体試運転",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "1014-04",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.14",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2024-10-14",
+"weather": "晴　18℃",
+"team": "築炉",
+"place": "2号 旋回溶融炉（丸越築炉）",
+"content": "出滓口まわり 目視点検、目地補修",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "1014-05",
+"crew": {
+"築炉工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.14",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2024-10-14",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.14",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-14",
+"people": 15,
+"manDays": 15.0,
+"manDaysText": "120"
+}
+},
+{
+"sheet": "10.14",
+"r": 18,
+"kind": "item",
+"fields": {
+"date": "2024-10-14",
+"note": "過熱器 最小 2.3mm を SPC へ報告。"
+}
+},
+{
+"sheet": "10.15",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-15",
+"weather": "晴　19℃",
+"team": "B班",
+"place": "2号 バグフィルタ本体",
+"content": "第4室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 57,
+"photo": "1015-01",
+"crew": {
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "10.15",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-15",
+"weather": "晴　19℃",
+"team": "C班",
+"place": "2号 不燃物抜出装置B",
+"content": "不燃物抜出装置B 取外し・分解",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 25,
+"photo": "1015-02",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "10.15",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-15",
+"weather": "晴　19℃",
+"team": "C班",
+"place": "2号 スラグ水砕コンベヤ",
+"content": "スラグ水砕コンベヤ 取外し・分解",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 33,
+"photo": "1015-03",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.15",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-15",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.15",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-15",
+"people": 13,
+"manDays": 13.0,
+"manDaysText": "104"
+}
+},
+{
+"sheet": "10.16",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-16",
+"weather": "晴　20℃",
+"team": "B班",
+"place": "2号 バグフィルタ本体",
+"content": "第5室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 71,
+"photo": "1016-01",
+"crew": {
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "10.16",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-16",
+"weather": "晴　20℃",
+"team": "C班",
+"place": "2号 不燃物抜出装置B",
+"content": "不燃物抜出装置B 清掃・部品交換（軸受・軸封交換）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50,
+"photo": "1016-02",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "10.16",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-16",
+"weather": "晴　20℃",
+"team": "C班",
+"place": "2号 スラグ水砕コンベヤ",
+"content": "スラグ水砕コンベヤ 清掃・部品交換（トラフ底板 減肉、当て板）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 67,
+"photo": "1016-03",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.16",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-16",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.16",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-16",
+"people": 13,
+"manDays": 13.0,
+"manDaysText": "104"
+}
+},
+{
+"sheet": "10.17",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-17",
+"weather": "曇　21℃",
+"team": "B班",
+"place": "2号 スートブロワ LR-4",
+"content": "スートブロワ LR-4 取外し・分解",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 50,
+"photo": "1017-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.17",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-17",
+"weather": "曇　21℃",
+"team": "B班",
+"place": "2号 バグフィルタ本体",
+"content": "第6室 旧ろ布抜取・新ろ布取付（42 本）",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 86,
+"photo": "1017-02",
+"crew": {
+"機械工": 2,
+"作業員": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "10.17",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-17",
+"weather": "曇　21℃",
+"team": "C班",
+"place": "2号 不燃物抜出装置B",
+"content": "不燃物抜出装置B 部品交換・組立",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 75,
+"photo": "1017-03",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "10.17",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-17",
+"weather": "曇　21℃",
+"team": "C班",
+"place": "2号 スラグ水砕コンベヤ",
+"content": "スラグ水砕コンベヤ 組立・芯出し",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"photo": "1017-04",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.17",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2024-10-17",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.17",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-17",
+"people": 15,
+"manDays": 15.0,
+"manDaysText": "120"
+}
+},
+{
+"sheet": "10.18",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-18",
+"weather": "雨　22℃",
+"team": "B班",
+"place": "2号 スートブロワ LR-4",
+"content": "スートブロワ LR-4 組立・芯出し",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "1018-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.18",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-18",
+"weather": "雨　22℃",
+"team": "B班",
+"place": "2号 バグフィルタ本体",
+"content": "全室 点検口閉止、パルス弁作動確認",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"photo": "1018-02",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.18",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-18",
+"weather": "雨　22℃",
+"team": "C班",
+"place": "2号 不燃物抜出装置B",
+"content": "不燃物抜出装置B 組立・芯出し",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"photo": "1018-03",
+"crew": {
+"機械工": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "10.18",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-18",
+"weather": "雨　22℃",
+"team": "C班",
+"place": "2号 ボイラダスト排出弁 No.2",
+"content": "ボイラダスト排出弁 No.2 取外し・分解",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 50,
+"photo": "1018-04",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.18",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2024-10-18",
+"weather": "雨　22℃",
+"team": "C班",
+"place": "2号 ボイラダスト排出弁 No.2",
+"content": "ボイラダスト排出弁 No.2 分解点検・組立（ロータ・ケーシングすきま 0.1mm、調整）",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 100,
+"photo": "1018-05",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.18",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2024-10-18",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.18",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-18",
+"people": 11,
+"manDays": 11.0,
+"manDaysText": "88"
+}
+},
+{
+"sheet": "10.19",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-19",
+"weather": "晴　23℃",
+"team": "B班",
+"place": "2号 減温塔噴霧ノズル装置",
+"content": "減温塔 噴霧ノズル 6 本取外し、摩耗点検",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 50,
+"photo": "1019-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.19",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-19",
+"weather": "晴　23℃",
+"team": "C班",
+"place": "2号 スラグ水循環ポンプB",
+"content": "スラグ水循環ポンプB 取外し・分解",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 50,
+"photo": "1019-02",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.19",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-19",
+"weather": "晴　23℃",
+"team": "C班",
+"place": "2号 減温塔ダストコンベヤ",
+"content": "減温塔ダストコンベヤ 取外し・分解",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 50,
+"photo": "1019-03",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.19",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-19",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.19",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-19",
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56"
+}
+},
+{
+"sheet": "10.21",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-21",
+"weather": "晴　18℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "マンホール・点検口閉止",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 83,
+"photo": "1021-01",
+"crew": {
+"機械工": 2,
+"作業員": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.21",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-21",
+"weather": "晴　18℃",
+"team": "B班",
+"place": "2号 減温塔噴霧ノズル装置",
+"content": "噴霧ノズル交換・取付",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "1021-02",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.21",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-21",
+"weather": "晴　18℃",
+"team": "C班",
+"place": "2号 スラグ水循環ポンプB",
+"content": "スラグ水循環ポンプB 組立・芯出し",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "1021-03",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.21",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-21",
+"weather": "晴　18℃",
+"team": "C班",
+"place": "2号 減温塔ダストコンベヤ",
+"content": "減温塔ダストコンベヤ 組立・芯出し",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "1021-04",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.21",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2024-10-21",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.21",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-21",
+"people": 10,
+"manDays": 10.0,
+"manDaysText": "80"
+}
+},
+{
+"sheet": "10.22",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-22",
+"weather": "曇　19℃",
+"team": "B班",
+"place": "2号 ボイラ本体、2号 過熱器 ほか1台",
+"content": "水張り・水圧試験（漏れなし）",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "1022-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.22",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-22",
+"weather": "曇　19℃",
+"team": "B班",
+"place": "2号 炉内水噴霧装置",
+"content": "炉内水噴霧装置 取外し・分解",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 50,
+"photo": "1022-02",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.22",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-22",
+"weather": "曇　19℃",
+"team": "C班",
+"place": "2号 減温塔噴霧水ポンプB",
+"content": "減温塔噴霧水ポンプB 取外し・分解",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 50,
+"photo": "1022-03",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.22",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-22",
+"weather": "曇　19℃",
+"team": "C班",
+"place": "2号 BFダスト排出弁 No.3",
+"content": "BFダスト排出弁 No.3 取外し・分解",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 50,
+"photo": "1022-04",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.22",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2024-10-22",
+"weather": "曇　19℃",
+"team": "C班",
+"place": "2号 BFダスト排出弁 No.3",
+"content": "BFダスト排出弁 No.3 分解点検・組立（ロータ・ケーシングすきま 0.2mm、調整）",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 100,
+"photo": "1022-05",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.22",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2024-10-22",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.22",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-22",
+"people": 9,
+"manDays": 9.0,
+"manDaysText": "72"
+}
+},
+{
+"sheet": "10.23",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-23",
+"weather": "雨　20℃",
+"team": "B班",
+"place": "2号 炉内水噴霧装置",
+"content": "炉内水噴霧装置 組立・芯出し",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "1023-01",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.23",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-23",
+"weather": "雨　20℃",
+"team": "C班",
+"place": "2号 減温塔噴霧水ポンプB",
+"content": "減温塔噴霧水ポンプB 組立・芯出し",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16",
+"progress": 100,
+"photo": "1023-02",
+"crew": {
+"機械工": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.23",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-23",
+"weather": "雨　20℃",
+"team": "C班",
+"place": "2号 炉内水噴霧調節弁、2号 流動空気流量調節弁 ほか7台",
+"content": "電動弁・調節弁 整備（炉内水噴霧調節弁、流動空気流量調節弁、溶融炉燃料油調節弁）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 33,
+"photo": "1023-03",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.23",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-23",
+"weather": "雨　20℃",
+"team": "A班",
+"place": "2号 ガス化炉本体",
+"content": "マンホール閉止、珪砂投入（約 6m³）",
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 100,
+"photo": "1023-04",
+"crew": {
+"機械工": 2,
+"作業員": 3
+},
+"days": 1
+}
+},
+{
+"sheet": "10.23",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2024-10-23",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.23",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-23",
+"people": 13,
+"manDays": 13.0,
+"manDaysText": "104"
+}
+},
+{
+"sheet": "10.24",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-24",
+"weather": "晴　21℃",
+"team": "仮設",
+"place": "2号炉 全般",
+"content": "足場解体（炉まわり）",
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 67,
+"crew": {
+"とび工": 4
+},
+"days": 1
+}
+},
+{
+"sheet": "10.24",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-24",
+"weather": "晴　21℃",
+"team": "C班",
+"place": "2号 減温塔ダスト排出弁",
+"content": "減温塔ダスト排出弁 取外し・分解",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 50,
+"photo": "1024-01",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.24",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-24",
+"weather": "晴　21℃",
+"team": "C班",
+"place": "2号 減温塔ダスト排出弁",
+"content": "減温塔ダスト排出弁 分解点検・組立（シール交換）",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 100,
+"photo": "1024-02",
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.24",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2024-10-24",
+"weather": "晴　21℃",
+"team": "C班",
+"place": "2号炉 全般",
+"content": "単体試運転（整備機器）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50,
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.24",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2024-10-24",
+"weather": "晴　21℃",
+"team": "C班",
+"place": "2号 炉内水噴霧調節弁、2号 流動空気流量調節弁 ほか7台",
+"content": "電動弁・調節弁 整備（スラグ水補給弁、給水止弁、主蒸気止弁）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 67,
+"photo": "1024-03",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.24",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2024-10-24",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.24",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-24",
+"people": 13,
+"manDays": 13.0,
+"manDaysText": "104"
+}
+},
+{
+"sheet": "10.25",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-25",
+"weather": "晴　22℃",
+"team": "仮設",
+"place": "2号炉 全般",
+"content": "足場解体・養生撤去・片付け",
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 100,
+"crew": {
+"とび工": 3,
+"作業員": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.25",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-25",
+"weather": "晴　22℃",
+"team": "C班",
+"place": "2号 炉内水噴霧調節弁、2号 流動空気流量調節弁 ほか7台",
+"content": "電動弁・調節弁 整備（連続ブロー調節弁、安全弁（ドラム） No.2、噴霧水量調節弁）",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"photo": "1025-01",
+"crew": {
+"機械工": 2,
+"電工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.25",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2024-10-25",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.25",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-25",
+"people": 9,
+"manDays": 9.0,
+"manDaysText": "72"
+}
+},
+{
+"sheet": "10.26",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-26",
+"weather": "晴　23℃",
+"team": "C班",
+"place": "2号炉 全般",
+"content": "残材搬出・清掃",
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100,
+"crew": {
+"機械工": 1,
+"作業員": 2
+},
+"days": 1
+}
+},
+{
+"sheet": "10.26",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-26",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.26",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-26",
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32"
+}
+},
+{
+"sheet": "10.29",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-10-29",
+"weather": "晴　19℃",
+"team": "-",
+"place": "2号炉 全般",
+"content": "立上げ立会（漏れ・異音確認）",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 50,
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.29",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-10-29",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "10.29",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-10-29",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16"
+}
+},
+{
+"sheet": "11.1",
+"r": 6,
+"kind": "item",
+"fields": {
+"date": "2024-11-01",
+"weather": "晴　19℃",
+"team": "-",
+"place": "2号炉 全般",
+"content": "定格運転確認",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"progress": 100,
+"crew": {
+"機械工": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "11.1",
+"r": 7,
+"kind": "item",
+"fields": {
+"date": "2024-11-01",
+"place": "職長",
+"content": "作業指示・安全管理・SPC 打合せ",
+"people": 1,
+"manDays": 1.0,
+"manDaysText": "8",
+"crew": {
+"職長": 1
+},
+"days": 1
+}
+},
+{
+"sheet": "11.1",
+"r": 16,
+"kind": "total",
+"fields": {
+"date": "2024-11-01",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16"
+}
+}
+]
+}

@@ -1,0 +1,1540 @@
+{
+"file": "【架空】ときわ北部クリーンセンター_作業日報_2019年度DCS更新工事_x1の2014様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "1.14",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-14",
+"weather": "晴",
+"place": "中央制御室",
+"content": "中央制御室：搬入・仮置き、既設卓の横に据付位置墨出し",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 3,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "1.14",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-14",
+"people": 5
+}
+},
+{
+"sheet": "1.14",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-14",
+"KY": "溶接作業の火気　→　消火器配置・監視人"
+}
+},
+{
+"sheet": "1.14",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-14",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.15",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-15",
+"weather": "晴",
+"place": "中央制御室",
+"content": "中央制御室：オペレータステーション No.1・No.2 据付",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 3,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "1.15",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-15",
+"people": 5
+}
+},
+{
+"sheet": "1.15",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-15",
+"KY": "重量物の吊込み　→　合図者を決める"
+}
+},
+{
+"sheet": "1.15",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-15",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.16",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-16",
+"weather": "晴",
+"place": "中央制御室",
+"content": "中央制御室：No.3・No.4・ES 据付",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 3,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "1.16",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-16",
+"people": 5
+}
+},
+{
+"sheet": "1.16",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-16",
+"KY": "狭い炉内での挟まれ・転倒　→　声かけ・照明確保"
+}
+},
+{
+"sheet": "1.16",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-16",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.17",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-17",
+"weather": "晴",
+"place": "中央制御室",
+"content": "中央制御室：電源・LAN 配線",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 3,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "1.17",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2020-01-17",
+"weather": "晴",
+"place": "中央制御室",
+"content": "共通コントローラ盤・I/O盤：新盤 搬入",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4",
+"crew": {
+"電工": 4
+}
+}
+},
+{
+"sheet": "1.17",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-17",
+"people": 9
+}
+},
+{
+"sheet": "1.17",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-17",
+"KY": "マンホール開放時の高温・粉じん　→　温度確認、防じんマスク"
+}
+},
+{
+"sheet": "1.17",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-17",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.18",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-18",
+"weather": "晴",
+"place": "中央制御室",
+"content": "中央制御室：画面確認（メーカー SV 立会）",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 3,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "1.18",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2020-01-18",
+"weather": "晴",
+"place": "中央制御室",
+"content": "共通コントローラ盤・I/O盤：新盤 据付・アンカー",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4",
+"crew": {
+"電工": 4
+}
+}
+},
+{
+"sheet": "1.18",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-18",
+"people": 9
+}
+},
+{
+"sheet": "1.18",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-18",
+"KY": "足場上の工具落下　→　工具ひも付け"
+}
+},
+{
+"sheet": "1.18",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-18",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.20",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-20",
+"weather": "晴",
+"place": "中央制御室",
+"content": "共通コントローラ盤・I/O盤：ケーブル 移設準備（ラベル付け）",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 4
+}
+}
+},
+{
+"sheet": "1.20",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-20",
+"people": 5
+}
+},
+{
+"sheet": "1.20",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-20",
+"KY": "重量物の吊込み　→　合図者を決める"
+}
+},
+{
+"sheet": "1.20",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-20",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.21",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-21",
+"weather": "晴",
+"place": "中央制御室",
+"content": "共通コントローラ盤・I/O盤：ケーブル 移設（共通系 1/2）",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 4
+}
+}
+},
+{
+"sheet": "1.21",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-21",
+"people": 5
+}
+},
+{
+"sheet": "1.21",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-21",
+"KY": "狭い炉内での挟まれ・転倒　→　声かけ・照明確保"
+}
+},
+{
+"sheet": "1.21",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-21",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.22",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-22",
+"weather": "晴",
+"place": "中央制御室",
+"content": "共通コントローラ盤・I/O盤：ケーブル 移設（共通系 2/2）",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 4
+}
+}
+},
+{
+"sheet": "1.22",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-22",
+"people": 5
+}
+},
+{
+"sheet": "1.22",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-22",
+"KY": "マンホール開放時の高温・粉じん　→　温度確認、防じんマスク"
+}
+},
+{
+"sheet": "1.22",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-22",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.23",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-23",
+"weather": "晴",
+"place": "中央制御室",
+"content": "共通コントローラ盤・I/O盤：ループチェック",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 4
+}
+}
+},
+{
+"sheet": "1.23",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-23",
+"people": 5
+}
+},
+{
+"sheet": "1.23",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-23",
+"KY": "足場上の工具落下　→　工具ひも付け"
+}
+},
+{
+"sheet": "1.23",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-23",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.24",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-24",
+"weather": "晴",
+"place": "中央制御室",
+"content": "共通コントローラ盤・I/O盤：ループチェック（残）",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 4
+}
+}
+},
+{
+"sheet": "1.24",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-24",
+"people": 5
+}
+},
+{
+"sheet": "1.24",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-24",
+"KY": "溶接作業の火気　→　消火器配置・監視人"
+}
+},
+{
+"sheet": "1.24",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-24",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.25",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-25",
+"weather": "晴",
+"place": "中央制御室",
+"content": "共通コントローラ盤・I/O盤：旧盤 撤去",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 4
+}
+}
+},
+{
+"sheet": "1.25",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-25",
+"people": 5
+}
+},
+{
+"sheet": "1.25",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-25",
+"KY": "重量物の吊込み　→　合図者を決める"
+}
+},
+{
+"sheet": "1.25",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-25",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.27",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-27",
+"weather": "晴",
+"place": "中央制御室",
+"content": "1号炉 停止確認、旧盤 電源切離し",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "1.27",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-27",
+"people": 6
+}
+},
+{
+"sheet": "1.27",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-27",
+"KY": "マンホール開放時の高温・粉じん　→　温度確認、防じんマスク"
+}
+},
+{
+"sheet": "1.27",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-27",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.28",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-28",
+"weather": "晴",
+"place": "中央制御室",
+"content": "1号炉：旧盤 撤去・新盤 据付",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "1.28",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-28",
+"people": 6
+}
+},
+{
+"sheet": "1.28",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-28",
+"KY": "足場上の工具落下　→　工具ひも付け"
+}
+},
+{
+"sheet": "1.28",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-28",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.29",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-29",
+"weather": "晴",
+"place": "中央制御室",
+"content": "1号炉：ケーブル 移設",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "1.29",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-29",
+"people": 6
+}
+},
+{
+"sheet": "1.29",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-29",
+"KY": "溶接作業の火気　→　消火器配置・監視人"
+}
+},
+{
+"sheet": "1.29",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-29",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.30",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-30",
+"weather": "晴",
+"place": "中央制御室",
+"content": "1号炉：ケーブル 移設（残）",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "1.30",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-30",
+"people": 6
+}
+},
+{
+"sheet": "1.30",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-30",
+"KY": "重量物の吊込み　→　合図者を決める"
+}
+},
+{
+"sheet": "1.30",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-30",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "1.31",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-01-31",
+"weather": "晴",
+"place": "中央制御室",
+"content": "1号炉：ループチェック",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "1.31",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-01-31",
+"people": 6
+}
+},
+{
+"sheet": "1.31",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-01-31",
+"KY": "狭い炉内での挟まれ・転倒　→　声かけ・照明確保"
+}
+},
+{
+"sheet": "1.31",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-01-31",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.1",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-01",
+"weather": "晴",
+"place": "中央制御室",
+"content": "1号炉：インターロック試験",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "2.1",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-01",
+"people": 6
+}
+},
+{
+"sheet": "2.1",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-01",
+"KY": "マンホール開放時の高温・粉じん　→　温度確認、防じんマスク"
+}
+},
+{
+"sheet": "2.1",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-01",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.3",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-03",
+"weather": "晴",
+"place": "中央制御室",
+"content": "1号炉：炉立上げ前 総合確認",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "2.3",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-03",
+"people": 6
+}
+},
+{
+"sheet": "2.3",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-03",
+"KY": "溶接作業の火気　→　消火器配置・監視人"
+}
+},
+{
+"sheet": "2.3",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-03",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.4",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-04",
+"weather": "晴",
+"place": "中央制御室",
+"content": "1号炉：切替後 監視",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "2.4",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-04",
+"people": 6
+}
+},
+{
+"sheet": "2.4",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-04",
+"KY": "重量物の吊込み　→　合図者を決める"
+}
+},
+{
+"sheet": "2.4",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-04",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.5",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-05",
+"weather": "晴",
+"place": "中央制御室",
+"content": "2号炉 停止確認、旧盤 電源切離し",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "2.5",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-05",
+"people": 6
+}
+},
+{
+"sheet": "2.5",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-05",
+"KY": "狭い炉内での挟まれ・転倒　→　声かけ・照明確保"
+}
+},
+{
+"sheet": "2.5",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-05",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.6",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-06",
+"weather": "晴",
+"place": "中央制御室",
+"content": "2号炉：旧盤 撤去・新盤 据付",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "2.6",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-06",
+"people": 6
+}
+},
+{
+"sheet": "2.6",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-06",
+"KY": "マンホール開放時の高温・粉じん　→　温度確認、防じんマスク"
+}
+},
+{
+"sheet": "2.6",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-06",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.7",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-07",
+"weather": "晴",
+"place": "中央制御室",
+"content": "2号炉：ケーブル 移設",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "2.7",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-07",
+"people": 6
+}
+},
+{
+"sheet": "2.7",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-07",
+"KY": "足場上の工具落下　→　工具ひも付け"
+}
+},
+{
+"sheet": "2.7",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-07",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.8",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-08",
+"weather": "晴",
+"place": "中央制御室",
+"content": "2号炉：ケーブル 移設（残）",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "2.8",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-08",
+"people": 6
+}
+},
+{
+"sheet": "2.8",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-08",
+"KY": "溶接作業の火気　→　消火器配置・監視人"
+}
+},
+{
+"sheet": "2.8",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-08",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.10",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-10",
+"weather": "晴",
+"place": "中央制御室",
+"content": "2号炉：ループチェック",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "2.10",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-10",
+"people": 6
+}
+},
+{
+"sheet": "2.10",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-10",
+"KY": "狭い炉内での挟まれ・転倒　→　声かけ・照明確保"
+}
+},
+{
+"sheet": "2.10",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-10",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.11",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-11",
+"weather": "晴",
+"place": "中央制御室",
+"content": "2号炉：インターロック試験",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "2.11",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-11",
+"people": 6
+}
+},
+{
+"sheet": "2.11",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-11",
+"KY": "マンホール開放時の高温・粉じん　→　温度確認、防じんマスク"
+}
+},
+{
+"sheet": "2.11",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-11",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.12",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-12",
+"weather": "晴",
+"place": "中央制御室",
+"content": "2号炉：炉立上げ前 総合確認",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "2.12",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-12",
+"people": 6
+}
+},
+{
+"sheet": "2.12",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-12",
+"KY": "足場上の工具落下　→　工具ひも付け"
+}
+},
+{
+"sheet": "2.12",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-12",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.13",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-13",
+"weather": "晴",
+"place": "中央制御室",
+"content": "2号炉：切替後 監視",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6",
+"crew": {
+"職長": 1,
+"電工": 4,
+"作業員": 1
+}
+}
+},
+{
+"sheet": "2.13",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-13",
+"people": 6
+}
+},
+{
+"sheet": "2.13",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-13",
+"KY": "溶接作業の火気　→　消火器配置・監視人"
+}
+},
+{
+"sheet": "2.13",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-13",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.14",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-14",
+"weather": "晴",
+"place": "中央制御室",
+"content": "両炉 運転データ比較",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 2,
+"作業員": 2
+}
+}
+},
+{
+"sheet": "2.14",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-14",
+"people": 5
+}
+},
+{
+"sheet": "2.14",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-14",
+"KY": "重量物の吊込み　→　合図者を決める"
+}
+},
+{
+"sheet": "2.14",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-14",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.15",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-15",
+"weather": "晴",
+"place": "中央制御室",
+"content": "旧オペレータ卓 撤去",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 2,
+"作業員": 2
+}
+}
+},
+{
+"sheet": "2.15",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-15",
+"people": 5
+}
+},
+{
+"sheet": "2.15",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-15",
+"KY": "狭い炉内での挟まれ・転倒　→　声かけ・照明確保"
+}
+},
+{
+"sheet": "2.15",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-15",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.17",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-17",
+"weather": "晴",
+"place": "中央制御室",
+"content": "撤去品 搬出",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 2,
+"作業員": 2
+}
+}
+},
+{
+"sheet": "2.17",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-17",
+"people": 5
+}
+},
+{
+"sheet": "2.17",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-17",
+"KY": "足場上の工具落下　→　工具ひも付け"
+}
+},
+{
+"sheet": "2.17",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-17",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.18",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-18",
+"weather": "晴",
+"place": "中央制御室",
+"content": "竣工図書 確認",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 2,
+"作業員": 2
+}
+}
+},
+{
+"sheet": "2.18",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-18",
+"people": 5
+}
+},
+{
+"sheet": "2.18",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-18",
+"KY": "溶接作業の火気　→　消火器配置・監視人"
+}
+},
+{
+"sheet": "2.18",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-18",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+},
+{
+"sheet": "2.19",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2020-02-19",
+"weather": "晴",
+"place": "中央制御室",
+"content": "引渡し",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5",
+"crew": {
+"職長": 1,
+"電工": 2,
+"作業員": 2
+}
+}
+},
+{
+"sheet": "2.19",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2020-02-19",
+"people": 5
+}
+},
+{
+"sheet": "2.19",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2020-02-19",
+"KY": "重量物の吊込み　→　合図者を決める"
+}
+},
+{
+"sheet": "2.19",
+"r": 21,
+"kind": "item",
+"fields": {
+"date": "2020-02-19",
+"equipmentUsed": "チェーンブロック、電動工具"
+}
+}
+]
+}

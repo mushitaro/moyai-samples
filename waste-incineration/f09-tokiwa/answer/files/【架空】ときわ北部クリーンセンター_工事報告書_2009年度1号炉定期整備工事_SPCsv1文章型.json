@@ -1,0 +1,258 @@
+{
+"file": "【架空】ときわ北部クリーンセンター_工事報告書_2009年度1号炉定期整備工事_SPCsv1文章型.pdf",
+"plan": false,
+"records": [
+{
+"sheet": null,
+"r": 1,
+"seq": 0,
+"kind": "item",
+"fields": {
+"text": "【架空】ときわ北部環境組合　施設課　御中"
+}
+},
+{
+"sheet": null,
+"r": 2,
+"seq": 1,
+"kind": "item",
+"fields": {
+"label": "工事件名",
+"value": "平成21年度 ときわ北部クリーンセンター 1号炉定期整備工事"
+}
+},
+{
+"sheet": null,
+"r": 3,
+"seq": 2,
+"kind": "item",
+"fields": {
+"label": "工　　期",
+"value": "平成21年9月14日（炉停止）〜平成21年10月9日（定格運転確認）"
+}
+},
+{
+"sheet": null,
+"r": 4,
+"seq": 3,
+"kind": "item",
+"fields": {
+"label": "施　　工",
+"value": "【架空】北嶺プラント工業株式会社（職長 x1）／耐火物：【架空】丸越築炉株式会社"
+}
+},
+{
+"sheet": null,
+"r": 5,
+"seq": 4,
+"kind": "item",
+"fields": {
+"label": "監　　督",
+"value": "【架空】ときわ北部エコサービス株式会社 保全グループ sv1"
+}
+},
+{
+"sheet": null,
+"r": 6,
+"seq": 5,
+"kind": "item",
+"fields": {
+"label": "対象範囲",
+"value": "1号炉 ガス化炉、旋回溶融炉、ボイラ、ろ過式集じん器、減温塔"
+}
+},
+{
+"sheet": null,
+"r": 7,
+"seq": 6,
+"kind": "item",
+"fields": {
+"section": "工程",
+"text": "9 月 14 日に炉を停止し、冷却ののち開放・点検整備を行った。10 月 5 日に点火、10 月 9 日に定格運転を確認した。"
+}
+},
+{
+"sheet": null,
+"r": 8,
+"seq": 7,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(1) ガス化炉 開放点検",
+"text": "マンホール開放、流動砂抜出し（約 6m³）、炉内清掃、散気ノズル摩耗測定（96 本中 4 本 交換基準超え）、炉内耐火物点検、異常なし、マンホール閉止、珪砂投入（約 6m³）を行った。",
+"equipment": [
+"ガス化炉本体"
+]
+}
+},
+{
+"sheet": null,
+"r": 9,
+"seq": 8,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(2) 旋回溶融炉 点検・残存厚測定",
+"text": "炉内点検、残存厚測定（側壁下段 最小 230mm）、出滓口まわり 目視点検、目地補修を行った。",
+"equipment": [
+"旋回溶融炉本体"
+]
+}
+},
+{
+"sheet": null,
+"r": 10,
+"seq": 9,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(3) ボイラ 開放清掃・肉厚測定・定期事業者検査",
+"text": "マンホール・点検口開放、水管・過熱器 ダスト除去、エコノマイザ ダスト除去、ドラム内部清掃、肉厚測定（水管・過熱器・エコノマイザ）、過熱器 最小 4.0mm、定期事業者検査 内部検査（SPC 立会）、マンホール・点検口閉止を行った。",
+"equipment": [
+"ボイラ本体",
+"過熱器",
+"エコノマイザ"
+]
+}
+},
+{
+"sheet": null,
+"r": 11,
+"seq": 10,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(4) バグフィルタ 点検",
+"text": "各室点検口開放、ろ布目視点検（6 室）、ろ布抜取（試験用 3 本）、予備ろ布取付、閉止を行った。",
+"equipment": [
+"バグフィルタ本体"
+]
+}
+},
+{
+"sheet": null,
+"r": 12,
+"seq": 11,
+"kind": "item",
+"fields": {
+"section": "実施内容",
+"heading": "(5) 減温塔 噴霧ノズル交換",
+"text": "減温塔噴霧ノズル装置を分解点検した。ノズル交換。組み立てて芯出しし、単体運転で異常のないことを確認した。",
+"equipment": [
+"減温塔噴霧ノズル装置"
+]
+}
+},
+{
+"sheet": null,
+"r": 13,
+"seq": 12,
+"kind": "item",
+"fields": {
+"part": "蒸発管（前壁）",
+"points": "40",
+"new_mm": "4.5",
+"min_mm": "4.3",
+"judge": "良"
+}
+},
+{
+"sheet": null,
+"r": 14,
+"seq": 13,
+"kind": "item",
+"fields": {
+"part": "蒸発管（側壁）",
+"points": "80",
+"new_mm": "4.5",
+"min_mm": "4.4",
+"judge": "良"
+}
+},
+{
+"sheet": null,
+"r": 15,
+"seq": 14,
+"kind": "item",
+"fields": {
+"part": "二次過熱器 下部ベンド",
+"points": "32",
+"new_mm": "4.0",
+"min_mm": "4.0",
+"judge": "良"
+}
+},
+{
+"sheet": null,
+"r": 16,
+"seq": 15,
+"kind": "item",
+"fields": {
+"part": "二次過熱器 直管部",
+"points": "32",
+"new_mm": "4.0",
+"min_mm": "4.0",
+"judge": "良"
+}
+},
+{
+"sheet": null,
+"r": 17,
+"seq": 16,
+"kind": "item",
+"fields": {
+"part": "エコノマイザ",
+"points": "48",
+"new_mm": "4.0",
+"min_mm": "3.9",
+"judge": "良"
+}
+},
+{
+"sheet": null,
+"r": 18,
+"seq": 17,
+"kind": "item",
+"fields": {
+"name": "溶融炉 点検・目地補修",
+"spec": "材料込",
+"qty": "1 式",
+"used": "1 式",
+"spare": "－"
+}
+},
+{
+"sheet": null,
+"r": 19,
+"seq": 18,
+"kind": "item",
+"fields": {
+"name": "減温塔噴霧ノズル",
+"spec": "二流体 TH-SPN-25",
+"qty": "8 個",
+"used": "6 個",
+"spare": "2 個"
+}
+},
+{
+"sheet": null,
+"r": 20,
+"seq": 19,
+"kind": "item",
+"fields": {
+"section": "今後の課題",
+"text": "・旋回溶融炉の側壁下段 残存厚は最小 230mm。次回も測定を続ける。"
+}
+},
+{
+"sheet": null,
+"r": 21,
+"seq": 20,
+"kind": "item",
+"fields": {
+"section": "今後の課題",
+"text": "・過熱器の最小肉厚は 4.0mm。高温側ベンド部を重点に測定する。"
+}
+}
+]
+}

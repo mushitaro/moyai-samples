@@ -1,0 +1,1021 @@
+{
+"file": "【架空】ときわ北部クリーンセンター_発注台帳_2011年度_SPC旧購買システム.csv",
+"plan": false,
+"records": [
+{
+"r": 3,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0001",
+"HACDT": "20110404",
+"TORICD": "T0322",
+"TORINM": "丸越築炉(ｶ",
+"HINMEI": "溶融炉 点検・目地補修",
+"KIKAKU": "材料込",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 380000,
+"KINGAKU": 380000,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 4,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0002",
+"HACDT": "20110404",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "減温塔噴霧ノズル",
+"KIKAKU": "二流体 TH-SPN-25",
+"SURYO": 8,
+"TANI": "個",
+"TANKA": 64000,
+"KINGAKU": 512000,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01",
+"BIKO": "6使用+予備2"
+}
+},
+{
+"r": 5,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0003",
+"HACDT": "20110404",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "給じんｽｸﾘｭｰ 軸受",
+"KIKAKU": "22216",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 43008,
+"KINGAKU": 86016,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 6,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0004",
+"HACDT": "20110404",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "給じんスクリュー 軸受",
+"KIKAKU": "22216",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 43008,
+"KINGAKU": 86016,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 7,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0005",
+"HACDT": "20110404",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "不燃物抜出装置 軸受",
+"KIKAKU": "22220 CAKE4",
+"SURYO": 3,
+"TANI": "個",
+"TANKA": 88064,
+"KINGAKU": 264192,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01",
+"BIKO": "2使用+予備1"
+}
+},
+{
+"r": 8,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0006",
+"HACDT": "20110404",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "不燃物抜出装置 軸封ﾊﾟｯｷﾝ",
+"KIKAKU": "グランド 一式",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 65536,
+"KINGAKU": 131072,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01",
+"BIKO": "1使用+予備1"
+}
+},
+{
+"r": 9,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0007",
+"HACDT": "20110404",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "不燃物抜出装置 軸受",
+"KIKAKU": "22220 CAKE4",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 88064,
+"KINGAKU": 176128,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 10,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0008",
+"HACDT": "20110404",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "不燃物抜出装置 軸封パッキン",
+"KIKAKU": "グランド 一式",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 65536,
+"KINGAKU": 131072,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01",
+"BIKO": "1使用+予備1"
+}
+},
+{
+"r": 11,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0009",
+"HACDT": "20110404",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "溶融炉ﾊﾞｰﾅ ﾊﾞｰﾅﾁｯﾌﾟ",
+"SURYO": 3,
+"TANI": "個",
+"TANKA": 47104,
+"KINGAKU": 141312,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01",
+"BIKO": "2使用+予備1"
+}
+},
+{
+"r": 12,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0010",
+"HACDT": "20110404",
+"TORICD": "T0215",
+"TORINM": "八潮ﾎﾟﾝﾌﾟ(ｶ",
+"HINMEI": "炉体冷却水ポンプ メカニカルシール",
+"SURYO": 1,
+"TANI": "個",
+"TANKA": 69632,
+"KINGAKU": 69632,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 13,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0011",
+"HACDT": "20110404",
+"TORICD": "T0215",
+"TORINM": "八潮ﾎﾟﾝﾌﾟ(ｶ",
+"HINMEI": "炉体冷却水ポンプ 軸受",
+"KIKAKU": "6310",
+"SURYO": 3,
+"TANI": "個",
+"TANKA": 10035,
+"KINGAKU": 30105,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01",
+"BIKO": "2使用+予備1"
+}
+},
+{
+"r": 14,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0012",
+"HACDT": "20110404",
+"TORICD": "T0405",
+"TORINM": "峰岡送風機(ｶ",
+"HINMEI": "溶融炉燃焼用送風機 軸受",
+"KIKAKU": "22324",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 151552,
+"KINGAKU": 303104,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 15,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0013",
+"HACDT": "20110404",
+"TORICD": "T0402",
+"TORINM": "黒松破砕機(ｶ",
+"HINMEI": "前処理破砕機 破砕機カッタ刃",
+"KIKAKU": "t=50",
+"SURYO": 40,
+"TANI": "枚",
+"TANKA": 83968,
+"KINGAKU": 3358720,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 16,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0014",
+"HACDT": "20110404",
+"TORICD": "T0402",
+"TORINM": "黒松破砕機(ｶ",
+"HINMEI": "前処理破砕機 軸受",
+"KIKAKU": "23228",
+"SURYO": 4,
+"TANI": "個",
+"TANKA": 122880,
+"KINGAKU": 491520,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 17,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0015",
+"HACDT": "20110404",
+"TORICD": "T0450",
+"TORINM": "三國ｸﾚｰﾝ(ｶ",
+"HINMEI": "ごみｸﾚｰﾝ ﾜｲﾔﾛｰﾌﾟ",
+"KIKAKU": "IWRC 6×Fi(29) φ22",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 389120,
+"KINGAKU": 778240,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 18,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0016",
+"HACDT": "20110404",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "飛灰混練機 パドル",
+"SURYO": 8,
+"TANI": "本",
+"TANKA": 32768,
+"KINGAKU": 262144,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 19,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0017",
+"HACDT": "20110404",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "飛灰混練機 パドル",
+"SURYO": 10,
+"TANI": "本",
+"TANKA": 32768,
+"KINGAKU": 327680,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01",
+"BIKO": "8使用+予備2"
+}
+},
+{
+"r": 20,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0018",
+"HACDT": "20110404",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "弁用ﾊﾟｯｷﾝ類",
+"KIKAKU": "一式",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 288000,
+"KINGAKU": 288000,
+"NOUKI": "20110506",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 21,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0019",
+"HACDT": "20110408",
+"TORICD": "T0310",
+"TORINM": "北嶺ﾌﾟﾗﾝﾄ工業(ｶ",
+"HINMEI": "1号炉定期整備工事",
+"KIKAKU": "工事仕様書による（足場・開放・整備・復旧）",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 6500000,
+"KINGAKU": 6500000,
+"NOUKI": "20110603",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01"
+}
+},
+{
+"r": 22,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0020",
+"HACDT": "20110410",
+"TORICD": "T0118",
+"TORINM": "三和珪砂(ｶ",
+"HINMEI": "珪砂 6号",
+"KIKAKU": "フレコン 1.5t",
+"SURYO": 6,
+"TANI": "袋",
+"TANKA": 33000,
+"KINGAKU": 198000,
+"NOUKI": "20110509",
+"YOSAN": "S-1-23-01",
+"KOJINO": "K23-01",
+"BIKO": "流動砂 補充"
+}
+},
+{
+"r": 23,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0021",
+"HACDT": "20110413",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20700,
+"KINGAKU": 621000,
+"NOUKI": "20110417",
+"YOSAN": "S-0-23-11"
+}
+},
+{
+"r": 24,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0022",
+"HACDT": "20110509",
+"TORICD": "T0130",
+"TORINM": "炭化工業所(ｶ",
+"HINMEI": "粉末活性炭",
+"KIKAKU": "フレコン 500kg",
+"SURYO": 6,
+"TANI": "袋",
+"TANKA": 95000,
+"KINGAKU": 570000,
+"NOUKI": "20110517",
+"YOSAN": "S-0-23-11"
+}
+},
+{
+"r": 25,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0023",
+"HACDT": "20110511",
+"TORICD": "T0141",
+"TORINM": "港北化成(ｶ",
+"HINMEI": "アンモニア水 25%",
+"KIKAKU": "ローリー",
+"SURYO": 8,
+"TANI": "t",
+"TANKA": 40000,
+"KINGAKU": 320000,
+"NOUKI": "20110516",
+"YOSAN": "S-0-23-11"
+}
+},
+{
+"r": 26,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0024",
+"HACDT": "20110610",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20700,
+"KINGAKU": 621000,
+"NOUKI": "20110614",
+"YOSAN": "S-0-23-11"
+}
+},
+{
+"r": 27,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0025",
+"HACDT": "20110803",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20700,
+"KINGAKU": 621000,
+"NOUKI": "20110807",
+"YOSAN": "S-0-23-11"
+}
+},
+{
+"r": 28,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0026",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "ガス化炉散気ノズル",
+"KIKAKU": "TH-GSN-160 SCS13",
+"SURYO": 23,
+"TANI": "本",
+"TANKA": 39200,
+"KINGAKU": 901600,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02",
+"BIKO": "19使用+予備4"
+}
+},
+{
+"r": 29,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0027",
+"HACDT": "20110829",
+"TORICD": "T0322",
+"TORINM": "丸越築炉(ｶ",
+"HINMEI": "溶融炉 点検・目地補修",
+"KIKAKU": "材料込",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 380000,
+"KINGAKU": 380000,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 30,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0028",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "スートブロワ ランス管",
+"KIKAKU": "STBA24 φ60.5",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 421888,
+"KINGAKU": 843776,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02",
+"BIKO": "1使用+予備1"
+}
+},
+{
+"r": 31,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0029",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "スートブロワ グランドパッキン",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 18944,
+"KINGAKU": 37888,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 32,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0030",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "定量供給機 駆動ﾁｪｰﾝ",
+"KIKAKU": "RS100 142L",
+"SURYO": 1,
+"TANI": "個",
+"TANKA": 63488,
+"KINGAKU": 63488,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 33,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0031",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "定量供給機 駆動チェーン",
+"KIKAKU": "RS100 142L",
+"SURYO": 1,
+"TANI": "個",
+"TANKA": 63488,
+"KINGAKU": 63488,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 34,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0032",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "起動バーナ バーナチップ",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 47104,
+"KINGAKU": 94208,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 35,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0033",
+"HACDT": "20110829",
+"TORICD": "T0215",
+"TORINM": "八潮ﾎﾟﾝﾌﾟ(ｶ",
+"HINMEI": "炉内水噴霧ﾎﾟﾝﾌﾟ ﾒｶﾆｶﾙｼｰﾙ",
+"SURYO": 1,
+"TANI": "個",
+"TANKA": 69632,
+"KINGAKU": 69632,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 36,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0034",
+"HACDT": "20110829",
+"TORICD": "T0215",
+"TORINM": "八潮ﾎﾟﾝﾌﾟ(ｶ",
+"HINMEI": "炉内水噴霧ポンプ 軸受",
+"KIKAKU": "6310",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 10035,
+"KINGAKU": 20070,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 37,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0035",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "不燃物抜出装置 軸受",
+"KIKAKU": "22220 CAKE4",
+"SURYO": 3,
+"TANI": "個",
+"TANKA": 88064,
+"KINGAKU": 264192,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02",
+"BIKO": "2使用+予備1"
+}
+},
+{
+"r": 38,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0036",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "不燃物抜出装置 軸封ﾊﾟｯｷﾝ",
+"KIKAKU": "グランド 一式",
+"SURYO": 1,
+"TANI": "個",
+"TANKA": 65536,
+"KINGAKU": 65536,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 39,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0037",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "砂分級機 網",
+"KIKAKU": "目開き 3mm",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 65536,
+"KINGAKU": 131072,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 40,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0038",
+"HACDT": "20110829",
+"TORICD": "T0215",
+"TORINM": "八潮ﾎﾟﾝﾌﾟ(ｶ",
+"HINMEI": "炉体冷却水ポンプ メカニカルシール",
+"SURYO": 1,
+"TANI": "個",
+"TANKA": 69632,
+"KINGAKU": 69632,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 41,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0039",
+"HACDT": "20110829",
+"TORICD": "T0215",
+"TORINM": "八潮ﾎﾟﾝﾌﾟ(ｶ",
+"HINMEI": "炉体冷却水ﾎﾟﾝﾌﾟ 軸受",
+"KIKAKU": "6310",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 10035,
+"KINGAKU": 20070,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 42,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0040",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "ボイラダストコンベヤ 軸受",
+"KIKAKU": "6312",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 12288,
+"KINGAKU": 24576,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 43,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0041",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "ボイラダスト排出弁 シール",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 15360,
+"KINGAKU": 30720,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 44,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0042",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "BFﾀﾞｽﾄ排出弁 ｼｰﾙ",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 15360,
+"KINGAKU": 30720,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 45,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0043",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "BFダスト排出弁 シール",
+"SURYO": 2,
+"TANI": "個",
+"TANKA": 15360,
+"KINGAKU": 30720,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 46,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0044",
+"HACDT": "20110829",
+"TORICD": "T0201",
+"TORINM": "鷹羽ｴﾝｼﾞﾆｱﾘﾝｸﾞ(ｶ",
+"HINMEI": "弁用パッキン類",
+"KIKAKU": "一式",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 288000,
+"KINGAKU": 288000,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 47,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0045",
+"HACDT": "20110902",
+"TORICD": "T0310",
+"TORINM": "北嶺ﾌﾟﾗﾝﾄ工業(ｶ",
+"HINMEI": "2号炉定期整備工事",
+"KIKAKU": "工事仕様書による（足場・開放・整備・復旧）",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 5400000,
+"KINGAKU": 5400000,
+"NOUKI": "20111028",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 48,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0046",
+"HACDT": "20110904",
+"TORICD": "T0118",
+"TORINM": "三和珪砂(ｶ",
+"HINMEI": "珪砂 6号",
+"KIKAKU": "フレコン 1.5t",
+"SURYO": 6,
+"TANI": "袋",
+"TANKA": 33000,
+"KINGAKU": 198000,
+"NOUKI": "20111003",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02",
+"BIKO": "流動砂 補充"
+}
+},
+{
+"r": 49,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0047",
+"HACDT": "20110908",
+"TORICD": "T0560",
+"TORINM": "環境分析ｾﾝﾀｰ(ｶ",
+"HINMEI": "脱硝触媒 性能試験",
+"KIKAKU": "サンプル1層",
+"SURYO": 1,
+"TANI": "式",
+"TANKA": 480000,
+"KINGAKU": 480000,
+"NOUKI": "20110930",
+"YOSAN": "S-2-23-01",
+"KOJINO": "K23-02"
+}
+},
+{
+"r": 50,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0048",
+"HACDT": "20110918",
+"TORICD": "T0130",
+"TORINM": "炭化工業所(ｶ",
+"HINMEI": "粉末活性炭",
+"KIKAKU": "フレコン 500kg",
+"SURYO": 6,
+"TANI": "袋",
+"TANKA": 95000,
+"KINGAKU": 570000,
+"NOUKI": "20110926",
+"YOSAN": "S-0-23-11"
+}
+},
+{
+"r": 51,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0049",
+"HACDT": "20110920",
+"TORICD": "T0141",
+"TORINM": "港北化成(ｶ",
+"HINMEI": "アンモニア水 25%",
+"KIKAKU": "ローリー",
+"SURYO": 8,
+"TANI": "t",
+"TANKA": 40000,
+"KINGAKU": 320000,
+"NOUKI": "20110925",
+"YOSAN": "S-0-23-11"
+}
+},
+{
+"r": 52,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0050",
+"HACDT": "20111008",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20700,
+"KINGAKU": 621000,
+"NOUKI": "20111012",
+"YOSAN": "S-0-23-11"
+}
+},
+{
+"r": 53,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0051",
+"HACDT": "20111206",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20700,
+"KINGAKU": 621000,
+"NOUKI": "20111210",
+"YOSAN": "S-0-23-11"
+}
+},
+{
+"r": 54,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0052",
+"HACDT": "20120111",
+"TORICD": "T0130",
+"TORINM": "炭化工業所(ｶ",
+"HINMEI": "粉末活性炭",
+"KIKAKU": "フレコン 500kg",
+"SURYO": 6,
+"TANI": "袋",
+"TANKA": 95000,
+"KINGAKU": 570000,
+"NOUKI": "20120119",
+"YOSAN": "S-0-23-11"
+}
+},
+{
+"r": 55,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0053",
+"HACDT": "20120113",
+"TORICD": "T0141",
+"TORINM": "港北化成(ｶ",
+"HINMEI": "アンモニア水 25%",
+"KIKAKU": "ローリー",
+"SURYO": 8,
+"TANI": "t",
+"TANKA": 40000,
+"KINGAKU": 320000,
+"NOUKI": "20120118",
+"YOSAN": "S-0-23-11"
+}
+},
+{
+"r": 56,
+"kind": "item",
+"fields": {
+"HACNO": "H23-0054",
+"HACDT": "20120209",
+"TORICD": "T0112",
+"TORINM": "白浜石灰工業(ｶ",
+"HINMEI": "消石灰",
+"KIKAKU": "JIS特号 ローリー",
+"SURYO": 30,
+"TANI": "t",
+"TANKA": 20700,
+"KINGAKU": 621000,
+"NOUKI": "20120213",
+"YOSAN": "S-0-23-11"
+}
+}
+]
+}

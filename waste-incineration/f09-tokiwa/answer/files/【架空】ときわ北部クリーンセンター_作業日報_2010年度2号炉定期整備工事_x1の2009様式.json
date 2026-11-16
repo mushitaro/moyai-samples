@@ -1,0 +1,1057 @@
+{
+"file": "【架空】ときわ北部クリーンセンター_作業日報_2010年度2号炉定期整備工事_x1の2009様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "10.7",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-07",
+"weather": "晴",
+"place": "2号炉",
+"content": "ガス化炉・溶融炉まわり 足場組立、床養生",
+"people": 7,
+"time": "8:00～17:00",
+"manDays": 7.0,
+"manDaysText": "7名",
+"days": 1
+}
+},
+{
+"sheet": "10.7",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-07",
+"weather": "晴",
+"place": "2号炉",
+"content": "ガス化炉：マンホール開放、流動砂抜出し（約 6m³）",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5名",
+"days": 1
+}
+},
+{
+"sheet": "10.7",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2010-10-07",
+"weather": "晴",
+"place": "2号炉",
+"content": "ボイラ：マンホール・点検口開放",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.7",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-07",
+"people": 15
+}
+},
+{
+"sheet": "10.8",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-08",
+"weather": "晴",
+"place": "2号炉",
+"content": "ガス化炉：炉内清掃、散気ノズル摩耗測定（96 本中 9 本 交換基準超え）",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4名",
+"days": 1
+}
+},
+{
+"sheet": "10.8",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-08",
+"weather": "晴",
+"place": "2号炉",
+"content": "ボイラ：水管・過熱器 ダスト除去",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5名",
+"days": 1
+}
+},
+{
+"sheet": "10.8",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2010-10-08",
+"weather": "晴",
+"place": "2号炉",
+"content": "バグフィルタ：各室点検口開放、ろ布目視点検（6 室）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.8",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2010-10-08",
+"weather": "晴",
+"place": "2号炉",
+"content": "助燃バーナ 取外し・分解",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1名",
+"days": 1
+}
+},
+{
+"sheet": "10.8",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2010-10-08",
+"weather": "晴",
+"place": "2号炉",
+"content": "助燃バーナ 分解点検・組立（点火装置点検、良）",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1名",
+"days": 1
+}
+},
+{
+"sheet": "10.8",
+"r": 13,
+"kind": "item",
+"fields": {
+"date": "2010-10-08",
+"weather": "晴",
+"place": "2号炉",
+"content": "不燃物抜出装置B 取外し・分解",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.8",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-08",
+"people": 17
+}
+},
+{
+"sheet": "10.9",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-09",
+"weather": "晴",
+"place": "2号炉",
+"content": "ガス化炉：炉内耐火物点検、異常なし",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.9",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-09",
+"weather": "晴",
+"place": "2号炉",
+"content": "ボイラ：エコノマイザ ダスト除去、ドラム内部清掃",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4名",
+"days": 1
+}
+},
+{
+"sheet": "10.9",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2010-10-09",
+"weather": "晴",
+"place": "2号炉",
+"content": "バグフィルタ：パルス弁作動確認、点検口閉止",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.9",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2010-10-09",
+"weather": "晴",
+"place": "2号炉",
+"content": "不燃物抜出装置B 清掃・部品交換（スクリュー外径 φ337、羽根肉盛）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.9",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2010-10-09",
+"weather": "晴",
+"place": "2号炉",
+"content": "砂循環エレベータ 取外し・分解",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.9",
+"r": 13,
+"kind": "item",
+"fields": {
+"date": "2010-10-09",
+"weather": "晴",
+"place": "（丸越築炉）",
+"content": "旋回溶融炉：炉内点検、残存厚測定（側壁下段 最小 220mm）",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.9",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-09",
+"people": 16
+}
+},
+{
+"sheet": "10.9",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2010-10-09",
+"note": "残存厚測定（側壁下段 最小 220mm） を SPC へ報告。"
+}
+},
+{
+"sheet": "10.11",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-11",
+"weather": "晴",
+"place": "2号炉",
+"content": "ボイラ：肉厚測定（水管・過熱器・エコノマイザ）、過熱器 最小 4.0mm",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.11",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-11",
+"weather": "晴",
+"place": "2号炉",
+"content": "減温塔 噴霧ノズル 6 本取外し、摩耗点検",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.11",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2010-10-11",
+"weather": "晴",
+"place": "2号炉",
+"content": "不燃物抜出装置B 部品交換・組立",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.11",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2010-10-11",
+"weather": "晴",
+"place": "2号炉",
+"content": "砂循環エレベータ 清掃・部品交換（バケット交換 8 個）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.11",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2010-10-11",
+"weather": "晴",
+"place": "（丸越築炉）",
+"content": "旋回溶融炉：出滓口まわり 目視点検、目地補修",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.11",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-11",
+"people": 13
+}
+},
+{
+"sheet": "10.11",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2010-10-11",
+"note": "過熱器 最小 4.0mm を SPC へ報告。"
+}
+},
+{
+"sheet": "10.12",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-12",
+"weather": "晴",
+"place": "2号炉",
+"content": "減温塔：噴霧ノズル交換・取付",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.12",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-12",
+"weather": "晴",
+"place": "2号炉",
+"content": "不燃物抜出装置B 組立・芯出し",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.12",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2010-10-12",
+"weather": "晴",
+"place": "2号炉",
+"content": "砂循環エレベータ 組立・芯出し",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.12",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-12",
+"people": 9
+}
+},
+{
+"sheet": "10.13",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-13",
+"weather": "晴",
+"place": "2号炉",
+"content": "炉内水噴霧装置 取外し・分解",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.13",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-13",
+"weather": "晴",
+"place": "2号炉",
+"content": "出滓口加熱バーナ 取外し・分解",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1名",
+"days": 1
+}
+},
+{
+"sheet": "10.13",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2010-10-13",
+"weather": "晴",
+"place": "2号炉",
+"content": "出滓口加熱バーナ 分解点検・組立（バーナチップ交換）",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1名",
+"days": 1
+}
+},
+{
+"sheet": "10.13",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2010-10-13",
+"weather": "晴",
+"place": "2号炉",
+"content": "スラグ水砕コンベヤ 取外し・分解",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.13",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-13",
+"people": 8
+}
+},
+{
+"sheet": "10.14",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-14",
+"weather": "晴",
+"place": "2号炉",
+"content": "スートブロワ LR-2 取外し・分解",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.14",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-14",
+"weather": "晴",
+"place": "2号炉",
+"content": "炉内水噴霧装置 組立・芯出し",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.14",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2010-10-14",
+"weather": "晴",
+"place": "2号炉",
+"content": "スラグ水砕コンベヤ 清掃・部品交換（チェーン伸び 1.0%）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.14",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2010-10-14",
+"weather": "晴",
+"place": "2号炉",
+"content": "ボイラダストコンベヤ No.1 取外し・分解",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.14",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-14",
+"people": 10
+}
+},
+{
+"sheet": "10.15",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-15",
+"weather": "晴",
+"place": "2号炉",
+"content": "スートブロワ LR-2 組立・芯出し",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.15",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-15",
+"weather": "晴",
+"place": "2号炉",
+"content": "スラグ水砕コンベヤ 組立・芯出し",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.15",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2010-10-15",
+"weather": "晴",
+"place": "2号炉",
+"content": "ボイラダストコンベヤ No.1 組立・芯出し",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.15",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-15",
+"people": 8
+}
+},
+{
+"sheet": "10.16",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-16",
+"weather": "晴",
+"place": "2号炉",
+"content": "スートブロワ LR-6 取外し・分解",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.16",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-16",
+"weather": "晴",
+"place": "2号炉",
+"content": "BFダスト排出弁 No.1 取外し・分解",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1名",
+"days": 1
+}
+},
+{
+"sheet": "10.16",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2010-10-16",
+"weather": "晴",
+"place": "2号炉",
+"content": "BFダスト排出弁 No.1 分解点検・組立（ロータ・ケーシングすきま 0.2mm、調整）",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1名",
+"days": 1
+}
+},
+{
+"sheet": "10.16",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2010-10-16",
+"weather": "晴",
+"place": "2号炉",
+"content": "BFダスト排出弁 No.5 取外し・分解",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1名",
+"days": 1
+}
+},
+{
+"sheet": "10.16",
+"r": 12,
+"kind": "item",
+"fields": {
+"date": "2010-10-16",
+"weather": "晴",
+"place": "2号炉",
+"content": "BFダスト排出弁 No.5 分解点検・組立（シール交換）",
+"people": 1,
+"time": "8:00～17:00",
+"manDays": 1.0,
+"manDaysText": "1名",
+"days": 1
+}
+},
+{
+"sheet": "10.16",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-16",
+"people": 7
+}
+},
+{
+"sheet": "10.18",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-18",
+"weather": "晴",
+"place": "2号炉",
+"content": "ボイラ：マンホール・点検口閉止",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4名",
+"days": 1
+}
+},
+{
+"sheet": "10.18",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-18",
+"weather": "晴",
+"place": "2号炉",
+"content": "スートブロワ LR-6 組立・芯出し",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.18",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2010-10-18",
+"weather": "晴",
+"place": "2号炉",
+"content": "溶融炉燃焼用送風機 取外し・分解",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.18",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-18",
+"people": 9
+}
+},
+{
+"sheet": "10.19",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-19",
+"weather": "晴",
+"place": "2号炉",
+"content": "ボイラ：水張り・水圧試験（漏れなし）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.19",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-19",
+"weather": "晴",
+"place": "2号炉",
+"content": "溶融炉燃焼用送風機 部品点検・計測（羽根車ダスト付着、除去）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.19",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-19",
+"people": 6
+}
+},
+{
+"sheet": "10.20",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-20",
+"weather": "晴",
+"place": "2号炉",
+"content": "ガス化炉：マンホール閉止、珪砂投入（約 6m³）",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6名",
+"days": 1
+}
+},
+{
+"sheet": "10.20",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-20",
+"weather": "晴",
+"place": "2号炉",
+"content": "溶融炉燃焼用送風機 組立・芯出し",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.20",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-20",
+"people": 9
+}
+},
+{
+"sheet": "10.21",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-21",
+"weather": "晴",
+"place": "2号炉",
+"content": "足場解体（炉まわり）",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5名",
+"days": 1
+}
+},
+{
+"sheet": "10.21",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-21",
+"weather": "晴",
+"place": "2号炉",
+"content": "電動弁・調節弁 整備（燃料油流量調節弁、流動空気分配ダンパ No.2、二次燃焼空気調節弁）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.21",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2010-10-21",
+"weather": "晴",
+"place": "2号炉",
+"content": "単体試運転（整備機器）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.21",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-21",
+"people": 11
+}
+},
+{
+"sheet": "10.22",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-22",
+"weather": "晴",
+"place": "2号炉",
+"content": "足場解体・養生撤去・片付け",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6名",
+"days": 1
+}
+},
+{
+"sheet": "10.22",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-22",
+"weather": "晴",
+"place": "2号炉",
+"content": "電動弁・調節弁 整備（炉体冷却水流量調節弁、減温水調節弁、給水調節弁）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.22",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-22",
+"people": 9
+}
+},
+{
+"sheet": "10.23",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-23",
+"weather": "晴",
+"place": "2号炉",
+"content": "電動弁・調節弁 整備（主蒸気ドレン弁 No.2、安全弁（ドラム） No.2、BF室入口ダンパ No.4）",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4名",
+"days": 1
+}
+},
+{
+"sheet": "10.23",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2010-10-23",
+"weather": "晴",
+"place": "2号炉",
+"content": "残材搬出・清掃",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.23",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-23",
+"people": 7
+}
+},
+{
+"sheet": "10.26",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-26",
+"weather": "晴",
+"place": "2号炉",
+"content": "立上げ立会（漏れ・異音確認）",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.26",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-26",
+"people": 2
+}
+},
+{
+"sheet": "10.29",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2010-10-29",
+"weather": "晴",
+"place": "2号炉",
+"content": "定格運転確認",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.29",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2010-10-29",
+"people": 2
+}
+}
+]
+}

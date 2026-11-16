@@ -1,0 +1,534 @@
+{
+"file": "【架空】ときわ北部クリーンセンター_作業日報_2009年度1号炉定期整備工事_x1の2009様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "9.17",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-09-17",
+"weather": "晴",
+"place": "1号炉",
+"content": "炉室 足場組立・養生",
+"people": 7,
+"time": "8:00～17:00",
+"manDays": 7.0,
+"manDaysText": "7名",
+"days": 1
+}
+},
+{
+"sheet": "9.17",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2009-09-17",
+"weather": "晴",
+"place": "1号炉",
+"content": "ガス化炉：マンホール開放、流動砂抜出し（約 6m³）",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5名",
+"days": 1
+}
+},
+{
+"sheet": "9.17",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2009-09-17",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：マンホール・点検口開放",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "9.17",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-09-17",
+"people": 15
+}
+},
+{
+"sheet": "9.18",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-09-18",
+"weather": "晴",
+"place": "1号炉",
+"content": "ガス化炉：炉内清掃、散気ノズル摩耗測定（96 本中 4 本 交換基準超え）",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4名",
+"days": 1
+}
+},
+{
+"sheet": "9.18",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2009-09-18",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：水管・過熱器 ダスト除去",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5名",
+"days": 1
+}
+},
+{
+"sheet": "9.18",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2009-09-18",
+"weather": "晴",
+"place": "1号炉",
+"content": "バグフィルタ：各室点検口開放、ろ布目視点検（6 室）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "9.18",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-09-18",
+"people": 12
+}
+},
+{
+"sheet": "9.19",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-09-19",
+"weather": "晴",
+"place": "1号炉",
+"content": "ガス化炉：炉内耐火物点検、異常なし",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "9.19",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2009-09-19",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：エコノマイザ ダスト除去、ドラム内部清掃",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4名",
+"days": 1
+}
+},
+{
+"sheet": "9.19",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2009-09-19",
+"weather": "晴",
+"place": "1号炉",
+"content": "バグフィルタ：ろ布抜取（試験用 3 本）、予備ろ布取付、閉止",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "9.19",
+"r": 11,
+"kind": "item",
+"fields": {
+"date": "2009-09-19",
+"weather": "晴",
+"place": "（丸越築炉）",
+"content": "旋回溶融炉：炉内点検、残存厚測定（側壁下段 最小 230mm）",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "9.19",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-09-19",
+"people": 10
+}
+},
+{
+"sheet": "9.19",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2009-09-19",
+"note": "残存厚測定（側壁下段 最小 230mm） を SPC へ報告。"
+}
+},
+{
+"sheet": "9.21",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-09-21",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：肉厚測定（水管・過熱器・エコノマイザ）、過熱器 最小 4.0mm",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "9.21",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2009-09-21",
+"weather": "晴",
+"place": "1号炉",
+"content": "減温塔 噴霧ノズル 6 本取外し、摩耗点検",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "9.21",
+"r": 10,
+"kind": "item",
+"fields": {
+"date": "2009-09-21",
+"weather": "晴",
+"place": "（丸越築炉）",
+"content": "旋回溶融炉：出滓口まわり 目視点検、目地補修",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "9.21",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-09-21",
+"people": 7
+}
+},
+{
+"sheet": "9.21",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2009-09-21",
+"note": "過熱器 最小 4.0mm を SPC へ報告。"
+}
+},
+{
+"sheet": "9.22",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-09-22",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：定期事業者検査 内部検査（SPC 立会）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "9.22",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2009-09-22",
+"weather": "晴",
+"place": "1号炉",
+"content": "減温塔：噴霧ノズル交換・取付",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "9.22",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-09-22",
+"people": 5
+}
+},
+{
+"sheet": "9.22",
+"r": 20,
+"kind": "item",
+"fields": {
+"date": "2009-09-22",
+"note": "定期事業者検査 内部 終了。"
+}
+},
+{
+"sheet": "9.28",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-09-28",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：マンホール・点検口閉止",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4名",
+"days": 1
+}
+},
+{
+"sheet": "9.28",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-09-28",
+"people": 4
+}
+},
+{
+"sheet": "9.29",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-09-29",
+"weather": "晴",
+"place": "1号炉",
+"content": "ボイラ：水張り・水圧試験（漏れなし）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "9.29",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-09-29",
+"people": 3
+}
+},
+{
+"sheet": "9.30",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-09-30",
+"weather": "晴",
+"place": "1号炉",
+"content": "ガス化炉：マンホール閉止、珪砂投入（約 6m³）",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6名",
+"days": 1
+}
+},
+{
+"sheet": "9.30",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-09-30",
+"people": 6
+}
+},
+{
+"sheet": "10.1",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-10-01",
+"weather": "晴",
+"place": "1号炉",
+"content": "足場解体（炉まわり）",
+"people": 5,
+"time": "8:00～17:00",
+"manDays": 5.0,
+"manDaysText": "5名",
+"days": 1
+}
+},
+{
+"sheet": "10.1",
+"r": 9,
+"kind": "item",
+"fields": {
+"date": "2009-10-01",
+"weather": "晴",
+"place": "1号炉",
+"content": "単体試運転（整備機器）",
+"people": 3,
+"time": "8:00～17:00",
+"manDays": 3.0,
+"manDaysText": "3名",
+"days": 1
+}
+},
+{
+"sheet": "10.1",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-10-01",
+"people": 8
+}
+},
+{
+"sheet": "10.2",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-10-02",
+"weather": "晴",
+"place": "1号炉",
+"content": "足場解体・養生撤去・片付け",
+"people": 6,
+"time": "8:00～17:00",
+"manDays": 6.0,
+"manDaysText": "6名",
+"days": 1
+}
+},
+{
+"sheet": "10.2",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-10-02",
+"people": 6
+}
+},
+{
+"sheet": "10.3",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-10-03",
+"weather": "晴",
+"place": "1号炉",
+"content": "点検口閉止確認、片付け",
+"people": 4,
+"time": "8:00～17:00",
+"manDays": 4.0,
+"manDaysText": "4名",
+"days": 1
+}
+},
+{
+"sheet": "10.3",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-10-03",
+"people": 4
+}
+},
+{
+"sheet": "10.6",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-10-06",
+"weather": "晴",
+"place": "1号炉",
+"content": "立上げ立会（漏れ・異音確認）",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.6",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-10-06",
+"people": 2
+}
+},
+{
+"sheet": "10.9",
+"r": 8,
+"kind": "item",
+"fields": {
+"date": "2009-10-09",
+"weather": "晴",
+"place": "1号炉",
+"content": "定格運転確認",
+"people": 2,
+"time": "8:00～17:00",
+"manDays": 2.0,
+"manDaysText": "2名",
+"days": 1
+}
+},
+{
+"sheet": "10.9",
+"r": 18,
+"kind": "total",
+"fields": {
+"date": "2009-10-09",
+"people": 2
+}
+}
+]
+}
