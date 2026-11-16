@@ -1,0 +1,1493 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2026年度蒸気タービン精密点検工事_q2作業日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-20",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "タービン 車室開放 準備（保温材撤去）",
+"note": "",
+"crew": "機械D",
+"processNo": 2,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 20
+},
+"sheet": "1020",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-20",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1020",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-10-20",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1020",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ロータ 吊出し・点検",
+"note": "",
+"crew": "機械D",
+"processNo": 2,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 40
+},
+"sheet": "1021",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-21",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1021",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-10-21",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1021",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-22",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "軸受・グランド 点検",
+"note": "",
+"crew": "機械D",
+"processNo": 2,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 60
+},
+"sheet": "1022",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-22",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1022",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-10-22",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1022",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-23",
+"weather": "曇",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "軸受・グランド 点検",
+"note": "",
+"crew": "機械D",
+"processNo": 2,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 80
+},
+"sheet": "1023",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-23",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1023",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-10-23",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1023",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-24",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "上半車室 組立",
+"note": "",
+"crew": "機械D",
+"processNo": 2,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1024",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-24",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1024",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-10-24",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1024",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-26",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "上半車室 吊上げ",
+"note": "",
+"crew": "SV",
+"processNo": 3,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 10
+},
+"sheet": "1026",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-26",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "タービン 車室開放 準備（保温材撤去）",
+"note": "",
+"crew": "機械D",
+"processNo": 4,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 15
+},
+"sheet": "1026",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-26",
+"weather": "晴",
+"code": "0YN-110",
+"name": "グランド排風機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1026",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-26",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1026",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-26",
+"weather": "晴",
+"code": "0YN-150",
+"name": "タービンバイパス減温減圧装置",
+"work": "発電機 分解（エンドカバー）",
+"note": "",
+"crew": "電計2",
+"processNo": 5,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 20
+},
+"sheet": "1026",
+"r": 11
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-26",
+"company": "鳴瀬タービン",
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h"
+},
+"sheet": "1026",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-26",
+"company": "水樹テクノサービス",
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40.0",
+"manDaysUnit": "h"
+},
+"sheet": "1026",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-10-26",
+"people": 6,
+"manDays": 48.0,
+"manDaysUnit": "h"
+},
+"sheet": "1026",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-27",
+"weather": "曇",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "上半車室 吊上げ",
+"note": "",
+"crew": "SV",
+"processNo": 3,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 25
+},
+"sheet": "1027",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-27",
+"weather": "曇",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "ロータ 吊出し・点検",
+"note": "",
+"crew": "機械D",
+"processNo": 4,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "1027",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-27",
+"weather": "曇",
+"code": "0YN-110",
+"name": "グランド排風機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1027",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-27",
+"weather": "曇",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1027",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-27",
+"weather": "曇",
+"code": "0YN-150",
+"name": "タービンバイパス減温減圧装置",
+"work": "発電機 分解（エンドカバー）",
+"note": "",
+"crew": "電計2",
+"processNo": 5,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 40
+},
+"sheet": "1027",
+"r": 11
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-27",
+"company": "鳴瀬タービン",
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h"
+},
+"sheet": "1027",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-27",
+"company": "水樹テクノサービス",
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40.0",
+"manDaysUnit": "h"
+},
+"sheet": "1027",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-10-27",
+"people": 6,
+"manDays": 48.0,
+"manDaysUnit": "h"
+},
+"sheet": "1027",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-28",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ロータ 吊出し・点検",
+"note": "",
+"crew": "SV",
+"processNo": 3,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 40
+},
+"sheet": "1028",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-28",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "ノズル・動翼 点検",
+"note": "",
+"crew": "機械D",
+"processNo": 4,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "1028",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-28",
+"weather": "晴",
+"code": "0YN-110",
+"name": "グランド排風機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1028",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-28",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1028",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-28",
+"weather": "晴",
+"code": "0YN-150",
+"name": "タービンバイパス減温減圧装置",
+"work": "絶縁診断",
+"note": "",
+"crew": "電計2",
+"processNo": 5,
+"people": 2,
+"manDays": 18.0,
+"manDaysText": "18.0",
+"manDaysUnit": "h",
+"progress": 60
+},
+"sheet": "1028",
+"r": 11
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-28",
+"company": "鳴瀬タービン",
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h"
+},
+"sheet": "1028",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-28",
+"company": "水樹テクノサービス",
+"people": 5,
+"manDays": 42.0,
+"manDaysText": "42.0",
+"manDaysUnit": "h"
+},
+"sheet": "1028",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-10-28",
+"people": 7,
+"manDays": 58.0,
+"manDaysUnit": "h"
+},
+"sheet": "1028",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-29",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ロータ 吊出し・点検",
+"note": "",
+"crew": "SV",
+"processNo": 3,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "1029",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-29",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "非破壊検査（PT・UT）",
+"note": "",
+"crew": "機械D",
+"processNo": 4,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "1029",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-29",
+"weather": "晴",
+"code": "0YN-110",
+"name": "グランド排風機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1029",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-29",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1029",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-29",
+"weather": "晴",
+"code": "0YN-150",
+"name": "タービンバイパス減温減圧装置",
+"work": "復旧",
+"note": "",
+"crew": "電計2",
+"processNo": 5,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 80
+},
+"sheet": "1029",
+"r": 11
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-29",
+"company": "鳴瀬タービン",
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h"
+},
+"sheet": "1029",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-29",
+"company": "水樹テクノサービス",
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h"
+},
+"sheet": "1029",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-10-29",
+"people": 7,
+"manDays": 56.0,
+"manDaysUnit": "h"
+},
+"sheet": "1029",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-30",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "非破壊検査（PT・UT）",
+"note": "",
+"crew": "SV",
+"processNo": 3,
+"people": 1,
+"manDays": 9.5,
+"manDaysText": "9.5",
+"manDaysUnit": "h",
+"progress": 60
+},
+"sheet": "1030",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-30",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "軸受・グランド 点検",
+"note": "",
+"crew": "機械D",
+"processNo": 4,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 85
+},
+"sheet": "1030",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-30",
+"weather": "晴",
+"code": "0YN-110",
+"name": "グランド排風機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1030",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-30",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1030",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-30",
+"weather": "晴",
+"code": "0YN-150",
+"name": "タービンバイパス減温減圧装置",
+"work": "組立",
+"note": "",
+"crew": "電計2",
+"processNo": 5,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1030",
+"r": 11
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-30",
+"company": "鳴瀬タービン",
+"people": 1,
+"manDays": 9.5,
+"manDaysText": "9.5",
+"manDaysUnit": "h"
+},
+"sheet": "1030",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-30",
+"company": "水樹テクノサービス",
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40.0",
+"manDaysUnit": "h"
+},
+"sheet": "1030",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-10-30",
+"people": 6,
+"manDays": 49.5,
+"manDaysUnit": "h"
+},
+"sheet": "1030",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-31",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "非破壊検査（PT・UT）",
+"note": "",
+"crew": "SV",
+"processNo": 3,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 75
+},
+"sheet": "1031",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-31",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "組立・芯出し",
+"note": "",
+"crew": "機械D",
+"processNo": 4,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1031",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-31",
+"weather": "晴",
+"code": "0YN-110",
+"name": "グランド排風機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1031",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-10-31",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1031",
+"r": 10
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-31",
+"company": "鳴瀬タービン",
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h"
+},
+"sheet": "1031",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-10-31",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1031",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-10-31",
+"people": 4,
+"manDays": 32.0,
+"manDaysUnit": "h"
+},
+"sheet": "1031",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-02",
+"weather": "曇時々雨",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "上半車室 組立",
+"note": "",
+"crew": "SV",
+"processNo": 3,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 90
+},
+"sheet": "1102",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-11-02",
+"company": "鳴瀬タービン",
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h"
+},
+"sheet": "1102",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-11-02",
+"people": 1,
+"manDays": 8.0,
+"manDaysUnit": "h"
+},
+"sheet": "1102",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-03",
+"weather": "晴のち曇",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "上半車室 組立",
+"note": "",
+"crew": "SV",
+"processNo": 3,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1103",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-11-03",
+"company": "鳴瀬タービン",
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h"
+},
+"sheet": "1103",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-11-03",
+"people": 1,
+"manDays": 8.0,
+"manDaysUnit": "h"
+},
+"sheet": "1103",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-04",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "タービン 車室開放 準備（保温材撤去）",
+"note": "",
+"crew": "機械D",
+"processNo": 6,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 20
+},
+"sheet": "1104",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-04",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1104",
+"r": 8
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-11-04",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1104",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-11-04",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1104",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-05",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ロータ 吊出し・点検",
+"note": "",
+"crew": "機械D",
+"processNo": 6,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 40
+},
+"sheet": "1105",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-05",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1105",
+"r": 8
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-11-05",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1105",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-11-05",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1105",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-06",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "軸受・グランド 点検",
+"note": "",
+"crew": "機械D",
+"processNo": 6,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 60
+},
+"sheet": "1106",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-06",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1106",
+"r": 8
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-11-06",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1106",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-11-06",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1106",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-07",
+"weather": "雨",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "軸受・グランド 点検",
+"note": "",
+"crew": "機械D",
+"processNo": 6,
+"people": 4,
+"manDays": 38.0,
+"manDaysText": "38.0",
+"manDaysUnit": "h",
+"progress": 80
+},
+"sheet": "1107",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-07",
+"weather": "雨",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1107",
+"r": 8
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-11-07",
+"company": "水樹テクノサービス",
+"people": 4,
+"manDays": 38.0,
+"manDaysText": "38.0",
+"manDaysUnit": "h"
+},
+"sheet": "1107",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-11-07",
+"people": 4,
+"manDays": 38.0,
+"manDaysUnit": "h"
+},
+"sheet": "1107",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-09",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "上半車室 組立",
+"note": "",
+"crew": "機械D",
+"processNo": 6,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1109",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-09",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1109",
+"r": 8
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-11-09",
+"company": "水樹テクノサービス",
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h"
+},
+"sheet": "1109",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-11-09",
+"people": 4,
+"manDays": 32.0,
+"manDaysUnit": "h"
+},
+"sheet": "1109",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-10",
+"weather": "雨",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ボイラ定期事業者検査 受検（立会）",
+"note": "",
+"crew": "機械D",
+"processNo": 7,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 25
+},
+"sheet": "1110",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-11-10",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1110",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-11-10",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1110",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-11",
+"weather": "曇",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ボイラ定期事業者検査 受検（立会）",
+"note": "",
+"crew": "機械D",
+"processNo": 7,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "1111",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-11-11",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1111",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-11-11",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1111",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-12",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ボイラ定期事業者検査 受検（立会）",
+"note": "",
+"crew": "機械D",
+"processNo": 7,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 75
+},
+"sheet": "1112",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-11-12",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1112",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-11-12",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1112",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2026-11-13",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ボイラ定期事業者検査 受検（立会）",
+"note": "",
+"crew": "機械D",
+"processNo": 7,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1113",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2026-11-13",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "1113",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2026-11-13",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "1113",
+"r": 20
+}
+]
+}

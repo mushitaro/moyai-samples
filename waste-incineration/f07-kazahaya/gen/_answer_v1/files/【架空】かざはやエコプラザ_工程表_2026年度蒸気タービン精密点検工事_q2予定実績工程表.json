@@ -1,0 +1,132 @@
+{
+"file": "【架空】かざはやエコプラザ_工程表_2026年度蒸気タービン精密点検工事_q2予定実績工程表.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"processNo": 1,
+"name": "タービン停止・ターニング・冷却",
+"codes": [],
+"crew": "SPC運転",
+"people": null,
+"planStart": "2026-10-18",
+"planEnd": "2026-10-19",
+"actualStart": "2026-10-18",
+"actualEnd": "2026-10-19"
+},
+"sheet": "工程表",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 2,
+"name": "蒸気タービン 車室開放・ロータ吊出し",
+"codes": [
+"0YN-010"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2026-10-20",
+"planEnd": "2026-10-24",
+"actualStart": "2026-10-20",
+"actualEnd": "2026-10-24"
+},
+"sheet": "工程表",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 3,
+"name": "ロータ・ノズル・軸受 精密点検（非破壊検査含む）",
+"codes": [
+"0YN-010"
+],
+"crew": "SV",
+"people": 1,
+"planStart": "2026-10-26",
+"planEnd": "2026-11-03",
+"actualStart": "2026-10-26",
+"actualEnd": "2026-11-03"
+},
+"sheet": "工程表",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 4,
+"name": "減速機・調速装置・主蒸気止め弁油筒 分解点検",
+"codes": [
+"0YN-020",
+"0YN-110",
+"0YN-120"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2026-10-26",
+"planEnd": "2026-10-31",
+"actualStart": "2026-10-26",
+"actualEnd": "2026-10-31"
+},
+"sheet": "工程表",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 5,
+"name": "発電機 分解点検",
+"codes": [
+"0YN-150"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2026-10-26",
+"planEnd": "2026-10-30",
+"actualStart": "2026-10-26",
+"actualEnd": "2026-10-30"
+},
+"sheet": "工程表",
+"r": 16
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 6,
+"name": "組立・芯出し",
+"codes": [
+"0YN-010",
+"0YN-020"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2026-11-04",
+"planEnd": "2026-11-09",
+"actualStart": "2026-11-04",
+"actualEnd": "2026-11-09"
+},
+"sheet": "工程表",
+"r": 18
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 7,
+"name": "定期事業者検査（立会）・試運転・併入",
+"codes": [
+"0YN-010"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2026-11-10",
+"planEnd": "2026-11-20",
+"actualStart": "2026-11-10"
+},
+"sheet": "工程表",
+"r": 20
+}
+]
+}

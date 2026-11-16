@@ -1,0 +1,238 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2016年度全炉停止時共通設備点検整備工事_q1工事日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"sheet": "9.20",
+"r": 9,
+"fields": {
+"date": "2016-09-20",
+"weather": "晴",
+"company": "【架空】風早電設",
+"job": "電気",
+"people": 17,
+"section": "出面"
+}
+},
+{
+"kind": "total",
+"sheet": "9.20",
+"r": 10,
+"fields": {
+"date": "2016-09-20",
+"people": 17,
+"cumulative": 17,
+"section": "出面"
+}
+},
+{
+"kind": "item",
+"sheet": "9.20",
+"r": 13,
+"fields": {
+"date": "2016-09-20",
+"weather": "晴",
+"work": "全停電 年次点検、保護継電器試験",
+"section": "作業内容"
+}
+},
+{
+"kind": "item",
+"sheet": "9.20",
+"r": 14,
+"fields": {
+"date": "2016-09-20",
+"weather": "晴",
+"work": "非常用発電機 年次点検",
+"section": "作業内容"
+}
+},
+{
+"kind": "item",
+"sheet": "9.21",
+"r": 9,
+"fields": {
+"date": "2016-09-21",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 6,
+"section": "出面"
+}
+},
+{
+"kind": "total",
+"sheet": "9.21",
+"r": 10,
+"fields": {
+"date": "2016-09-21",
+"people": 6,
+"cumulative": 23,
+"section": "出面"
+}
+},
+{
+"kind": "item",
+"sheet": "9.21",
+"r": 13,
+"fields": {
+"date": "2016-09-21",
+"weather": "晴",
+"work": "高圧蒸気だめ 定期自主検査",
+"section": "作業内容"
+}
+},
+{
+"kind": "item",
+"sheet": "9.21",
+"r": 14,
+"fields": {
+"date": "2016-09-21",
+"weather": "晴",
+"work": "脱気器 開放（マンホール・トレイ取外し）",
+"section": "作業内容"
+}
+},
+{
+"kind": "item",
+"sheet": "9.23",
+"r": 9,
+"fields": {
+"date": "2016-09-23",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 7,
+"section": "出面"
+}
+},
+{
+"kind": "total",
+"sheet": "9.23",
+"r": 10,
+"fields": {
+"date": "2016-09-23",
+"people": 7,
+"cumulative": 30,
+"section": "出面"
+}
+},
+{
+"kind": "item",
+"sheet": "9.23",
+"r": 13,
+"fields": {
+"date": "2016-09-23",
+"weather": "晴",
+"work": "内部清掃・点検",
+"section": "作業内容"
+}
+},
+{
+"kind": "item",
+"sheet": "9.23",
+"r": 14,
+"fields": {
+"date": "2016-09-23",
+"weather": "晴",
+"work": "低圧蒸気だめ 定期自主検査",
+"section": "作業内容"
+}
+},
+{
+"kind": "item",
+"sheet": "9.24",
+"r": 9,
+"fields": {
+"date": "2016-09-24",
+"weather": "雨",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+}
+},
+{
+"kind": "total",
+"sheet": "9.24",
+"r": 10,
+"fields": {
+"date": "2016-09-24",
+"people": 3,
+"cumulative": 33,
+"section": "出面"
+}
+},
+{
+"kind": "item",
+"sheet": "9.24",
+"r": 13,
+"fields": {
+"date": "2016-09-24",
+"weather": "雨",
+"work": "検査 受検",
+"section": "作業内容"
+}
+},
+{
+"kind": "item",
+"sheet": "9.26",
+"r": 9,
+"fields": {
+"date": "2016-09-26",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+}
+},
+{
+"kind": "item",
+"sheet": "9.26",
+"r": 10,
+"fields": {
+"date": "2016-09-26",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "電気",
+"people": 2,
+"section": "出面"
+}
+},
+{
+"kind": "total",
+"sheet": "9.26",
+"r": 11,
+"fields": {
+"date": "2016-09-26",
+"people": 5,
+"cumulative": 38,
+"section": "出面"
+}
+},
+{
+"kind": "item",
+"sheet": "9.26",
+"r": 14,
+"fields": {
+"date": "2016-09-26",
+"weather": "晴",
+"work": "マンホール閉止",
+"section": "作業内容"
+}
+},
+{
+"kind": "item",
+"sheet": "9.26",
+"r": 15,
+"fields": {
+"date": "2016-09-26",
+"weather": "晴",
+"work": "復旧作業、単体試運転（送風機・ポンプ類）",
+"section": "作業内容"
+}
+}
+]
+}

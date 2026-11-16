@@ -1,0 +1,288 @@
+{
+"file": "【架空】かざはやエコプラザ_工程表_2023年度全炉停止時共通設備点検整備工事_q2予定実績工程表.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"processNo": 1,
+"name": "2号炉立下げ・全炉停止／タービン停止・ターニング",
+"codes": [],
+"crew": "SPC運転",
+"people": null,
+"planStart": "2023-10-13",
+"planEnd": "2023-10-14",
+"actualStart": "2023-10-13",
+"actualEnd": "2023-10-14"
+},
+"sheet": "工程表",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 2,
+"name": "停電作業準備（仮設電源・縁切り）",
+"codes": [],
+"crew": "電計2",
+"people": 2,
+"planStart": "2023-10-14",
+"planEnd": "2023-10-14",
+"actualStart": "2023-10-14",
+"actualEnd": "2023-10-14"
+},
+"sheet": "工程表",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 3,
+"name": "受変電設備 年次点検（全停電 8:00–17:00）",
+"codes": [
+"0DE-010",
+"0DE-020",
+"0DE-030",
+"0DE-040",
+"0DE-050",
+"0DE-060",
+"0DE-070",
+"0DE-080",
+"0DE-090",
+"0DE-100",
+"0DE-110",
+"0DE-130",
+"0DE-140",
+"0DE-150",
+"0DE-160",
+"0YN-180"
+],
+"crew": "受変電",
+"people": 8,
+"planStart": "2023-10-15",
+"planEnd": "2023-10-15",
+"actualStart": "2023-10-15",
+"actualEnd": "2023-10-15"
+},
+"sheet": "工程表",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 4,
+"name": "非常用発電機 年次点検（負荷試験）",
+"codes": [
+"0DE-270"
+],
+"crew": "受変電",
+"people": 8,
+"planStart": "2023-10-15",
+"planEnd": "2023-10-15",
+"actualStart": "2023-10-15",
+"actualEnd": "2023-10-15"
+},
+"sheet": "工程表",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 5,
+"name": "タービン主油ポンプ 分解整備",
+"codes": [
+"0YN-030"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2023-10-16",
+"planEnd": "2023-10-17",
+"actualStart": "2023-10-16",
+"actualEnd": "2023-10-17"
+},
+"sheet": "工程表",
+"r": 16
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 6,
+"name": "空冷復水器 フィン洗浄・目視点検",
+"codes": [
+"0YN-210"
+],
+"crew": "洗浄",
+"people": 4,
+"planStart": "2023-10-16",
+"planEnd": "2023-10-18",
+"actualStart": "2023-10-16",
+"actualEnd": "2023-10-18"
+},
+"sheet": "工程表",
+"r": 18
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 7,
+"name": "空冷復水器ファン4 分解整備",
+"codes": [
+"0YN-250"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2023-10-18",
+"planEnd": "2023-10-18",
+"actualStart": "2023-10-18",
+"actualEnd": "2023-10-18"
+},
+"sheet": "工程表",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 8,
+"name": "空冷復水器ファン減速機3 分解整備（軸受交換）",
+"codes": [
+"0YN-300"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2023-10-19",
+"planEnd": "2023-10-20",
+"actualStart": "2023-10-19",
+"actualEnd": "2023-10-21",
+"note": "減速機3 組立後の軸端振れ 0.08mm → 10/21 芯出し再調整"
+},
+"sheet": "工程表",
+"r": 22
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 9,
+"name": "脱気器 開放・性能検査受検・復旧",
+"codes": [
+"0YN-400"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2023-10-16",
+"planEnd": "2023-10-20",
+"actualStart": "2023-10-16",
+"actualEnd": "2023-10-20"
+},
+"sheet": "工程表",
+"r": 24
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 10,
+"name": "高圧・低圧蒸気だめ 定期自主検査",
+"codes": [
+"0YN-190",
+"0YN-200"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2023-10-17",
+"planEnd": "2023-10-17",
+"actualStart": "2023-10-17",
+"actualEnd": "2023-10-17"
+},
+"sheet": "工程表",
+"r": 26
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 11,
+"name": "復水ポンプA電動機 軸受交換",
+"codes": [
+"0YN-350M"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2023-10-18",
+"planEnd": "2023-10-18",
+"actualStart": "2023-10-18",
+"actualEnd": "2023-10-18"
+},
+"sheet": "工程表",
+"r": 28
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 12,
+"name": "脱気器給水ポンプB・機器冷却水ポンプB 分解整備",
+"codes": [
+"0YN-420",
+"0KY-060"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2023-10-20",
+"planEnd": "2023-10-21",
+"actualStart": "2023-10-20",
+"actualEnd": "2023-10-21"
+},
+"sheet": "工程表",
+"r": 30
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 13,
+"name": "復旧・通電確認・単体試運転",
+"codes": [],
+"crew": "電計2",
+"people": 2,
+"planStart": "2023-10-21",
+"planEnd": "2023-10-21",
+"actualStart": "2023-10-21",
+"actualEnd": "2023-10-21"
+},
+"sheet": "工程表",
+"r": 32
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 14,
+"name": "2号炉立上げ・タービン起動（併入 10/23）",
+"codes": [],
+"crew": "SPC運転",
+"people": null,
+"planStart": "2023-10-22",
+"planEnd": "2023-10-22",
+"actualStart": "2023-10-22",
+"actualEnd": "2023-10-22"
+},
+"sheet": "工程表",
+"r": 34
+},
+{
+"kind": "item",
+"fields": {
+"section": "特記",
+"date": "2023-10-19",
+"text": "減速機3 低速段歯面に軽微なピッチング → 継続使用、2025に歯車交換を提言"
+},
+"sheet": "工程表",
+"r": 40
+},
+{
+"kind": "item",
+"fields": {
+"section": "特記",
+"date": "2023-10-20",
+"text": "減速機3 組立後の軸端振れ 0.08mm（基準0.05）→ 10/21 芯出し再調整"
+},
+"sheet": "工程表",
+"r": 41
+}
+]
+}

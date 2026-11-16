@@ -1,0 +1,688 @@
+{
+"file": "【架空】かざはやエコプラザ_工事報告書_2025年度全炉停止時共通設備点検整備工事_SPC様式.pdf",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0YN-180",
+"name": "発電機盤",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 0
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-010",
+"name": "受電盤（特別高圧）",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 1
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-020",
+"name": "主変圧器",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 2
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-030",
+"name": "系統連系保護盤",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 3
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-040",
+"name": "高圧配電盤（受電）",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 4
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-050",
+"name": "高圧配電盤（連絡）",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 5
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-060",
+"name": "高圧配電盤（発電機）",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 6
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-070",
+"name": "高圧配電盤（所内1）",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 7
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-080",
+"name": "高圧配電盤（所内2）",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 8
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-090",
+"name": "高圧配電盤IDF1",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 9
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-100",
+"name": "高圧配電盤IDF2",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 10
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-110",
+"name": "高圧配電盤（予備）",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 11
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-130",
+"name": "所内変圧器（プラント1）",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 12
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-140",
+"name": "所内変圧器（プラント2）",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 13
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-150",
+"name": "所内変圧器（共通）",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 14
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-160",
+"name": "所内変圧器（建築）",
+"kubun": "法定",
+"work": "年次点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 15
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-180",
+"name": "低圧主幹盤2",
+"kubun": "点検",
+"work": "盤内精密点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 16
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0DE-270",
+"name": "非常用発電機",
+"kubun": "法定",
+"work": "年次点検（負荷試験）",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 17
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0KS-010",
+"name": "DCSオペレータステーション1",
+"kubun": "点検",
+"work": "ハード定期点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 18
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0KS-050",
+"name": "DCSエンジニアリングステーション",
+"kubun": "点検",
+"work": "ハード定期点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 19
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0KY-050",
+"name": "機器冷却水ポンプA",
+"kubun": "整備",
+"work": "ポンプ分解整備",
+"result": "振動 3.9→1.7mm/s 良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 20
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0YN-210",
+"name": "空冷式復水器",
+"kubun": "点検",
+"work": "フィン洗浄・目視点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 21
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0YN-280",
+"name": "空冷復水器ファン減速機1",
+"kubun": "整備",
+"work": "減速機分解整備",
+"result": "振動 3.1→1.3mm/s 良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 22
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0YN-290",
+"name": "空冷復水器ファン減速機2",
+"kubun": "整備",
+"work": "減速機分解整備",
+"result": "振動 3.2→1.4mm/s 良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 23
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0YN-400",
+"name": "脱気器",
+"kubun": "法定",
+"work": "性能検査",
+"result": "合格",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 24
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0YN-410",
+"name": "脱気器給水ポンプA",
+"kubun": "整備",
+"work": "ポンプ分解整備",
+"result": "振動 4.8→2.0mm/s 良（手直し後 良）",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 25
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0YN-530",
+"name": "発電電力量計",
+"kubun": "更新",
+"work": "検出器更新",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 26
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0YN-370M",
+"name": "真空ポンプA 電動機",
+"kubun": "整備",
+"work": "電動機軸受交換",
+"result": "振動 4.8→1.3mm/s 良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 27
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0KS-020",
+"name": "DCSオペレータステーション2",
+"kubun": "点検",
+"work": "ハード定期点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 28
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0KS-060",
+"name": "共通DCSコントローラ盤1",
+"kubun": "点検",
+"work": "ハード定期点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 29
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0KS-030",
+"name": "DCSオペレータステーション3",
+"kubun": "点検",
+"work": "ハード定期点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 30
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0KS-070",
+"name": "共通DCSコントローラ盤2",
+"kubun": "点検",
+"work": "ハード定期点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 31
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0YN-190",
+"name": "高圧蒸気だめ",
+"kubun": "法定",
+"work": "定期自主検査",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 32
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0YN-240M",
+"name": "空冷復水器ファン3 電動機",
+"kubun": "点検",
+"work": "絶縁診断",
+"result": "PI 3.7、tanδ 1.0% 良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 33
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0KS-040",
+"name": "DCSオペレータステーション4",
+"kubun": "点検",
+"work": "ハード定期点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 34
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0KS-080",
+"name": "データロガ・帳票装置",
+"kubun": "点検",
+"work": "ハード定期点検",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 35
+},
+{
+"kind": "item",
+"fields": {
+"section": "サマリー",
+"code": "0YN-200",
+"name": "低圧蒸気だめ",
+"kubun": "法定",
+"work": "定期自主検査",
+"result": "良",
+"pmnavi": "済",
+"contract": "【架空】2025年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 36
+},
+{
+"kind": "item",
+"fields": {
+"section": "変更・追加",
+"label": "手直し",
+"text": "9/23 脱気器給水ポンプA ポンプ分解整備：気密試験で漏れ → 再調整（手直し 1日）。",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 37
+},
+{
+"kind": "item",
+"fields": {
+"section": "次回への提言",
+"label": "高圧配電盤（受電）",
+"text": "次回 2031年度 VCB更新（長期修繕計画どおり）。",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 38
+},
+{
+"kind": "item",
+"fields": {
+"section": "次回への提言",
+"label": "高圧配電盤（連絡）",
+"text": "次回 2031年度 VCB更新（長期修繕計画どおり）。",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 39
+},
+{
+"kind": "item",
+"fields": {
+"section": "次回への提言",
+"label": "高圧配電盤（発電機）",
+"text": "次回 2031年度 VCB更新（長期修繕計画どおり）。",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 40
+},
+{
+"kind": "item",
+"fields": {
+"section": "次回への提言",
+"label": "高圧配電盤（所内1）",
+"text": "次回 2031年度 VCB更新（長期修繕計画どおり）。",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 41
+},
+{
+"kind": "item",
+"fields": {
+"section": "測定結果",
+"table": "回転機の振動（整備前・整備後）",
+"保全ｺｰﾄﾞ": "0KY-050",
+"機器": "機器冷却水ポンプA",
+"項目": "軸受振動（速度 rms）",
+"整備前": "3.9 mm/s",
+"整備後": "1.7 mm/s",
+"基準": "4.5 以下",
+"判定": "良",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 42
+},
+{
+"kind": "item",
+"fields": {
+"section": "測定結果",
+"table": "回転機の振動（整備前・整備後）",
+"保全ｺｰﾄﾞ": "0YN-410",
+"機器": "脱気器給水ポンプA",
+"項目": "軸受振動（速度 rms）",
+"整備前": "4.8 mm/s",
+"整備後": "2.0 mm/s",
+"基準": "4.5 以下",
+"判定": "良",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 43
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用部品・材料",
+"品名": "空冷復水器ファン減速機 軸受一式",
+"仕様・型式": "1台分",
+"手配": "SPC支給",
+"数量": "2式",
+"使用": "2式",
+"予備・残": "—",
+"保管・扱い": "",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 44
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用部品・材料",
+"品名": "メカシール・軸受（ポンプ類）",
+"仕様・型式": "純正",
+"手配": "受注者",
+"数量": "1式",
+"使用": "1式",
+"予備・残": "—",
+"保管・扱い": "",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 45
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用部品・材料",
+"品名": "電動機軸受",
+"仕様・型式": "6312ZZ ほか",
+"手配": "受注者",
+"数量": "1式",
+"使用": "1式",
+"予備・残": "—",
+"保管・扱い": "",
+"reportNo": "KZ-2025-H-015"
+},
+"seq": 46
+}
+]
+}

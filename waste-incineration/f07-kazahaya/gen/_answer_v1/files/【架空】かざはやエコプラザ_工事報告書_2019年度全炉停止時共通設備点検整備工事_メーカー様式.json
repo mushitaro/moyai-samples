@@ -1,0 +1,474 @@
+{
+"file": "【架空】かざはやエコプラザ_工事報告書_2019年度全炉停止時共通設備点検整備工事_メーカー様式.pdf",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 1,
+"name": "2号炉立下げ・全炉停止／タービン停止・ターニング",
+"plan": "9/18～9/19",
+"actual": "9/18～9/19",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 0
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 2,
+"name": "停電作業準備（仮設電源・縁切り）",
+"plan": "9/19～9/19",
+"actual": "9/19～9/19",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 1
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 3,
+"name": "受変電設備 年次点検（全停電）",
+"plan": "9/20～9/20",
+"actual": "9/20～9/20",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 2
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 4,
+"name": "非常用発電機 年次点検（負荷試験）",
+"plan": "9/20～9/20",
+"actual": "9/20～9/20",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 3
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 5,
+"name": "機器冷却水ポンプA ポンプ分解整備",
+"plan": "9/21～9/24",
+"actual": "9/21～9/24",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 4
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 6,
+"name": "タービン補助油ポンプ 分解整備",
+"plan": "9/21～9/24",
+"actual": "9/21～9/24",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 5
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 7,
+"name": "タービン非常用油ポンプ 分解整備",
+"plan": "9/21～9/24",
+"actual": "9/21～9/24",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 6
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 8,
+"name": "タービン油冷却器B 分解整備",
+"plan": "9/21～9/24",
+"actual": "9/21～9/24",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 7
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 9,
+"name": "低圧蒸気だめ 定期自主検査",
+"plan": "9/21～9/21",
+"actual": "9/21～9/21",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 8
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 10,
+"name": "空冷式復水器 フィン洗浄・目視点検",
+"plan": "9/21～9/25",
+"actual": "9/21～9/25",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 9
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 11,
+"name": "空冷復水器ファン3 分解整備",
+"plan": "9/21～9/24",
+"actual": "9/21～9/24",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 10
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 12,
+"name": "空冷復水器ファン6 分解整備",
+"plan": "9/21～9/24",
+"actual": "9/21～9/24",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 11
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 13,
+"name": "脱気器 開放・性能検査受検・復旧",
+"plan": "9/21～9/26",
+"actual": "9/21～9/26",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 12
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 14,
+"name": "脱気器給水ポンプA ポンプ分解整備",
+"plan": "9/21～9/24",
+"actual": "9/21～9/24",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 13
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 15,
+"name": "脱酸素剤注入ポンプA 分解整備",
+"plan": "9/21～9/24",
+"actual": "9/21～9/24",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 14
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 16,
+"name": "空冷復水器ファン3 電動機 絶縁診断",
+"plan": "9/21～9/21",
+"actual": "9/21～9/21",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 15
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 17,
+"name": "高圧蒸気だめ 定期自主検査",
+"plan": "9/25～9/25",
+"actual": "9/25～9/25",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 16
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 18,
+"name": "復旧・通電確認・単体試運転",
+"plan": "9/26～9/26",
+"actual": "9/26～9/26",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 17
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 19,
+"name": "2号炉立上げ・タービン起動",
+"plan": "9/27～9/27",
+"actual": "9/27～9/27",
+"note": "",
+"contract": "【架空】2019年度 かざはやエコプラザ 全炉停止時共通設備点検整備工事"
+},
+"seq": 18
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "1",
+"equipment": "発電機盤・受電盤（特別高圧）・主変圧器ほか",
+"work": "受変電設備 年次点検（全停電）",
+"result": "良"
+},
+"seq": 19
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "2",
+"equipment": "非常用発電機",
+"work": "非常用発電機 年次点検（負荷試験）",
+"result": "良"
+},
+"seq": 20
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "3",
+"equipment": "機器冷却水ポンプA",
+"work": "機器冷却水ポンプA ポンプ分解整備",
+"result": "振動 3.1→1.9mm/s 良"
+},
+"seq": 21
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "4",
+"equipment": "タービン補助油ポンプ",
+"work": "タービン補助油ポンプ 分解整備",
+"result": "振動 5.2→1.9mm/s 良"
+},
+"seq": 22
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "5",
+"equipment": "タービン非常用油ポンプ",
+"work": "タービン非常用油ポンプ 分解整備",
+"result": "振動 4.4→1.8mm/s 良"
+},
+"seq": 23
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "6",
+"equipment": "タービン油冷却器B",
+"work": "タービン油冷却器B 分解整備",
+"result": "良"
+},
+"seq": 24
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "7",
+"equipment": "低圧蒸気だめ",
+"work": "低圧蒸気だめ 定期自主検査",
+"result": "良"
+},
+"seq": 25
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "8",
+"equipment": "ACC（空冷復水器）",
+"work": "空冷式復水器 フィン洗浄・目視点検",
+"result": "良"
+},
+"seq": 26
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "9",
+"equipment": "ACCファン3",
+"work": "空冷復水器ファン3 分解整備",
+"result": "振動 5.1→1.7mm/s 良"
+},
+"seq": 27
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "10",
+"equipment": "ACCファン6",
+"work": "空冷復水器ファン6 分解整備",
+"result": "振動 3.1→1.4mm/s 良"
+},
+"seq": 28
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "11",
+"equipment": "脱気器",
+"work": "脱気器 開放・性能検査受検・復旧",
+"result": "合格"
+},
+"seq": 29
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "12",
+"equipment": "脱気器給水ポンプA",
+"work": "脱気器給水ポンプA ポンプ分解整備",
+"result": "振動 5.1→1.8mm/s 良"
+},
+"seq": 30
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "13",
+"equipment": "脱酸素剤注入ポンプA",
+"work": "脱酸素剤注入ポンプA 分解整備",
+"result": "振動 4.9→1.3mm/s 良"
+},
+"seq": 31
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "14",
+"equipment": "ACCファン3 電動機",
+"work": "空冷復水器ファン3 電動機 絶縁診断",
+"result": "PI 2.6、tanδ 0.9% 良"
+},
+"seq": 32
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "15",
+"equipment": "高圧蒸気だめ",
+"work": "高圧蒸気だめ 定期自主検査",
+"result": "良"
+},
+"seq": 33
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用材料",
+"name": "メカシール・軸受（ポンプ類）",
+"spec": "純正",
+"qty": "1式",
+"supply": "当社手配",
+"use": "使用"
+},
+"seq": 34
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用材料",
+"name": "電動機軸受",
+"spec": "6312ZZ ほか",
+"qty": "1式",
+"supply": "当社手配",
+"use": "使用"
+},
+"seq": 35
+},
+{
+"kind": "item",
+"fields": {
+"section": "所見および提言",
+"text": "(1) 高圧配電盤（受電）：次回 2033年度 VCB更新（長期修繕計画どおり）。"
+},
+"seq": 36
+},
+{
+"kind": "item",
+"fields": {
+"section": "所見および提言",
+"text": "(2) 高圧配電盤（連絡）：次回 2033年度 VCB更新（長期修繕計画どおり）。"
+},
+"seq": 37
+},
+{
+"kind": "item",
+"fields": {
+"section": "所見および提言",
+"text": "(3) 高圧配電盤（発電機）：次回 2033年度 VCB更新（長期修繕計画どおり）。"
+},
+"seq": 38
+},
+{
+"kind": "item",
+"fields": {
+"section": "所見および提言",
+"text": "(4) 高圧配電盤（所内1）：次回 2033年度 VCB更新（長期修繕計画どおり）。"
+},
+"seq": 39
+}
+]
+}

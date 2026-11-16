@@ -1,0 +1,1366 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2022年度2号炉定期整備工事_q2作業日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-24",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "電源縁切り・施錠表示、マンホール開放、酸素濃度測定",
+"note": "",
+"crew": "電計",
+"processNo": 2,
+"people": 4,
+"manDays": 38.0,
+"manDaysText": "38",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0524",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-24",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内足場 組立（燃焼室）",
+"note": "",
+"crew": "足場",
+"processNo": 3,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0524",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-05-24",
+"people": 8,
+"manDays": 70.0,
+"manDaysUnit": "h"
+},
+"sheet": "0524",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-25",
+"weather": "曇",
+"code": "2HG-130",
+"name": "バグフィルタ本体",
+"work": "旧ろ布 撤去・リテーナ点検",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 15
+},
+"sheet": "0525",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-25",
+"weather": "曇",
+"code": "2KT-100M",
+"name": "誘引通風機 電動機",
+"work": "高圧電動機 軸受取外し",
+"note": "",
+"crew": "電計",
+"processNo": 6,
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0525",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-25",
+"weather": "曇",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "炉内清掃 開始、クリンカはつり",
+"note": "",
+"crew": "耐火",
+"processNo": 4,
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0525",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-25",
+"weather": "曇",
+"code": "2NS-230",
+"name": "灰押出水封補給水ポンプB",
+"work": "灰押出水封補給水ポンプB 開放、羽根車・軸受点検",
+"note": "",
+"crew": "機械B",
+"processNo": 7,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0525",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-25",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内足場 組立（ボイラ下部・BF点検口）",
+"note": "",
+"crew": "足場",
+"processNo": 3,
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0525",
+"r": 12
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-05-25",
+"people": 20,
+"manDays": 168.0,
+"manDaysUnit": "h"
+},
+"sheet": "0525",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-26",
+"weather": "晴",
+"code": "2HG-130",
+"name": "バグフィルタ本体",
+"work": "旧ろ布 撤去・リテーナ点検",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 4,
+"manDays": 38.0,
+"manDaysText": "38",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0526",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-26",
+"weather": "晴",
+"code": "2KT-100M",
+"name": "誘引通風機 電動機",
+"work": "固定子 目視・清掃",
+"note": "",
+"crew": "電計",
+"processNo": 6,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0526",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-26",
+"weather": "晴",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "炉内清掃（後燃焼段・灰押出部）",
+"note": "",
+"crew": "耐火",
+"processNo": 4,
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0526",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-26",
+"weather": "晴",
+"code": "2NS-230",
+"name": "灰押出水封補給水ポンプB",
+"work": "組立、手回し確認",
+"note": "",
+"crew": "機械B",
+"processNo": 7,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0526",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-26",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "足場 組立完了・点検（手すり・踏板）",
+"note": "",
+"crew": "足場",
+"processNo": 3,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0526",
+"r": 12
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-05-26",
+"people": 20,
+"manDays": 166.0,
+"manDaysUnit": "h"
+},
+"sheet": "0526",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-27",
+"weather": "雨",
+"code": "2HG-130",
+"name": "バグフィルタ本体",
+"work": "ろ布 交換 継続",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0527",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-27",
+"weather": "雨",
+"code": "2KT-100M",
+"name": "誘引通風機 電動機",
+"work": "絶縁診断 完了、結線復旧",
+"note": "",
+"crew": "電計",
+"processNo": 6,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0527",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-27",
+"weather": "雨",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "清掃完了、炉壁 打診点検",
+"note": "",
+"crew": "耐火",
+"processNo": 4,
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0527",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-27",
+"weather": "雨",
+"code": "2NS-230",
+"name": "灰押出水封補給水ポンプB",
+"work": "試運転 異常なし",
+"note": "",
+"crew": "機械B",
+"processNo": 7,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0527",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-05-27",
+"people": 15,
+"manDays": 120.0,
+"manDaysUnit": "h"
+},
+"sheet": "0527",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-28",
+"weather": "曇時々雨",
+"code": "2BO-020ほか6件",
+"name": "蒸気ドラムほか",
+"work": "肉厚測定 水管壁（炉頂・放射室）",
+"note": "",
+"crew": "検査",
+"processNo": 9,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16",
+"manDaysUnit": "h",
+"progress": 25
+},
+"sheet": "0528",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-28",
+"weather": "曇時々雨",
+"code": "2HG-030M",
+"name": "減温塔噴霧水ポンプB 電動機",
+"work": "減温塔噴霧水ポンプB電動機 分解（カップリング・メカシール取外し）",
+"note": "",
+"crew": "電計",
+"processNo": 11,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0528",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-28",
+"weather": "曇時々雨",
+"code": "2HG-130",
+"name": "バグフィルタ本体",
+"work": "新ろ布 取付（3～4室）",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0528",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-28",
+"weather": "曇時々雨",
+"code": "2NS-030",
+"name": "燃焼火格子",
+"work": "燃焼火格子 摩耗測定（各列・デプスゲージ）",
+"note": "",
+"crew": "機械A",
+"processNo": 8,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0528",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-28",
+"weather": "曇時々雨",
+"code": "2NS-140",
+"name": "油圧ユニット油冷却器",
+"work": "作動油 採取・フィルタ交換",
+"note": "",
+"crew": "機械B",
+"processNo": 10,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0528",
+"r": 11
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-05-28",
+"people": 18,
+"manDays": 144.0,
+"manDaysUnit": "h"
+},
+"sheet": "0528",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-30",
+"weather": "雨",
+"code": "2BO-020ほか6件",
+"name": "蒸気ドラムほか",
+"work": "過熱器 管 肉厚測定",
+"note": "",
+"crew": "検査",
+"processNo": 9,
+"people": 3,
+"manDays": 28.5,
+"manDaysText": "28.5",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0530",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-30",
+"weather": "雨",
+"code": "2HG-030M",
+"name": "減温塔噴霧水ポンプB 電動機",
+"work": "試運転 異常なし",
+"note": "",
+"crew": "電計",
+"processNo": 11,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0530",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-30",
+"weather": "雨",
+"code": "2HG-130",
+"name": "バグフィルタ本体",
+"work": "交換完了、蛍光粉リーク試験",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 85
+},
+"sheet": "0530",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-30",
+"weather": "雨",
+"code": "2NS-090",
+"name": "後燃焼火格子駆動油圧シリンダL",
+"work": "シリンダ 分解、パッキン・ダストシール交換",
+"note": "",
+"crew": "機械A",
+"processNo": 12,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0530",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-30",
+"weather": "雨",
+"code": "2NS-140",
+"name": "油圧ユニット油冷却器",
+"work": "ポンプ 部品交換・組立",
+"note": "",
+"crew": "機械B",
+"processNo": 10,
+"people": 4,
+"manDays": 38.0,
+"manDaysText": "38",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0530",
+"r": 11
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-05-30",
+"people": 19,
+"manDays": 162.5,
+"manDaysUnit": "h"
+},
+"sheet": "0530",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-31",
+"weather": "晴",
+"code": "2BO-020ほか6件",
+"name": "蒸気ドラムほか",
+"work": "ECO・蒸発管 測定",
+"note": "",
+"crew": "検査",
+"processNo": 9,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16",
+"manDaysUnit": "h",
+"progress": 75
+},
+"sheet": "0531",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-31",
+"weather": "晴",
+"code": "2DK-020",
+"name": "炉別動力制御盤（MCC）2",
+"work": "炉別動力制御盤（MCC）2 盤内清掃・端子増締め・絶縁測定",
+"note": "",
+"crew": "電計",
+"processNo": 13,
+"people": 3,
+"manDays": 12.0,
+"manDaysText": "12",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0531",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-31",
+"weather": "晴",
+"code": "2HG-130",
+"name": "バグフィルタ本体",
+"work": "交換完了、蛍光粉リーク試験",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0531",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-31",
+"weather": "晴",
+"code": "2NS-100",
+"name": "後燃焼火格子駆動油圧シリンダR",
+"work": "取付、作動・漏れ確認",
+"note": "",
+"crew": "機械A",
+"processNo": 12,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0531",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-05-31",
+"weather": "晴",
+"code": "2NS-140",
+"name": "油圧ユニット油冷却器",
+"work": "試運転・圧力確認",
+"note": "",
+"crew": "機械B",
+"processNo": 10,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0531",
+"r": 11
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-05-31",
+"people": 19,
+"manDays": 140.0,
+"manDaysUnit": "h"
+},
+"sheet": "0531",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-01",
+"weather": "晴",
+"code": "2BO-020ほか6件",
+"name": "蒸気ドラムほか",
+"work": "肉厚測定 蒸気ドラム、まとめ",
+"note": "",
+"crew": "検査",
+"processNo": 9,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0601",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-01",
+"weather": "晴",
+"code": "2HG-220",
+"name": "バグフィルタ加温ヒータ2",
+"work": "バグフィルタ加温ヒータ2 分解・点検",
+"note": "",
+"crew": "機械C",
+"processNo": 14,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0601",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-01",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "回転機 定例点検・給油 開放、インペラ清掃",
+"note": "",
+"crew": "機械B",
+"processNo": 15,
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0601",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-01",
+"people": 9,
+"manDays": 76.0,
+"manDaysUnit": "h"
+},
+"sheet": "0601",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-02",
+"weather": "晴",
+"code": "2HG-220",
+"name": "バグフィルタ加温ヒータ2",
+"work": "部品交換・組立",
+"note": "",
+"crew": "機械C",
+"processNo": 14,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0602",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-02",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "復旧、振動測定",
+"note": "",
+"crew": "機械B",
+"processNo": 15,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0602",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-02",
+"people": 7,
+"manDays": 56.0,
+"manDaysUnit": "h"
+},
+"sheet": "0602",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-03",
+"weather": "雨",
+"code": "2HG-220",
+"name": "バグフィルタ加温ヒータ2",
+"work": "作動確認",
+"note": "",
+"crew": "機械C",
+"processNo": 14,
+"people": 3,
+"manDays": 28.5,
+"manDaysText": "28.5",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0603",
+"r": 7
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-03",
+"people": 3,
+"manDays": 28.5,
+"manDaysUnit": "h"
+},
+"sheet": "0603",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-04",
+"weather": "雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内清掃 開始、クリンカはつり",
+"note": "",
+"crew": "機械C",
+"processNo": 16,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0604",
+"r": 8
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-04",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "0604",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-06",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内清掃（後燃焼段・灰押出部）",
+"note": "",
+"crew": "機械C",
+"processNo": 16,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0606",
+"r": 8
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-06",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "0606",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-07",
+"weather": "雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "清掃完了、炉壁 打診点検",
+"note": "",
+"crew": "機械C",
+"processNo": 16,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0607",
+"r": 8
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-07",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "0607",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-08",
+"weather": "晴のち曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内足場 解体（上部から）",
+"note": "",
+"crew": "足場",
+"processNo": 17,
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0608",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-08",
+"weather": "晴のち曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "バグフィルタ 室別開放点検・ろ布目視 開放",
+"note": "",
+"crew": "機械C",
+"processNo": 18,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0608",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-08",
+"people": 8,
+"manDays": 64.0,
+"manDaysUnit": "h"
+},
+"sheet": "0608",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-09",
+"weather": "雨",
+"code": "2BO-010",
+"name": "ボイラ本体",
+"work": "ボイラ水張り・水圧試験",
+"note": "",
+"crew": "機械A",
+"processNo": 19,
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0609",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-09",
+"weather": "雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "足場材 降ろし・整理",
+"note": "",
+"crew": "足場",
+"processNo": 17,
+"people": 4,
+"manDays": 38.0,
+"manDaysText": "38",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0609",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-09",
+"weather": "雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "試運転",
+"note": "",
+"crew": "機械C",
+"processNo": 18,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0609",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-09",
+"people": 12,
+"manDays": 102.0,
+"manDaysUnit": "h"
+},
+"sheet": "0609",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-10",
+"weather": "晴",
+"code": "2BO-010",
+"name": "ボイラ本体",
+"work": "ボイラ定期事業者検査 受検（立会）",
+"note": "",
+"crew": "機械A",
+"processNo": 21,
+"people": 6,
+"manDays": 54.0,
+"manDaysText": "54",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0610",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-10",
+"weather": "晴",
+"code": "2KT-060",
+"name": "区分空気ダンパ駆動装置（後燃焼）",
+"work": "誘引通風機 分解前振動測定・カップリング切離し",
+"note": "",
+"crew": "機械C",
+"processNo": 20,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0610",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-10",
+"weather": "晴",
+"code": "2KT-150",
+"name": "誘引通風機軸受潤滑油ユニット",
+"work": "〃",
+"note": ""
+},
+"sheet": "0610",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-10",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "足場解体 完了・搬出",
+"note": "",
+"crew": "足場",
+"processNo": 17,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0610",
+"r": 11
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-10",
+"people": 12,
+"manDays": 102.0,
+"manDaysUnit": "h"
+},
+"sheet": "0610",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-11",
+"weather": "晴",
+"code": "2KT-060",
+"name": "区分空気ダンパ駆動装置（後燃焼）",
+"work": "インペラ 仕上げ・動バランス調整／気密試験で漏れ",
+"note": "手直し",
+"crew": "機械C",
+"processNo": 20,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0611",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-11",
+"weather": "晴",
+"code": "2KT-150",
+"name": "誘引通風機軸受潤滑油ユニット",
+"work": "〃",
+"note": ""
+},
+"sheet": "0611",
+"r": 8
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-11",
+"people": 3,
+"manDays": 24.0,
+"manDaysUnit": "h"
+},
+"sheet": "0611",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-11",
+"section": "特記事項",
+"text": "気密試験で漏れ → 再調整（手直し 1日）。SPC sp2 へ報告。"
+},
+"sheet": "0611",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-13",
+"weather": "雨",
+"code": "2KT-060",
+"name": "区分空気ダンパ駆動装置（後燃焼）",
+"work": "手直し：再調整（手直し 1日）",
+"note": "",
+"crew": "機械C",
+"processNo": 20,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0613",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-13",
+"weather": "雨",
+"code": "2KT-150",
+"name": "誘引通風機軸受潤滑油ユニット",
+"work": "〃",
+"note": ""
+},
+"sheet": "0613",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-13",
+"weather": "雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "復旧作業、単体試運転（送風機・ポンプ類）",
+"note": "",
+"crew": "機械A",
+"processNo": 22,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0613",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-13",
+"people": 9,
+"manDays": 72.0,
+"manDaysUnit": "h"
+},
+"sheet": "0613",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-14",
+"weather": "雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "復旧 完了",
+"note": "",
+"crew": "機械A",
+"processNo": 22,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0614",
+"r": 8
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-14",
+"people": 6,
+"manDays": 48.0,
+"manDaysUnit": "h"
+},
+"sheet": "0614",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-15",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "連動試運転（インターロック確認）",
+"note": "",
+"crew": "機械A",
+"processNo": 23,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0615",
+"r": 8
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-15",
+"people": 6,
+"manDays": 48.0,
+"manDaysUnit": "h"
+},
+"sheet": "0615",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-06-18",
+"weather": "雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "完了確認（SPC立会）・片付け・搬出",
+"note": "",
+"crew": "機械A",
+"processNo": 25,
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0618",
+"r": 8
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-06-18",
+"people": 5,
+"manDays": 40.0,
+"manDaysUnit": "h"
+},
+"sheet": "0618",
+"r": 19
+}
+]
+}

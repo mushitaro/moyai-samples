@@ -1,0 +1,122 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2015年度全炉停止時共通設備点検整備工事_q1工事日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"date": "2015-10-17",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "電気",
+"people": 2,
+"section": "出面"
+},
+"sheet": "10.17",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-10-17",
+"people": 2,
+"cumulative": 2,
+"section": "出面"
+},
+"sheet": "10.17",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-10-17",
+"weather": "曇",
+"work": "電源縁切り・施錠表示、マンホール開放、酸素濃度測定",
+"section": "作業内容"
+},
+"sheet": "10.17",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-10-18",
+"weather": "曇時々雨",
+"company": "【架空】風早電設",
+"job": "電気",
+"people": 16,
+"section": "出面"
+},
+"sheet": "10.18",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-10-18",
+"people": 16,
+"cumulative": 18,
+"section": "出面"
+},
+"sheet": "10.18",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-10-18",
+"weather": "曇時々雨",
+"work": "全停電 年次点検、保護継電器試験",
+"section": "作業内容"
+},
+"sheet": "10.18",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-10-18",
+"weather": "曇時々雨",
+"work": "非常用発電機 年次点検",
+"section": "作業内容"
+},
+"sheet": "10.18",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-10-24",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "電気",
+"people": 2,
+"section": "出面"
+},
+"sheet": "10.24",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-10-24",
+"people": 2,
+"cumulative": 20,
+"section": "出面"
+},
+"sheet": "10.24",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-10-24",
+"weather": "曇",
+"work": "単体試運転 実施",
+"section": "作業内容"
+},
+"sheet": "10.24",
+"r": 13
+}
+]
+}

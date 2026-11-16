@@ -1,0 +1,508 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2021年度全炉停止時共通設備点検整備工事_q3作業日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"sheet": "1004",
+"r": 7,
+"_hours": 72.0,
+"fields": {
+"date": "2021-10-04",
+"weather": "晴",
+"code": "0DE-010ほか18件",
+"name": "受変電設備 一式",
+"work": "全停電 年次点検、保護継電器試験",
+"note": "",
+"crew": "受変電",
+"processNo": 3,
+"people": 8,
+"manDays": 9.0,
+"manDaysText": "72.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1004",
+"r": 8,
+"_hours": 72.0,
+"fields": {
+"date": "2021-10-04",
+"weather": "晴",
+"code": "0DE-270",
+"name": "非常用発電機",
+"work": "非常用発電機 年次点検",
+"note": "",
+"crew": "受変電",
+"processNo": 4,
+"people": 9,
+"manDays": 9.0,
+"manDaysText": "72.0",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "1004",
+"r": 19,
+"_hours": 144.0,
+"fields": {
+"date": "2021-10-04",
+"people": 17,
+"manDays": 18.0,
+"manDaysText": "144"
+}
+},
+{
+"kind": "item",
+"sheet": "1005",
+"r": 7,
+"_hours": 32.0,
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"code": "0YN-090",
+"name": "ターニング装置",
+"work": "ターニング装置 開放",
+"note": "",
+"crew": "機械D",
+"processNo": 5,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32.0",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "1005",
+"r": 8,
+"_hours": 24.0,
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"code": "0YN-190",
+"name": "高圧蒸気だめ",
+"work": "高圧蒸気だめ 定期自主検査",
+"note": "",
+"crew": "機械C",
+"processNo": 6,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1005",
+"r": 9,
+"_hours": 24.0,
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"code": "0YN-200",
+"name": "低圧蒸気だめ",
+"work": "低圧蒸気だめ 定期自主検査",
+"note": "",
+"crew": "機械C",
+"processNo": 7,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1005",
+"r": 10,
+"_hours": 32.0,
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"code": "0YN-210",
+"name": "空冷式復水器",
+"work": "ACC 高圧水洗浄",
+"note": "",
+"crew": "洗浄",
+"processNo": 8,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32.0",
+"progress": 35
+}
+},
+{
+"kind": "item",
+"sheet": "1005",
+"r": 11,
+"_hours": 27.0,
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"code": "0YN-230",
+"name": "空冷復水器ファン2",
+"work": "空冷復水器ファン2 開放",
+"note": "",
+"crew": "機械C",
+"processNo": 9,
+"people": 3,
+"manDays": 3.375,
+"manDaysText": "27.0",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "1005",
+"r": 12,
+"_hours": 24.0,
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "脱気器 開放（マンホール・トレイ取外し）",
+"note": "",
+"crew": "機械C",
+"processNo": 10,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 25
+}
+},
+{
+"kind": "item",
+"sheet": "1005",
+"r": 13,
+"_hours": 27.0,
+"fields": {
+"date": "2021-10-05",
+"weather": "晴",
+"code": "0YN-450",
+"name": "清缶剤注入ポンプA",
+"work": "清缶剤注入ポンプA 開放、羽根車・軸受点検",
+"note": "",
+"crew": "機械C",
+"processNo": 11,
+"people": 3,
+"manDays": 3.375,
+"manDaysText": "27.0",
+"progress": 50
+}
+},
+{
+"kind": "total",
+"sheet": "1005",
+"r": 19,
+"_hours": 190.0,
+"fields": {
+"date": "2021-10-05",
+"people": 23,
+"manDays": 23.75,
+"manDaysText": "190"
+}
+},
+{
+"kind": "item",
+"sheet": "1006",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"code": "0YN-090",
+"name": "ターニング装置",
+"work": "試運転",
+"note": "",
+"crew": "機械D",
+"processNo": 5,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1006",
+"r": 8,
+"_hours": 32.0,
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"code": "0YN-210",
+"name": "空冷式復水器",
+"work": "洗浄 継続",
+"note": "",
+"crew": "洗浄",
+"processNo": 8,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32.0",
+"progress": 65
+}
+},
+{
+"kind": "item",
+"sheet": "1006",
+"r": 9,
+"_hours": 24.0,
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"code": "0YN-230",
+"name": "空冷復水器ファン2",
+"work": "試運転",
+"note": "",
+"crew": "機械C",
+"processNo": 9,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1006",
+"r": 10,
+"_hours": 24.0,
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "内部清掃・点検",
+"note": "",
+"crew": "機械C",
+"processNo": 10,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "1006",
+"r": 11,
+"_hours": 24.0,
+"fields": {
+"date": "2021-10-06",
+"weather": "曇",
+"code": "0YN-450",
+"name": "清缶剤注入ポンプA",
+"work": "試運転 異常なし",
+"note": "",
+"crew": "機械C",
+"processNo": 11,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "1006",
+"r": 19,
+"_hours": 128.0,
+"fields": {
+"date": "2021-10-06",
+"people": 16,
+"manDays": 16.0,
+"manDaysText": "128"
+}
+},
+{
+"kind": "item",
+"sheet": "1007",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-10-07",
+"weather": "曇時々雨",
+"code": "0YN-100",
+"name": "グランド蒸気復水器",
+"work": "グランド蒸気復水器 開放",
+"note": "",
+"crew": "機械D",
+"processNo": 12,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 35
+}
+},
+{
+"kind": "item",
+"sheet": "1007",
+"r": 8,
+"_hours": 32.0,
+"fields": {
+"date": "2021-10-07",
+"weather": "曇時々雨",
+"code": "0YN-210",
+"name": "空冷式復水器",
+"work": "フィン 曲がり修正",
+"note": "",
+"crew": "洗浄",
+"processNo": 8,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1007",
+"r": 9,
+"_hours": 32.0,
+"fields": {
+"date": "2021-10-07",
+"weather": "曇時々雨",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "性能検査 受検",
+"note": "",
+"crew": "機械C",
+"processNo": 10,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32.0",
+"progress": 75
+}
+},
+{
+"kind": "total",
+"sheet": "1007",
+"r": 19,
+"_hours": 88.0,
+"fields": {
+"date": "2021-10-07",
+"people": 11,
+"manDays": 11.0,
+"manDaysText": "88"
+}
+},
+{
+"kind": "item",
+"sheet": "1008",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-10-08",
+"weather": "晴",
+"code": "0YN-100",
+"name": "グランド蒸気復水器",
+"work": "部品交換・組立／芯出し不良",
+"note": "手直し",
+"crew": "機械D",
+"processNo": 12,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 65
+}
+},
+{
+"kind": "item",
+"sheet": "1008",
+"r": 8,
+"_hours": 24.0,
+"fields": {
+"date": "2021-10-08",
+"weather": "晴",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "マンホール閉止",
+"note": "",
+"crew": "機械C",
+"processNo": 10,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "1008",
+"r": 19,
+"_hours": 48.0,
+"fields": {
+"date": "2021-10-08",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48"
+}
+},
+{
+"kind": "item",
+"sheet": "1008",
+"r": 21,
+"fields": {
+"date": "2021-10-08",
+"section": "特記事項",
+"text": "芯出し不良 → 再調整（手直し 1日）。SPC sp2 へ報告。"
+}
+},
+{
+"kind": "item",
+"sheet": "1009",
+"r": 7,
+"_hours": 32.0,
+"fields": {
+"date": "2021-10-09",
+"weather": "雨",
+"code": "0YN-100",
+"name": "グランド蒸気復水器",
+"work": "手直し：再調整（手直し 1日）",
+"note": "",
+"crew": "機械D",
+"processNo": 12,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1009",
+"r": 9,
+"_hours": 16.0,
+"fields": {
+"date": "2021-10-09",
+"weather": "雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "復旧作業、単体試運転（送風機・ポンプ類）",
+"note": "",
+"crew": "電計2",
+"processNo": 13,
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16.0",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "1009",
+"r": 19,
+"_hours": 48.0,
+"fields": {
+"date": "2021-10-09",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48"
+}
+}
+]
+}

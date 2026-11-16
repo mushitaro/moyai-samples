@@ -1,0 +1,1242 @@
+{
+"file": "【架空】かざはやエコプラザ_工事報告書_2017年度1号炉定期整備工事_メーカー様式.pdf",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 1,
+"name": "炉立下げ・冷却",
+"plan": "9/13～9/15",
+"actual": "9/13～9/15",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 0
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 2,
+"name": "縁切り・安全措置・マンホール開放",
+"plan": "9/16～9/16",
+"actual": "9/16～9/16",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 1
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 3,
+"name": "足場組立（炉内・ボイラ・BF）",
+"plan": "9/16～9/20",
+"actual": "9/16～9/20",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 2
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 4,
+"name": "炉内清掃・クリンカ除去・耐火物点検",
+"plan": "9/19～9/21",
+"actual": "9/19～9/21",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 3
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 5,
+"name": "誘引通風機電動機 絶縁診断",
+"plan": "9/19～9/21",
+"actual": "9/19～9/21",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 4
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 6,
+"name": "ボイラ給水ポンプA 分解整備",
+"plan": "9/19～9/23",
+"actual": "9/19～9/23",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 5
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 7,
+"name": "ろ布抜取試験・触媒性能試験（抜取）",
+"plan": "9/19～9/19",
+"actual": "9/19～9/19",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 6
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 8,
+"name": "火格子 摩耗測定",
+"plan": "9/22～9/22",
+"actual": "9/22～9/22",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 7
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 9,
+"name": "ボイラ 肉厚測定（水管壁・過熱器・ECO・ドラム）",
+"plan": "9/22～9/26",
+"actual": "9/22～9/26",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 8
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 10,
+"name": "ボイラ 伝熱管 清掃（水洗）・目視点検",
+"plan": "9/22～9/25",
+"actual": "9/22～9/25",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 9
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 11,
+"name": "計装 更新・交換（炉出口温度計1・炉出口温度計2・二次燃焼室ガス温度計）",
+"plan": "9/22～9/26",
+"actual": "9/22～9/26",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 10
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 12,
+"name": "給じん装置・灰押出装置 摺動部・ライナ補修（ホッパブリッジ解除装置） 整備",
+"plan": "9/23～9/27",
+"actual": "9/23～9/27",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 11
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 13,
+"name": "回転機 定例点検・給油（送風機・ポンプ類）",
+"plan": "9/25～9/26",
+"actual": "9/25～9/26",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 12
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 14,
+"name": "バグフィルタ 室別開放点検・ろ布目視",
+"plan": "9/26～9/27",
+"actual": "9/26～9/27",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 13
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 15,
+"name": "盤 精密点検（炉別動力制御盤（MCC）2）",
+"plan": "9/27～9/27",
+"actual": "9/27～9/27",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 14
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 16,
+"name": "足場解体",
+"plan": "9/28～9/30",
+"actual": "9/28～9/30",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 15
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 17,
+"name": "ボイラ水張り・水圧試験",
+"plan": "9/29～9/29",
+"actual": "9/29～9/29",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 16
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 18,
+"name": "ボイラ定期事業者検査（立会）",
+"plan": "9/30～9/30",
+"actual": "9/30～9/30",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 17
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 19,
+"name": "復旧・単体試運転",
+"plan": "10/5～10/6",
+"actual": "10/5～10/6",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 18
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 20,
+"name": "連動試運転",
+"plan": "10/7～10/7",
+"actual": "10/7～10/7",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 19
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 21,
+"name": "炉立上げ（昇温・ごみ投入）",
+"plan": "10/8～10/9",
+"actual": "10/8～10/9",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 20
+},
+{
+"kind": "item",
+"fields": {
+"section": "工程実績",
+"processNo": 22,
+"name": "完了確認・片付け",
+"plan": "10/10～10/10",
+"actual": "10/10～10/10",
+"note": "",
+"contract": "【架空】2017年度 かざはやエコプラザ 1号炉定期整備工事"
+},
+"seq": 21
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "1",
+"equipment": "No.1 炉本体 耐火物",
+"work": "炉内清掃・クリンカ除去・耐火物点検",
+"result": "良"
+},
+"seq": 22
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "2",
+"equipment": "No.1 IDF（誘引送風機） 電動機",
+"work": "誘引通風機電動機 絶縁診断",
+"result": "PI 3.6、tanδ 1.5% 良"
+},
+"seq": 23
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "3",
+"equipment": "No.1 ボイラ給水ポンプA",
+"work": "ボイラ給水ポンプA 分解整備",
+"result": "振動 3.5→1.9mm/s 良"
+},
+"seq": 24
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "4",
+"equipment": "No.1 脱硝反応塔",
+"work": "ろ布抜取試験・触媒性能試験（抜取）",
+"result": "脱硝率 94%"
+},
+"seq": 25
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "5",
+"equipment": "No.1 ストーカ（燃焼段）",
+"work": "火格子 摩耗測定",
+"result": "最大 6.2mm／管理15mm 良"
+},
+"seq": 26
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "6",
+"equipment": "No.1 蒸気ドラム・No.1 ボイラ 水冷壁・No.1 蒸発管群ほか",
+"work": "ボイラ 肉厚測定（水管壁・過熱器・ECO・ドラム）",
+"result": "最小 31.8mm／限界28.0 良、最小 5.8mm／限界4.0 良、最小 4.3mm／限界3.5 良、最小 4.9m"
+},
+"seq": 27
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "7",
+"equipment": "No.1 炉出口温度計1・No.1 炉出口温度計2・No.1 二次燃焼室ガス温度計",
+"work": "計装 更新・交換（炉出口温度計1・炉出口温度計2・二次燃焼室ガス温度計）",
+"result": "良"
+},
+"seq": 28
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "8",
+"equipment": "No.1 ホッパブリッジ解除装置",
+"work": "給じん装置・灰押出装置 摺動部・ライナ補修（ホッパブリッジ解除装置） 整備",
+"result": "良"
+},
+"seq": 29
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "9",
+"equipment": "No.1 炉別動力制御盤（MCC）2",
+"work": "盤 精密点検（炉別動力制御盤（MCC）2）",
+"result": "良"
+},
+"seq": 30
+},
+{
+"kind": "item",
+"fields": {
+"section": "作業内容および結果",
+"no": "10",
+"equipment": "No.1 ボイラ本体",
+"work": "ボイラ定期事業者検査（立会）",
+"result": "合格"
+},
+"seq": 31
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "可動",
+"column": "1列",
+"points": [
+"1.9",
+"2.0",
+"2.3"
+],
+"max": "2.3",
+"judge": "良"
+},
+"seq": 32
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "",
+"column": "2列",
+"points": [
+"2.4",
+"2.5",
+"2.4"
+],
+"max": "2.5",
+"judge": "良"
+},
+"seq": 33
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "",
+"column": "3列",
+"points": [
+"1.8",
+"1.9",
+"1.8"
+],
+"max": "1.9",
+"judge": "良"
+},
+"seq": 34
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "",
+"column": "4列",
+"points": [
+"2.3",
+"1.9",
+"2.4"
+],
+"max": "2.4",
+"judge": "良"
+},
+"seq": 35
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "",
+"column": "5列",
+"points": [
+"1.9",
+"2.3",
+"1.8"
+],
+"max": "2.3",
+"judge": "良"
+},
+"seq": 36
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "",
+"column": "6列",
+"points": [
+"2.4",
+"2.1",
+"1.8"
+],
+"max": "2.4",
+"judge": "良"
+},
+"seq": 37
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "固定",
+"column": "1列",
+"points": [
+"1.2",
+"1.0",
+"1.2"
+],
+"max": "1.2",
+"judge": "良"
+},
+"seq": 38
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "",
+"column": "2列",
+"points": [
+"1.0",
+"1.2",
+"1.1"
+],
+"max": "1.2",
+"judge": "良"
+},
+"seq": 39
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "",
+"column": "3列",
+"points": [
+"1.0",
+"1.1",
+"1.0"
+],
+"max": "1.1",
+"judge": "良"
+},
+"seq": 40
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "",
+"column": "4列",
+"points": [
+"1.0",
+"1.1",
+"1.3"
+],
+"max": "1.3",
+"judge": "良"
+},
+"seq": 41
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "",
+"column": "5列",
+"points": [
+"1.2",
+"1.2",
+"1.2"
+],
+"max": "1.2",
+"judge": "良"
+},
+"seq": 42
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "乾燥段",
+"side": "",
+"column": "6列",
+"points": [
+"1.0",
+"1.2",
+"1.1"
+],
+"max": "1.2",
+"judge": "良"
+},
+"seq": 43
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "可動",
+"column": "1列",
+"points": [
+"5.5",
+"5.6",
+"5.7",
+"5.5",
+"5.4"
+],
+"max": "5.7",
+"judge": "良"
+},
+"seq": 44
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "2列",
+"points": [
+"6.0",
+"5.9",
+"5.4",
+"5.5",
+"5.8"
+],
+"max": "6.0",
+"judge": "良"
+},
+"seq": 45
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "3列",
+"points": [
+"5.9",
+"6.2",
+"5.6",
+"5.1",
+"5.9"
+],
+"max": "6.2",
+"judge": "良"
+},
+"seq": 46
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "4列",
+"points": [
+"5.3",
+"5.3",
+"5.3",
+"4.8",
+"5.6"
+],
+"max": "5.6",
+"judge": "良"
+},
+"seq": 47
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "5列",
+"points": [
+"5.8",
+"5.8",
+"5.3",
+"5.7",
+"5.6"
+],
+"max": "5.8",
+"judge": "良"
+},
+"seq": 48
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "6列",
+"points": [
+"5.2",
+"5.2",
+"4.6",
+"5.2",
+"5.8"
+],
+"max": "5.8",
+"judge": "良"
+},
+"seq": 49
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "7列",
+"points": [
+"5.7",
+"4.5",
+"5.8",
+"4.6",
+"5.8"
+],
+"max": "5.8",
+"judge": "良"
+},
+"seq": 50
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "8列",
+"points": [
+"5.1",
+"5.9",
+"5.2",
+"4.6",
+"5.0"
+],
+"max": "5.9",
+"judge": "良"
+},
+"seq": 51
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "固定",
+"column": "1列",
+"points": [
+"2.9",
+"2.7",
+"2.9",
+"3.1",
+"3.2"
+],
+"max": "3.2",
+"judge": "良"
+},
+"seq": 52
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "2列",
+"points": [
+"3.2",
+"2.8",
+"3.3",
+"2.9",
+"3.0"
+],
+"max": "3.3",
+"judge": "良"
+},
+"seq": 53
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "3列",
+"points": [
+"3.3",
+"2.8",
+"3.2",
+"3.1",
+"2.8"
+],
+"max": "3.3",
+"judge": "良"
+},
+"seq": 54
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "4列",
+"points": [
+"3.2",
+"2.8",
+"2.7",
+"3.1",
+"2.5"
+],
+"max": "3.2",
+"judge": "良"
+},
+"seq": 55
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "5列",
+"points": [
+"3.0",
+"2.5",
+"2.8",
+"2.5",
+"2.5"
+],
+"max": "3.0",
+"judge": "良"
+},
+"seq": 56
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "6列",
+"points": [
+"3.3",
+"3.1",
+"3.1",
+"2.7",
+"2.8"
+],
+"max": "3.3",
+"judge": "良"
+},
+"seq": 57
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "7列",
+"points": [
+"3.1",
+"2.7",
+"2.5",
+"3.1",
+"2.8"
+],
+"max": "3.1",
+"judge": "良"
+},
+"seq": 58
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "燃焼段",
+"side": "",
+"column": "8列",
+"points": [
+"2.9",
+"3.2",
+"3.2",
+"2.9",
+"3.3"
+],
+"max": "3.3",
+"judge": "良"
+},
+"seq": 59
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "可動",
+"column": "1列",
+"points": [
+"3.5",
+"3.2",
+"3.2"
+],
+"max": "3.5",
+"judge": "良"
+},
+"seq": 60
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "",
+"column": "2列",
+"points": [
+"3.4",
+"3.6",
+"2.7"
+],
+"max": "3.6",
+"judge": "良"
+},
+"seq": 61
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "",
+"column": "3列",
+"points": [
+"2.7",
+"2.8",
+"2.7"
+],
+"max": "2.8",
+"judge": "良"
+},
+"seq": 62
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "",
+"column": "4列",
+"points": [
+"2.8",
+"3.2",
+"2.9"
+],
+"max": "3.2",
+"judge": "良"
+},
+"seq": 63
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "",
+"column": "5列",
+"points": [
+"2.8",
+"3.2",
+"3.2"
+],
+"max": "3.2",
+"judge": "良"
+},
+"seq": 64
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "",
+"column": "6列",
+"points": [
+"3.1",
+"3.3",
+"3.2"
+],
+"max": "3.3",
+"judge": "良"
+},
+"seq": 65
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "固定",
+"column": "1列",
+"points": [
+"1.7",
+"1.7",
+"1.7"
+],
+"max": "1.7",
+"judge": "良"
+},
+"seq": 66
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "",
+"column": "2列",
+"points": [
+"1.5",
+"1.5",
+"1.6"
+],
+"max": "1.6",
+"judge": "良"
+},
+"seq": 67
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "",
+"column": "3列",
+"points": [
+"1.6",
+"1.6",
+"1.4"
+],
+"max": "1.6",
+"judge": "良"
+},
+"seq": 68
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "",
+"column": "4列",
+"points": [
+"1.8",
+"1.6",
+"1.8"
+],
+"max": "1.8",
+"judge": "良"
+},
+"seq": 69
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "",
+"column": "5列",
+"points": [
+"1.6",
+"1.8",
+"1.4"
+],
+"max": "1.8",
+"judge": "良"
+},
+"seq": 70
+},
+{
+"kind": "item",
+"fields": {
+"section": "火格子摩耗測定記録",
+"stage": "後燃焼段",
+"side": "",
+"column": "6列",
+"points": [
+"1.9",
+"1.7",
+"1.8"
+],
+"max": "1.9",
+"judge": "良"
+},
+"seq": 71
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用材料",
+"name": "ボイラ給水ポンプA 分解整備部品",
+"spec": "メカシール2組（1組予備）・軸受・ライナリング",
+"qty": "1式",
+"supply": "SPC支給",
+"use": "使用"
+},
+"seq": 72
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用材料",
+"name": "キャスタブル（高アルミナ質）",
+"spec": "東雲築炉 標準品",
+"qty": "1.5t",
+"supply": "協力会社手配",
+"use": "使用 1.4t／予備 0.1t"
+},
+"seq": 73
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用材料",
+"name": "誘引通風機 軸受",
+"spec": "22228 CCK／W33 ほか",
+"qty": "1組",
+"supply": "当社手配",
+"use": "使用"
+},
+"seq": 74
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用材料",
+"name": "電動機軸受",
+"spec": "6312ZZ ほか",
+"qty": "1式",
+"supply": "当社手配",
+"use": "使用"
+},
+"seq": 75
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用材料",
+"name": "メカシール・軸受（ポンプ類）",
+"spec": "純正",
+"qty": "1式",
+"supply": "当社手配",
+"use": "使用"
+},
+"seq": 76
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用材料",
+"name": "熱電対・検出器",
+"spec": "純正",
+"qty": "1式",
+"supply": "当社手配",
+"use": "使用"
+},
+"seq": 77
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用材料",
+"name": "摺動板（ライナ）",
+"spec": "SS400＋硬化肉盛 t25",
+"qty": "4枚",
+"supply": "当社手配",
+"use": "使用"
+},
+"seq": 78
+},
+{
+"kind": "item",
+"fields": {
+"section": "使用材料",
+"name": "送風機 軸受",
+"spec": "純正",
+"qty": "1台分",
+"supply": "当社手配",
+"use": "使用"
+},
+"seq": 79
+},
+{
+"kind": "item",
+"fields": {
+"section": "所見および提言",
+"text": "(1) 焼却炉本体：次回 2018年度 耐火物部分補修（長期修繕計画どおり）。"
+},
+"seq": 80
+},
+{
+"kind": "item",
+"fields": {
+"section": "所見および提言",
+"text": "(2) 触媒反応塔：次回 2024年度 予備層触媒充填（長期修繕計画どおり）。"
+},
+"seq": 81
+},
+{
+"kind": "item",
+"fields": {
+"section": "所見および提言",
+"text": "(3) 燃焼火格子：最大 6.2mm。次回 2019年度 火格子部分交換（長期修繕計画どおり）。"
+},
+"seq": 82
+},
+{
+"kind": "item",
+"fields": {
+"section": "所見および提言",
+"text": "(4) 水管壁（炉頂・放射室）：最小 5.8mm（前回 6.1mm）。次回 2026年度 肉盛補修（長期修繕計画どおり）。"
+},
+"seq": 83
+}
+]
+}

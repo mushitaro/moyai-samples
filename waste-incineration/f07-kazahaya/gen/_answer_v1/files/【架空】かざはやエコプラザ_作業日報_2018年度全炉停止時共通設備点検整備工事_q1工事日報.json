@@ -1,0 +1,793 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2018年度全炉停止時共通設備点検整備工事_q1工事日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-15",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "電気",
+"people": 2,
+"section": "出面"
+},
+"sheet": "9.15",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-15",
+"people": 2,
+"cumulative": 2,
+"section": "出面"
+},
+"sheet": "9.15",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-15",
+"weather": "晴",
+"work": "電源縁切り・施錠表示、マンホール開放、酸素濃度測定",
+"section": "作業内容"
+},
+"sheet": "9.15",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-16",
+"weather": "雨",
+"company": "【架空】風早電設",
+"job": "電気",
+"people": 16,
+"section": "出面"
+},
+"sheet": "9.16",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-16",
+"people": 16,
+"cumulative": 18,
+"section": "出面"
+},
+"sheet": "9.16",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-16",
+"weather": "雨",
+"work": "受変電設備 年次点検（特高GIS・主変・高圧盤・所内変）",
+"section": "作業内容"
+},
+"sheet": "9.16",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-16",
+"weather": "雨",
+"work": "非常用発電機 負荷試験",
+"section": "作業内容"
+},
+"sheet": "9.16",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-18",
+"weather": "曇時々雨",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "9.18",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-18",
+"weather": "曇時々雨",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "9.18",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-18",
+"weather": "曇時々雨",
+"company": "【架空】水樹テクノサービス",
+"job": "電気",
+"people": 2,
+"section": "出面"
+},
+"sheet": "9.18",
+"r": 11
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-18",
+"people": 6,
+"cumulative": 24,
+"section": "出面"
+},
+"sheet": "9.18",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-18",
+"weather": "曇時々雨",
+"work": "上半車室 吊上げ",
+"section": "作業内容"
+},
+"sheet": "9.18",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-18",
+"weather": "曇時々雨",
+"work": "高圧蒸気だめ 定期自主検査",
+"section": "作業内容"
+},
+"sheet": "9.18",
+"r": 16
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-18",
+"weather": "曇時々雨",
+"work": "空冷復水器ファン5電動機 絶縁抵抗測定・絶縁診断",
+"section": "作業内容"
+},
+"sheet": "9.18",
+"r": 17
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-19",
+"weather": "晴",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "9.19",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-19",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "9.19",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-19",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "電気",
+"people": 2,
+"section": "出面"
+},
+"sheet": "9.19",
+"r": 11
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-19",
+"people": 6,
+"cumulative": 30,
+"section": "出面"
+},
+"sheet": "9.19",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-19",
+"weather": "晴",
+"work": "上半車室 吊上げ",
+"section": "作業内容"
+},
+"sheet": "9.19",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-19",
+"weather": "晴",
+"work": "低圧蒸気だめ 定期自主検査",
+"section": "作業内容"
+},
+"sheet": "9.19",
+"r": 16
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-19",
+"weather": "晴",
+"work": "空冷復水器ファン6電動機 点検",
+"section": "作業内容"
+},
+"sheet": "9.19",
+"r": 17
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-20",
+"weather": "曇",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "9.20",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-20",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "9.20",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-20",
+"people": 4,
+"cumulative": 34,
+"section": "出面"
+},
+"sheet": "9.20",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-20",
+"weather": "曇",
+"work": "タービン 車室開放 準備（保温材撤去）",
+"section": "作業内容"
+},
+"sheet": "9.20",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-20",
+"weather": "曇",
+"work": "脱気器 開放",
+"section": "作業内容"
+},
+"sheet": "9.20",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-21",
+"weather": "曇",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "9.21",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-21",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "9.21",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-21",
+"people": 4,
+"cumulative": 38,
+"section": "出面"
+},
+"sheet": "9.21",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-21",
+"weather": "曇",
+"work": "ロータ 吊出し・点検",
+"section": "作業内容"
+},
+"sheet": "9.21",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-21",
+"weather": "曇",
+"work": "トレイ 清掃",
+"section": "作業内容"
+},
+"sheet": "9.21",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-22",
+"weather": "晴",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "9.22",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-22",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 4,
+"section": "出面"
+},
+"sheet": "9.22",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-22",
+"people": 5,
+"cumulative": 43,
+"section": "出面"
+},
+"sheet": "9.22",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-22",
+"weather": "晴",
+"work": "ロータ 吊出し・点検",
+"section": "作業内容"
+},
+"sheet": "9.22",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-22",
+"weather": "晴",
+"work": "検査 受検",
+"section": "作業内容"
+},
+"sheet": "9.22",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-25",
+"weather": "曇",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "9.25",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-25",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "9.25",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-25",
+"people": 4,
+"cumulative": 47,
+"section": "出面"
+},
+"sheet": "9.25",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-25",
+"weather": "曇",
+"work": "ノズル・動翼 点検",
+"section": "作業内容"
+},
+"sheet": "9.25",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-25",
+"weather": "曇",
+"work": "復旧・閉止",
+"section": "作業内容"
+},
+"sheet": "9.25",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-26",
+"weather": "曇時々雨",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "9.26",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-26",
+"people": 1,
+"cumulative": 48,
+"section": "出面"
+},
+"sheet": "9.26",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-26",
+"weather": "曇時々雨",
+"work": "ノズル・動翼 点検",
+"section": "作業内容"
+},
+"sheet": "9.26",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-27",
+"weather": "晴",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "9.27",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-27",
+"people": 1,
+"cumulative": 49,
+"section": "出面"
+},
+"sheet": "9.27",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-27",
+"weather": "晴",
+"work": "非破壊検査（PT・UT）",
+"section": "作業内容"
+},
+"sheet": "9.27",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-28",
+"weather": "雨",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "9.28",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-28",
+"people": 1,
+"cumulative": 50,
+"section": "出面"
+},
+"sheet": "9.28",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-28",
+"weather": "雨",
+"work": "軸受・グランド 点検",
+"section": "作業内容"
+},
+"sheet": "9.28",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-29",
+"weather": "晴",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "9.29",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-09-29",
+"people": 1,
+"cumulative": 51,
+"section": "出面"
+},
+"sheet": "9.29",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-09-29",
+"weather": "晴",
+"work": "軸受・グランド 点検",
+"section": "作業内容"
+},
+"sheet": "9.29",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-10-01",
+"weather": "晴",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "10.1",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-10-01",
+"people": 1,
+"cumulative": 52,
+"section": "出面"
+},
+"sheet": "10.1",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-10-01",
+"weather": "晴",
+"work": "軸受・グランド 点検",
+"section": "作業内容"
+},
+"sheet": "10.1",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-10-02",
+"weather": "雨",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "10.2",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-10-02",
+"people": 1,
+"cumulative": 53,
+"section": "出面"
+},
+"sheet": "10.2",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-10-02",
+"weather": "雨",
+"work": "組立・芯出し",
+"section": "作業内容"
+},
+"sheet": "10.2",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-10-03",
+"weather": "曇",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "10.3",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-10-03",
+"people": 1,
+"cumulative": 54,
+"section": "出面"
+},
+"sheet": "10.3",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-10-03",
+"weather": "曇",
+"work": "組立・芯出し",
+"section": "作業内容"
+},
+"sheet": "10.3",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-10-04",
+"weather": "晴",
+"company": "【架空】鳴瀬タービン",
+"job": "指導員",
+"people": 1,
+"section": "出面"
+},
+"sheet": "10.4",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-10-04",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "電気",
+"people": 2,
+"section": "出面"
+},
+"sheet": "10.4",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2018-10-04",
+"people": 3,
+"cumulative": 57,
+"section": "出面"
+},
+"sheet": "10.4",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-10-04",
+"weather": "晴",
+"work": "上半車室 組立",
+"section": "作業内容"
+},
+"sheet": "10.4",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2018-10-04",
+"weather": "晴",
+"work": "単体試運転 実施",
+"section": "作業内容"
+},
+"sheet": "10.4",
+"r": 15
+}
+]
+}

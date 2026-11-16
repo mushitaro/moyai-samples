@@ -1,0 +1,475 @@
+{
+"file": "【架空】かざはやエコプラザ_工程表_2025年度全炉停止時共通設備点検整備工事_q2予定実績工程表.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"processNo": 1,
+"name": "2号炉立下げ・全炉停止／タービン停止・ターニング",
+"codes": [],
+"crew": "SPC運転",
+"people": null,
+"planStart": "2025-09-18",
+"planEnd": "2025-09-19",
+"actualStart": "2025-09-18",
+"actualEnd": "2025-09-19"
+},
+"sheet": "工程表",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 2,
+"name": "停電作業準備（仮設電源・縁切り）",
+"codes": [],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-19",
+"planEnd": "2025-09-19",
+"actualStart": "2025-09-19",
+"actualEnd": "2025-09-19"
+},
+"sheet": "工程表",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 3,
+"name": "受変電設備 年次点検（全停電）",
+"codes": [
+"0DE-010",
+"0DE-020",
+"0DE-030",
+"0DE-040",
+"0DE-050",
+"0DE-060",
+"0DE-070",
+"0DE-080",
+"0DE-090",
+"0DE-100",
+"0DE-110",
+"0DE-130",
+"0DE-140",
+"0DE-150",
+"0DE-160",
+"0DE-180",
+"0YN-180"
+],
+"crew": "受変電",
+"people": 8,
+"planStart": "2025-09-20",
+"planEnd": "2025-09-20",
+"actualStart": "2025-09-20",
+"actualEnd": "2025-09-20"
+},
+"sheet": "工程表",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 4,
+"name": "非常用発電機 年次点検（負荷試験）",
+"codes": [
+"0DE-270"
+],
+"crew": "受変電",
+"people": 8,
+"planStart": "2025-09-20",
+"planEnd": "2025-09-20",
+"actualStart": "2025-09-20",
+"actualEnd": "2025-09-20"
+},
+"sheet": "工程表",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 5,
+"name": "DCSオペレータステーション1 ハード定期点検",
+"codes": [
+"0KS-010"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-22",
+"planEnd": "2025-09-22",
+"actualStart": "2025-09-22",
+"actualEnd": "2025-09-22"
+},
+"sheet": "工程表",
+"r": 16
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 6,
+"name": "DCSエンジニアリングステーション ハード定期点検",
+"codes": [
+"0KS-050"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-22",
+"planEnd": "2025-09-22",
+"actualStart": "2025-09-22",
+"actualEnd": "2025-09-22"
+},
+"sheet": "工程表",
+"r": 18
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 7,
+"name": "機器冷却水ポンプA ポンプ分解整備",
+"codes": [
+"0KY-050"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2025-09-22",
+"planEnd": "2025-09-23",
+"actualStart": "2025-09-22",
+"actualEnd": "2025-09-23"
+},
+"sheet": "工程表",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 8,
+"name": "空冷式復水器 フィン洗浄・目視点検",
+"codes": [
+"0YN-210"
+],
+"crew": "洗浄",
+"people": 4,
+"planStart": "2025-09-22",
+"planEnd": "2025-09-24",
+"actualStart": "2025-09-22",
+"actualEnd": "2025-09-24"
+},
+"sheet": "工程表",
+"r": 22
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 9,
+"name": "空冷復水器ファン減速機1 減速機分解整備",
+"codes": [
+"0YN-280"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2025-09-22",
+"planEnd": "2025-09-23",
+"actualStart": "2025-09-22",
+"actualEnd": "2025-09-23"
+},
+"sheet": "工程表",
+"r": 24
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 10,
+"name": "空冷復水器ファン減速機2 減速機分解整備",
+"codes": [
+"0YN-290"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2025-09-22",
+"planEnd": "2025-09-23",
+"actualStart": "2025-09-22",
+"actualEnd": "2025-09-23"
+},
+"sheet": "工程表",
+"r": 26
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 11,
+"name": "脱気器 開放・性能検査受検・復旧",
+"codes": [
+"0YN-400"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2025-09-22",
+"planEnd": "2025-09-25",
+"actualStart": "2025-09-22",
+"actualEnd": "2025-09-25"
+},
+"sheet": "工程表",
+"r": 28
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 12,
+"name": "脱気器給水ポンプA ポンプ分解整備",
+"codes": [
+"0YN-410"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2025-09-22",
+"planEnd": "2025-09-23",
+"actualStart": "2025-09-22",
+"actualEnd": "2025-09-24",
+"note": "気密試験で漏れ → 再調整（手直し 1日）"
+},
+"sheet": "工程表",
+"r": 30
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 13,
+"name": "発電電力量計 検出器更新",
+"codes": [
+"0YN-530"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-22",
+"planEnd": "2025-09-23",
+"actualStart": "2025-09-22",
+"actualEnd": "2025-09-23"
+},
+"sheet": "工程表",
+"r": 32
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 14,
+"name": "真空ポンプA 電動機 電動機軸受交換",
+"codes": [
+"0YN-370M"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-22",
+"planEnd": "2025-09-23",
+"actualStart": "2025-09-22",
+"actualEnd": "2025-09-23"
+},
+"sheet": "工程表",
+"r": 34
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 15,
+"name": "DCSオペレータステーション2 ハード定期点検",
+"codes": [
+"0KS-020"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-23",
+"planEnd": "2025-09-23",
+"actualStart": "2025-09-23",
+"actualEnd": "2025-09-23"
+},
+"sheet": "工程表",
+"r": 36
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 16,
+"name": "共通DCSコントローラ盤1 ハード定期点検",
+"codes": [
+"0KS-060"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-23",
+"planEnd": "2025-09-23",
+"actualStart": "2025-09-23",
+"actualEnd": "2025-09-23"
+},
+"sheet": "工程表",
+"r": 38
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 17,
+"name": "DCSオペレータステーション3 ハード定期点検",
+"codes": [
+"0KS-030"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-24",
+"planEnd": "2025-09-24",
+"actualStart": "2025-09-24",
+"actualEnd": "2025-09-24"
+},
+"sheet": "工程表",
+"r": 40
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 18,
+"name": "共通DCSコントローラ盤2 ハード定期点検",
+"codes": [
+"0KS-070"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-24",
+"planEnd": "2025-09-24",
+"actualStart": "2025-09-24",
+"actualEnd": "2025-09-24"
+},
+"sheet": "工程表",
+"r": 42
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 19,
+"name": "高圧蒸気だめ 定期自主検査",
+"codes": [
+"0YN-190"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2025-09-24",
+"planEnd": "2025-09-24",
+"actualStart": "2025-09-24",
+"actualEnd": "2025-09-24"
+},
+"sheet": "工程表",
+"r": 44
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 20,
+"name": "空冷復水器ファン3 電動機 絶縁診断",
+"codes": [
+"0YN-240M"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-24",
+"planEnd": "2025-09-24",
+"actualStart": "2025-09-24",
+"actualEnd": "2025-09-24"
+},
+"sheet": "工程表",
+"r": 46
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 21,
+"name": "DCSオペレータステーション4 ハード定期点検",
+"codes": [
+"0KS-040"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-25",
+"planEnd": "2025-09-25",
+"actualStart": "2025-09-25",
+"actualEnd": "2025-09-25"
+},
+"sheet": "工程表",
+"r": 48
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 22,
+"name": "データロガ・帳票装置 ハード定期点検",
+"codes": [
+"0KS-080"
+],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-25",
+"planEnd": "2025-09-25",
+"actualStart": "2025-09-25",
+"actualEnd": "2025-09-25"
+},
+"sheet": "工程表",
+"r": 50
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 23,
+"name": "低圧蒸気だめ 定期自主検査",
+"codes": [
+"0YN-200"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2025-09-25",
+"planEnd": "2025-09-25",
+"actualStart": "2025-09-25",
+"actualEnd": "2025-09-25"
+},
+"sheet": "工程表",
+"r": 52
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 24,
+"name": "復旧・通電確認・単体試運転",
+"codes": [],
+"crew": "電計2",
+"people": 2,
+"planStart": "2025-09-26",
+"planEnd": "2025-09-26",
+"actualStart": "2025-09-26",
+"actualEnd": "2025-09-26"
+},
+"sheet": "工程表",
+"r": 54
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 25,
+"name": "2号炉立上げ・タービン起動",
+"codes": [],
+"crew": "SPC運転",
+"people": null,
+"planStart": "2025-09-27",
+"planEnd": "2025-09-27",
+"actualStart": "2025-09-27",
+"actualEnd": "2025-09-27"
+},
+"sheet": "工程表",
+"r": 56
+},
+{
+"kind": "item",
+"fields": {
+"section": "特記",
+"date": "2025-09-23",
+"text": "脱気器給水ポンプA ポンプ分解整備 気密試験で漏れ → 手直し"
+},
+"sheet": "工程表",
+"r": 62
+}
+]
+}

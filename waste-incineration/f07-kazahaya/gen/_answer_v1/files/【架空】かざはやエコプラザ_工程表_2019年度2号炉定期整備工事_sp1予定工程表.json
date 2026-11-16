@@ -1,0 +1,362 @@
+{
+"file": "【架空】かざはやエコプラザ_工程表_2019年度2号炉定期整備工事_sp1予定工程表.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"processNo": 1,
+"name": "炉立下げ・冷却",
+"crew": "SPC運転",
+"codes": [],
+"planStart": "2019-05-28",
+"planEnd": "2019-05-30",
+"note": ""
+},
+"sheet": "工程表",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 2,
+"name": "縁切り・安全措置・マンホール開放",
+"crew": "水樹TS電計",
+"codes": [],
+"planStart": "2019-05-31",
+"planEnd": "2019-05-31",
+"note": ""
+},
+"sheet": "工程表",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 3,
+"name": "足場組立（炉内・ボイラ・BF）",
+"crew": "北斗足場",
+"codes": [],
+"planStart": "2019-05-31",
+"planEnd": "2019-06-03",
+"note": "北斗足場 4名"
+},
+"sheet": "工程表",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 4,
+"name": "炉内清掃・クリンカ除去・耐火物点検",
+"crew": "東雲築炉",
+"codes": [
+"2NS-010"
+],
+"planStart": "2019-06-01",
+"planEnd": "2019-06-04",
+"note": "東雲築炉工業 5名"
+},
+"sheet": "工程表",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 5,
+"name": "排ガス処理設備（減温塔噴霧ノズルユニット・減温塔ダスト排出装置・消石灰定量供給機ほか） 整備",
+"crew": "水樹TS",
+"codes": [
+"2HG-050",
+"2HG-080",
+"2HG-090",
+"2HG-110",
+"2HG-120",
+"2HG-150",
+"2HG-170",
+"2HG-190",
+"2HG-240",
+"2HG-250",
+"2HG-260",
+"2HG-280",
+"2HG-390",
+"2HG-400"
+],
+"planStart": "2019-06-01",
+"planEnd": "2019-06-07",
+"note": ""
+},
+"sheet": "工程表",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 6,
+"name": "送風機 整備（バーナ燃焼用送風機）",
+"crew": "水樹TS",
+"codes": [
+"2NS-260",
+"2NS-310"
+],
+"planStart": "2019-06-01",
+"planEnd": "2019-06-04",
+"note": ""
+},
+"sheet": "工程表",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 7,
+"name": "ろ布抜取試験・触媒性能試験（抜取）",
+"crew": "分析ｾﾝﾀｰ",
+"codes": [
+"2HG-130"
+],
+"planStart": "2019-06-01",
+"planEnd": "2019-06-01",
+"note": ""
+},
+"sheet": "工程表",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 8,
+"name": "耐火物 点検・部分補修",
+"crew": "東雲築炉",
+"codes": [
+"2NS-010"
+],
+"planStart": "2019-06-05",
+"planEnd": "2019-06-11",
+"note": "東雲築炉工業 5名"
+},
+"sheet": "工程表",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 9,
+"name": "火格子 摩耗測定",
+"crew": "水樹TS",
+"codes": [
+"2NS-020",
+"2NS-030",
+"2NS-040"
+],
+"planStart": "2019-06-05",
+"planEnd": "2019-06-05",
+"note": ""
+},
+"sheet": "工程表",
+"r": 16
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 10,
+"name": "再加熱器ドレン回収ポンプB 分解整備",
+"crew": "水樹TS",
+"codes": [
+"2HG-360"
+],
+"planStart": "2019-06-05",
+"planEnd": "2019-06-07",
+"note": ""
+},
+"sheet": "工程表",
+"r": 17
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 11,
+"name": "給じん装置・灰押出装置 摺動部・ライナ補修（ホッパブリッジ解除装置・主灰押出装置） 整備",
+"crew": "水樹TS",
+"codes": [
+"2UK-020",
+"2NS-170"
+],
+"planStart": "2019-06-06",
+"planEnd": "2019-06-10",
+"note": ""
+},
+"sheet": "工程表",
+"r": 18
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 12,
+"name": "ボイラ 伝熱管 清掃（水洗）・目視点検",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2019-06-08",
+"planEnd": "2019-06-11",
+"note": ""
+},
+"sheet": "工程表",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 13,
+"name": "回転機 定例点検・給油（送風機・ポンプ類）",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2019-06-08",
+"planEnd": "2019-06-10",
+"note": ""
+},
+"sheet": "工程表",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 14,
+"name": "バグフィルタ 室別開放点検・ろ布目視",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2019-06-12",
+"planEnd": "2019-06-13",
+"note": ""
+},
+"sheet": "工程表",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 15,
+"name": "コンベヤ類（落じん排出コンベヤ・主灰振動コンベヤ） 整備",
+"crew": "水樹TS",
+"codes": [
+"2NS-160",
+"2HA-010"
+],
+"planStart": "2019-06-14",
+"planEnd": "2019-06-17",
+"note": ""
+},
+"sheet": "工程表",
+"r": 22
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 16,
+"name": "スートブロワ・ボイラ付属（長抜差型スートブロワ4・ボイラダスト排出装置1・ボイラダスト排出装置2ほか） 整備",
+"crew": "水樹TS",
+"codes": [
+"2BO-190",
+"2BO-320",
+"2BO-330",
+"2BO-340",
+"2BO-350"
+],
+"planStart": "2019-06-18",
+"planEnd": "2019-06-21",
+"note": ""
+},
+"sheet": "工程表",
+"r": 23
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 17,
+"name": "足場解体",
+"crew": "北斗足場",
+"codes": [],
+"planStart": "2019-06-22",
+"planEnd": "2019-06-25",
+"note": "北斗足場 4名"
+},
+"sheet": "工程表",
+"r": 24
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 18,
+"name": "その他機器 分解整備（再燃バーナ・押込送風機ダンパ駆動装置・区分空気ダンパ駆動装置（燃焼1）ほか） 整備",
+"crew": "水樹TS",
+"codes": [
+"2NS-250",
+"2KT-020",
+"2KT-040",
+"2KT-120",
+"2BO-130"
+],
+"planStart": "2019-06-22",
+"planEnd": "2019-06-26",
+"note": ""
+},
+"sheet": "工程表",
+"r": 25
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 19,
+"name": "復旧・単体試運転",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2019-06-27",
+"planEnd": "2019-06-28",
+"note": ""
+},
+"sheet": "工程表",
+"r": 26
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 20,
+"name": "連動試運転",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2019-06-29",
+"planEnd": "2019-06-29",
+"note": ""
+},
+"sheet": "工程表",
+"r": 27
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 21,
+"name": "炉立上げ（昇温・ごみ投入）",
+"crew": "SPC運転",
+"codes": [],
+"planStart": "2019-06-30",
+"planEnd": "2019-07-01",
+"note": ""
+},
+"sheet": "工程表",
+"r": 28
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 22,
+"name": "完了確認・片付け",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2019-07-02",
+"planEnd": "2019-07-02",
+"note": ""
+},
+"sheet": "工程表",
+"r": 29
+}
+]
+}

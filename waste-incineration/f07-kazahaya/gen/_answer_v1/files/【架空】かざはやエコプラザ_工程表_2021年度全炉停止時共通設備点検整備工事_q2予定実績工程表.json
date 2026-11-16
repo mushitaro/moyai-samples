@@ -1,0 +1,279 @@
+{
+"file": "【架空】かざはやエコプラザ_工程表_2021年度全炉停止時共通設備点検整備工事_q2予定実績工程表.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"processNo": 1,
+"name": "2号炉立下げ・全炉停止／タービン停止・ターニング",
+"codes": [],
+"crew": "SPC運転",
+"people": null,
+"planStart": "2021-10-02",
+"planEnd": "2021-10-03",
+"actualStart": "2021-10-02",
+"actualEnd": "2021-10-03"
+},
+"sheet": "工程表",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 2,
+"name": "停電作業準備（仮設電源・縁切り）",
+"codes": [],
+"crew": "電計2",
+"people": 2,
+"planStart": "2021-10-03",
+"planEnd": "2021-10-03",
+"actualStart": "2021-10-03",
+"actualEnd": "2021-10-03"
+},
+"sheet": "工程表",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 3,
+"name": "受変電設備 年次点検（全停電）",
+"codes": [
+"0DE-010",
+"0DE-020",
+"0DE-030",
+"0DE-040",
+"0DE-050",
+"0DE-060",
+"0DE-070",
+"0DE-080",
+"0DE-090",
+"0DE-100",
+"0DE-110",
+"0DE-130",
+"0DE-140",
+"0DE-150",
+"0DE-160",
+"0DE-180",
+"0DE-300",
+"0DE-320",
+"0YN-180"
+],
+"crew": "受変電",
+"people": 8,
+"planStart": "2021-10-04",
+"planEnd": "2021-10-04",
+"actualStart": "2021-10-04",
+"actualEnd": "2021-10-04"
+},
+"sheet": "工程表",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 4,
+"name": "非常用発電機 年次点検（負荷試験）",
+"codes": [
+"0DE-270"
+],
+"crew": "受変電",
+"people": 8,
+"planStart": "2021-10-04",
+"planEnd": "2021-10-04",
+"actualStart": "2021-10-04",
+"actualEnd": "2021-10-04"
+},
+"sheet": "工程表",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 5,
+"name": "ターニング装置 分解整備",
+"codes": [
+"0YN-090"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2021-10-05",
+"planEnd": "2021-10-06",
+"actualStart": "2021-10-05",
+"actualEnd": "2021-10-06"
+},
+"sheet": "工程表",
+"r": 16
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 6,
+"name": "高圧蒸気だめ 定期自主検査",
+"codes": [
+"0YN-190"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-10-05",
+"planEnd": "2021-10-05",
+"actualStart": "2021-10-05",
+"actualEnd": "2021-10-05"
+},
+"sheet": "工程表",
+"r": 18
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 7,
+"name": "低圧蒸気だめ 定期自主検査",
+"codes": [
+"0YN-200"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-10-05",
+"planEnd": "2021-10-05",
+"actualStart": "2021-10-05",
+"actualEnd": "2021-10-05"
+},
+"sheet": "工程表",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 8,
+"name": "空冷式復水器 フィン洗浄・目視点検",
+"codes": [
+"0YN-210"
+],
+"crew": "洗浄",
+"people": 4,
+"planStart": "2021-10-05",
+"planEnd": "2021-10-07",
+"actualStart": "2021-10-05",
+"actualEnd": "2021-10-07"
+},
+"sheet": "工程表",
+"r": 22
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 9,
+"name": "空冷復水器ファン2 分解整備",
+"codes": [
+"0YN-230"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-10-05",
+"planEnd": "2021-10-06",
+"actualStart": "2021-10-05",
+"actualEnd": "2021-10-06"
+},
+"sheet": "工程表",
+"r": 24
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 10,
+"name": "脱気器 開放・性能検査受検・復旧",
+"codes": [
+"0YN-400"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-10-05",
+"planEnd": "2021-10-08",
+"actualStart": "2021-10-05",
+"actualEnd": "2021-10-08"
+},
+"sheet": "工程表",
+"r": 26
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 11,
+"name": "清缶剤注入ポンプA 分解整備",
+"codes": [
+"0YN-450"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-10-05",
+"planEnd": "2021-10-06",
+"actualStart": "2021-10-05",
+"actualEnd": "2021-10-06"
+},
+"sheet": "工程表",
+"r": 28
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 12,
+"name": "グランド蒸気復水器 分解整備",
+"codes": [
+"0YN-100"
+],
+"crew": "機械D",
+"people": 3,
+"planStart": "2021-10-07",
+"planEnd": "2021-10-08",
+"actualStart": "2021-10-07",
+"actualEnd": "2021-10-09",
+"note": "芯出し不良 → 再調整（手直し 1日）"
+},
+"sheet": "工程表",
+"r": 30
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 13,
+"name": "復旧・通電確認・単体試運転",
+"codes": [],
+"crew": "電計2",
+"people": 2,
+"planStart": "2021-10-09",
+"planEnd": "2021-10-09",
+"actualStart": "2021-10-09",
+"actualEnd": "2021-10-09"
+},
+"sheet": "工程表",
+"r": 32
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 14,
+"name": "2号炉立上げ・タービン起動",
+"codes": [],
+"crew": "SPC運転",
+"people": null,
+"planStart": "2021-10-11",
+"planEnd": "2021-10-11",
+"actualStart": "2021-10-11",
+"actualEnd": "2021-10-11"
+},
+"sheet": "工程表",
+"r": 34
+},
+{
+"kind": "item",
+"fields": {
+"section": "特記",
+"date": "2021-10-08",
+"text": "グランド蒸気復水器 分解整備 芯出し不良 → 手直し"
+},
+"sheet": "工程表",
+"r": 40
+}
+]
+}

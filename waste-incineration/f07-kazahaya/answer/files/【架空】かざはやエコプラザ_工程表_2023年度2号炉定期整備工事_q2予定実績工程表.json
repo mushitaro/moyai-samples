@@ -1,0 +1,389 @@
+{
+"file": "【架空】かざはやエコプラザ_工程表_2023年度2号炉定期整備工事_q2予定実績工程表.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 8,
+"fields": {
+"processNo": 1,
+"name": "炉立下げ・冷却",
+"codes": [],
+"crew": "SPC運転",
+"people": null,
+"planStart": "2023-05-28",
+"planEnd": "2023-05-30",
+"actualStart": "2023-05-28",
+"actualEnd": "2023-05-30"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 10,
+"fields": {
+"processNo": 2,
+"name": "縁切り・安全措置・マンホール開放",
+"codes": [],
+"crew": "電計",
+"people": 3,
+"planStart": "2023-05-31",
+"planEnd": "2023-05-31",
+"actualStart": "2023-05-31",
+"actualEnd": "2023-05-31"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 12,
+"fields": {
+"processNo": 3,
+"name": "足場組立（炉内・ボイラ・BF）",
+"codes": [],
+"crew": "足場",
+"people": 4,
+"planStart": "2023-05-31",
+"planEnd": "2023-06-02",
+"actualStart": "2023-05-31",
+"actualEnd": "2023-06-02"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 14,
+"fields": {
+"processNo": 4,
+"name": "炉内清掃・クリンカ除去・耐火物点検",
+"codes": [
+"2NS-010"
+],
+"crew": "耐火",
+"people": 5,
+"planStart": "2023-06-01",
+"planEnd": "2023-06-03",
+"actualStart": "2023-06-01",
+"actualEnd": "2023-06-03"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 16,
+"fields": {
+"processNo": 5,
+"name": "排ガス再加熱器 管漏れ点検",
+"codes": [
+"2HG-330"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2023-06-01",
+"planEnd": "2023-06-01",
+"actualStart": "2023-06-01",
+"actualEnd": "2023-06-01"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 18,
+"fields": {
+"processNo": 6,
+"name": "減温塔噴霧水ポンプB 分解整備",
+"codes": [
+"2HG-030"
+],
+"crew": "機械B",
+"people": 4,
+"planStart": "2023-06-01",
+"planEnd": "2023-06-03",
+"actualStart": "2023-06-01",
+"actualEnd": "2023-06-03"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 20,
+"fields": {
+"processNo": 7,
+"name": "電動機（減温塔噴霧水ポンプA電動機）",
+"codes": [
+"2HG-020M"
+],
+"crew": "電計",
+"people": 3,
+"planStart": "2023-06-01",
+"planEnd": "2023-06-02",
+"actualStart": "2023-06-01",
+"actualEnd": "2023-06-02"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 22,
+"fields": {
+"processNo": 8,
+"name": "排ガス処理設備（減温塔噴霧ノズルユニット・消石灰吹込ブロワ・バグフィルタ室別入口ダンパ駆動装置2ほか） 整備",
+"codes": [
+"2HG-050",
+"2HG-100",
+"2HG-160",
+"2HG-180",
+"2HG-210",
+"2HG-410"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2023-06-02",
+"planEnd": "2023-06-07",
+"actualStart": "2023-06-02",
+"actualEnd": "2023-06-07"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 24,
+"fields": {
+"processNo": 9,
+"name": "耐火物 点検・部分補修",
+"codes": [
+"2NS-010"
+],
+"crew": "耐火",
+"people": 5,
+"planStart": "2023-06-05",
+"planEnd": "2023-06-10",
+"actualStart": "2023-06-05",
+"actualEnd": "2023-06-10"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 26,
+"fields": {
+"processNo": 10,
+"name": "火格子 摩耗測定",
+"codes": [
+"2NS-020",
+"2NS-030",
+"2NS-040"
+],
+"crew": "機械A",
+"people": 6,
+"planStart": "2023-06-05",
+"planEnd": "2023-06-05",
+"actualStart": "2023-06-05",
+"actualEnd": "2023-06-05"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 28,
+"fields": {
+"processNo": 11,
+"name": "油圧装置（燃焼装置油圧ポンプA電動機） 整備",
+"codes": [
+"2NS-120M"
+],
+"crew": "機械B",
+"people": 4,
+"planStart": "2023-06-05",
+"planEnd": "2023-06-07",
+"actualStart": "2023-06-05",
+"actualEnd": "2023-06-07"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 30,
+"fields": {
+"processNo": 12,
+"name": "給じん装置・灰押出装置 摺動部・ライナ補修（ホッパブリッジ解除装置・主灰押出装置） 整備",
+"codes": [
+"2UK-020",
+"2NS-170"
+],
+"crew": "機械A",
+"people": 6,
+"planStart": "2023-06-06",
+"planEnd": "2023-06-09",
+"actualStart": "2023-06-06",
+"actualEnd": "2023-06-09"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 32,
+"fields": {
+"processNo": 13,
+"name": "ボイラ 伝熱管 清掃（水洗）・目視点検",
+"codes": [],
+"crew": "機械C",
+"people": 3,
+"planStart": "2023-06-08",
+"planEnd": "2023-06-10",
+"actualStart": "2023-06-08",
+"actualEnd": "2023-06-10"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 34,
+"fields": {
+"processNo": 14,
+"name": "回転機 定例点検・給油（送風機・ポンプ類）",
+"codes": [],
+"crew": "機械B",
+"people": 4,
+"planStart": "2023-06-08",
+"planEnd": "2023-06-09",
+"actualStart": "2023-06-08",
+"actualEnd": "2023-06-09"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 36,
+"fields": {
+"processNo": 15,
+"name": "バグフィルタ 室別開放点検・ろ布目視",
+"codes": [],
+"crew": "機械C",
+"people": 3,
+"planStart": "2023-06-12",
+"planEnd": "2023-06-13",
+"actualStart": "2023-06-12",
+"actualEnd": "2023-06-13"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 38,
+"fields": {
+"processNo": 16,
+"name": "スートブロワ・ボイラ付属（長抜差型スートブロワ3・長抜差型スートブロワ4） 整備",
+"codes": [
+"2BO-180",
+"2BO-190"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2023-06-14",
+"planEnd": "2023-06-15",
+"actualStart": "2023-06-14",
+"actualEnd": "2023-06-15"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 40,
+"fields": {
+"processNo": 17,
+"name": "足場解体",
+"codes": [],
+"crew": "足場",
+"people": 4,
+"planStart": "2023-06-16",
+"planEnd": "2023-06-19",
+"actualStart": "2023-06-16",
+"actualEnd": "2023-06-19"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 42,
+"fields": {
+"processNo": 18,
+"name": "その他機器 分解整備（助燃バーナ） 整備",
+"codes": [
+"2NS-240"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2023-06-16",
+"planEnd": "2023-06-17",
+"actualStart": "2023-06-16",
+"actualEnd": "2023-06-17"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 44,
+"fields": {
+"processNo": 19,
+"name": "復旧・単体試運転",
+"codes": [],
+"crew": "機械A",
+"people": 6,
+"planStart": "2023-06-20",
+"planEnd": "2023-06-21",
+"actualStart": "2023-06-20",
+"actualEnd": "2023-06-21"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 46,
+"fields": {
+"processNo": 20,
+"name": "連動試運転",
+"codes": [],
+"crew": "機械A",
+"people": 6,
+"planStart": "2023-06-22",
+"planEnd": "2023-06-22",
+"actualStart": "2023-06-22",
+"actualEnd": "2023-06-22"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 48,
+"fields": {
+"processNo": 21,
+"name": "炉立上げ（昇温・ごみ投入）",
+"codes": [],
+"crew": "SPC運転",
+"people": null,
+"planStart": "2023-06-23",
+"planEnd": "2023-06-24",
+"actualStart": "2023-06-23",
+"actualEnd": "2023-06-24"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 50,
+"fields": {
+"processNo": 22,
+"name": "完了確認・片付け",
+"codes": [],
+"crew": "機械A",
+"people": 6,
+"planStart": "2023-06-26",
+"planEnd": "2023-06-26",
+"actualStart": "2023-06-26",
+"actualEnd": "2023-06-26"
+}
+}
+]
+}

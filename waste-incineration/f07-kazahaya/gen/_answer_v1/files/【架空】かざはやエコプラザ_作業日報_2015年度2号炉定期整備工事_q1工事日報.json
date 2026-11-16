@@ -1,0 +1,850 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2015年度2号炉定期整備工事_q1工事日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-18",
+"weather": "雨",
+"company": "【架空】水樹テクノサービス",
+"job": "電気",
+"people": 4,
+"section": "出面"
+},
+"sheet": "11.18",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-18",
+"weather": "雨",
+"company": "【架空】北斗足場",
+"job": "とび",
+"people": 4,
+"section": "出面"
+},
+"sheet": "11.18",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-11-18",
+"people": 8,
+"cumulative": 8,
+"section": "出面"
+},
+"sheet": "11.18",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-18",
+"weather": "雨",
+"work": "電源縁切り・施錠表示、マンホール開放、酸素濃度測定",
+"section": "作業内容"
+},
+"sheet": "11.18",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-18",
+"weather": "雨",
+"work": "炉内足場 組立（燃焼室）",
+"section": "作業内容"
+},
+"sheet": "11.18",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-19",
+"weather": "晴",
+"company": "【架空】北斗足場",
+"job": "とび",
+"people": 5,
+"section": "出面"
+},
+"sheet": "11.19",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-19",
+"weather": "晴",
+"company": "【架空】東雲築炉工業",
+"job": "築炉",
+"people": 5,
+"section": "出面"
+},
+"sheet": "11.19",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-19",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 4,
+"section": "出面"
+},
+"sheet": "11.19",
+"r": 11
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-11-19",
+"people": 14,
+"cumulative": 22,
+"section": "出面"
+},
+"sheet": "11.19",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-19",
+"weather": "晴",
+"work": "炉内足場 組立（ボイラ下部・BF点検口）",
+"section": "作業内容"
+},
+"sheet": "11.19",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-19",
+"weather": "晴",
+"work": "炉内クリンカ除去（乾燥段～燃焼段上部）",
+"section": "作業内容"
+},
+"sheet": "11.19",
+"r": 16
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-19",
+"weather": "晴",
+"work": "回転機 定例点検・給油 分解・軸受取外し",
+"section": "作業内容"
+},
+"sheet": "11.19",
+"r": 17
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-20",
+"weather": "晴",
+"company": "【架空】北斗足場",
+"job": "とび",
+"people": 4,
+"section": "出面"
+},
+"sheet": "11.20",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-20",
+"weather": "晴",
+"company": "【架空】東雲築炉工業",
+"job": "築炉",
+"people": 5,
+"section": "出面"
+},
+"sheet": "11.20",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-20",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 4,
+"section": "出面"
+},
+"sheet": "11.20",
+"r": 11
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-11-20",
+"people": 13,
+"cumulative": 35,
+"section": "出面"
+},
+"sheet": "11.20",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-20",
+"weather": "晴",
+"work": "足場 組立完了、作業前点検",
+"section": "作業内容"
+},
+"sheet": "11.20",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-20",
+"weather": "晴",
+"work": "炉内清掃（後燃焼段・灰押出部）",
+"section": "作業内容"
+},
+"sheet": "11.20",
+"r": 16
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-20",
+"weather": "晴",
+"work": "復旧、振動測定",
+"section": "作業内容"
+},
+"sheet": "11.20",
+"r": 17
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-21",
+"weather": "晴",
+"company": "【架空】東雲築炉工業",
+"job": "築炉",
+"people": 5,
+"section": "出面"
+},
+"sheet": "11.21",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-11-21",
+"people": 5,
+"cumulative": 40,
+"section": "出面"
+},
+"sheet": "11.21",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-21",
+"weather": "晴",
+"work": "清掃完了、炉壁 打診点検",
+"section": "作業内容"
+},
+"sheet": "11.21",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-24",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 9,
+"section": "出面"
+},
+"sheet": "11.24",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-11-24",
+"people": 9,
+"cumulative": 49,
+"section": "出面"
+},
+"sheet": "11.24",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-24",
+"weather": "曇",
+"work": "瑕疵確認点検 開始（燃焼装置まわり）",
+"section": "作業内容"
+},
+"sheet": "11.24",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-24",
+"weather": "曇",
+"work": "火格子 摩耗量測定（可動・固定）",
+"section": "作業内容"
+},
+"sheet": "11.24",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-25",
+"weather": "雨",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "11.25",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-11-25",
+"people": 3,
+"cumulative": 52,
+"section": "出面"
+},
+"sheet": "11.25",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-25",
+"weather": "雨",
+"work": "瑕疵確認点検 開始（燃焼装置まわり）",
+"section": "作業内容"
+},
+"sheet": "11.25",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-26",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "11.26",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-11-26",
+"people": 3,
+"cumulative": 55,
+"section": "出面"
+},
+"sheet": "11.26",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-26",
+"weather": "曇",
+"work": "各部ボルト増締め・発錆部 確認",
+"section": "作業内容"
+},
+"sheet": "11.26",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-27",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "11.27",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-11-27",
+"people": 3,
+"cumulative": 58,
+"section": "出面"
+},
+"sheet": "11.27",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-27",
+"weather": "曇",
+"work": "瑕疵確認点検 完了、指摘 3件 是正",
+"section": "作業内容"
+},
+"sheet": "11.27",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-28",
+"weather": "晴のち曇",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "11.28",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-11-28",
+"people": 3,
+"cumulative": 61,
+"section": "出面"
+},
+"sheet": "11.28",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-28",
+"weather": "晴のち曇",
+"work": "点検結果 取りまとめ、指摘事項 是正",
+"section": "作業内容"
+},
+"sheet": "11.28",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-30",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "11.30",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-11-30",
+"people": 3,
+"cumulative": 64,
+"section": "出面"
+},
+"sheet": "11.30",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-11-30",
+"weather": "曇",
+"work": "炉内清掃 開始、クリンカはつり",
+"section": "作業内容"
+},
+"sheet": "11.30",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-01",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "12.1",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-12-01",
+"people": 3,
+"cumulative": 67,
+"section": "出面"
+},
+"sheet": "12.1",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-01",
+"weather": "晴",
+"work": "クリンカ除去 継続、落じん清掃",
+"section": "作業内容"
+},
+"sheet": "12.1",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-02",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "12.2",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-12-02",
+"people": 3,
+"cumulative": 70,
+"section": "出面"
+},
+"sheet": "12.2",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-02",
+"weather": "晴",
+"work": "炉内清掃 完了、耐火物 目視点検",
+"section": "作業内容"
+},
+"sheet": "12.2",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-03",
+"weather": "曇時々雨",
+"company": "【架空】北斗足場",
+"job": "とび",
+"people": 5,
+"section": "出面"
+},
+"sheet": "12.3",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-03",
+"weather": "曇時々雨",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 4,
+"section": "出面"
+},
+"sheet": "12.3",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-12-03",
+"people": 9,
+"cumulative": 79,
+"section": "出面"
+},
+"sheet": "12.3",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-03",
+"weather": "曇時々雨",
+"work": "炉内足場 解体（上部から）",
+"section": "作業内容"
+},
+"sheet": "12.3",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-03",
+"weather": "曇時々雨",
+"work": "バグフィルタ 室別開放点検・ろ布目視 開放",
+"section": "作業内容"
+},
+"sheet": "12.3",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-04",
+"weather": "曇",
+"company": "【架空】北斗足場",
+"job": "とび",
+"people": 4,
+"section": "出面"
+},
+"sheet": "12.4",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-04",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "12.4",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-12-04",
+"people": 7,
+"cumulative": 86,
+"section": "出面"
+},
+"sheet": "12.4",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-04",
+"weather": "曇",
+"work": "足場解体 継続",
+"section": "作業内容"
+},
+"sheet": "12.4",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-04",
+"weather": "曇",
+"work": "作動確認",
+"section": "作業内容"
+},
+"sheet": "12.4",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-05",
+"weather": "晴",
+"company": "【架空】北斗足場",
+"job": "とび",
+"people": 4,
+"section": "出面"
+},
+"sheet": "12.5",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-12-05",
+"people": 4,
+"cumulative": 90,
+"section": "出面"
+},
+"sheet": "12.5",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-05",
+"weather": "晴",
+"work": "足場解体 完了・搬出",
+"section": "作業内容"
+},
+"sheet": "12.5",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-07",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 6,
+"section": "出面"
+},
+"sheet": "12.7",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-12-07",
+"people": 6,
+"cumulative": 96,
+"section": "出面"
+},
+"sheet": "12.7",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-07",
+"weather": "晴",
+"work": "復旧作業、単体試運転（送風機・ポンプ類）",
+"section": "作業内容"
+},
+"sheet": "12.7",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-08",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 6,
+"section": "出面"
+},
+"sheet": "12.8",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-12-08",
+"people": 6,
+"cumulative": 102,
+"section": "出面"
+},
+"sheet": "12.8",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-08",
+"weather": "晴",
+"work": "復旧 完了",
+"section": "作業内容"
+},
+"sheet": "12.8",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-09",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 5,
+"section": "出面"
+},
+"sheet": "12.9",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-12-09",
+"people": 5,
+"cumulative": 107,
+"section": "出面"
+},
+"sheet": "12.9",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-09",
+"weather": "曇",
+"work": "連動試運転（インターロック確認）",
+"section": "作業内容"
+},
+"sheet": "12.9",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-12",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 6,
+"section": "出面"
+},
+"sheet": "12.12",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2015-12-12",
+"people": 6,
+"cumulative": 113,
+"section": "出面"
+},
+"sheet": "12.12",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2015-12-12",
+"weather": "晴",
+"work": "完了確認（SPC立会）・片付け・搬出",
+"section": "作業内容"
+},
+"sheet": "12.12",
+"r": 13
+}
+]
+}

@@ -1,0 +1,2006 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2022年度全炉停止時共通設備点検整備工事_q3作業日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-19",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "電源縁切り・施錠表示、マンホール開放、酸素濃度測定",
+"note": "",
+"crew": "電計2",
+"processNo": 2,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0919",
+"r": 8
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-09-19",
+"people": 2,
+"manDays": 16.0,
+"manDaysUnit": "h"
+},
+"sheet": "0919",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-20",
+"weather": "曇時々雨",
+"code": "0DE-010ほか18件",
+"name": "受変電設備 一式",
+"work": "全停電 年次点検、保護継電器試験",
+"note": "",
+"crew": "受変電",
+"processNo": 3,
+"people": 8,
+"manDays": 64.0,
+"manDaysText": "64.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0920",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-20",
+"weather": "曇時々雨",
+"code": "0DE-270",
+"name": "非常用発電機",
+"work": "非常用発電機 年次点検",
+"note": "",
+"crew": "受変電",
+"processNo": 4,
+"people": 8,
+"manDays": 64.0,
+"manDaysText": "64.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0920",
+"r": 8
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-09-20",
+"people": 16,
+"manDays": 128.0,
+"manDaysUnit": "h"
+},
+"sheet": "0920",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-21",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "上半車室 吊上げ",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 5
+},
+"sheet": "0921",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-21",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0921",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-21",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "0921",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-21",
+"weather": "晴",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "0921",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-21",
+"weather": "晴",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0921",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-21",
+"weather": "晴",
+"code": "0YN-040M",
+"name": "タービン補助油ポンプ 電動機",
+"work": "タービン補助油ポンプ電動機 開放、羽根車・軸受点検",
+"note": "",
+"crew": "電計2",
+"processNo": 9,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0921",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-21",
+"weather": "晴",
+"code": "0YN-110",
+"name": "グランド排風機",
+"work": "グランド排風機 開放",
+"note": "",
+"crew": "機械D",
+"processNo": 6,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0921",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-21",
+"weather": "晴",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "脱気器 開放（マンホール・トレイ取外し）",
+"note": "",
+"crew": "機械C",
+"processNo": 7,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 25
+},
+"sheet": "0921",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-21",
+"weather": "晴",
+"code": "0YN-440",
+"name": "清缶剤注入装置",
+"work": "清缶剤注入装置 分解点検",
+"note": "",
+"crew": "機械C",
+"processNo": 8,
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0921",
+"r": 15
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-09-21",
+"people": 15,
+"manDays": 124.0,
+"manDaysUnit": "h"
+},
+"sheet": "0921",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-22",
+"weather": "曇時々雨",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "上半車室 吊上げ",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 1,
+"manDays": 9.0,
+"manDaysText": "9.0",
+"manDaysUnit": "h",
+"progress": 10
+},
+"sheet": "0922",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-22",
+"weather": "曇時々雨",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0922",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-22",
+"weather": "曇時々雨",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "0922",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-22",
+"weather": "曇時々雨",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "0922",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-22",
+"weather": "曇時々雨",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0922",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-22",
+"weather": "曇時々雨",
+"code": "0YN-040M",
+"name": "タービン補助油ポンプ 電動機",
+"work": "試運転 異常なし",
+"note": "",
+"crew": "電計2",
+"processNo": 9,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0922",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-22",
+"weather": "曇時々雨",
+"code": "0YN-110",
+"name": "グランド排風機",
+"work": "試運転",
+"note": "",
+"crew": "機械D",
+"processNo": 6,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0922",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-22",
+"weather": "曇時々雨",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "内部清掃・点検",
+"note": "",
+"crew": "機械C",
+"processNo": 7,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0922",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-22",
+"weather": "曇時々雨",
+"code": "0YN-440",
+"name": "清缶剤注入装置",
+"work": "作動確認",
+"note": "",
+"crew": "機械C",
+"processNo": 8,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0922",
+"r": 15
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-09-22",
+"people": 12,
+"manDays": 97.0,
+"manDaysUnit": "h"
+},
+"sheet": "0922",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-23",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "上半車室 吊上げ",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 20
+},
+"sheet": "0923",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-23",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0923",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-23",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "0923",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-23",
+"weather": "晴",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "0923",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-23",
+"weather": "晴",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0923",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-23",
+"weather": "晴",
+"code": "0YN-150",
+"name": "タービンバイパス減温減圧装置",
+"work": "タービンバイパス減温減圧装置 分解点検",
+"note": "",
+"crew": "機械D",
+"processNo": 10,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0923",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-23",
+"weather": "晴",
+"code": "0YN-360M",
+"name": "復水ポンプB 電動機",
+"work": "復水ポンプB電動機 分解（カップリング・メカシール取外し）",
+"note": "",
+"crew": "電計2",
+"processNo": 11,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0923",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-23",
+"weather": "晴",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "性能検査 受検",
+"note": "",
+"crew": "機械C",
+"processNo": 7,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 75
+},
+"sheet": "0923",
+"r": 14
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-09-23",
+"people": 9,
+"manDays": 72.0,
+"manDaysUnit": "h"
+},
+"sheet": "0923",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-24",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ロータ 吊出し・点検",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 25
+},
+"sheet": "0924",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-24",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0924",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-24",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "0924",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-24",
+"weather": "晴",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "0924",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-24",
+"weather": "晴",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0924",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-24",
+"weather": "晴",
+"code": "0YN-150",
+"name": "タービンバイパス減温減圧装置",
+"work": "試運転",
+"note": "",
+"crew": "機械D",
+"processNo": 10,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0924",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-24",
+"weather": "晴",
+"code": "0YN-360M",
+"name": "復水ポンプB 電動機",
+"work": "試運転 異常なし",
+"note": "",
+"crew": "電計2",
+"processNo": 11,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0924",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-24",
+"weather": "晴",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "マンホール閉止",
+"note": "",
+"crew": "機械C",
+"processNo": 7,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0924",
+"r": 14
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-09-24",
+"people": 9,
+"manDays": 72.0,
+"manDaysUnit": "h"
+},
+"sheet": "0924",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-26",
+"weather": "曇",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ロータ 吊出し・点検",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 30
+},
+"sheet": "0926",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-26",
+"weather": "曇",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0926",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-26",
+"weather": "曇",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "0926",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-26",
+"weather": "曇",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "0926",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-26",
+"weather": "曇",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0926",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-26",
+"weather": "曇",
+"code": "0YN-190",
+"name": "高圧蒸気だめ",
+"work": "高圧蒸気だめ 開放・内部点検",
+"note": "",
+"crew": "機械D",
+"processNo": 12,
+"people": 3,
+"manDays": 28.5,
+"manDaysText": "28.5",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0926",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-26",
+"weather": "曇",
+"code": "0YN-380M",
+"name": "真空ポンプB 電動機",
+"work": "真空ポンプB電動機 開放、羽根車・軸受点検",
+"note": "",
+"crew": "電計2",
+"processNo": 13,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0926",
+"r": 13
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-09-26",
+"people": 7,
+"manDays": 60.5,
+"manDaysUnit": "h"
+},
+"sheet": "0926",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-27",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ロータ 吊出し・点検",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 40
+},
+"sheet": "0927",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-27",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0927",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-27",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "0927",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-27",
+"weather": "晴",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "0927",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-27",
+"weather": "晴",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0927",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-27",
+"weather": "晴",
+"code": "0YN-200",
+"name": "低圧蒸気だめ",
+"work": "低圧蒸気だめ 開放・内部点検",
+"note": "",
+"crew": "機械D",
+"processNo": 14,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0927",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-27",
+"weather": "晴",
+"code": "0YN-380M",
+"name": "真空ポンプB 電動機",
+"work": "試運転 異常なし",
+"note": "",
+"crew": "電計2",
+"processNo": 13,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0927",
+"r": 13
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-09-27",
+"people": 6,
+"manDays": 48.0,
+"manDaysUnit": "h"
+},
+"sheet": "0927",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-28",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ノズル・動翼 点検",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 45
+},
+"sheet": "0928",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-28",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0928",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-28",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "0928",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-28",
+"weather": "晴",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "0928",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-28",
+"weather": "晴",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0928",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-28",
+"weather": "晴",
+"code": "0YN-220",
+"name": "空冷復水器ファン1",
+"work": "空冷復水器ファン1 分解点検",
+"note": "",
+"crew": "機械D",
+"processNo": 15,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0928",
+"r": 12
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-09-28",
+"people": 4,
+"manDays": 32.0,
+"manDaysUnit": "h"
+},
+"sheet": "0928",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-29",
+"weather": "曇時々雨",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "ノズル・動翼 点検",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 1,
+"manDays": 9.0,
+"manDaysText": "9.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0929",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-29",
+"weather": "曇時々雨",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0929",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-29",
+"weather": "曇時々雨",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "0929",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-29",
+"weather": "曇時々雨",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "0929",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-29",
+"weather": "曇時々雨",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0929",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-29",
+"weather": "曇時々雨",
+"code": "0YN-220",
+"name": "空冷復水器ファン1",
+"work": "作動確認",
+"note": "",
+"crew": "機械D",
+"processNo": 15,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0929",
+"r": 12
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-09-29",
+"people": 4,
+"manDays": 33.0,
+"manDaysUnit": "h"
+},
+"sheet": "0929",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-30",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "軸受・グランド 点検",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 55
+},
+"sheet": "0930",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-30",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0930",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-30",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "0930",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-30",
+"weather": "晴",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "0930",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-30",
+"weather": "晴",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "0930",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-09-30",
+"weather": "晴",
+"code": "0YN-260",
+"name": "空冷復水器ファン5",
+"work": "空冷復水器ファン5 分解点検",
+"note": "",
+"crew": "機械D",
+"processNo": 16,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0930",
+"r": 12
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-09-30",
+"people": 5,
+"manDays": 40.0,
+"manDaysUnit": "h"
+},
+"sheet": "0930",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-01",
+"weather": "曇時々雨",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "非破壊検査（PT・UT）",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 60
+},
+"sheet": "1001",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-01",
+"weather": "曇時々雨",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1001",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-01",
+"weather": "曇時々雨",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1001",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-01",
+"weather": "曇時々雨",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "1001",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-01",
+"weather": "曇時々雨",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1001",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-01",
+"weather": "曇時々雨",
+"code": "0YN-260",
+"name": "空冷復水器ファン5",
+"work": "空冷復水器ファン5 組立／芯出し不良",
+"note": "手直し",
+"crew": "機械D",
+"processNo": 16,
+"people": 4,
+"manDays": 38.0,
+"manDaysText": "38.0",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "1001",
+"r": 12
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-10-01",
+"people": 6,
+"manDays": 54.0,
+"manDaysUnit": "h"
+},
+"sheet": "1001",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-01",
+"section": "特記事項",
+"text": "芯出し不良 → 再調整（手直し 1日）。SPC sp2 へ報告。"
+},
+"sheet": "1001",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "非破壊検査（PT・UT）",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 70
+},
+"sheet": "1003",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1003",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1003",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "1003",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1003",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"code": "0YN-260",
+"name": "空冷復水器ファン5",
+"work": "手直し：再調整（手直し 1日）",
+"note": "",
+"crew": "機械D",
+"processNo": 16,
+"people": 3,
+"manDays": 28.5,
+"manDaysText": "28.5",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1003",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-03",
+"weather": "晴",
+"code": "0YN-300",
+"name": "空冷復水器ファン減速機3",
+"work": "空冷復水器ファン減速機3 開放、歯当たり確認",
+"note": "",
+"crew": "機械D",
+"processNo": 17,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1003",
+"r": 13
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-10-03",
+"people": 7,
+"manDays": 60.5,
+"manDaysUnit": "h"
+},
+"sheet": "1003",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-04",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "軸受・グランド 点検",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 75
+},
+"sheet": "1004",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-04",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1004",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-04",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1004",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-04",
+"weather": "晴",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "1004",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-04",
+"weather": "晴",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1004",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-04",
+"weather": "晴",
+"code": "0YN-360",
+"name": "復水ポンプB",
+"work": "復水ポンプB 分解（カップリング・メカシール取外し）",
+"note": "",
+"crew": "機械D",
+"processNo": 18,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "1004",
+"r": 12
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-10-04",
+"people": 4,
+"manDays": 32.0,
+"manDaysUnit": "h"
+},
+"sheet": "1004",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-05",
+"weather": "雨",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "軸受・グランド 点検",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 80
+},
+"sheet": "1005",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-05",
+"weather": "雨",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1005",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-05",
+"weather": "雨",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1005",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-05",
+"weather": "雨",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "1005",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-05",
+"weather": "雨",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1005",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-05",
+"weather": "雨",
+"code": "0YN-360",
+"name": "復水ポンプB",
+"work": "試運転・振動測定",
+"note": "",
+"crew": "機械D",
+"processNo": 18,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1005",
+"r": 12
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-10-05",
+"people": 4,
+"manDays": 32.0,
+"manDaysUnit": "h"
+},
+"sheet": "1005",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-06",
+"weather": "雨",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "組立・芯出し",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 1,
+"manDays": 9.5,
+"manDaysText": "9.5",
+"manDaysUnit": "h",
+"progress": 90
+},
+"sheet": "1006",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-06",
+"weather": "雨",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1006",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-06",
+"weather": "雨",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1006",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-06",
+"weather": "雨",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "1006",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-06",
+"weather": "雨",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1006",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-06",
+"weather": "雨",
+"code": "0YN-380",
+"name": "真空ポンプB",
+"work": "真空ポンプB 分解（カップリング・メカシール取外し）",
+"note": "",
+"crew": "機械D",
+"processNo": 19,
+"people": 3,
+"manDays": 27.0,
+"manDaysText": "27.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "1006",
+"r": 12
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-10-06",
+"people": 4,
+"manDays": 36.5,
+"manDaysUnit": "h"
+},
+"sheet": "1006",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-07",
+"weather": "晴",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "組立・芯出し",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 1,
+"manDays": 8.0,
+"manDaysText": "8.0",
+"manDaysUnit": "h",
+"progress": 95
+},
+"sheet": "1007",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-07",
+"weather": "晴",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1007",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-07",
+"weather": "晴",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1007",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-07",
+"weather": "晴",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "1007",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-07",
+"weather": "晴",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1007",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-07",
+"weather": "晴",
+"code": "0YN-380",
+"name": "真空ポンプB",
+"work": "試運転・振動測定",
+"note": "",
+"crew": "機械D",
+"processNo": 19,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1007",
+"r": 12
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-10-07",
+"people": 4,
+"manDays": 32.0,
+"manDaysUnit": "h"
+},
+"sheet": "1007",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-08",
+"weather": "曇",
+"code": "0YN-010",
+"name": "蒸気タービン",
+"work": "上半車室 組立",
+"note": "",
+"crew": "SV",
+"processNo": 5,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1008",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-08",
+"weather": "曇",
+"code": "0YN-020",
+"name": "タービン減速機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1008",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-08",
+"weather": "曇",
+"code": "0YN-120",
+"name": "タービン調速装置",
+"work": "〃",
+"note": ""
+},
+"sheet": "1008",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-08",
+"weather": "曇",
+"code": "0YN-130",
+"name": "主蒸気止め弁油筒",
+"work": "〃",
+"note": ""
+},
+"sheet": "1008",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-08",
+"weather": "曇",
+"code": "0YN-160",
+"name": "発電機",
+"work": "〃",
+"note": ""
+},
+"sheet": "1008",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2022-10-08",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "単体試運転 実施",
+"note": "",
+"crew": "電計2",
+"processNo": 20,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1008",
+"r": 13
+},
+{
+"kind": "total",
+"fields": {
+"date": "2022-10-08",
+"people": 4,
+"manDays": 32.0,
+"manDaysUnit": "h"
+},
+"sheet": "1008",
+"r": 19
+}
+]
+}

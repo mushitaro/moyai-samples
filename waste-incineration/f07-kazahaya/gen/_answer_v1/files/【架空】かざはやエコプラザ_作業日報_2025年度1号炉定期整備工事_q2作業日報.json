@@ -1,0 +1,2584 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2025年度1号炉定期整備工事_q2作業日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-09",
+"weather": "晴のち曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "動力・制御電源の縁切り、ロックアウト、マンホール開放",
+"note": "",
+"crew": "電計",
+"processNo": 2,
+"people": 3,
+"manDays": 28.5,
+"manDaysText": "28.5",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0909",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-09",
+"weather": "晴のち曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "足場材 搬入・炉内足場 組立開始",
+"note": "",
+"crew": "足場",
+"processNo": 3,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0909",
+"r": 9
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-09",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 28.5,
+"manDaysText": "28.5",
+"manDaysUnit": "h"
+},
+"sheet": "0909",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-09",
+"company": "北斗足場",
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h"
+},
+"sheet": "0909",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-09",
+"people": 7,
+"manDays": 60.5,
+"manDaysUnit": "h"
+},
+"sheet": "0909",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-10",
+"weather": "曇",
+"code": "1HG-130",
+"name": "バグフィルタ本体",
+"work": "試験用サンプル 抜取",
+"note": "",
+"crew": "分析",
+"processNo": 8,
+"people": 2,
+"manDays": 19.0,
+"manDaysText": "19.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0910",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-10",
+"weather": "曇",
+"code": "1HG-380",
+"name": "触媒反応塔",
+"work": "触媒反応塔 開放・ユニット搬入",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 25
+},
+"sheet": "0910",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-10",
+"weather": "曇",
+"code": "1KT-100M",
+"name": "誘引通風機 電動機",
+"work": "高圧電動機 軸受取外し",
+"note": "",
+"crew": "電計",
+"processNo": 6,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0910",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-10",
+"weather": "曇",
+"code": "1NS-010",
+"name": "焼却炉本体",
+"work": "炉内清掃 開始、クリンカはつり",
+"note": "",
+"crew": "耐火",
+"processNo": 4,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0910",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-10",
+"weather": "曇",
+"code": "1NS-110",
+"name": "燃焼装置油圧ユニット",
+"work": "燃焼装置油圧ユニット・灰押出油圧ユニット 分解（ポンプ・フィルタ）",
+"note": "",
+"crew": "機械B",
+"processNo": 7,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0910",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-10",
+"weather": "曇",
+"code": "1NS-190",
+"name": "灰押出油圧ユニット",
+"work": "〃",
+"note": ""
+},
+"sheet": "0910",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-10",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内足場 組立（ボイラ下部・BF点検口）",
+"note": "",
+"crew": "足場",
+"processNo": 3,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0910",
+"r": 14
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-10",
+"company": "かざはや分析センター",
+"people": 2,
+"manDays": 19.0,
+"manDaysText": "19.0",
+"manDaysUnit": "h"
+},
+"sheet": "0910",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-10",
+"company": "水樹テクノサービス",
+"people": 10,
+"manDays": 80.0,
+"manDaysText": "80.0",
+"manDaysUnit": "h"
+},
+"sheet": "0910",
+"r": 20
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-10",
+"company": "東雲築炉工業",
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h"
+},
+"sheet": "0910",
+"r": 21
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-10",
+"company": "北斗足場",
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h"
+},
+"sheet": "0910",
+"r": 22
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-10",
+"people": 22,
+"manDays": 179.0,
+"manDaysUnit": "h"
+},
+"sheet": "0910",
+"r": 23
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-11",
+"weather": "晴",
+"code": "1HG-380",
+"name": "触媒反応塔",
+"work": "触媒ユニット 据付",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0911",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-11",
+"weather": "晴",
+"code": "1KT-100M",
+"name": "誘引通風機 電動機",
+"work": "固定子 目視・清掃",
+"note": "",
+"crew": "電計",
+"processNo": 6,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0911",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-11",
+"weather": "晴",
+"code": "1NS-010",
+"name": "焼却炉本体",
+"work": "炉内清掃（後燃焼段・灰押出部）",
+"note": "",
+"crew": "耐火",
+"processNo": 4,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0911",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-11",
+"weather": "晴",
+"code": "1NS-110",
+"name": "燃焼装置油圧ユニット",
+"work": "ポンプ 部品交換・組立",
+"note": "",
+"crew": "機械B",
+"processNo": 7,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0911",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-11",
+"weather": "晴",
+"code": "1NS-190",
+"name": "灰押出油圧ユニット",
+"work": "〃",
+"note": ""
+},
+"sheet": "0911",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-11",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "足場 組立完了・点検（手すり・踏板）",
+"note": "",
+"crew": "足場",
+"processNo": 3,
+"people": 5,
+"manDays": 47.5,
+"manDaysText": "47.5",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0911",
+"r": 13
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-11",
+"company": "水樹テクノサービス",
+"people": 10,
+"manDays": 80.0,
+"manDaysText": "80.0",
+"manDaysUnit": "h"
+},
+"sheet": "0911",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-11",
+"company": "東雲築炉工業",
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h"
+},
+"sheet": "0911",
+"r": 20
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-11",
+"company": "北斗足場",
+"people": 5,
+"manDays": 47.5,
+"manDaysText": "47.5",
+"manDaysUnit": "h"
+},
+"sheet": "0911",
+"r": 21
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-11",
+"people": 21,
+"manDays": 175.5,
+"manDaysUnit": "h"
+},
+"sheet": "0911",
+"r": 22
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-12",
+"weather": "晴",
+"code": "1HG-380",
+"name": "触媒反応塔",
+"work": "触媒ユニット 据付",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 75
+},
+"sheet": "0912",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-12",
+"weather": "晴",
+"code": "1KT-100M",
+"name": "誘引通風機 電動機",
+"work": "絶縁診断 完了、結線復旧",
+"note": "",
+"crew": "電計",
+"processNo": 6,
+"people": 3,
+"manDays": 28.5,
+"manDaysText": "28.5",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0912",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-12",
+"weather": "晴",
+"code": "1NS-010",
+"name": "焼却炉本体",
+"work": "清掃完了、炉壁 打診点検",
+"note": "",
+"crew": "耐火",
+"processNo": 4,
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0912",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-12",
+"weather": "晴",
+"code": "1NS-110",
+"name": "燃焼装置油圧ユニット",
+"work": "試運転・圧力確認",
+"note": "",
+"crew": "機械B",
+"processNo": 7,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0912",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-12",
+"weather": "晴",
+"code": "1NS-190",
+"name": "灰押出油圧ユニット",
+"work": "〃",
+"note": ""
+},
+"sheet": "0912",
+"r": 11
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-12",
+"company": "水樹テクノサービス",
+"people": 10,
+"manDays": 84.5,
+"manDaysText": "84.5",
+"manDaysUnit": "h"
+},
+"sheet": "0912",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-12",
+"company": "東雲築炉工業",
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40.0",
+"manDaysUnit": "h"
+},
+"sheet": "0912",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-12",
+"people": 15,
+"manDays": 124.5,
+"manDaysUnit": "h"
+},
+"sheet": "0912",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-13",
+"weather": "曇",
+"code": "1BO-020ほか6件",
+"name": "蒸気ドラムほか",
+"work": "超音波厚さ計 測定 水管壁",
+"note": "",
+"crew": "検査",
+"processNo": 11,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 25
+},
+"sheet": "0913",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-13",
+"weather": "曇",
+"code": "1BO-030",
+"name": "水管壁（炉頂・放射室）",
+"work": "水管壁（炉頂・放射室） 補修範囲 マーキング・切断",
+"note": "",
+"crew": "溶接",
+"processNo": 9,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 15
+},
+"sheet": "0913",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-13",
+"weather": "曇",
+"code": "1BO-390",
+"name": "主蒸気圧力計",
+"work": "主蒸気圧力計・ばいじん計 交換準備・旧品撤去",
+"note": "",
+"crew": "電計",
+"processNo": 12,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0913",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-13",
+"weather": "曇",
+"code": "1HG-460",
+"name": "ばいじん計",
+"work": "〃",
+"note": ""
+},
+"sheet": "0913",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-13",
+"weather": "曇",
+"code": "1HG-380",
+"name": "触媒反応塔",
+"work": "充填完了・気密確認",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0913",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-13",
+"weather": "曇",
+"code": "1NS-040",
+"name": "後燃焼火格子",
+"work": "後燃焼火格子 摩耗の大きい列 取外し",
+"note": "",
+"crew": "機械A",
+"processNo": 10,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 25
+},
+"sheet": "0913",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-13",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "回転機 定例点検・給油 分解・軸受取外し",
+"note": "",
+"crew": "機械B",
+"processNo": 13,
+"people": 4,
+"manDays": 38.0,
+"manDaysText": "38.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0913",
+"r": 14
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-13",
+"company": "かざはや非破壊検査",
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h"
+},
+"sheet": "0913",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-13",
+"company": "かざはや溶接工業",
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h"
+},
+"sheet": "0913",
+"r": 20
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-13",
+"company": "水樹テクノサービス",
+"people": 16,
+"manDays": 134.0,
+"manDaysText": "134.0",
+"manDaysUnit": "h"
+},
+"sheet": "0913",
+"r": 21
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-13",
+"people": 22,
+"manDays": 182.0,
+"manDaysUnit": "h"
+},
+"sheet": "0913",
+"r": 22
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-15",
+"weather": "晴のち曇",
+"code": "1BO-020ほか6件",
+"name": "蒸気ドラムほか",
+"work": "肉厚測定 1次～3次過熱器",
+"note": "",
+"crew": "検査",
+"processNo": 11,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0915",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-15",
+"weather": "晴のち曇",
+"code": "1BO-030",
+"name": "水管壁（炉頂・放射室）",
+"work": "水管壁（炉頂・放射室） 対象管 切断・撤去",
+"note": "",
+"crew": "溶接",
+"processNo": 9,
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36.0",
+"manDaysUnit": "h",
+"progress": 30
+},
+"sheet": "0915",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-15",
+"weather": "晴のち曇",
+"code": "1BO-390",
+"name": "主蒸気圧力計",
+"work": "新品 取付・配線",
+"note": "",
+"crew": "電計",
+"processNo": 12,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0915",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-15",
+"weather": "晴のち曇",
+"code": "1HG-460",
+"name": "ばいじん計",
+"work": "〃",
+"note": ""
+},
+"sheet": "0915",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-15",
+"weather": "晴のち曇",
+"code": "1HG-290",
+"name": "バグフィルタ飛灰コンベヤ1",
+"work": "バグフィルタ飛灰コンベヤ1・バグフィルタ飛灰コンベヤ2ほか 開放",
+"note": "",
+"crew": "機械C",
+"processNo": 14,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 25
+},
+"sheet": "0915",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-15",
+"weather": "晴のち曇",
+"code": "1HG-300",
+"name": "バグフィルタ飛灰コンベヤ2",
+"work": "〃",
+"note": ""
+},
+"sheet": "0915",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-15",
+"weather": "晴のち曇",
+"code": "1HG-320",
+"name": "バグフィルタ入口ガス温度計",
+"work": "〃",
+"note": ""
+},
+"sheet": "0915",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-15",
+"weather": "晴のち曇",
+"code": "1NS-040",
+"name": "後燃焼火格子",
+"work": "新品 取付・ボルト本締め",
+"note": "",
+"crew": "機械A",
+"processNo": 10,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0915",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-15",
+"weather": "晴のち曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "復旧、振動測定",
+"note": "",
+"crew": "機械B",
+"processNo": 13,
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0915",
+"r": 16
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-15",
+"company": "かざはや非破壊検査",
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h"
+},
+"sheet": "0915",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-15",
+"company": "かざはや溶接工業",
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36.0",
+"manDaysUnit": "h"
+},
+"sheet": "0915",
+"r": 20
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-15",
+"company": "水樹テクノサービス",
+"people": 16,
+"manDays": 132.0,
+"manDaysText": "132.0",
+"manDaysUnit": "h"
+},
+"sheet": "0915",
+"r": 21
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-15",
+"people": 22,
+"manDays": 184.0,
+"manDaysUnit": "h"
+},
+"sheet": "0915",
+"r": 22
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-16",
+"weather": "曇",
+"code": "1BO-020ほか6件",
+"name": "蒸気ドラムほか",
+"work": "肉厚測定 蒸発管群・エコノマイザ",
+"note": "",
+"crew": "検査",
+"processNo": 11,
+"people": 2,
+"manDays": 18.0,
+"manDaysText": "18.0",
+"manDaysUnit": "h",
+"progress": 75
+},
+"sheet": "0916",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-16",
+"weather": "曇",
+"code": "1BO-030",
+"name": "水管壁（炉頂・放射室）",
+"work": "新管 溶接・RT検査",
+"note": "",
+"crew": "溶接",
+"processNo": 9,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 45
+},
+"sheet": "0916",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-16",
+"weather": "曇",
+"code": "1BO-390",
+"name": "主蒸気圧力計",
+"work": "校正・指示確認",
+"note": "",
+"crew": "電計",
+"processNo": 12,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0916",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-16",
+"weather": "曇",
+"code": "1HG-460",
+"name": "ばいじん計",
+"work": "〃",
+"note": ""
+},
+"sheet": "0916",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-16",
+"weather": "曇",
+"code": "1HG-290",
+"name": "バグフィルタ飛灰コンベヤ1",
+"work": "バグフィルタ飛灰コンベヤ1・バグフィルタ飛灰コンベヤ2ほか 部品交換",
+"note": "",
+"crew": "機械C",
+"processNo": 14,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0916",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-16",
+"weather": "曇",
+"code": "1HG-300",
+"name": "バグフィルタ飛灰コンベヤ2",
+"work": "〃",
+"note": ""
+},
+"sheet": "0916",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-16",
+"weather": "曇",
+"code": "1HG-320",
+"name": "バグフィルタ入口ガス温度計",
+"work": "〃",
+"note": ""
+},
+"sheet": "0916",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-16",
+"weather": "曇",
+"code": "1NS-040",
+"name": "後燃焼火格子",
+"work": "新品 取付・ボルト本締め",
+"note": "",
+"crew": "機械A",
+"processNo": 10,
+"people": 5,
+"manDays": 40.0,
+"manDaysText": "40.0",
+"manDaysUnit": "h",
+"progress": 75
+},
+"sheet": "0916",
+"r": 14
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-16",
+"company": "かざはや非破壊検査",
+"people": 2,
+"manDays": 18.0,
+"manDaysText": "18.0",
+"manDaysUnit": "h"
+},
+"sheet": "0916",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-16",
+"company": "かざはや溶接工業",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "0916",
+"r": 20
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-16",
+"company": "水樹テクノサービス",
+"people": 11,
+"manDays": 88.0,
+"manDaysText": "88.0",
+"manDaysUnit": "h"
+},
+"sheet": "0916",
+"r": 21
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-16",
+"people": 16,
+"manDays": 130.0,
+"manDaysUnit": "h"
+},
+"sheet": "0916",
+"r": 22
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-17",
+"weather": "晴のち曇",
+"code": "1BO-020ほか6件",
+"name": "蒸気ドラムほか",
+"work": "肉厚測定 蒸気ドラム、まとめ",
+"note": "",
+"crew": "検査",
+"processNo": 11,
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0917",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-17",
+"weather": "晴のち曇",
+"code": "1BO-030",
+"name": "水管壁（炉頂・放射室）",
+"work": "新管 溶接・RT検査",
+"note": "",
+"crew": "溶接",
+"processNo": 9,
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36.0",
+"manDaysUnit": "h",
+"progress": 55
+},
+"sheet": "0917",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-17",
+"weather": "晴のち曇",
+"code": "1BO-100M",
+"name": "ボイラ給水ポンプA 電動機",
+"work": "ボイラ給水ポンプA電動機 開放、羽根車・軸受点検",
+"note": "",
+"crew": "電計",
+"processNo": 15,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0917",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-17",
+"weather": "晴のち曇",
+"code": "1HG-290",
+"name": "バグフィルタ飛灰コンベヤ1",
+"work": "バグフィルタ飛灰コンベヤ1・バグフィルタ飛灰コンベヤ2ほか 部品交換",
+"note": "",
+"crew": "機械C",
+"processNo": 14,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 75
+},
+"sheet": "0917",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-17",
+"weather": "晴のち曇",
+"code": "1HG-300",
+"name": "バグフィルタ飛灰コンベヤ2",
+"work": "〃",
+"note": ""
+},
+"sheet": "0917",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-17",
+"weather": "晴のち曇",
+"code": "1HG-320",
+"name": "バグフィルタ入口ガス温度計",
+"work": "〃",
+"note": ""
+},
+"sheet": "0917",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-17",
+"weather": "晴のち曇",
+"code": "1NS-040",
+"name": "後燃焼火格子",
+"work": "取付後 クリアランス測定",
+"note": "",
+"crew": "機械A",
+"processNo": 10,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0917",
+"r": 13
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-17",
+"company": "かざはや非破壊検査",
+"people": 2,
+"manDays": 16.0,
+"manDaysText": "16.0",
+"manDaysUnit": "h"
+},
+"sheet": "0917",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-17",
+"company": "かざはや溶接工業",
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36.0",
+"manDaysUnit": "h"
+},
+"sheet": "0917",
+"r": 20
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-17",
+"company": "水樹テクノサービス",
+"people": 12,
+"manDays": 96.0,
+"manDaysText": "96.0",
+"manDaysUnit": "h"
+},
+"sheet": "0917",
+"r": 21
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-17",
+"people": 18,
+"manDays": 148.0,
+"manDaysUnit": "h"
+},
+"sheet": "0917",
+"r": 22
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-18",
+"weather": "晴",
+"code": "1BO-030",
+"name": "水管壁（炉頂・放射室）",
+"work": "溶接・非破壊検査",
+"note": "",
+"crew": "溶接",
+"processNo": 9,
+"people": 4,
+"manDays": 38.0,
+"manDaysText": "38.0",
+"manDaysUnit": "h",
+"progress": 70
+},
+"sheet": "0918",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-18",
+"weather": "晴",
+"code": "1BO-100M",
+"name": "ボイラ給水ポンプA 電動機",
+"work": "試運転・振動測定",
+"note": "",
+"crew": "電計",
+"processNo": 15,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0918",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-18",
+"weather": "晴",
+"code": "1HG-290",
+"name": "バグフィルタ飛灰コンベヤ1",
+"work": "作動確認",
+"note": "",
+"crew": "機械C",
+"processNo": 14,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0918",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-18",
+"weather": "晴",
+"code": "1HG-300",
+"name": "バグフィルタ飛灰コンベヤ2",
+"work": "〃",
+"note": ""
+},
+"sheet": "0918",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-18",
+"weather": "晴",
+"code": "1HG-320",
+"name": "バグフィルタ入口ガス温度計",
+"work": "〃",
+"note": ""
+},
+"sheet": "0918",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-18",
+"weather": "晴",
+"code": "1NS-030",
+"name": "燃焼火格子",
+"work": "火格子 摩耗量測定（可動・固定）",
+"note": "",
+"crew": "機械A",
+"processNo": 16,
+"people": 6,
+"manDays": 57.0,
+"manDaysText": "57.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0918",
+"r": 12
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-18",
+"company": "かざはや溶接工業",
+"people": 4,
+"manDays": 38.0,
+"manDaysText": "38.0",
+"manDaysUnit": "h"
+},
+"sheet": "0918",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-18",
+"company": "水樹テクノサービス",
+"people": 13,
+"manDays": 113.0,
+"manDaysText": "113.0",
+"manDaysUnit": "h"
+},
+"sheet": "0918",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-18",
+"people": 17,
+"manDays": 151.0,
+"manDaysUnit": "h"
+},
+"sheet": "0918",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-19",
+"weather": "曇",
+"code": "1BO-030",
+"name": "水管壁（炉頂・放射室）",
+"work": "仕上げ、目視検査",
+"note": "",
+"crew": "溶接",
+"processNo": 9,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 85
+},
+"sheet": "0919",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-19",
+"weather": "曇",
+"code": "1DK-020",
+"name": "炉別動力制御盤（MCC）2",
+"work": "炉別動力制御盤（MCC）2・炉別DCSコントローラ盤 精密点検",
+"note": "",
+"crew": "電計",
+"processNo": 19,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0919",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-19",
+"weather": "曇",
+"code": "1DK-070",
+"name": "炉別DCSコントローラ盤",
+"work": "〃",
+"note": ""
+},
+"sheet": "0919",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-19",
+"weather": "曇",
+"code": "1UK-020",
+"name": "ホッパブリッジ解除装置",
+"work": "ホッパブリッジ解除装置 開放、ライナ 摩耗確認",
+"note": "",
+"crew": "機械A",
+"processNo": 18,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 25
+},
+"sheet": "0919",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-19",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内清掃 開始、クリンカはつり",
+"note": "",
+"crew": "機械C",
+"processNo": 17,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0919",
+"r": 12
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-19",
+"company": "かざはや溶接工業",
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h"
+},
+"sheet": "0919",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-19",
+"company": "水樹テクノサービス",
+"people": 13,
+"manDays": 104.0,
+"manDaysText": "104.0",
+"manDaysUnit": "h"
+},
+"sheet": "0919",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-19",
+"people": 16,
+"manDays": 128.0,
+"manDaysUnit": "h"
+},
+"sheet": "0919",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-20",
+"weather": "晴のち曇",
+"code": "1BO-030",
+"name": "水管壁（炉頂・放射室）",
+"work": "肉盛・プロテクタ取付",
+"note": "",
+"crew": "溶接",
+"processNo": 9,
+"people": 3,
+"manDays": 27.0,
+"manDaysText": "27.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0920",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-20",
+"weather": "晴のち曇",
+"code": "1DK-080",
+"name": "自動燃焼制御装置（ACC）",
+"work": "自動燃焼制御装置（ACC） 盤内清掃・端子増締め・絶縁測定",
+"note": "",
+"crew": "電計",
+"processNo": 19,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0920",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-20",
+"weather": "晴のち曇",
+"code": "1UK-020",
+"name": "ホッパブリッジ解除装置",
+"work": "ライナ 取替・溶接補修",
+"note": "",
+"crew": "機械A",
+"processNo": 18,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0920",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-20",
+"weather": "晴のち曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "クリンカ除去 継続、落じん清掃",
+"note": "",
+"crew": "機械C",
+"processNo": 17,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0920",
+"r": 11
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-20",
+"company": "かざはや溶接工業",
+"people": 3,
+"manDays": 27.0,
+"manDaysText": "27.0",
+"manDaysUnit": "h"
+},
+"sheet": "0920",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-20",
+"company": "水樹テクノサービス",
+"people": 12,
+"manDays": 96.0,
+"manDaysText": "96.0",
+"manDaysUnit": "h"
+},
+"sheet": "0920",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-20",
+"people": 15,
+"manDays": 123.0,
+"manDaysUnit": "h"
+},
+"sheet": "0920",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-22",
+"weather": "曇時々雨",
+"code": "1UK-020",
+"name": "ホッパブリッジ解除装置",
+"work": "ライナ 取替・溶接補修",
+"note": "",
+"crew": "機械A",
+"processNo": 18,
+"people": 7,
+"manDays": 63.0,
+"manDaysText": "63.0",
+"manDaysUnit": "h",
+"progress": 75
+},
+"sheet": "0922",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-22",
+"weather": "曇時々雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内清掃 完了、耐火物 目視点検",
+"note": "",
+"crew": "機械C",
+"processNo": 17,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0922",
+"r": 9
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-22",
+"company": "水樹テクノサービス",
+"people": 10,
+"manDays": 87.0,
+"manDaysText": "87.0",
+"manDaysUnit": "h"
+},
+"sheet": "0922",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-22",
+"people": 10,
+"manDays": 87.0,
+"manDaysUnit": "h"
+},
+"sheet": "0922",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-23",
+"weather": "晴のち曇",
+"code": "1UK-020",
+"name": "ホッパブリッジ解除装置",
+"work": "組立・ストローク確認",
+"note": "",
+"crew": "機械A",
+"processNo": 18,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0923",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-23",
+"weather": "晴のち曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "バグフィルタ 室別開放点検・ろ布目視 開放",
+"note": "",
+"crew": "機械C",
+"processNo": 20,
+"people": 3,
+"manDays": 24.0,
+"manDaysText": "24.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0923",
+"r": 9
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-23",
+"company": "水樹テクノサービス",
+"people": 9,
+"manDays": 72.0,
+"manDaysText": "72.0",
+"manDaysUnit": "h"
+},
+"sheet": "0923",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-23",
+"people": 9,
+"manDays": 72.0,
+"manDaysUnit": "h"
+},
+"sheet": "0923",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-24",
+"weather": "曇",
+"code": "1UK-050",
+"name": "給じん装置油圧シリンダL",
+"work": "給じん装置油圧シリンダL 取外し・パッキン交換",
+"note": "",
+"crew": "機械A",
+"processNo": 21,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0924",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-24",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "作動確認",
+"note": "",
+"crew": "機械C",
+"processNo": 20,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0924",
+"r": 9
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-24",
+"company": "水樹テクノサービス",
+"people": 10,
+"manDays": 80.0,
+"manDaysText": "80.0",
+"manDaysUnit": "h"
+},
+"sheet": "0924",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-24",
+"people": 10,
+"manDays": 80.0,
+"manDaysUnit": "h"
+},
+"sheet": "0924",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-25",
+"weather": "曇",
+"code": "1BO-310",
+"name": "ボイラダスト搬出コンベヤ2",
+"work": "ボイラダスト搬出コンベヤ2・飛灰搬送コンベヤ チェーン・スプロケット 点検",
+"note": "",
+"crew": "機械C",
+"processNo": 22,
+"people": 3,
+"manDays": 27.0,
+"manDaysText": "27.0",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "0925",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-25",
+"weather": "曇",
+"code": "1HA-030",
+"name": "飛灰搬送コンベヤ",
+"work": "〃",
+"note": ""
+},
+"sheet": "0925",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-25",
+"weather": "曇",
+"code": "1UK-060",
+"name": "給じん装置油圧シリンダR",
+"work": "給じん装置油圧シリンダR 取外し・パッキン交換",
+"note": "",
+"crew": "機械A",
+"processNo": 21,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0925",
+"r": 9
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-25",
+"company": "水樹テクノサービス",
+"people": 9,
+"manDays": 75.0,
+"manDaysText": "75.0",
+"manDaysUnit": "h"
+},
+"sheet": "0925",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-25",
+"people": 9,
+"manDays": 75.0,
+"manDaysUnit": "h"
+},
+"sheet": "0925",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-26",
+"weather": "曇",
+"code": "1BO-310",
+"name": "ボイラダスト搬出コンベヤ2",
+"work": "部品交換（チェーン・トラフ）",
+"note": "",
+"crew": "機械C",
+"processNo": 22,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "0926",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-26",
+"weather": "曇",
+"code": "1HA-030",
+"name": "飛灰搬送コンベヤ",
+"work": "〃",
+"note": ""
+},
+"sheet": "0926",
+"r": 8
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-26",
+"weather": "曇",
+"code": "1NS-180",
+"name": "主灰押出装置油圧シリンダ",
+"work": "組立・作動確認",
+"note": "",
+"crew": "機械A",
+"processNo": 21,
+"people": 6,
+"manDays": 54.0,
+"manDaysText": "54.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0926",
+"r": 9
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-26",
+"company": "水樹テクノサービス",
+"people": 10,
+"manDays": 86.0,
+"manDaysText": "86.0",
+"manDaysUnit": "h"
+},
+"sheet": "0926",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-26",
+"people": 10,
+"manDays": 86.0,
+"manDaysUnit": "h"
+},
+"sheet": "0926",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-27",
+"weather": "曇",
+"code": "1BO-310",
+"name": "ボイラダスト搬出コンベヤ2",
+"work": "組立・試運転",
+"note": "",
+"crew": "機械C",
+"processNo": 22,
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0927",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-27",
+"weather": "曇",
+"code": "1HA-030",
+"name": "飛灰搬送コンベヤ",
+"work": "〃",
+"note": ""
+},
+"sheet": "0927",
+"r": 8
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-27",
+"company": "水樹テクノサービス",
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36.0",
+"manDaysUnit": "h"
+},
+"sheet": "0927",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-27",
+"people": 4,
+"manDays": 36.0,
+"manDaysUnit": "h"
+},
+"sheet": "0927",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-29",
+"weather": "曇",
+"code": "1BO-180",
+"name": "長抜差型スートブロワ3",
+"work": "長抜差型スートブロワ3 分解",
+"note": "",
+"crew": "機械C",
+"processNo": 23,
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "0929",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-29",
+"company": "水樹テクノサービス",
+"people": 4,
+"manDays": 36.0,
+"manDaysText": "36.0",
+"manDaysUnit": "h"
+},
+"sheet": "0929",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-29",
+"people": 4,
+"manDays": 36.0,
+"manDaysUnit": "h"
+},
+"sheet": "0929",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-09-30",
+"weather": "雨",
+"code": "1BO-180",
+"name": "長抜差型スートブロワ3",
+"work": "パッキン交換・組立",
+"note": "",
+"crew": "機械C",
+"processNo": 23,
+"people": 3,
+"manDays": 28.5,
+"manDaysText": "28.5",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "0930",
+"r": 7
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-09-30",
+"company": "水樹テクノサービス",
+"people": 3,
+"manDays": 28.5,
+"manDaysText": "28.5",
+"manDaysUnit": "h"
+},
+"sheet": "0930",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-09-30",
+"people": 3,
+"manDays": 28.5,
+"manDaysUnit": "h"
+},
+"sheet": "0930",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-10-01",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内足場 解体（上部から）",
+"note": "",
+"crew": "足場",
+"processNo": 24,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 35
+},
+"sheet": "1001",
+"r": 8
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-01",
+"company": "北斗足場",
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h"
+},
+"sheet": "1001",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-10-01",
+"people": 4,
+"manDays": 32.0,
+"manDaysUnit": "h"
+},
+"sheet": "1001",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-10-02",
+"weather": "晴",
+"code": "1BO-010",
+"name": "ボイラ本体",
+"work": "ボイラ水張り・水圧試験",
+"note": "",
+"crew": "機械A",
+"processNo": 25,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1002",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-10-02",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "足場材 降ろし・整理",
+"note": "",
+"crew": "足場",
+"processNo": 24,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 65
+},
+"sheet": "1002",
+"r": 9
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-02",
+"company": "水樹テクノサービス",
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h"
+},
+"sheet": "1002",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-02",
+"company": "北斗足場",
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h"
+},
+"sheet": "1002",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-10-02",
+"people": 10,
+"manDays": 80.0,
+"manDaysUnit": "h"
+},
+"sheet": "1002",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-10-03",
+"weather": "晴のち曇",
+"code": "1BO-010",
+"name": "ボイラ本体",
+"work": "定期事業者検査 受検、合格",
+"note": "",
+"crew": "機械A",
+"processNo": 26,
+"people": 6,
+"manDays": 54.0,
+"manDaysText": "54.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1003",
+"r": 7
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-10-03",
+"weather": "晴のち曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "足場材 搬出・場内清掃",
+"note": "",
+"crew": "足場",
+"processNo": 24,
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1003",
+"r": 9
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-03",
+"company": "水樹テクノサービス",
+"people": 6,
+"manDays": 54.0,
+"manDaysText": "54.0",
+"manDaysUnit": "h"
+},
+"sheet": "1003",
+"r": 19
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-03",
+"company": "北斗足場",
+"people": 4,
+"manDays": 32.0,
+"manDaysText": "32.0",
+"manDaysUnit": "h"
+},
+"sheet": "1003",
+"r": 20
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-10-03",
+"people": 10,
+"manDays": 86.0,
+"manDaysUnit": "h"
+},
+"sheet": "1003",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-10-04",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "復旧作業、単体試運転（送風機・ポンプ類）",
+"note": "",
+"crew": "機械A",
+"processNo": 27,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 50
+},
+"sheet": "1004",
+"r": 8
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-04",
+"company": "水樹テクノサービス",
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h"
+},
+"sheet": "1004",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-10-04",
+"people": 6,
+"manDays": 48.0,
+"manDaysUnit": "h"
+},
+"sheet": "1004",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-10-06",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "単体試運転 継続、指摘事項 手直し",
+"note": "",
+"crew": "機械A",
+"processNo": 27,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1006",
+"r": 8
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-06",
+"company": "水樹テクノサービス",
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h"
+},
+"sheet": "1006",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-10-06",
+"people": 6,
+"manDays": 48.0,
+"manDaysUnit": "h"
+},
+"sheet": "1006",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-10-07",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "連動試験、異常なし",
+"note": "",
+"crew": "機械A",
+"processNo": 28,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1007",
+"r": 8
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-07",
+"company": "水樹テクノサービス",
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h"
+},
+"sheet": "1007",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-10-07",
+"people": 6,
+"manDays": 48.0,
+"manDaysUnit": "h"
+},
+"sheet": "1007",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"date": "2025-10-10",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "完了確認（SPC立会）・片付け・搬出",
+"note": "",
+"crew": "機械A",
+"processNo": 30,
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h",
+"progress": 100
+},
+"sheet": "1010",
+"r": 8
+},
+{
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-10",
+"company": "水樹テクノサービス",
+"people": 6,
+"manDays": 48.0,
+"manDaysText": "48.0",
+"manDaysUnit": "h"
+},
+"sheet": "1010",
+"r": 19
+},
+{
+"kind": "total",
+"fields": {
+"date": "2025-10-10",
+"people": 6,
+"manDays": 48.0,
+"manDaysUnit": "h"
+},
+"sheet": "1010",
+"r": 20
+}
+]
+}

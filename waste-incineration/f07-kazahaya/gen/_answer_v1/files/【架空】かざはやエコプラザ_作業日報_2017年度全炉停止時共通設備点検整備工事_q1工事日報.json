@@ -1,0 +1,319 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2017年度全炉停止時共通設備点検整備工事_q1工事日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-26",
+"weather": "雨",
+"company": "【架空】水樹テクノサービス",
+"job": "電気",
+"people": 3,
+"section": "出面"
+},
+"sheet": "9.26",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2017-09-26",
+"people": 3,
+"cumulative": 3,
+"section": "出面"
+},
+"sheet": "9.26",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-26",
+"weather": "雨",
+"work": "電源縁切り・施錠表示、マンホール開放、酸素濃度測定",
+"section": "作業内容"
+},
+"sheet": "9.26",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-27",
+"weather": "雨",
+"company": "【架空】風早電設",
+"job": "電気",
+"people": 16,
+"section": "出面"
+},
+"sheet": "9.27",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2017-09-27",
+"people": 16,
+"cumulative": 19,
+"section": "出面"
+},
+"sheet": "9.27",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-27",
+"weather": "雨",
+"work": "受変電設備 年次点検（特高GIS・主変・高圧盤・所内変）",
+"section": "作業内容"
+},
+"sheet": "9.27",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-27",
+"weather": "雨",
+"work": "非常用発電機 負荷試験",
+"section": "作業内容"
+},
+"sheet": "9.27",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-28",
+"weather": "曇",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 6,
+"section": "出面"
+},
+"sheet": "9.28",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2017-09-28",
+"people": 6,
+"cumulative": 25,
+"section": "出面"
+},
+"sheet": "9.28",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-28",
+"weather": "曇",
+"work": "高圧蒸気だめ 定期自主検査",
+"section": "作業内容"
+},
+"sheet": "9.28",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-28",
+"weather": "曇",
+"work": "脱気器 開放（マンホール・トレイ取外し）",
+"section": "作業内容"
+},
+"sheet": "9.28",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-29",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 6,
+"section": "出面"
+},
+"sheet": "9.29",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2017-09-29",
+"people": 6,
+"cumulative": 31,
+"section": "出面"
+},
+"sheet": "9.29",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-29",
+"weather": "晴",
+"work": "内部清掃・点検",
+"section": "作業内容"
+},
+"sheet": "9.29",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-29",
+"weather": "晴",
+"work": "低圧蒸気だめ 定期自主検査",
+"section": "作業内容"
+},
+"sheet": "9.29",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-30",
+"weather": "雨",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "9.30",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2017-09-30",
+"people": 3,
+"cumulative": 34,
+"section": "出面"
+},
+"sheet": "9.30",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-09-30",
+"weather": "雨",
+"work": "検査 受検",
+"section": "作業内容"
+},
+"sheet": "9.30",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-10-02",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "10.2",
+"r": 9
+},
+{
+"kind": "total",
+"fields": {
+"date": "2017-10-02",
+"people": 3,
+"cumulative": 37,
+"section": "出面"
+},
+"sheet": "10.2",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-10-02",
+"weather": "晴",
+"work": "性能検査 受検／気密試験で漏れ",
+"section": "作業内容"
+},
+"sheet": "10.2",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-10-02",
+"weather": "晴",
+"work": "→気密試験で漏れ → 再調整（手直し 1日）",
+"section": "作業内容"
+},
+"sheet": "10.2",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-10-03",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "機械",
+"people": 3,
+"section": "出面"
+},
+"sheet": "10.3",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-10-03",
+"weather": "晴",
+"company": "【架空】水樹テクノサービス",
+"job": "電気",
+"people": 2,
+"section": "出面"
+},
+"sheet": "10.3",
+"r": 10
+},
+{
+"kind": "total",
+"fields": {
+"date": "2017-10-03",
+"people": 5,
+"cumulative": 42,
+"section": "出面"
+},
+"sheet": "10.3",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-10-03",
+"weather": "晴",
+"work": "手直し：再調整（手直し 1日）",
+"section": "作業内容"
+},
+"sheet": "10.3",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"date": "2017-10-03",
+"weather": "晴",
+"work": "単体試運転 実施",
+"section": "作業内容"
+},
+"sheet": "10.3",
+"r": 15
+}
+]
+}

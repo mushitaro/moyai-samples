@@ -1,0 +1,243 @@
+{
+"file": "【架空】かざはやエコプラザ_工程表_2017年度2号炉定期整備工事_sp1予定工程表.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 8,
+"fields": {
+"processNo": 1,
+"name": "炉立下げ・冷却",
+"crew": "SPC運転",
+"codes": [],
+"planStart": "2017-05-14",
+"planEnd": "2017-05-16",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 9,
+"fields": {
+"processNo": 2,
+"name": "縁切り・安全措置・マンホール開放",
+"crew": "水樹TS電計",
+"codes": [],
+"planStart": "2017-05-17",
+"planEnd": "2017-05-17",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 10,
+"fields": {
+"processNo": 3,
+"name": "足場組立（炉内・ボイラ・BF）",
+"crew": "北斗足場",
+"codes": [],
+"planStart": "2017-05-17",
+"planEnd": "2017-05-19",
+"note": "北斗足場 4名"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 11,
+"fields": {
+"processNo": 4,
+"name": "炉内清掃・クリンカ除去・耐火物点検",
+"crew": "東雲築炉",
+"codes": [
+"2NS-010"
+],
+"planStart": "2017-05-18",
+"planEnd": "2017-05-20",
+"note": "東雲築炉工業 5名"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 12,
+"fields": {
+"processNo": 5,
+"name": "排ガス処理設備（減温塔噴霧ノズルユニット） 整備",
+"crew": "水樹TS",
+"codes": [
+"2HG-050"
+],
+"planStart": "2017-05-18",
+"planEnd": "2017-05-20",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 13,
+"fields": {
+"processNo": 6,
+"name": "回転機 定例点検・給油（送風機・ポンプ類）",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2017-05-18",
+"planEnd": "2017-05-19",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 14,
+"fields": {
+"processNo": 7,
+"name": "盤 精密点検（炉別動力制御盤（MCC）1・炉別動力制御盤（MCC）3）",
+"crew": "水樹TS電計",
+"codes": [
+"2DK-010",
+"2DK-030"
+],
+"planStart": "2017-05-18",
+"planEnd": "2017-05-18",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 15,
+"fields": {
+"processNo": 8,
+"name": "火格子 摩耗測定",
+"crew": "水樹TS",
+"codes": [
+"2NS-020",
+"2NS-030",
+"2NS-040"
+],
+"planStart": "2017-05-22",
+"planEnd": "2017-05-22",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 16,
+"fields": {
+"processNo": 9,
+"name": "ボイラ 伝熱管 清掃（水洗）・目視点検",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2017-05-22",
+"planEnd": "2017-05-24",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 17,
+"fields": {
+"processNo": 10,
+"name": "給じん装置・灰押出装置 摺動部・ライナ補修（給じん装置） 整備",
+"crew": "水樹TS",
+"codes": [
+"2UK-040"
+],
+"planStart": "2017-05-23",
+"planEnd": "2017-05-26",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 18,
+"fields": {
+"processNo": 11,
+"name": "バグフィルタ 室別開放点検・ろ布目視",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2017-05-25",
+"planEnd": "2017-05-26",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 19,
+"fields": {
+"processNo": 12,
+"name": "足場解体",
+"crew": "北斗足場",
+"codes": [],
+"planStart": "2017-05-27",
+"planEnd": "2017-05-30",
+"note": "北斗足場 4名"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 20,
+"fields": {
+"processNo": 13,
+"name": "復旧・単体試運転",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2017-05-31",
+"planEnd": "2017-06-01",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 21,
+"fields": {
+"processNo": 14,
+"name": "連動試運転",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2017-06-02",
+"planEnd": "2017-06-02",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 22,
+"fields": {
+"processNo": 15,
+"name": "炉立上げ（昇温・ごみ投入）",
+"crew": "SPC運転",
+"codes": [],
+"planStart": "2017-06-03",
+"planEnd": "2017-06-04",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 23,
+"fields": {
+"processNo": 16,
+"name": "完了確認・片付け",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2017-06-05",
+"planEnd": "2017-06-05",
+"note": ""
+}
+}
+]
+}

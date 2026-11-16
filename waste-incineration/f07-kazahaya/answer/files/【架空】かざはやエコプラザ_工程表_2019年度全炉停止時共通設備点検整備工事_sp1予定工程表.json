@@ -1,0 +1,317 @@
+{
+"file": "【架空】かざはやエコプラザ_工程表_2019年度全炉停止時共通設備点検整備工事_sp1予定工程表.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 8,
+"fields": {
+"processNo": 1,
+"name": "2号炉立下げ・全炉停止／タービン停止・ターニング",
+"crew": "SPC運転",
+"codes": [],
+"planStart": "2019-09-18",
+"planEnd": "2019-09-19",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 9,
+"fields": {
+"processNo": 2,
+"name": "停電作業準備（仮設電源・縁切り）",
+"crew": "水樹TS電計",
+"codes": [],
+"planStart": "2019-09-19",
+"planEnd": "2019-09-19",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 10,
+"fields": {
+"processNo": 3,
+"name": "受変電設備 年次点検（全停電）",
+"crew": "風早電設",
+"codes": [
+"0DE-010",
+"0DE-020",
+"0DE-030",
+"0DE-040",
+"0DE-050",
+"0DE-060",
+"0DE-070",
+"0DE-080",
+"0DE-090",
+"0DE-100",
+"0DE-110",
+"0DE-130",
+"0DE-140",
+"0DE-150",
+"0DE-160",
+"0YN-180"
+],
+"planStart": "2019-09-20",
+"planEnd": "2019-09-20",
+"note": "風早電設 8名"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 11,
+"fields": {
+"processNo": 4,
+"name": "非常用発電機 年次点検（負荷試験）",
+"crew": "風早電設",
+"codes": [
+"0DE-270"
+],
+"planStart": "2019-09-20",
+"planEnd": "2019-09-20",
+"note": "風早電設 8名"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 12,
+"fields": {
+"processNo": 5,
+"name": "機器冷却水ポンプA ポンプ分解整備",
+"crew": "水樹TS",
+"codes": [
+"0KY-050"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-24",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 13,
+"fields": {
+"processNo": 6,
+"name": "タービン補助油ポンプ 分解整備",
+"crew": "水樹TS",
+"codes": [
+"0YN-040"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-24",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 14,
+"fields": {
+"processNo": 7,
+"name": "タービン非常用油ポンプ 分解整備",
+"crew": "水樹TS",
+"codes": [
+"0YN-050"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-24",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 15,
+"fields": {
+"processNo": 8,
+"name": "タービン油冷却器B 分解整備",
+"crew": "水樹TS",
+"codes": [
+"0YN-070"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-24",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 16,
+"fields": {
+"processNo": 9,
+"name": "低圧蒸気だめ 定期自主検査",
+"crew": "水樹TS",
+"codes": [
+"0YN-200"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-21",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 17,
+"fields": {
+"processNo": 10,
+"name": "空冷式復水器 フィン洗浄・目視点検",
+"crew": "しぶき洗浄",
+"codes": [
+"0YN-210"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-25",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 18,
+"fields": {
+"processNo": 11,
+"name": "空冷復水器ファン3 分解整備",
+"crew": "水樹TS",
+"codes": [
+"0YN-240"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-24",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 19,
+"fields": {
+"processNo": 12,
+"name": "空冷復水器ファン6 分解整備",
+"crew": "水樹TS",
+"codes": [
+"0YN-270"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-24",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 20,
+"fields": {
+"processNo": 13,
+"name": "脱気器 開放・性能検査受検・復旧",
+"crew": "水樹TS",
+"codes": [
+"0YN-400"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-26",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 21,
+"fields": {
+"processNo": 14,
+"name": "脱気器給水ポンプA ポンプ分解整備",
+"crew": "水樹TS",
+"codes": [
+"0YN-410"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-24",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 22,
+"fields": {
+"processNo": 15,
+"name": "脱酸素剤注入ポンプA 分解整備",
+"crew": "水樹TS",
+"codes": [
+"0YN-470"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-24",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 23,
+"fields": {
+"processNo": 16,
+"name": "空冷復水器ファン3 電動機 絶縁診断",
+"crew": "水樹TS電計",
+"codes": [
+"0YN-240M"
+],
+"planStart": "2019-09-21",
+"planEnd": "2019-09-21",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 24,
+"fields": {
+"processNo": 17,
+"name": "高圧蒸気だめ 定期自主検査",
+"crew": "水樹TS",
+"codes": [
+"0YN-190"
+],
+"planStart": "2019-09-25",
+"planEnd": "2019-09-25",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 25,
+"fields": {
+"processNo": 18,
+"name": "復旧・通電確認・単体試運転",
+"crew": "水樹TS電計",
+"codes": [],
+"planStart": "2019-09-26",
+"planEnd": "2019-09-26",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 26,
+"fields": {
+"processNo": 19,
+"name": "2号炉立上げ・タービン起動",
+"crew": "SPC運転",
+"codes": [],
+"planStart": "2019-09-27",
+"planEnd": "2019-09-27",
+"note": ""
+}
+}
+]
+}

@@ -1,0 +1,529 @@
+{
+"file": "【架空】かざはやエコプラザ_工程表_2021年度1号炉定期整備工事_q2予定実績工程表.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 8,
+"fields": {
+"processNo": 1,
+"name": "炉立下げ・冷却",
+"codes": [],
+"crew": "SPC運転",
+"people": null,
+"planStart": "2021-09-20",
+"planEnd": "2021-09-22",
+"actualStart": "2021-09-20",
+"actualEnd": "2021-09-22"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 10,
+"fields": {
+"processNo": 2,
+"name": "縁切り・安全措置・マンホール開放",
+"codes": [],
+"crew": "電計",
+"people": 3,
+"planStart": "2021-09-23",
+"planEnd": "2021-09-23",
+"actualStart": "2021-09-23",
+"actualEnd": "2021-09-23"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 12,
+"fields": {
+"processNo": 3,
+"name": "足場組立（炉内・ボイラ・BF）",
+"codes": [],
+"crew": "足場",
+"people": 4,
+"planStart": "2021-09-23",
+"planEnd": "2021-09-25",
+"actualStart": "2021-09-23",
+"actualEnd": "2021-09-25"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 14,
+"fields": {
+"processNo": 4,
+"name": "炉内清掃・クリンカ除去・耐火物点検",
+"codes": [
+"1NS-010"
+],
+"crew": "耐火",
+"people": 5,
+"planStart": "2021-09-24",
+"planEnd": "2021-09-27",
+"actualStart": "2021-09-24",
+"actualEnd": "2021-09-27"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 16,
+"fields": {
+"processNo": 5,
+"name": "バグフィルタ ろ布全数交換（720本）",
+"codes": [
+"1HG-130"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-09-24",
+"planEnd": "2021-09-30",
+"actualStart": "2021-09-24",
+"actualEnd": "2021-09-30"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 18,
+"fields": {
+"processNo": 6,
+"name": "誘引通風機 振動上昇のため臨時点検（軸受温度・振動測定）",
+"codes": [
+"1KT-100"
+],
+"crew": "機械B",
+"people": 4,
+"planStart": "2021-09-24",
+"planEnd": "2021-10-02",
+"actualStart": "2021-09-24",
+"actualEnd": "2021-10-02"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 20,
+"fields": {
+"processNo": 7,
+"name": "誘引通風機電動機 絶縁診断",
+"codes": [
+"1KT-100M"
+],
+"crew": "電計",
+"people": 3,
+"planStart": "2021-09-24",
+"planEnd": "2021-09-27",
+"actualStart": "2021-09-24",
+"actualEnd": "2021-09-27"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 22,
+"fields": {
+"processNo": 8,
+"name": "火格子 摩耗測定",
+"codes": [
+"1NS-030"
+],
+"crew": "機械A",
+"people": 6,
+"planStart": "2021-09-28",
+"planEnd": "2021-09-28",
+"actualStart": "2021-09-28",
+"actualEnd": "2021-09-28"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 24,
+"fields": {
+"processNo": 9,
+"name": "ボイラ 肉厚測定（水管壁・過熱器・ECO・ドラム）",
+"codes": [
+"1BO-020",
+"1BO-030",
+"1BO-040",
+"1BO-050",
+"1BO-060",
+"1BO-070",
+"1BO-090"
+],
+"crew": "検査",
+"people": 2,
+"planStart": "2021-09-28",
+"planEnd": "2021-10-01",
+"actualStart": "2021-09-28",
+"actualEnd": "2021-10-01"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 26,
+"fields": {
+"processNo": 10,
+"name": "盤 精密点検（炉別動力制御盤（MCC）2）",
+"codes": [
+"1DK-020"
+],
+"crew": "電計",
+"people": 3,
+"planStart": "2021-09-28",
+"planEnd": "2021-09-28",
+"actualStart": "2021-09-28",
+"actualEnd": "2021-09-28"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 28,
+"fields": {
+"processNo": 11,
+"name": "給じん装置・灰押出装置 摺動部・ライナ補修（ホッパブリッジ解除装置） 整備",
+"codes": [
+"1UK-020"
+],
+"crew": "機械A",
+"people": 6,
+"planStart": "2021-09-29",
+"planEnd": "2021-10-02",
+"actualStart": "2021-09-29",
+"actualEnd": "2021-10-02"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 30,
+"fields": {
+"processNo": 12,
+"name": "排ガス処理設備（減温塔ダスト排出装置） 整備",
+"codes": [
+"1HG-080"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-10-01",
+"planEnd": "2021-10-04",
+"actualStart": "2021-10-01",
+"actualEnd": "2021-10-04"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 32,
+"fields": {
+"processNo": 13,
+"name": "送風機 整備（押込送風機）",
+"codes": [
+"1KT-010"
+],
+"crew": "機械B",
+"people": 4,
+"planStart": "2021-10-04",
+"planEnd": "2021-10-06",
+"actualStart": "2021-10-04",
+"actualEnd": "2021-10-06"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 34,
+"fields": {
+"processNo": 14,
+"name": "油圧シリンダ パッキン交換（乾燥火格子駆動油圧シリンダL・燃焼火格子駆動油圧シリンダL・後燃焼火格子駆動油圧シリンダLほか） 整備",
+"codes": [
+"1NS-050",
+"1NS-070",
+"1NS-090",
+"1NS-100"
+],
+"crew": "機械A",
+"people": 6,
+"planStart": "2021-10-04",
+"planEnd": "2021-10-06",
+"actualStart": "2021-10-04",
+"actualEnd": "2021-10-06"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 36,
+"fields": {
+"processNo": 15,
+"name": "ボイラ 伝熱管 清掃（水洗）・目視点検",
+"codes": [],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-10-05",
+"planEnd": "2021-10-07",
+"actualStart": "2021-10-05",
+"actualEnd": "2021-10-07"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 38,
+"fields": {
+"processNo": 16,
+"name": "灰押出水封補給水ポンプB 分解整備",
+"codes": [
+"1NS-230"
+],
+"crew": "機械B",
+"people": 4,
+"planStart": "2021-10-07",
+"planEnd": "2021-10-09",
+"actualStart": "2021-10-07",
+"actualEnd": "2021-10-09"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 40,
+"fields": {
+"processNo": 17,
+"name": "バグフィルタ 室別開放点検・ろ布目視",
+"codes": [],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-10-08",
+"planEnd": "2021-10-09",
+"actualStart": "2021-10-08",
+"actualEnd": "2021-10-09"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 42,
+"fields": {
+"processNo": 18,
+"name": "コンベヤ類（落じん排出コンベヤ・ボイラ灰搬送コンベヤ） 整備",
+"codes": [
+"1NS-160",
+"1HA-040"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-10-11",
+"planEnd": "2021-10-13",
+"actualStart": "2021-10-11",
+"actualEnd": "2021-10-13"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 44,
+"fields": {
+"processNo": 19,
+"name": "油圧装置（油圧ユニット油冷却器） 整備",
+"codes": [
+"1NS-140"
+],
+"crew": "機械B",
+"people": 4,
+"planStart": "2021-10-11",
+"planEnd": "2021-10-13",
+"actualStart": "2021-10-11",
+"actualEnd": "2021-10-13"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 46,
+"fields": {
+"processNo": 20,
+"name": "スートブロワ・ボイラ付属（長抜差型スートブロワ3・エコノマイザ槌打装置2） 整備",
+"codes": [
+"1BO-180",
+"1BO-290"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-10-14",
+"planEnd": "2021-10-15",
+"actualStart": "2021-10-15",
+"actualEnd": "2021-10-16",
+"note": "交換部品の入荷遅れ（2日）→ 着手を繰下げ"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 48,
+"fields": {
+"processNo": 21,
+"name": "回転機 定例点検・給油（送風機・ポンプ類）",
+"codes": [],
+"crew": "機械B",
+"people": 4,
+"planStart": "2021-10-14",
+"planEnd": "2021-10-15",
+"actualStart": "2021-10-14",
+"actualEnd": "2021-10-15"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 50,
+"fields": {
+"processNo": 22,
+"name": "足場解体",
+"codes": [],
+"crew": "足場",
+"people": 4,
+"planStart": "2021-10-16",
+"planEnd": "2021-10-19",
+"actualStart": "2021-10-16",
+"actualEnd": "2021-10-19"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 52,
+"fields": {
+"processNo": 23,
+"name": "その他機器 分解整備（区分空気ダンパ駆動装置（燃焼1）・ボイラ給水ポンプ潤滑油ユニットA） 整備",
+"codes": [
+"1KT-040",
+"1BO-120"
+],
+"crew": "機械C",
+"people": 3,
+"planStart": "2021-10-16",
+"planEnd": "2021-10-18",
+"actualStart": "2021-10-16",
+"actualEnd": "2021-10-18"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 54,
+"fields": {
+"processNo": 24,
+"name": "ボイラ水張り・水圧試験",
+"codes": [
+"1BO-010"
+],
+"crew": "機械A",
+"people": 6,
+"planStart": "2021-10-18",
+"planEnd": "2021-10-18",
+"actualStart": "2021-10-18",
+"actualEnd": "2021-10-18"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 56,
+"fields": {
+"processNo": 25,
+"name": "ボイラ定期事業者検査（立会）",
+"codes": [
+"1BO-010"
+],
+"crew": "機械A",
+"people": 6,
+"planStart": "2021-10-19",
+"planEnd": "2021-10-19",
+"actualStart": "2021-10-19",
+"actualEnd": "2021-10-19"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 58,
+"fields": {
+"processNo": 26,
+"name": "復旧・単体試運転",
+"codes": [],
+"crew": "機械A",
+"people": 6,
+"planStart": "2021-10-20",
+"planEnd": "2021-10-21",
+"actualStart": "2021-10-20",
+"actualEnd": "2021-10-21"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 60,
+"fields": {
+"processNo": 27,
+"name": "連動試運転",
+"codes": [],
+"crew": "機械A",
+"people": 6,
+"planStart": "2021-10-22",
+"planEnd": "2021-10-22",
+"actualStart": "2021-10-22",
+"actualEnd": "2021-10-22"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 62,
+"fields": {
+"processNo": 28,
+"name": "炉立上げ（昇温・ごみ投入）",
+"codes": [],
+"crew": "SPC運転",
+"people": null,
+"planStart": "2021-10-23",
+"planEnd": "2021-10-24",
+"actualStart": "2021-10-23",
+"actualEnd": "2021-10-24"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 64,
+"fields": {
+"processNo": 29,
+"name": "完了確認・片付け",
+"codes": [],
+"crew": "機械A",
+"people": 6,
+"planStart": "2021-10-25",
+"planEnd": "2021-10-25",
+"actualStart": "2021-10-25",
+"actualEnd": "2021-10-25"
+}
+},
+{
+"kind": "item",
+"sheet": "工程表",
+"r": 70,
+"fields": {
+"section": "特記",
+"date": "2021-10-14",
+"text": "スートブロワ・ボイラ付属 部品入荷遅れ → 2日繰下げ"
+}
+}
+]
+}

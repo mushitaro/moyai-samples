@@ -1,0 +1,423 @@
+{
+"file": "【架空】かざはやエコプラザ_工程表_2020年度1号炉定期整備工事_sp2予定工程表.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"fields": {
+"processNo": 1,
+"name": "炉立下げ・冷却",
+"crew": "SPC運転",
+"codes": [],
+"planStart": "2020-09-13",
+"planEnd": "2020-09-15",
+"note": ""
+},
+"sheet": "工程表",
+"r": 9
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 2,
+"name": "縁切り・安全措置・マンホール開放",
+"crew": "水樹TS電計",
+"codes": [],
+"planStart": "2020-09-16",
+"planEnd": "2020-09-16",
+"note": ""
+},
+"sheet": "工程表",
+"r": 10
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 3,
+"name": "足場組立（炉内・ボイラ・BF）",
+"crew": "北斗足場",
+"codes": [],
+"planStart": "2020-09-16",
+"planEnd": "2020-09-18",
+"note": "北斗足場 4名"
+},
+"sheet": "工程表",
+"r": 11
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 4,
+"name": "炉内清掃・クリンカ除去・耐火物点検",
+"crew": "東雲築炉",
+"codes": [
+"1NS-010"
+],
+"planStart": "2020-09-17",
+"planEnd": "2020-09-19",
+"note": "東雲築炉工業 5名"
+},
+"sheet": "工程表",
+"r": 12
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 5,
+"name": "排ガス処理設備（減温塔噴霧ノズルユニット・消石灰定量供給機・バグフィルタ室別入口ダンパ駆動装置2ほか） 整備",
+"crew": "水樹TS",
+"codes": [
+"1HG-050",
+"1HG-090",
+"1HG-160",
+"1HG-180",
+"1HG-290",
+"1HG-300",
+"1HG-500"
+],
+"planStart": "2020-09-17",
+"planEnd": "2020-09-25",
+"note": ""
+},
+"sheet": "工程表",
+"r": 13
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 6,
+"name": "送風機 整備（炉側壁冷却ファン）",
+"crew": "水樹TS",
+"codes": [
+"1NS-150",
+"1NS-310",
+"1KT-070"
+],
+"planStart": "2020-09-17",
+"planEnd": "2020-09-19",
+"note": ""
+},
+"sheet": "工程表",
+"r": 14
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 7,
+"name": "計装 更新・交換（炉出口温度計1・炉出口温度計2・二次燃焼室ガス温度計）",
+"crew": "水樹TS電計",
+"codes": [
+"1NS-330",
+"1NS-340",
+"1NS-360"
+],
+"planStart": "2020-09-17",
+"planEnd": "2020-09-23",
+"note": ""
+},
+"sheet": "工程表",
+"r": 15
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 8,
+"name": "ろ布抜取試験・触媒性能試験（抜取）",
+"crew": "分析ｾﾝﾀｰ",
+"codes": [
+"1HG-130",
+"1HG-380"
+],
+"planStart": "2020-09-17",
+"planEnd": "2020-09-17",
+"note": ""
+},
+"sheet": "工程表",
+"r": 16
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 9,
+"name": "耐火物 点検・部分補修",
+"crew": "東雲築炉",
+"codes": [
+"1NS-010"
+],
+"planStart": "2020-09-23",
+"planEnd": "2020-09-29",
+"note": "東雲築炉工業 5名"
+},
+"sheet": "工程表",
+"r": 17
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 10,
+"name": "火格子 摩耗測定",
+"crew": "水樹TS",
+"codes": [
+"1NS-020",
+"1NS-030",
+"1NS-040"
+],
+"planStart": "2020-09-23",
+"planEnd": "2020-09-23",
+"note": ""
+},
+"sheet": "工程表",
+"r": 18
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 11,
+"name": "ボイラ給水ポンプB 分解整備",
+"crew": "水樹TS",
+"codes": [
+"1BO-110"
+],
+"planStart": "2020-09-23",
+"planEnd": "2020-09-28",
+"note": ""
+},
+"sheet": "工程表",
+"r": 19
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 12,
+"name": "油圧シリンダ パッキン交換（給じん装置油圧シリンダL・給じん装置油圧シリンダR・主灰押出装置油圧シリンダ） 整備",
+"crew": "水樹TS",
+"codes": [
+"1UK-050",
+"1UK-060",
+"1NS-180"
+],
+"planStart": "2020-09-24",
+"planEnd": "2020-09-26",
+"note": ""
+},
+"sheet": "工程表",
+"r": 20
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 13,
+"name": "電動機（押込送風機電動機・二次送風機電動機・排ガス再循環送風機電動機）",
+"crew": "水樹TS電計",
+"codes": [
+"1KT-010M",
+"1KT-070M",
+"1KT-080M"
+],
+"planStart": "2020-09-24",
+"planEnd": "2020-09-26",
+"note": ""
+},
+"sheet": "工程表",
+"r": 21
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 14,
+"name": "ボイラ 伝熱管 清掃（水洗）・目視点検",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2020-09-26",
+"planEnd": "2020-09-29",
+"note": ""
+},
+"sheet": "工程表",
+"r": 22
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 15,
+"name": "盤 精密点検（炉別動力制御盤（MCC）1・炉別DCSコントローラ盤・自動燃焼制御装置（ACC））",
+"crew": "水樹TS電計",
+"codes": [
+"1DK-010",
+"1DK-070",
+"1DK-080"
+],
+"planStart": "2020-09-28",
+"planEnd": "2020-09-29",
+"note": ""
+},
+"sheet": "工程表",
+"r": 23
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 16,
+"name": "油圧装置（燃焼装置油圧ポンプA・灰押出油圧ポンプA） 整備",
+"crew": "水樹TS",
+"codes": [
+"1NS-120",
+"1NS-200"
+],
+"planStart": "2020-09-29",
+"planEnd": "2020-10-01",
+"note": ""
+},
+"sheet": "工程表",
+"r": 24
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 17,
+"name": "バグフィルタ 室別開放点検・ろ布目視",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2020-09-30",
+"planEnd": "2020-10-01",
+"note": ""
+},
+"sheet": "工程表",
+"r": 25
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 18,
+"name": "コンベヤ類（ボイラダスト搬出コンベヤ2・飛灰搬送コンベヤ） 整備",
+"crew": "水樹TS",
+"codes": [
+"1BO-310",
+"1HA-030"
+],
+"planStart": "2020-10-02",
+"planEnd": "2020-10-05",
+"note": ""
+},
+"sheet": "工程表",
+"r": 26
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 19,
+"name": "回転機 定例点検・給油（送風機・ポンプ類）",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2020-10-02",
+"planEnd": "2020-10-03",
+"note": ""
+},
+"sheet": "工程表",
+"r": 27
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 20,
+"name": "スートブロワ・ボイラ付属（長抜差型スートブロワ2） 整備",
+"crew": "水樹TS",
+"codes": [
+"1BO-170"
+],
+"planStart": "2020-10-06",
+"planEnd": "2020-10-07",
+"note": ""
+},
+"sheet": "工程表",
+"r": 28
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 21,
+"name": "足場解体",
+"crew": "北斗足場",
+"codes": [],
+"planStart": "2020-10-08",
+"planEnd": "2020-10-10",
+"note": "北斗足場 4名"
+},
+"sheet": "工程表",
+"r": 29
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 22,
+"name": "その他機器 分解整備（助燃バーナ・区分空気ダンパ駆動装置（乾燥）・蒸気式空気予熱器） 整備",
+"crew": "水樹TS",
+"codes": [
+"1NS-240",
+"1KT-030",
+"1KT-090"
+],
+"planStart": "2020-10-08",
+"planEnd": "2020-10-10",
+"note": ""
+},
+"sheet": "工程表",
+"r": 30
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 23,
+"name": "復旧・単体試運転",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2020-10-12",
+"planEnd": "2020-10-13",
+"note": ""
+},
+"sheet": "工程表",
+"r": 31
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 24,
+"name": "連動試運転",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2020-10-14",
+"planEnd": "2020-10-14",
+"note": ""
+},
+"sheet": "工程表",
+"r": 32
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 25,
+"name": "炉立上げ（昇温・ごみ投入）",
+"crew": "SPC運転",
+"codes": [],
+"planStart": "2020-10-15",
+"planEnd": "2020-10-16",
+"note": ""
+},
+"sheet": "工程表",
+"r": 33
+},
+{
+"kind": "item",
+"fields": {
+"processNo": 26,
+"name": "完了確認・片付け",
+"crew": "水樹TS",
+"codes": [],
+"planStart": "2020-10-17",
+"planEnd": "2020-10-17",
+"note": ""
+},
+"sheet": "工程表",
+"r": 34
+}
+]
+}

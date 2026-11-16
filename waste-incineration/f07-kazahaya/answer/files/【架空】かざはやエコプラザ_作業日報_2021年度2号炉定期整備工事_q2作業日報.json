@@ -1,0 +1,1958 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2021年度2号炉定期整備工事_q2作業日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"sheet": "0517",
+"r": 8,
+"_hours": 24.0,
+"fields": {
+"date": "2021-05-17",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "電源縁切り・施錠表示、マンホール開放、酸素濃度測定",
+"note": "",
+"crew": "電計",
+"processNo": 2,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0517",
+"r": 9,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-17",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内足場 組立（燃焼室）",
+"note": "",
+"crew": "足場",
+"processNo": 3,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 35
+}
+},
+{
+"kind": "total",
+"sheet": "0517",
+"r": 19,
+"_hours": 56.0,
+"fields": {
+"date": "2021-05-17",
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56"
+}
+},
+{
+"kind": "item",
+"sheet": "0518",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-05-18",
+"weather": "曇時々雨",
+"code": "2HG-050",
+"name": "減温塔噴霧ノズルユニット",
+"work": "減温塔噴霧ノズルユニット・バグフィルタ飛灰排出装置1 開放",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 20
+}
+},
+{
+"kind": "item",
+"sheet": "0518",
+"r": 8,
+"fields": {
+"date": "2021-05-18",
+"weather": "曇時々雨",
+"code": "2HG-230",
+"name": "バグフィルタ飛灰排出装置1",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0518",
+"r": 9,
+"_hours": 18.0,
+"fields": {
+"date": "2021-05-18",
+"weather": "曇時々雨",
+"code": "2HG-130",
+"name": "バグフィルタ本体",
+"work": "ろ布抜取・触媒抜取（試験用）",
+"note": "",
+"crew": "分析",
+"processNo": 8,
+"people": 2,
+"manDays": 2.25,
+"manDaysText": "18",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0518",
+"r": 10,
+"fields": {
+"date": "2021-05-18",
+"weather": "曇時々雨",
+"code": "2HG-380",
+"name": "触媒反応塔",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0518",
+"r": 11,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-18",
+"weather": "曇時々雨",
+"code": "2KT-010",
+"name": "押込送風機",
+"work": "押込送風機・排ガス再循環送風機 開放、インペラ清掃",
+"note": "",
+"crew": "機械B",
+"processNo": 6,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 35
+}
+},
+{
+"kind": "item",
+"sheet": "0518",
+"r": 12,
+"fields": {
+"date": "2021-05-18",
+"weather": "曇時々雨",
+"code": "2KT-080",
+"name": "排ガス再循環送風機",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0518",
+"r": 13,
+"_hours": 40.0,
+"fields": {
+"date": "2021-05-18",
+"weather": "曇時々雨",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "炉内クリンカ除去（乾燥段～燃焼段上部）",
+"note": "",
+"crew": "耐火",
+"processNo": 4,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 35
+}
+},
+{
+"kind": "item",
+"sheet": "0518",
+"r": 14,
+"_hours": 24.0,
+"fields": {
+"date": "2021-05-18",
+"weather": "曇時々雨",
+"code": "2NS-330",
+"name": "炉出口温度計1",
+"work": "炉出口温度計1・炉出口温度計2ほか 取外し",
+"note": "",
+"crew": "電計",
+"processNo": 7,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 25
+}
+},
+{
+"kind": "item",
+"sheet": "0518",
+"r": 15,
+"fields": {
+"date": "2021-05-18",
+"weather": "曇時々雨",
+"code": "2NS-340",
+"name": "炉出口温度計2",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0518",
+"r": 16,
+"fields": {
+"date": "2021-05-18",
+"weather": "曇時々雨",
+"code": "2NS-360",
+"name": "二次燃焼室ガス温度計",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0518",
+"r": 18,
+"_hours": 36.0,
+"fields": {
+"date": "2021-05-18",
+"weather": "曇時々雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "足場 組立 継続（ボイラ側）",
+"note": "",
+"crew": "足場",
+"processNo": 3,
+"people": 4,
+"manDays": 4.5,
+"manDaysText": "36",
+"progress": 65
+}
+},
+{
+"kind": "total",
+"sheet": "0518",
+"r": 19,
+"_hours": 174.0,
+"fields": {
+"date": "2021-05-18",
+"people": 21,
+"manDays": 21.75,
+"manDaysText": "174"
+}
+},
+{
+"kind": "item",
+"sheet": "0519",
+"r": 7,
+"_hours": 27.0,
+"fields": {
+"date": "2021-05-19",
+"weather": "曇",
+"code": "2HG-270",
+"name": "バグフィルタ飛灰排出装置5",
+"work": "バグフィルタ飛灰排出装置5・バグフィルタ飛灰コンベヤ1 開放",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 3.375,
+"manDaysText": "27",
+"progress": 40
+}
+},
+{
+"kind": "item",
+"sheet": "0519",
+"r": 8,
+"fields": {
+"date": "2021-05-19",
+"weather": "曇",
+"code": "2HG-290",
+"name": "バグフィルタ飛灰コンベヤ1",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0519",
+"r": 9,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-19",
+"weather": "曇",
+"code": "2KT-010",
+"name": "押込送風機",
+"work": "部品交換、芯出し",
+"note": "",
+"crew": "機械B",
+"processNo": 6,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 65
+}
+},
+{
+"kind": "item",
+"sheet": "0519",
+"r": 10,
+"fields": {
+"date": "2021-05-19",
+"weather": "曇",
+"code": "2KT-080",
+"name": "排ガス再循環送風機",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0519",
+"r": 11,
+"_hours": 40.0,
+"fields": {
+"date": "2021-05-19",
+"weather": "曇",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "クリンカ除去 継続、落じん清掃",
+"note": "",
+"crew": "耐火",
+"processNo": 4,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 65
+}
+},
+{
+"kind": "item",
+"sheet": "0519",
+"r": 12,
+"_hours": 36.0,
+"fields": {
+"date": "2021-05-19",
+"weather": "曇",
+"code": "2NS-330",
+"name": "炉出口温度計1",
+"work": "新品 取付・配線",
+"note": "",
+"crew": "電計",
+"processNo": 7,
+"people": 4,
+"manDays": 4.5,
+"manDaysText": "36",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "0519",
+"r": 13,
+"fields": {
+"date": "2021-05-19",
+"weather": "曇",
+"code": "2NS-340",
+"name": "炉出口温度計2",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0519",
+"r": 14,
+"fields": {
+"date": "2021-05-19",
+"weather": "曇",
+"code": "2NS-360",
+"name": "二次燃焼室ガス温度計",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0519",
+"r": 16,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-19",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "足場 組立完了、作業前点検",
+"note": "",
+"crew": "足場",
+"processNo": 3,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "0519",
+"r": 19,
+"_hours": 167.0,
+"fields": {
+"date": "2021-05-19",
+"people": 20,
+"manDays": 20.875,
+"manDaysText": "167"
+}
+},
+{
+"kind": "item",
+"sheet": "0520",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-05-20",
+"weather": "晴",
+"code": "2HG-300",
+"name": "バグフィルタ飛灰コンベヤ2",
+"work": "部品交換・組立",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 60
+}
+},
+{
+"kind": "item",
+"sheet": "0520",
+"r": 8,
+"fields": {
+"date": "2021-05-20",
+"weather": "晴",
+"code": "2HG-500",
+"name": "分析計サンプリング装置",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0520",
+"r": 9,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-20",
+"weather": "晴",
+"code": "2KT-010",
+"name": "押込送風機",
+"work": "組立・試運転",
+"note": "",
+"crew": "機械B",
+"processNo": 6,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0520",
+"r": 10,
+"fields": {
+"date": "2021-05-20",
+"weather": "晴",
+"code": "2KT-080",
+"name": "排ガス再循環送風機",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0520",
+"r": 11,
+"_hours": 40.0,
+"fields": {
+"date": "2021-05-20",
+"weather": "晴",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "清掃完了、炉壁 打診点検",
+"note": "",
+"crew": "耐火",
+"processNo": 4,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0520",
+"r": 12,
+"_hours": 24.0,
+"fields": {
+"date": "2021-05-20",
+"weather": "晴",
+"code": "2NS-330",
+"name": "炉出口温度計1",
+"work": "炉出口温度計1・炉出口温度計2ほか 取付・結線",
+"note": "",
+"crew": "電計",
+"processNo": 7,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 75
+}
+},
+{
+"kind": "item",
+"sheet": "0520",
+"r": 13,
+"fields": {
+"date": "2021-05-20",
+"weather": "晴",
+"code": "2NS-340",
+"name": "炉出口温度計2",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0520",
+"r": 14,
+"fields": {
+"date": "2021-05-20",
+"weather": "晴",
+"code": "2NS-360",
+"name": "二次燃焼室ガス温度計",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "total",
+"sheet": "0520",
+"r": 19,
+"_hours": 120.0,
+"fields": {
+"date": "2021-05-20",
+"people": 15,
+"manDays": 15.0,
+"manDaysText": "120"
+}
+},
+{
+"kind": "item",
+"sheet": "0521",
+"r": 7,
+"_hours": 36.0,
+"fields": {
+"date": "2021-05-21",
+"weather": "晴",
+"code": "2BO-110",
+"name": "ボイラ給水ポンプB",
+"work": "ボイラ給水ポンプB 開放、羽根車・軸受点検",
+"note": "",
+"crew": "機械B",
+"processNo": 11,
+"people": 4,
+"manDays": 4.5,
+"manDaysText": "36",
+"progress": 20
+}
+},
+{
+"kind": "item",
+"sheet": "0521",
+"r": 8,
+"_hours": 28.5,
+"fields": {
+"date": "2021-05-21",
+"weather": "晴",
+"code": "2HG-500",
+"name": "分析計サンプリング装置",
+"work": "作動確認",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 3.5625,
+"manDaysText": "28.5",
+"progress": 80
+}
+},
+{
+"kind": "item",
+"sheet": "0521",
+"r": 9,
+"_hours": 40.0,
+"fields": {
+"date": "2021-05-21",
+"weather": "晴",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "炉壁 耐火物 点検（乾燥段・燃焼段 側壁）",
+"note": "",
+"crew": "耐火",
+"processNo": 9,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 15
+}
+},
+{
+"kind": "item",
+"sheet": "0521",
+"r": 10,
+"_hours": 48.0,
+"fields": {
+"date": "2021-05-21",
+"weather": "晴",
+"code": "2NS-020",
+"name": "乾燥火格子",
+"work": "火格子 摩耗量測定（可動・固定）",
+"note": "",
+"crew": "機械A",
+"processNo": 10,
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0521",
+"r": 11,
+"fields": {
+"date": "2021-05-21",
+"weather": "晴",
+"code": "2NS-030",
+"name": "燃焼火格子",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0521",
+"r": 12,
+"fields": {
+"date": "2021-05-21",
+"weather": "晴",
+"code": "2NS-040",
+"name": "後燃焼火格子",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0521",
+"r": 13,
+"_hours": 24.0,
+"fields": {
+"date": "2021-05-21",
+"weather": "晴",
+"code": "2NS-330",
+"name": "炉出口温度計1",
+"work": "ループチェック",
+"note": "",
+"crew": "電計",
+"processNo": 7,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0521",
+"r": 14,
+"fields": {
+"date": "2021-05-21",
+"weather": "晴",
+"code": "2NS-340",
+"name": "炉出口温度計2",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0521",
+"r": 15,
+"fields": {
+"date": "2021-05-21",
+"weather": "晴",
+"code": "2NS-360",
+"name": "二次燃焼室ガス温度計",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "total",
+"sheet": "0521",
+"r": 19,
+"_hours": 176.5,
+"fields": {
+"date": "2021-05-21",
+"people": 21,
+"manDays": 22.0625,
+"manDaysText": "176.5"
+}
+},
+{
+"kind": "item",
+"sheet": "0522",
+"r": 7,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-22",
+"weather": "晴",
+"code": "2BO-110",
+"name": "ボイラ給水ポンプB",
+"work": "ライナリング 交換、寸法確認",
+"note": "",
+"crew": "機械B",
+"processNo": 11,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 40
+}
+},
+{
+"kind": "item",
+"sheet": "0522",
+"r": 8,
+"_hours": 27.0,
+"fields": {
+"date": "2021-05-22",
+"weather": "晴",
+"code": "2DK-010",
+"name": "炉別動力制御盤（MCC）1",
+"work": "炉別動力制御盤（MCC）1・炉別動力制御盤（MCC）3 精密点検",
+"note": "",
+"crew": "電計",
+"processNo": 13,
+"people": 3,
+"manDays": 3.375,
+"manDaysText": "27",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0522",
+"r": 9,
+"fields": {
+"date": "2021-05-22",
+"weather": "晴",
+"code": "2DK-030",
+"name": "炉別動力制御盤（MCC）3",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0522",
+"r": 10,
+"_hours": 24.0,
+"fields": {
+"date": "2021-05-22",
+"weather": "晴",
+"code": "2HG-500",
+"name": "分析計サンプリング装置",
+"work": "作動確認",
+"note": "",
+"crew": "機械C",
+"processNo": 5,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0522",
+"r": 11,
+"_hours": 47.5,
+"fields": {
+"date": "2021-05-22",
+"weather": "晴",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "耐火物 はつり、アンカー確認",
+"note": "",
+"crew": "耐火",
+"processNo": 9,
+"people": 5,
+"manDays": 5.9375,
+"manDaysText": "47.5",
+"progress": 35
+}
+},
+{
+"kind": "item",
+"sheet": "0522",
+"r": 12,
+"_hours": 56.0,
+"fields": {
+"date": "2021-05-22",
+"weather": "晴",
+"code": "2UK-040",
+"name": "給じん装置",
+"work": "給じん装置 開放、ライナ 摩耗確認",
+"note": "",
+"crew": "機械A",
+"processNo": 12,
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56",
+"progress": 25
+}
+},
+{
+"kind": "total",
+"sheet": "0522",
+"r": 19,
+"_hours": 186.5,
+"fields": {
+"date": "2021-05-22",
+"people": 22,
+"manDays": 23.3125,
+"manDaysText": "186.5"
+}
+},
+{
+"kind": "item",
+"sheet": "0524",
+"r": 7,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-24",
+"weather": "曇",
+"code": "2BO-110",
+"name": "ボイラ給水ポンプB",
+"work": "組立・芯出し",
+"note": "",
+"crew": "機械B",
+"processNo": 11,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 60
+}
+},
+{
+"kind": "item",
+"sheet": "0524",
+"r": 8,
+"_hours": 45.0,
+"fields": {
+"date": "2021-05-24",
+"weather": "曇",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "損傷部 はつり・型枠",
+"note": "",
+"crew": "耐火",
+"processNo": 9,
+"people": 5,
+"manDays": 5.625,
+"manDaysText": "45",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "0524",
+"r": 9,
+"_hours": 66.5,
+"fields": {
+"date": "2021-05-24",
+"weather": "曇",
+"code": "2UK-040",
+"name": "給じん装置",
+"work": "ライナ 取替・溶接補修",
+"note": "",
+"crew": "機械A",
+"processNo": 12,
+"people": 7,
+"manDays": 8.3125,
+"manDaysText": "66.5",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "0524",
+"r": 11,
+"_hours": 24.0,
+"fields": {
+"date": "2021-05-24",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内クリンカ除去（乾燥段～燃焼段上部）",
+"note": "",
+"crew": "機械C",
+"processNo": 14,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 35
+}
+},
+{
+"kind": "total",
+"sheet": "0524",
+"r": 19,
+"_hours": 167.5,
+"fields": {
+"date": "2021-05-24",
+"people": 19,
+"manDays": 20.9375,
+"manDaysText": "167.5"
+}
+},
+{
+"kind": "item",
+"sheet": "0525",
+"r": 7,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-25",
+"weather": "晴",
+"code": "2BO-110",
+"name": "ボイラ給水ポンプB",
+"work": "組立・芯出し",
+"note": "",
+"crew": "機械B",
+"processNo": 11,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 80
+}
+},
+{
+"kind": "item",
+"sheet": "0525",
+"r": 8,
+"_hours": 40.0,
+"fields": {
+"date": "2021-05-25",
+"weather": "晴",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "キャスタブル 施工",
+"note": "",
+"crew": "耐火",
+"processNo": 9,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 65
+}
+},
+{
+"kind": "item",
+"sheet": "0525",
+"r": 9,
+"_hours": 48.0,
+"fields": {
+"date": "2021-05-25",
+"weather": "晴",
+"code": "2UK-040",
+"name": "給じん装置",
+"work": "ライナ 取替・溶接補修",
+"note": "",
+"crew": "機械A",
+"processNo": 12,
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 75
+}
+},
+{
+"kind": "item",
+"sheet": "0525",
+"r": 11,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-25",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "クリンカ除去 継続、落じん清掃",
+"note": "",
+"crew": "機械C",
+"processNo": 14,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 65
+}
+},
+{
+"kind": "total",
+"sheet": "0525",
+"r": 19,
+"_hours": 152.0,
+"fields": {
+"date": "2021-05-25",
+"people": 19,
+"manDays": 19.0,
+"manDaysText": "152"
+}
+},
+{
+"kind": "item",
+"sheet": "0526",
+"r": 7,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-26",
+"weather": "晴",
+"code": "2BO-110",
+"name": "ボイラ給水ポンプB",
+"work": "試運転・振動測定",
+"note": "",
+"crew": "機械B",
+"processNo": 11,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0526",
+"r": 8,
+"_hours": 45.0,
+"fields": {
+"date": "2021-05-26",
+"weather": "晴",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "キャスタブル 施工",
+"note": "",
+"crew": "耐火",
+"processNo": 9,
+"people": 5,
+"manDays": 5.625,
+"manDaysText": "45",
+"progress": 85
+}
+},
+{
+"kind": "item",
+"sheet": "0526",
+"r": 9,
+"_hours": 48.0,
+"fields": {
+"date": "2021-05-26",
+"weather": "晴",
+"code": "2UK-040",
+"name": "給じん装置",
+"work": "組立・ストローク確認",
+"note": "",
+"crew": "機械A",
+"processNo": 12,
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0526",
+"r": 11,
+"_hours": 24.0,
+"fields": {
+"date": "2021-05-26",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内清掃 完了、耐火物 目視点検",
+"note": "",
+"crew": "機械C",
+"processNo": 14,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "0526",
+"r": 19,
+"_hours": 149.0,
+"fields": {
+"date": "2021-05-26",
+"people": 18,
+"manDays": 18.625,
+"manDaysText": "149"
+}
+},
+{
+"kind": "item",
+"sheet": "0527",
+"r": 7,
+"_hours": 40.0,
+"fields": {
+"date": "2021-05-27",
+"weather": "曇時々雨",
+"code": "2NS-010",
+"name": "焼却炉本体",
+"work": "補修部 乾燥養生・仕上げ",
+"note": "",
+"crew": "耐火",
+"processNo": 9,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0527",
+"r": 8,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-27",
+"weather": "曇時々雨",
+"code": "2NS-220",
+"name": "灰押出水封補給水ポンプA",
+"work": "灰押出水封補給水ポンプA 開放、羽根車・軸受点検",
+"note": "",
+"crew": "機械B",
+"processNo": 16,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 35
+}
+},
+{
+"kind": "item",
+"sheet": "0527",
+"r": 9,
+"_hours": 40.0,
+"fields": {
+"date": "2021-05-27",
+"weather": "曇時々雨",
+"code": "2UK-060",
+"name": "給じん装置油圧シリンダR",
+"work": "シリンダ 分解、パッキン・ダストシール交換",
+"note": "",
+"crew": "機械A",
+"processNo": 17,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "0527",
+"r": 11,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-27",
+"weather": "曇時々雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "バグフィルタ 室別開放点検・ろ布目視 開放",
+"note": "",
+"crew": "機械C",
+"processNo": 15,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 50
+}
+},
+{
+"kind": "total",
+"sheet": "0527",
+"r": 19,
+"_hours": 144.0,
+"fields": {
+"date": "2021-05-27",
+"people": 18,
+"manDays": 18.0,
+"manDaysText": "144"
+}
+},
+{
+"kind": "item",
+"sheet": "0528",
+"r": 7,
+"_hours": 48.0,
+"fields": {
+"date": "2021-05-28",
+"weather": "曇",
+"code": "2NS-080",
+"name": "燃焼火格子駆動油圧シリンダR",
+"work": "組立・作動確認",
+"note": "",
+"crew": "機械A",
+"processNo": 17,
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0528",
+"r": 8,
+"_hours": 40.0,
+"fields": {
+"date": "2021-05-28",
+"weather": "曇",
+"code": "2NS-220",
+"name": "灰押出水封補給水ポンプA",
+"work": "組立・芯出し",
+"note": "",
+"crew": "機械B",
+"processNo": 16,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 65
+}
+},
+{
+"kind": "item",
+"sheet": "0528",
+"r": 10,
+"_hours": 24.0,
+"fields": {
+"date": "2021-05-28",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "作動確認",
+"note": "",
+"crew": "機械C",
+"processNo": 15,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "0528",
+"r": 19,
+"_hours": 112.0,
+"fields": {
+"date": "2021-05-28",
+"people": 14,
+"manDays": 14.0,
+"manDaysText": "112"
+}
+},
+{
+"kind": "item",
+"sheet": "0529",
+"r": 7,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-29",
+"weather": "晴",
+"code": "2BO-310",
+"name": "ボイラダスト搬出コンベヤ2",
+"work": "ボイラダスト搬出コンベヤ2・飛灰搬送コンベヤ チェーン・スプロケット 点検",
+"note": "",
+"crew": "機械C",
+"processNo": 18,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 25
+}
+},
+{
+"kind": "item",
+"sheet": "0529",
+"r": 8,
+"fields": {
+"date": "2021-05-29",
+"weather": "晴",
+"code": "2HA-030",
+"name": "飛灰搬送コンベヤ",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0529",
+"r": 9,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-29",
+"weather": "晴",
+"code": "2NS-220",
+"name": "灰押出水封補給水ポンプA",
+"work": "試運転・振動測定",
+"note": "",
+"crew": "機械B",
+"processNo": 16,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "0529",
+"r": 19,
+"_hours": 64.0,
+"fields": {
+"date": "2021-05-29",
+"people": 8,
+"manDays": 8.0,
+"manDaysText": "64"
+}
+},
+{
+"kind": "item",
+"sheet": "0531",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-05-31",
+"weather": "曇時々雨",
+"code": "2BO-310",
+"name": "ボイラダスト搬出コンベヤ2",
+"work": "ボイラダスト搬出コンベヤ2・飛灰搬送コンベヤ 部品交換",
+"note": "",
+"crew": "機械C",
+"processNo": 18,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "0531",
+"r": 8,
+"fields": {
+"date": "2021-05-31",
+"weather": "曇時々雨",
+"code": "2HA-030",
+"name": "飛灰搬送コンベヤ",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0531",
+"r": 9,
+"_hours": 32.0,
+"fields": {
+"date": "2021-05-31",
+"weather": "曇時々雨",
+"code": "2NS-110",
+"name": "燃焼装置油圧ユニット",
+"work": "燃焼装置油圧ユニット 分解（ポンプ・フィルタ）",
+"note": "",
+"crew": "機械B",
+"processNo": 19,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 25
+}
+},
+{
+"kind": "total",
+"sheet": "0531",
+"r": 19,
+"_hours": 56.0,
+"fields": {
+"date": "2021-05-31",
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56"
+}
+},
+{
+"kind": "item",
+"sheet": "0601",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-06-01",
+"weather": "晴",
+"code": "2BO-310",
+"name": "ボイラダスト搬出コンベヤ2",
+"work": "部品交換（チェーン・トラフ）／気密試験で漏れ",
+"note": "手直し",
+"crew": "機械C",
+"processNo": 18,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 75
+}
+},
+{
+"kind": "item",
+"sheet": "0601",
+"r": 8,
+"fields": {
+"date": "2021-06-01",
+"weather": "晴",
+"code": "2HA-030",
+"name": "飛灰搬送コンベヤ",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0601",
+"r": 9,
+"_hours": 36.0,
+"fields": {
+"date": "2021-06-01",
+"weather": "晴",
+"code": "2NS-120",
+"name": "燃焼装置油圧ポンプA",
+"work": "組立、吐出圧力確認",
+"note": "",
+"crew": "機械B",
+"processNo": 19,
+"people": 4,
+"manDays": 4.5,
+"manDaysText": "36",
+"progress": 50
+}
+},
+{
+"kind": "total",
+"sheet": "0601",
+"r": 19,
+"_hours": 60.0,
+"fields": {
+"date": "2021-06-01",
+"people": 7,
+"manDays": 7.5,
+"manDaysText": "60"
+}
+},
+{
+"kind": "item",
+"sheet": "0601",
+"r": 21,
+"fields": {
+"date": "2021-06-01",
+"section": "特記事項",
+"text": "気密試験で漏れ → 再調整（手直し 1日）。SPC sp2 へ報告。"
+}
+},
+{
+"kind": "item",
+"sheet": "0602",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-06-02",
+"weather": "雨",
+"code": "2BO-170",
+"name": "長抜差型スートブロワ2",
+"work": "長抜差型スートブロワ2 分解",
+"note": "",
+"crew": "機械C",
+"processNo": 20,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "0602",
+"r": 8,
+"_hours": 24.0,
+"fields": {
+"date": "2021-06-02",
+"weather": "雨",
+"code": "2BO-310",
+"name": "ボイラダスト搬出コンベヤ2",
+"work": "手直し：再調整（手直し 1日）",
+"note": "",
+"crew": "機械C",
+"processNo": 18,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0602",
+"r": 9,
+"fields": {
+"date": "2021-06-02",
+"weather": "雨",
+"code": "2HA-030",
+"name": "飛灰搬送コンベヤ",
+"work": "〃",
+"note": ""
+}
+},
+{
+"kind": "item",
+"sheet": "0602",
+"r": 10,
+"_hours": 32.0,
+"fields": {
+"date": "2021-06-02",
+"weather": "雨",
+"code": "2NS-190",
+"name": "灰押出油圧ユニット",
+"work": "組立、吐出圧力確認",
+"note": "",
+"crew": "機械B",
+"processNo": 19,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 75
+}
+},
+{
+"kind": "total",
+"sheet": "0602",
+"r": 19,
+"_hours": 80.0,
+"fields": {
+"date": "2021-06-02",
+"people": 10,
+"manDays": 10.0,
+"manDaysText": "80"
+}
+},
+{
+"kind": "item",
+"sheet": "0603",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-06-03",
+"weather": "雨",
+"code": "2BO-280",
+"name": "エコノマイザ槌打装置1",
+"work": "部品交換、作動確認",
+"note": "",
+"crew": "機械C",
+"processNo": 20,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0603",
+"r": 8,
+"_hours": 32.0,
+"fields": {
+"date": "2021-06-03",
+"weather": "雨",
+"code": "2NS-200",
+"name": "灰押出油圧ポンプA",
+"work": "油圧ユニット 試運転、漏れ確認",
+"note": "",
+"crew": "機械B",
+"processNo": 19,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "0603",
+"r": 19,
+"_hours": 56.0,
+"fields": {
+"date": "2021-06-03",
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56"
+}
+},
+{
+"kind": "item",
+"sheet": "0604",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-06-04",
+"weather": "晴",
+"code": "2KT-030",
+"name": "区分空気ダンパ駆動装置（乾燥）",
+"work": "区分空気ダンパ駆動装置（乾燥） 開放",
+"note": "",
+"crew": "機械C",
+"processNo": 23,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 35
+}
+},
+{
+"kind": "item",
+"sheet": "0604",
+"r": 9,
+"_hours": 32.0,
+"fields": {
+"date": "2021-06-04",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "炉内足場 解体（上部から）",
+"note": "",
+"crew": "足場",
+"processNo": 21,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 35
+}
+},
+{
+"kind": "item",
+"sheet": "0604",
+"r": 10,
+"_hours": 40.0,
+"fields": {
+"date": "2021-06-04",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "回転機 定例点検・給油 開放、インペラ清掃",
+"note": "",
+"crew": "機械B",
+"processNo": 22,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 50
+}
+},
+{
+"kind": "total",
+"sheet": "0604",
+"r": 19,
+"_hours": 96.0,
+"fields": {
+"date": "2021-06-04",
+"people": 12,
+"manDays": 12.0,
+"manDaysText": "96"
+}
+},
+{
+"kind": "item",
+"sheet": "0605",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-06-05",
+"weather": "曇",
+"code": "2KT-050",
+"name": "区分空気ダンパ駆動装置（燃焼2）",
+"work": "区分空気ダンパ駆動装置（燃焼2） 部品交換",
+"note": "",
+"crew": "機械C",
+"processNo": 23,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 65
+}
+},
+{
+"kind": "item",
+"sheet": "0605",
+"r": 9,
+"_hours": 32.0,
+"fields": {
+"date": "2021-06-05",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "足場材 降ろし・整理",
+"note": "",
+"crew": "足場",
+"processNo": 21,
+"people": 4,
+"manDays": 4.0,
+"manDaysText": "32",
+"progress": 65
+}
+},
+{
+"kind": "item",
+"sheet": "0605",
+"r": 10,
+"_hours": 40.0,
+"fields": {
+"date": "2021-06-05",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "復旧、振動測定",
+"note": "",
+"crew": "機械B",
+"processNo": 22,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "0605",
+"r": 19,
+"_hours": 96.0,
+"fields": {
+"date": "2021-06-05",
+"people": 12,
+"manDays": 12.0,
+"manDaysText": "96"
+}
+},
+{
+"kind": "item",
+"sheet": "0607",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2021-06-07",
+"weather": "曇",
+"code": "2KT-090",
+"name": "蒸気式空気予熱器",
+"work": "組立・作動確認",
+"note": "",
+"crew": "機械C",
+"processNo": 23,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "0607",
+"r": 9,
+"_hours": 40.0,
+"fields": {
+"date": "2021-06-07",
+"weather": "曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "足場材 搬出・場内清掃",
+"note": "",
+"crew": "足場",
+"processNo": 21,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "0607",
+"r": 19,
+"_hours": 64.0,
+"fields": {
+"date": "2021-06-07",
+"people": 8,
+"manDays": 8.0,
+"manDaysText": "64"
+}
+},
+{
+"kind": "item",
+"sheet": "0608",
+"r": 8,
+"_hours": 48.0,
+"fields": {
+"date": "2021-06-08",
+"weather": "雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "復旧作業、単体試運転（送風機・ポンプ類）",
+"note": "",
+"crew": "機械A",
+"processNo": 24,
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 50
+}
+},
+{
+"kind": "total",
+"sheet": "0608",
+"r": 19,
+"_hours": 48.0,
+"fields": {
+"date": "2021-06-08",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48"
+}
+},
+{
+"kind": "item",
+"sheet": "0609",
+"r": 8,
+"_hours": 48.0,
+"fields": {
+"date": "2021-06-09",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "単体試運転 継続、指摘事項 手直し",
+"note": "",
+"crew": "機械A",
+"processNo": 24,
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "0609",
+"r": 19,
+"_hours": 48.0,
+"fields": {
+"date": "2021-06-09",
+"people": 6,
+"manDays": 6.0,
+"manDaysText": "48"
+}
+},
+{
+"kind": "item",
+"sheet": "0610",
+"r": 8,
+"_hours": 56.0,
+"fields": {
+"date": "2021-06-10",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "連動試運転（インターロック確認）",
+"note": "",
+"crew": "機械A",
+"processNo": 25,
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "0610",
+"r": 19,
+"_hours": 56.0,
+"fields": {
+"date": "2021-06-10",
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56"
+}
+},
+{
+"kind": "item",
+"sheet": "0614",
+"r": 8,
+"_hours": 40.0,
+"fields": {
+"date": "2021-06-14",
+"weather": "雨",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "完了確認（SPC立会）・片付け・搬出",
+"note": "",
+"crew": "機械A",
+"processNo": 27,
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40",
+"progress": 100
+}
+},
+{
+"kind": "total",
+"sheet": "0614",
+"r": 19,
+"_hours": 40.0,
+"fields": {
+"date": "2021-06-14",
+"people": 5,
+"manDays": 5.0,
+"manDaysText": "40"
+}
+}
+]
+}

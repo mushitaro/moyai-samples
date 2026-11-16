@@ -1,0 +1,850 @@
+{
+"file": "【架空】かざはやエコプラザ_作業日報_2026年度全炉停止時共通設備点検整備工事_q3作業日報.xlsx",
+"plan": false,
+"records": [
+{
+"kind": "item",
+"sheet": "1019",
+"r": 8,
+"_hours": 16.0,
+"fields": {
+"date": "2026-10-19",
+"weather": "晴のち曇",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "動力・制御電源の縁切り、ロックアウト、マンホール開放",
+"note": "",
+"crew": "電計2",
+"processNo": 2,
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16.0",
+"progress": 100
+}
+},
+{
+"kind": "subtotal",
+"sheet": "1019",
+"r": 19,
+"_hours": 16.0,
+"fields": {
+"date": "2026-10-19",
+"company": "水樹テクノサービス",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16.0"
+}
+},
+{
+"kind": "total",
+"sheet": "1019",
+"r": 20,
+"_hours": 16.0,
+"fields": {
+"date": "2026-10-19",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16"
+}
+},
+{
+"kind": "item",
+"sheet": "1020",
+"r": 7,
+"_hours": 66.5,
+"fields": {
+"date": "2026-10-20",
+"weather": "晴",
+"code": "0DE-010ほか17件",
+"name": "受変電設備 一式",
+"work": "受変電設備 年次点検（特高GIS・主変・高圧盤・所内変）",
+"note": "",
+"crew": "受変電",
+"processNo": 3,
+"people": 7,
+"manDays": 8.3125,
+"manDaysText": "66.5",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1020",
+"r": 8,
+"_hours": 64.0,
+"fields": {
+"date": "2026-10-20",
+"weather": "晴",
+"code": "0DE-270",
+"name": "非常用発電機",
+"work": "非常用発電機 負荷試験",
+"note": "",
+"crew": "受変電",
+"processNo": 4,
+"people": 8,
+"manDays": 8.0,
+"manDaysText": "64.0",
+"progress": 25
+}
+},
+{
+"kind": "subtotal",
+"sheet": "1020",
+"r": 19,
+"_hours": 130.5,
+"fields": {
+"date": "2026-10-20",
+"company": "風早電設",
+"people": 15,
+"manDays": 16.3125,
+"manDaysText": "130.5"
+}
+},
+{
+"kind": "total",
+"sheet": "1020",
+"r": 20,
+"_hours": 130.5,
+"fields": {
+"date": "2026-10-20",
+"people": 15,
+"manDays": 16.3125,
+"manDaysText": "130.5"
+}
+},
+{
+"kind": "item",
+"sheet": "1021",
+"r": 7,
+"_hours": 56.0,
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0DE-270",
+"name": "非常用発電機",
+"work": "機関 分解",
+"note": "",
+"crew": "受変電",
+"processNo": 4,
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56.0",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "1021",
+"r": 8,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0YN-040",
+"name": "タービン補助油ポンプ",
+"work": "タービン補助油ポンプ 分解（カップリング・メカシール取外し）",
+"note": "",
+"crew": "機械D",
+"processNo": 5,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "1021",
+"r": 9,
+"_hours": 28.5,
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0YN-070",
+"name": "タービン油冷却器B",
+"work": "タービン油冷却器B 開放",
+"note": "",
+"crew": "機械C",
+"processNo": 6,
+"people": 3,
+"manDays": 3.5625,
+"manDaysText": "28.5",
+"progress": 35
+}
+},
+{
+"kind": "item",
+"sheet": "1021",
+"r": 10,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0YN-190",
+"name": "高圧蒸気だめ",
+"work": "高圧蒸気だめ 開放・内部点検",
+"note": "",
+"crew": "機械C",
+"processNo": 7,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1021",
+"r": 11,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0YN-200",
+"name": "低圧蒸気だめ",
+"work": "低圧蒸気だめ 開放・内部点検",
+"note": "",
+"crew": "機械C",
+"processNo": 8,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1021",
+"r": 12,
+"_hours": 16.0,
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0YN-220M",
+"name": "空冷復水器ファン1 電動機",
+"work": "空冷復水器ファン1電動機 点検",
+"note": "",
+"crew": "電計2",
+"processNo": 14,
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1021",
+"r": 13,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0YN-240",
+"name": "空冷復水器ファン3",
+"work": "空冷復水器ファン3 分解点検",
+"note": "",
+"crew": "機械C",
+"processNo": 9,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "1021",
+"r": 14,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0YN-270",
+"name": "空冷復水器ファン6",
+"work": "空冷復水器ファン6 開放",
+"note": "",
+"crew": "機械C",
+"processNo": 10,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "1021",
+"r": 15,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0YN-350",
+"name": "復水ポンプA",
+"work": "復水ポンプA 分解（カップリング・メカシール取外し）",
+"note": "",
+"crew": "機械C",
+"processNo": 11,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "1021",
+"r": 16,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0YN-370",
+"name": "真空ポンプA",
+"work": "真空ポンプA 分解（カップリング・メカシール取外し）",
+"note": "",
+"crew": "機械C",
+"processNo": 12,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "1021",
+"r": 17,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-21",
+"weather": "雨",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "脱気器 開放",
+"note": "",
+"crew": "機械C",
+"processNo": 13,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 25
+}
+},
+{
+"kind": "subtotal",
+"sheet": "1021",
+"r": 19,
+"_hours": 56.0,
+"fields": {
+"date": "2026-10-21",
+"company": "風早電設",
+"people": 7,
+"manDays": 7.0,
+"manDaysText": "56.0"
+}
+},
+{
+"kind": "subtotal",
+"sheet": "1021",
+"r": 20,
+"_hours": 236.5,
+"fields": {
+"date": "2026-10-21",
+"company": "水樹テクノサービス",
+"people": 29,
+"manDays": 29.5625,
+"manDaysText": "236.5"
+}
+},
+{
+"kind": "total",
+"sheet": "1021",
+"r": 21,
+"_hours": 292.5,
+"fields": {
+"date": "2026-10-21",
+"people": 36,
+"manDays": 36.5625,
+"manDaysText": "292.5"
+}
+},
+{
+"kind": "item",
+"sheet": "1022",
+"r": 7,
+"_hours": 66.5,
+"fields": {
+"date": "2026-10-22",
+"weather": "晴",
+"code": "0DE-270",
+"name": "非常用発電機",
+"work": "機関 分解",
+"note": "",
+"crew": "受変電",
+"processNo": 4,
+"people": 7,
+"manDays": 8.3125,
+"manDaysText": "66.5",
+"progress": 75
+}
+},
+{
+"kind": "item",
+"sheet": "1022",
+"r": 8,
+"_hours": 28.5,
+"fields": {
+"date": "2026-10-22",
+"weather": "晴",
+"code": "0YN-040",
+"name": "タービン補助油ポンプ",
+"work": "試運転・振動測定",
+"note": "",
+"crew": "機械D",
+"processNo": 5,
+"people": 3,
+"manDays": 3.5625,
+"manDaysText": "28.5",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1022",
+"r": 9,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-22",
+"weather": "晴",
+"code": "0YN-070",
+"name": "タービン油冷却器B",
+"work": "タービン油冷却器B 組立／気密試験で漏れ",
+"note": "手直し",
+"crew": "機械C",
+"processNo": 6,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 65
+}
+},
+{
+"kind": "item",
+"sheet": "1022",
+"r": 10,
+"_hours": 16.0,
+"fields": {
+"date": "2026-10-22",
+"weather": "晴",
+"code": "0YN-230M",
+"name": "空冷復水器ファン2 電動機",
+"work": "空冷復水器ファン2電動機 絶縁抵抗測定・絶縁診断",
+"note": "",
+"crew": "電計2",
+"processNo": 15,
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1022",
+"r": 11,
+"_hours": 28.5,
+"fields": {
+"date": "2026-10-22",
+"weather": "晴",
+"code": "0YN-240",
+"name": "空冷復水器ファン3",
+"work": "作動確認",
+"note": "",
+"crew": "機械C",
+"processNo": 9,
+"people": 3,
+"manDays": 3.5625,
+"manDaysText": "28.5",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1022",
+"r": 12,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-22",
+"weather": "晴",
+"code": "0YN-270",
+"name": "空冷復水器ファン6",
+"work": "試運転",
+"note": "",
+"crew": "機械C",
+"processNo": 10,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1022",
+"r": 13,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-22",
+"weather": "晴",
+"code": "0YN-350",
+"name": "復水ポンプA",
+"work": "試運転・振動測定",
+"note": "",
+"crew": "機械C",
+"processNo": 11,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1022",
+"r": 14,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-22",
+"weather": "晴",
+"code": "0YN-370",
+"name": "真空ポンプA",
+"work": "試運転・振動測定",
+"note": "",
+"crew": "機械C",
+"processNo": 12,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1022",
+"r": 15,
+"_hours": 28.5,
+"fields": {
+"date": "2026-10-22",
+"weather": "晴",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "トレイ 清掃",
+"note": "",
+"crew": "機械C",
+"processNo": 13,
+"people": 3,
+"manDays": 3.5625,
+"manDaysText": "28.5",
+"progress": 50
+}
+},
+{
+"kind": "subtotal",
+"sheet": "1022",
+"r": 19,
+"_hours": 66.5,
+"fields": {
+"date": "2026-10-22",
+"company": "風早電設",
+"people": 7,
+"manDays": 8.3125,
+"manDaysText": "66.5"
+}
+},
+{
+"kind": "subtotal",
+"sheet": "1022",
+"r": 20,
+"_hours": 197.5,
+"fields": {
+"date": "2026-10-22",
+"company": "水樹テクノサービス",
+"people": 23,
+"manDays": 24.6875,
+"manDaysText": "197.5"
+}
+},
+{
+"kind": "total",
+"sheet": "1022",
+"r": 21,
+"_hours": 264.0,
+"fields": {
+"date": "2026-10-22",
+"people": 30,
+"manDays": 33.0,
+"manDaysText": "264"
+}
+},
+{
+"kind": "item",
+"sheet": "1022",
+"r": 23,
+"fields": {
+"date": "2026-10-22",
+"section": "特記事項",
+"text": "気密試験で漏れ → 再調整（手直し 1日）。SPC sp2 へ報告。"
+}
+},
+{
+"kind": "item",
+"sheet": "1023",
+"r": 7,
+"_hours": 72.0,
+"fields": {
+"date": "2026-10-23",
+"weather": "曇",
+"code": "0DE-270",
+"name": "非常用発電機",
+"work": "組立・試運転",
+"note": "",
+"crew": "受変電",
+"processNo": 4,
+"people": 9,
+"manDays": 9.0,
+"manDaysText": "72.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1023",
+"r": 8,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-23",
+"weather": "曇",
+"code": "0YN-050",
+"name": "タービン非常用油ポンプ",
+"work": "タービン非常用油ポンプ 開放、羽根車・軸受点検",
+"note": "",
+"crew": "機械D",
+"processNo": 16,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 50
+}
+},
+{
+"kind": "item",
+"sheet": "1023",
+"r": 9,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-23",
+"weather": "曇",
+"code": "0YN-070",
+"name": "タービン油冷却器B",
+"work": "手直し：再調整（手直し 1日）",
+"note": "",
+"crew": "機械C",
+"processNo": 6,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1023",
+"r": 10,
+"_hours": 16.0,
+"fields": {
+"date": "2026-10-23",
+"weather": "曇",
+"code": "0YN-250M",
+"name": "空冷復水器ファン4 電動機",
+"work": "空冷復水器ファン4電動機 点検",
+"note": "",
+"crew": "電計2",
+"processNo": 17,
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1023",
+"r": 11,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-23",
+"weather": "曇",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "検査 受検",
+"note": "",
+"crew": "機械C",
+"processNo": 13,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 75
+}
+},
+{
+"kind": "subtotal",
+"sheet": "1023",
+"r": 19,
+"_hours": 72.0,
+"fields": {
+"date": "2026-10-23",
+"company": "風早電設",
+"people": 9,
+"manDays": 9.0,
+"manDaysText": "72.0"
+}
+},
+{
+"kind": "subtotal",
+"sheet": "1023",
+"r": 20,
+"_hours": 88.0,
+"fields": {
+"date": "2026-10-23",
+"company": "水樹テクノサービス",
+"people": 11,
+"manDays": 11.0,
+"manDaysText": "88.0"
+}
+},
+{
+"kind": "total",
+"sheet": "1023",
+"r": 21,
+"_hours": 160.0,
+"fields": {
+"date": "2026-10-23",
+"people": 20,
+"manDays": 20.0,
+"manDaysText": "160"
+}
+},
+{
+"kind": "item",
+"sheet": "1024",
+"r": 7,
+"_hours": 24.0,
+"fields": {
+"date": "2026-10-24",
+"weather": "晴",
+"code": "0YN-050",
+"name": "タービン非常用油ポンプ",
+"work": "試運転・振動測定",
+"note": "",
+"crew": "機械D",
+"processNo": 16,
+"people": 3,
+"manDays": 3.0,
+"manDaysText": "24.0",
+"progress": 100
+}
+},
+{
+"kind": "item",
+"sheet": "1024",
+"r": 8,
+"_hours": 27.0,
+"fields": {
+"date": "2026-10-24",
+"weather": "晴",
+"code": "0YN-400",
+"name": "脱気器",
+"work": "復旧・閉止",
+"note": "",
+"crew": "機械C",
+"processNo": 13,
+"people": 3,
+"manDays": 3.375,
+"manDaysText": "27.0",
+"progress": 100
+}
+},
+{
+"kind": "subtotal",
+"sheet": "1024",
+"r": 19,
+"_hours": 51.0,
+"fields": {
+"date": "2026-10-24",
+"company": "水樹テクノサービス",
+"people": 6,
+"manDays": 6.375,
+"manDaysText": "51.0"
+}
+},
+{
+"kind": "total",
+"sheet": "1024",
+"r": 20,
+"_hours": 51.0,
+"fields": {
+"date": "2026-10-24",
+"people": 6,
+"manDays": 6.375,
+"manDaysText": "51"
+}
+},
+{
+"kind": "item",
+"sheet": "1026",
+"r": 8,
+"_hours": 16.0,
+"fields": {
+"date": "2026-10-26",
+"weather": "晴",
+"code": "",
+"name": "（ｺｰﾄﾞなし）",
+"work": "単体試運転 実施",
+"note": "",
+"crew": "電計2",
+"processNo": 18,
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16.0",
+"progress": 100
+}
+},
+{
+"kind": "subtotal",
+"sheet": "1026",
+"r": 19,
+"_hours": 16.0,
+"fields": {
+"date": "2026-10-26",
+"company": "水樹テクノサービス",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16.0"
+}
+},
+{
+"kind": "total",
+"sheet": "1026",
+"r": 20,
+"_hours": 16.0,
+"fields": {
+"date": "2026-10-26",
+"people": 2,
+"manDays": 2.0,
+"manDaysText": "16"
+}
+}
+]
+}
