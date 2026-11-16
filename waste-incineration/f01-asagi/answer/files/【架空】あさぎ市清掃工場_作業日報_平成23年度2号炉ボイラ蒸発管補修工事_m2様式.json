@@ -1,0 +1,267 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成23年度2号炉ボイラ蒸発管補修工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "10.27",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-27",
+    "no": "2",
+    "furnace": "—",
+    "place": "資材置場",
+    "content": "資機材搬入・養生",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.27",
+   "r": 19,
+   "fields": {
+    "date": "2011-10-27",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.28",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-28",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 34 点（下段）",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 50
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.28",
+   "r": 19,
+   "fields": {
+    "date": "2011-10-28",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.29",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-29",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 完了（累計 156 点、最小 3.4mm）",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.29",
+   "r": 19,
+   "fields": {
+    "date": "2011-10-29",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.31",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-31",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 42 点（下段）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "35.0",
+    "progress": 25
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.31",
+   "r": 19,
+   "fields": {
+    "date": "2011-10-31",
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "35.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.1",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-01",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 61 点（下段）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 50
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.1",
+   "r": 19,
+   "fields": {
+    "date": "2011-11-01",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.2",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-02",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 49 点（前列）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "45.0",
+    "progress": 75
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.2",
+   "r": 19,
+   "fields": {
+    "date": "2011-11-02",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "45.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.3",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-03",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 完了（累計 268 点、最小 2.6mm）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.3",
+   "r": 19,
+   "fields": {
+    "date": "2011-11-03",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.4",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-04",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 完了（累計 28 点、最小 2.7mm）",
+    "staff": 2,
+    "partner": 1,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.4",
+   "r": 19,
+   "fields": {
+    "date": "2011-11-04",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.5",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-05",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.5",
+   "r": 19,
+   "fields": {
+    "date": "2011-11-05",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  }
+ ]
+}

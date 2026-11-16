@@ -1,0 +1,100 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0703.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2003-07-03",
+    "no": "109",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "読めない",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "築炉": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   },
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0703.jpg"
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2003-07-03",
+    "no": "114",
+    "furnace": "1号炉",
+    "place": "スートブロワNo.7",
+    "content": "スートブロワNo.7 噴射管交換、作動確認 良",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 1.0,
+    "manDaysText": "1人×8h",
+    "progress": "完了"
+   },
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0703.jpg"
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2003-07-03",
+    "no": "119",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 劣化部確認・マーキング、撤去 45%",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.12,
+    "manDaysText": "2人×8.5h",
+    "progress": "45%"
+   },
+   "seq": 2,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0703.jpg"
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2003-07-03",
+    "no": "C11",
+    "furnace": "共通",
+    "place": "処理物搬出コンベヤ",
+    "content": "処理物搬出コンベヤ 劣化部確認・マーキング、撤去 55%",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "40%"
+   },
+   "seq": 3,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0703.jpg"
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2003-07-03",
+    "persons": 7,
+    "manDays": 7.12,
+    "manDaysText": "7.1人工"
+   },
+   "seq": 4,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0703.jpg"
+  }
+ ],
+ "image_size": [
+  1653,
+  1268
+ ]
+}

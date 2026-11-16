@@ -1,0 +1,4026 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成22年度定期整備業務委託_m1様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "5.28",
+   "r": 6,
+   "fields": {
+    "date": "2010-05-28",
+    "no": "101",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "資機材搬入（2t車 4台）",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "足場": 2,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "20%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "5.28",
+   "r": 20,
+   "fields": {
+    "date": "2010-05-28",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "5.29",
+   "r": 6,
+   "fields": {
+    "date": "2010-05-29",
+    "no": "101",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "新規入場者教育 4名",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "雑": 2
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "35%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "5.29",
+   "r": 20,
+   "fields": {
+    "date": "2010-05-29",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "5.31",
+   "r": 6,
+   "fields": {
+    "date": "2010-05-31",
+    "no": "101",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "資機材搬入（2t車 2台）",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "60%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "5.31",
+   "r": 7,
+   "fields": {
+    "date": "2010-05-31",
+    "no": "102",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "給じん停止 → 焼却停止（運転委託先）。立会",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "5.31",
+   "r": 8,
+   "fields": {
+    "date": "2010-05-31",
+    "no": "103",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 485℃",
+    "persons": 0,
+    "trades": {},
+    "manDays": 0.0,
+    "manDaysText": "—",
+    "progress": "28%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "5.31",
+   "r": 20,
+   "fields": {
+    "date": "2010-05-31",
+    "persons": 5,
+    "manDays": 4.25,
+    "manDaysText": "4.2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.1",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-01",
+    "no": "101",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "仮設電源・照明 配置",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "75%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.1",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-01",
+    "no": "103",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 327℃",
+    "persons": 0,
+    "trades": {},
+    "manDays": 0.0,
+    "manDaysText": "—",
+    "progress": "57%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.1",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-01",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.2",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-02",
+    "no": "101",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "仮設電源・照明 配置",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.2",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-02",
+    "no": "103",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 180℃",
+    "persons": 0,
+    "trades": {},
+    "manDays": 0.0,
+    "manDaysText": "—",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.2",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-02",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.3",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-03",
+    "no": "104",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "O2 20.9%・CO 0ppm 確認、電源ロック、マンホール 6箇所開放",
+    "persons": 4,
+    "trades": {
+     "社員": 2,
+     "築炉": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.3",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-03",
+    "no": "105",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "炉内足場 段数追加、ボイラ側 組立",
+    "persons": 8,
+    "trades": {
+     "社員": 1,
+     "築炉": 3,
+     "足場": 1,
+     "雑": 3
+    },
+    "manDays": 9.0,
+    "manDaysText": "8人×9h",
+    "progress": "50%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.3",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-03",
+    "no": "106",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "側壁付着物 はつり除去",
+    "persons": 8,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 3,
+     "雑": 2
+    },
+    "manDays": 8.0,
+    "manDaysText": "8人×8h",
+    "progress": "28%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.3",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-03",
+    "persons": 20,
+    "manDays": 21.0,
+    "manDaysText": "21人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.4",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-04",
+    "no": "105",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "炉内足場 段数追加、ボイラ側 組立",
+    "persons": 8,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 3,
+     "雑": 2
+    },
+    "manDays": 8.0,
+    "manDaysText": "8人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.4",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-04",
+    "no": "106",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "クリンカ除去 約2.1t 搬出",
+    "persons": 8,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 1,
+     "雑": 4
+    },
+    "manDays": 8.0,
+    "manDaysText": "8人×8h",
+    "progress": "62%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.4",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-04",
+    "no": "107",
+    "furnace": "1号炉",
+    "place": "ボイラ",
+    "content": "水管付着ダスト掻落し・エアブロー",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "機械": 2,
+     "溶接": 3
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "15%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.4",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-04",
+    "persons": 22,
+    "manDays": 22.0,
+    "manDaysText": "22人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.5",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-05",
+    "no": "106",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "側壁付着物 はつり除去",
+    "persons": 8,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 3,
+     "雑": 2
+    },
+    "manDays": 8.0,
+    "manDaysText": "8人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.5",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-05",
+    "no": "107",
+    "furnace": "1号炉",
+    "place": "ボイラ",
+    "content": "ボイラ第3放射室 清掃",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "機械": 2,
+     "溶接": 3
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "35%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.5",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-05",
+    "persons": 14,
+    "manDays": 14.0,
+    "manDaysText": "14人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.7",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-07",
+    "no": "107",
+    "furnace": "1号炉",
+    "place": "ボイラ",
+    "content": "ボイラ第3放射室 清掃",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 4
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "55%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.7",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-07",
+    "no": "108",
+    "furnace": "1号炉",
+    "place": "再燃バーナ",
+    "content": "再燃バーナ バーナ分解清掃・ノズル交換。ボルト類 状態確認、試運転 良",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.88,
+    "manDaysText": "1人×7h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.7",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-07",
+    "no": "109",
+    "furnace": "1号炉",
+    "place": "落じんダンパ（乾燥段）",
+    "content": "落じんダンパ（乾燥段） シリンダ・シール交換、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.7",
+   "r": 9,
+   "fields": {
+    "date": "2010-06-07",
+    "no": "118",
+    "furnace": "1号炉",
+    "place": "炉壁冷却空気ファン",
+    "content": "炉壁冷却空気ファン 軸受交換。カップリング 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.7",
+   "r": 10,
+   "fields": {
+    "date": "2010-06-07",
+    "no": "127",
+    "furnace": "1号炉",
+    "place": "BF加温ヒータ盤",
+    "content": "BF加温ヒータ盤 点検、冷却ファン 外観・動作確認 良。BF制御盤 点検、冷却ファン 外観・動作確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "電工": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.7",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-07",
+    "persons": 13,
+    "manDays": 12.88,
+    "manDaysText": "12.9人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.8",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-08",
+    "no": "107",
+    "furnace": "1号炉",
+    "place": "ボイラ",
+    "content": "ボイラ第3放射室 清掃",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 4
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "80%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.8",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-08",
+    "no": "110",
+    "furnace": "1号炉",
+    "place": "落じんダンパ（燃焼段）",
+    "content": "落じんダンパ（燃焼段） シリンダ・シール交換、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 1.75,
+    "manDaysText": "2人×7h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.8",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-08",
+    "no": "119",
+    "furnace": "1号炉",
+    "place": "ボイラ給水ポンプB",
+    "content": "ボイラ給水ポンプB 分解整備。軸受 状態確認、試運転 良",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 2
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.8",
+   "r": 9,
+   "fields": {
+    "date": "2010-06-08",
+    "no": "128",
+    "furnace": "1号炉",
+    "place": "炉用動力制御盤MCC-1B",
+    "content": "炉用動力制御盤MCC-1B 盤内清掃、端子増締め、絶縁抵抗 55MΩ以上",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "電工": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.8",
+   "r": 10,
+   "fields": {
+    "date": "2010-06-08",
+    "no": "C09",
+    "furnace": "共通",
+    "place": "計量機（搬入）",
+    "content": "計量機（搬入） ロードセル交換、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "電工": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.8",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-08",
+    "persons": 15,
+    "manDays": 14.75,
+    "manDaysText": "14.8人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.9",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-09",
+    "no": "107",
+    "furnace": "1号炉",
+    "place": "ボイラ",
+    "content": "ボイラ第2放射室 清掃",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 4
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.9",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-09",
+    "no": "111",
+    "furnace": "1号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 肉厚測定 77 点（中段）",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "45%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.9",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-09",
+    "no": "120",
+    "furnace": "1号炉",
+    "place": "ボイラダスト排出ロータリバルブNo.1",
+    "content": "ボイラダスト排出ロータリバルブNo.1 ロータ・シール整備、作動確認 良",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 2
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.9",
+   "r": 9,
+   "fields": {
+    "date": "2010-06-09",
+    "no": "C10",
+    "furnace": "共通",
+    "place": "プラットホーム投入扉No.3",
+    "content": "プラットホーム投入扉No.3 油圧シリンダ・ヒンジ整備、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "築炉": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.9",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-09",
+    "persons": 13,
+    "manDays": 13.0,
+    "manDaysText": "13人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.10",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-10",
+    "no": "111",
+    "furnace": "1号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 肉厚測定 完了（累計 150 点、最小 2.9mm）",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.10",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-10",
+    "no": "112",
+    "furnace": "1号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 劣化部確認・マーキング、撤去 45%",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "溶接": 2
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "20%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.10",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-10",
+    "no": "121",
+    "furnace": "1号炉",
+    "place": "ボイラダスト排出ロータリバルブNo.2",
+    "content": "ボイラダスト排出ロータリバルブNo.2 ロータ・シール整備。スプロケット 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.10",
+   "r": 9,
+   "fields": {
+    "date": "2010-06-10",
+    "no": "C11",
+    "furnace": "共通",
+    "place": "エアカーテン（出口）",
+    "content": "エアカーテン（出口） 軸受交換、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.10",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-10",
+    "persons": 10,
+    "manDays": 10.0,
+    "manDaysText": "10人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.11",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-11",
+    "no": "112",
+    "furnace": "1号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 管部分取替（溶接）",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "50%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.11",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-11",
+    "no": "122",
+    "furnace": "1号炉",
+    "place": "噴霧水ポンプA",
+    "content": "噴霧水ポンプA 分解整備、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.11",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-11",
+    "no": "C12",
+    "furnace": "共通",
+    "place": "ピット脱臭装置",
+    "content": "ピット脱臭装置 活性炭交換、作動確認 良",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 1.0,
+    "manDaysText": "1人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.11",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-11",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "6人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.12",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-12",
+    "no": "112",
+    "furnace": "1号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 管部分取替（管 含む）",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 1.75,
+    "manDaysText": "2人×7h",
+    "progress": "70%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.12",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-12",
+    "no": "113",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 肉厚測定 69 点（下段）。エコノマイザ 肉厚測定 21 点（下段）",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 1.06,
+    "manDaysText": "1人×8.5h",
+    "progress": "50%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.12",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-12",
+    "no": "123",
+    "furnace": "1号炉",
+    "place": "消石灰定量供給機",
+    "content": "消石灰定量供給機 分解整備。スプロケット 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.12",
+   "r": 9,
+   "fields": {
+    "date": "2010-06-12",
+    "no": "C13",
+    "furnace": "共通",
+    "place": "ごみピット汚水ろ過器",
+    "content": "ごみピット汚水ろ過器 部品交換。シール 状態確認、試運転 良",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.12",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-12",
+    "persons": 8,
+    "manDays": 7.81,
+    "manDaysText": "7.8人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.14",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-14",
+    "no": "112",
+    "furnace": "1号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 補修完了、外観・寸法検査 良",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "溶接": 3
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.14",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-14",
+    "no": "113",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 肉厚測定 完了（累計 128 点、最小 4.3mm）。エコノマイザ 肉厚測定 完了（累計 82 点、最小 2.6mm）",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.14",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-14",
+    "no": "124",
+    "furnace": "1号炉",
+    "place": "活性炭輸送ブロワ",
+    "content": "活性炭輸送ブロワ ルーツブロワ分解整備、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.14",
+   "r": 9,
+   "fields": {
+    "date": "2010-06-14",
+    "no": "C01",
+    "furnace": "共通",
+    "place": "現場",
+    "content": "2号炉 立下げ（全停準備） 完了",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.14",
+   "r": 10,
+   "fields": {
+    "date": "2010-06-14",
+    "no": "C14",
+    "furnace": "共通",
+    "place": "真空掃除装置",
+    "content": "真空掃除装置 部品交換。シール 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.14",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-14",
+    "persons": 12,
+    "manDays": 11.25,
+    "manDaysText": "11.2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.15",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-15",
+    "no": "114",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 劣化部確認・マーキング、撤去 41%",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "25%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.15",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-15",
+    "no": "125",
+    "furnace": "1号炉",
+    "place": "BFダスト排出コンベヤNo.2",
+    "content": "BFダスト排出コンベヤNo.2 劣化部確認・マーキング、撤去 57%",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "45%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.15",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-15",
+    "no": "C02",
+    "furnace": "共通",
+    "place": "脱気器",
+    "content": "脱気器 開放、内部清掃、パッキン 外観点検。グランド蒸気復水器 開放、内部清掃、シール 外観点検。ほか 2 台",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.5,
+    "manDaysText": "2人×10h",
+    "progress": "33%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.15",
+   "r": 9,
+   "fields": {
+    "date": "2010-06-15",
+    "no": "C03",
+    "furnace": "共通",
+    "place": "高低圧蒸気減圧弁No.2",
+    "content": "高低圧蒸気減圧弁No.2 分解・シリンダ 取外し（一部腐食）。脱気器水位調節弁 分解・シールキット 取外し（一部腐食）。ほか 1 台",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.75,
+    "manDaysText": "3人×10h",
+    "progress": "28%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.15",
+   "r": 10,
+   "fields": {
+    "date": "2010-06-15",
+    "no": "C04",
+    "furnace": "共通",
+    "place": "空冷復水器ファンNo.3",
+    "content": "空冷復水器ファンNo.3 分解・軸受 取外し（状態良）",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.75,
+    "manDaysText": "3人×10h",
+    "progress": "33%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.15",
+   "r": 11,
+   "fields": {
+    "date": "2010-06-15",
+    "no": "C05",
+    "furnace": "共通",
+    "place": "6.6kV高圧配電盤（受電）",
+    "content": "6.6kV高圧配電盤（受電） 開放、内部清掃、端子 外観点検。6.6kV高圧配電盤（発電機連絡） 開放、内部清掃、リレー 外観点検。ほか 2 台",
+    "persons": 3,
+    "trades": {
+     "社員": 2,
+     "電工": 1
+    },
+    "manDays": 3.75,
+    "manDaysText": "3人×10h",
+    "progress": "33%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.15",
+   "r": 12,
+   "fields": {
+    "date": "2010-06-15",
+    "no": "C06",
+    "furnace": "共通",
+    "place": "共通動力制御盤MCC-C5（給水）",
+    "content": "共通動力制御盤MCC-C5（給水） 開放、内部清掃、端子 外観点検。直流電源装置 分解・端子 取外し（状態良）。ほか 2 台",
+    "persons": 4,
+    "trades": {
+     "社員": 2,
+     "電工": 2
+    },
+    "manDays": 5.0,
+    "manDaysText": "4人×10h",
+    "progress": "33%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.15",
+   "r": 13,
+   "fields": {
+    "date": "2010-06-15",
+    "no": "C07",
+    "furnace": "共通",
+    "place": "系統連系保護継電器盤",
+    "content": "系統連系保護継電器盤 開放、内部清掃、冷却ファン 外観点検",
+    "persons": 4,
+    "trades": {
+     "社員": 2,
+     "電工": 2
+    },
+    "manDays": 5.0,
+    "manDaysText": "4人×10h",
+    "progress": "33%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.15",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-15",
+    "persons": 24,
+    "manDays": 28.75,
+    "manDaysText": "28.8人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.16",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-16",
+    "no": "114",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 管部分取替（溶接）",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "50%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.16",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-16",
+    "no": "125",
+    "furnace": "1号炉",
+    "place": "BFダスト排出コンベヤNo.2",
+    "content": "BFダスト排出コンベヤNo.2 補修完了、外観・寸法検査 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 1.75,
+    "manDaysText": "2人×7h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.16",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-16",
+    "no": "C02",
+    "furnace": "共通",
+    "place": "脱気器",
+    "content": "脱気器 点検継続（シール）。グランド蒸気復水器 点検継続（ボルト類）。ほか 2 台",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.38,
+    "manDaysText": "3人×9h",
+    "progress": "67%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.16",
+   "r": 9,
+   "fields": {
+    "date": "2010-06-16",
+    "no": "C03",
+    "furnace": "共通",
+    "place": "高低圧蒸気減圧弁No.2",
+    "content": "高低圧蒸気減圧弁No.2 調節弁分解整備・ポジショナ調整（シールキット 含む）。脱気器水位調節弁 調節弁分解整備・ポジショナ調整（取付）。ほか 1 台",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.38,
+    "manDaysText": "3人×9h",
+    "progress": "57%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.16",
+   "r": 10,
+   "fields": {
+    "date": "2010-06-16",
+    "no": "C04",
+    "furnace": "共通",
+    "place": "空冷復水器ファンNo.3",
+    "content": "空冷復水器ファンNo.3 減速機点検・油交換（施工中）",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.38,
+    "manDaysText": "3人×9h",
+    "progress": "67%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.16",
+   "r": 11,
+   "fields": {
+    "date": "2010-06-16",
+    "no": "C05",
+    "furnace": "共通",
+    "place": "6.6kV高圧配電盤（受電）",
+    "content": "6.6kV高圧配電盤（受電） 点検継続（端子）。6.6kV高圧配電盤（発電機連絡） 点検継続（冷却ファン）。ほか 2 台",
+    "persons": 4,
+    "trades": {
+     "社員": 2,
+     "電工": 2
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "57%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.16",
+   "r": 12,
+   "fields": {
+    "date": "2010-06-16",
+    "no": "C06",
+    "furnace": "共通",
+    "place": "共通動力制御盤MCC-C5（給水）",
+    "content": "共通動力制御盤MCC-C5（給水） 点検継続（端子）。直流電源装置 蓄電池交換（溶接）。ほか 2 台",
+    "persons": 4,
+    "trades": {
+     "社員": 2,
+     "電工": 2
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "62%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.16",
+   "r": 13,
+   "fields": {
+    "date": "2010-06-16",
+    "no": "C07",
+    "furnace": "共通",
+    "place": "系統連系保護継電器盤",
+    "content": "系統連系保護継電器盤 点検継続（端子）",
+    "persons": 4,
+    "trades": {
+     "社員": 2,
+     "電工": 2
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "62%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.16",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-16",
+    "persons": 26,
+    "manDays": 28.38,
+    "manDaysText": "28.4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.17",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-17",
+    "no": "114",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 管部分取替（施工中）",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.38,
+    "manDaysText": "3人×9h",
+    "progress": "65%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.17",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-17",
+    "no": "115",
+    "furnace": "1号炉",
+    "place": "スートブロワNo.7",
+    "content": "スートブロワNo.7 噴射管交換。パッキン 状態確認、試運転 良",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 1.0,
+    "manDaysText": "1人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.17",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-17",
+    "no": "126",
+    "furnace": "1号炉",
+    "place": "押込送風機",
+    "content": "押込送風機 点検（グランドパッキン・カップリング）、試運転時振動 1.0mm/s",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.88,
+    "manDaysText": "1人×7h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.17",
+   "r": 9,
+   "fields": {
+    "date": "2010-06-17",
+    "no": "C02",
+    "furnace": "共通",
+    "place": "脱気器",
+    "content": "脱気器 パッキン 点検後 復旧、作動確認 良。グランド蒸気復水器 パッキン 点検後 復旧、作動確認 良。ほか 2 台",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.38,
+    "manDaysText": "3人×9h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.17",
+   "r": 10,
+   "fields": {
+    "date": "2010-06-17",
+    "no": "C03",
+    "furnace": "共通",
+    "place": "高低圧蒸気減圧弁No.2",
+    "content": "高低圧蒸気減圧弁No.2 組立・芯出し、単体試運転 良。脱気器水位調節弁 組立・芯出し、単体試運転 良。ほか 1 台",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 2
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.17",
+   "r": 11,
+   "fields": {
+    "date": "2010-06-17",
+    "no": "C04",
+    "furnace": "共通",
+    "place": "空冷復水器ファンNo.3",
+    "content": "空冷復水器ファンNo.3 組立・芯出し、単体試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.25,
+    "manDaysText": "2人×9h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.17",
+   "r": 12,
+   "fields": {
+    "date": "2010-06-17",
+    "no": "C05",
+    "furnace": "共通",
+    "place": "6.6kV高圧配電盤（受電）",
+    "content": "6.6kV高圧配電盤（受電） 端子 点検後 復旧、作動確認 良。6.6kV高圧配電盤（発電機連絡） 端子 点検後 復旧、作動確認 良。ほか 2 台",
+    "persons": 4,
+    "trades": {
+     "社員": 2,
+     "電工": 2
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.17",
+   "r": 13,
+   "fields": {
+    "date": "2010-06-17",
+    "no": "C06",
+    "furnace": "共通",
+    "place": "共通動力制御盤MCC-C5（給水）",
+    "content": "共通動力制御盤MCC-C5（給水） 冷却ファン 点検後 復旧、作動確認 良。直流電源装置 組立・芯出し、単体試運転 良。ほか 2 台",
+    "persons": 4,
+    "trades": {
+     "社員": 2,
+     "電工": 2
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.17",
+   "r": 14,
+   "fields": {
+    "date": "2010-06-17",
+    "no": "C07",
+    "furnace": "共通",
+    "place": "系統連系保護継電器盤",
+    "content": "系統連系保護継電器盤 リレー 点検後 復旧、作動確認 良",
+    "persons": 4,
+    "trades": {
+     "社員": 2,
+     "電工": 2
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.17",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-17",
+    "persons": 26,
+    "manDays": 28.88,
+    "manDaysText": "28.9人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.18",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-18",
+    "no": "114",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 補修完了、外観・寸法検査 良",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.18",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-18",
+    "no": "116",
+    "furnace": "1号炉",
+    "place": "減温塔",
+    "content": "減温塔 劣化部確認・マーキング、撤去 45%",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.12,
+    "manDaysText": "2人×8.5h",
+    "progress": "50%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.18",
+   "r": 8,
+   "fields": {
+    "date": "2010-06-18",
+    "no": "C08",
+    "furnace": "共通",
+    "place": "中央制御室",
+    "content": "昇温開始（運転委託先）、耐火物乾燥",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.18",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-18",
+    "persons": 6,
+    "manDays": 5.38,
+    "manDaysText": "5.4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.19",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-19",
+    "no": "116",
+    "furnace": "1号炉",
+    "place": "減温塔",
+    "content": "減温塔 補修完了、外観・寸法検査 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.19",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-19",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.21",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-21",
+    "no": "117",
+    "furnace": "1号炉",
+    "place": "アンモニア水遮断弁",
+    "content": "アンモニア水遮断弁 シリンダ・シール交換、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.21",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-21",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.22",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-22",
+    "no": "129",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "足場解体 33%、残材搬出",
+    "persons": 7,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 2,
+     "雑": 2
+    },
+    "manDays": 7.0,
+    "manDaysText": "7人×8h",
+    "progress": "28%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.22",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-22",
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "7人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.23",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-23",
+    "no": "129",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "足場解体 66%、残材搬出",
+    "persons": 8,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 3,
+     "雑": 2
+    },
+    "manDays": 8.0,
+    "manDaysText": "8人×8h",
+    "progress": "67%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.23",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-23",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "8人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.24",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-24",
+    "no": "129",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "炉内最終清掃",
+    "persons": 7,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 2,
+     "雑": 2
+    },
+    "manDays": 7.0,
+    "manDaysText": "7人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.24",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-24",
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "7人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.25",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-25",
+    "no": "130",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "電動弁・ダンパ 作動試験",
+    "persons": 5,
+    "trades": {
+     "社員": 3,
+     "築炉": 1,
+     "足場": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "28%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.25",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-25",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.26",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-26",
+    "no": "130",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "マンホール閉鎖 8箇所、回転機 単体試運転",
+    "persons": 7,
+    "trades": {
+     "社員": 3,
+     "築炉": 2,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 7.0,
+    "manDaysText": "7人×8h",
+    "progress": "62%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.26",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-26",
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "7人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.28",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-28",
+    "no": "130",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "マンホール閉鎖 7箇所、回転機 単体試運転",
+    "persons": 6,
+    "trades": {
+     "社員": 3,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.28",
+   "r": 7,
+   "fields": {
+    "date": "2010-06-28",
+    "no": "131",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "昇温継続、炉出口 497℃",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "50%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.28",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-28",
+    "persons": 7,
+    "manDays": 6.25,
+    "manDaysText": "6.2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.29",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-29",
+    "no": "131",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "昇温開始（運転委託先）、耐火物乾燥",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.29",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-29",
+    "persons": 1,
+    "manDays": 0.25,
+    "manDaysText": "0.2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.30",
+   "r": 6,
+   "fields": {
+    "date": "2010-06-30",
+    "no": "132",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 2
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "23%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.30",
+   "r": 20,
+   "fields": {
+    "date": "2010-06-30",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "7.1",
+   "r": 6,
+   "fields": {
+    "date": "2010-07-01",
+    "no": "132",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "persons": 2,
+    "trades": {
+     "社員": 2
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "67%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "7.1",
+   "r": 20,
+   "fields": {
+    "date": "2010-07-01",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "7.2",
+   "r": 6,
+   "fields": {
+    "date": "2010-07-02",
+    "no": "132",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 2
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "7.2",
+   "r": 20,
+   "fields": {
+    "date": "2010-07-02",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.17",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-17",
+    "no": "201",
+    "furnace": "2号炉",
+    "place": "資材置場",
+    "content": "仮設電源・照明 配置",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "20%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.17",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-17",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.18",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-18",
+    "no": "201",
+    "furnace": "2号炉",
+    "place": "資材置場",
+    "content": "新規入場者教育 8名",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "35%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.18",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-18",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.20",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-20",
+    "no": "201",
+    "furnace": "2号炉",
+    "place": "資材置場",
+    "content": "資機材搬入（2t車 2台）",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "60%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.20",
+   "r": 7,
+   "fields": {
+    "date": "2010-09-20",
+    "no": "202",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "給じん停止 → 焼却停止（運転委託先）。立会",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.20",
+   "r": 8,
+   "fields": {
+    "date": "2010-09-20",
+    "no": "203",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 473℃",
+    "persons": 0,
+    "trades": {},
+    "manDays": 0.0,
+    "manDaysText": "—",
+    "progress": "23%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.20",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-20",
+    "persons": 4,
+    "manDays": 3.25,
+    "manDaysText": "3.2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.21",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-21",
+    "no": "201",
+    "furnace": "2号炉",
+    "place": "資材置場",
+    "content": "新規入場者教育 4名",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "80%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.21",
+   "r": 7,
+   "fields": {
+    "date": "2010-09-21",
+    "no": "203",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 295℃",
+    "persons": 0,
+    "trades": {},
+    "manDays": 0.0,
+    "manDaysText": "—",
+    "progress": "62%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.21",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-21",
+    "persons": 4,
+    "manDays": 4.5,
+    "manDaysText": "4.5人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.22",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-22",
+    "no": "201",
+    "furnace": "2号炉",
+    "place": "資材置場",
+    "content": "新規入場者教育 7名",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.22",
+   "r": 7,
+   "fields": {
+    "date": "2010-09-22",
+    "no": "203",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 174℃",
+    "persons": 0,
+    "trades": {},
+    "manDays": 0.0,
+    "manDaysText": "—",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.22",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-22",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.23",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-23",
+    "no": "204",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "O2 20.9%・CO 0ppm 確認、電源ロック、マンホール 8箇所開放",
+    "persons": 5,
+    "trades": {
+     "社員": 2,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 5.62,
+    "manDaysText": "5人×9h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.23",
+   "r": 7,
+   "fields": {
+    "date": "2010-09-23",
+    "no": "205",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "足場組立 50%",
+    "persons": 7,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 3,
+     "雑": 1
+    },
+    "manDays": 7.0,
+    "manDaysText": "7人×8h",
+    "progress": "50%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.23",
+   "r": 8,
+   "fields": {
+    "date": "2010-09-23",
+    "no": "206",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "側壁付着物 はつり除去",
+    "persons": 8,
+    "trades": {
+     "社員": 1,
+     "築炉": 3,
+     "足場": 2,
+     "雑": 2
+    },
+    "manDays": 8.0,
+    "manDaysText": "8人×8h",
+    "progress": "33%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.23",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-23",
+    "persons": 20,
+    "manDays": 20.62,
+    "manDaysText": "20.6人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.24",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-24",
+    "no": "205",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "足場組立 100%",
+    "persons": 7,
+    "trades": {
+     "社員": 1,
+     "築炉": 3,
+     "足場": 1,
+     "雑": 2
+    },
+    "manDays": 7.0,
+    "manDaysText": "7人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.24",
+   "r": 7,
+   "fields": {
+    "date": "2010-09-24",
+    "no": "206",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "側壁付着物 はつり除去",
+    "persons": 7,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 1,
+     "雑": 3
+    },
+    "manDays": 7.0,
+    "manDaysText": "7人×8h",
+    "progress": "67%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.24",
+   "r": 8,
+   "fields": {
+    "date": "2010-09-24",
+    "no": "207",
+    "furnace": "2号炉",
+    "place": "ボイラ",
+    "content": "水管付着ダスト掻落し・エアブロー",
+    "persons": 7,
+    "trades": {
+     "社員": 1,
+     "機械": 3,
+     "溶接": 3
+    },
+    "manDays": 7.0,
+    "manDaysText": "7人×8h",
+    "progress": "15%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.24",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-24",
+    "persons": 21,
+    "manDays": 21.0,
+    "manDaysText": "21人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.25",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-25",
+    "no": "206",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "クリンカ除去 約2.5t 搬出",
+    "persons": 8,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 3,
+     "雑": 3
+    },
+    "manDays": 8.0,
+    "manDaysText": "8人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.25",
+   "r": 7,
+   "fields": {
+    "date": "2010-09-25",
+    "no": "207",
+    "furnace": "2号炉",
+    "place": "ボイラ",
+    "content": "水管付着ダスト掻落し・エアブロー",
+    "persons": 7,
+    "trades": {
+     "社員": 1,
+     "機械": 2,
+     "溶接": 4
+    },
+    "manDays": 7.0,
+    "manDaysText": "7人×8h",
+    "progress": "40%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.25",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-25",
+    "persons": 15,
+    "manDays": 15.0,
+    "manDaysText": "15人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.27",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-27",
+    "no": "207",
+    "furnace": "2号炉",
+    "place": "ボイラ",
+    "content": "水管付着ダスト掻落し・エアブロー",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "機械": 3,
+     "溶接": 2
+    },
+    "manDays": 5.25,
+    "manDaysText": "6人×7h",
+    "progress": "60%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.27",
+   "r": 7,
+   "fields": {
+    "date": "2010-09-27",
+    "no": "208",
+    "furnace": "2号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 劣化部確認・マーキング、撤去 69%",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "33%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.27",
+   "r": 8,
+   "fields": {
+    "date": "2010-09-27",
+    "no": "213",
+    "furnace": "2号炉",
+    "place": "落じんダンパ（乾燥段）",
+    "content": "落じんダンパ（乾燥段） シリンダ・シール交換、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.27",
+   "r": 9,
+   "fields": {
+    "date": "2010-09-27",
+    "no": "222",
+    "furnace": "2号炉",
+    "place": "バーナ燃焼用送風機",
+    "content": "バーナ燃焼用送風機 軸受交換、作動確認 良",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 1.0,
+    "manDaysText": "1人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.27",
+   "r": 10,
+   "fields": {
+    "date": "2010-09-27",
+    "no": "231",
+    "furnace": "2号炉",
+    "place": "BF加温ヒータ盤",
+    "content": "BF加温ヒータ盤 点検、端子 外観・動作確認 良。BF制御盤 点検、冷却ファン 外観・動作確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "電工": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.27",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-27",
+    "persons": 14,
+    "manDays": 13.25,
+    "manDaysText": "13.2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.28",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-28",
+    "no": "207",
+    "furnace": "2号炉",
+    "place": "ボイラ",
+    "content": "ボイラ第3放射室 清掃",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 4
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "75%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.28",
+   "r": 7,
+   "fields": {
+    "date": "2010-09-28",
+    "no": "208",
+    "furnace": "2号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修（溶接）",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "57%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.28",
+   "r": 8,
+   "fields": {
+    "date": "2010-09-28",
+    "no": "209",
+    "furnace": "2号炉",
+    "place": "乾燥火格子",
+    "content": "乾燥火格子 摩耗計測 完了（累計 64 点、最小 4.7mm）。燃焼火格子 摩耗計測 完了（累計 25 点、最小 2.7mm）。ほか 1 台",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.28",
+   "r": 9,
+   "fields": {
+    "date": "2010-09-28",
+    "no": "214",
+    "furnace": "2号炉",
+    "place": "落じんダンパ（燃焼段）",
+    "content": "落じんダンパ（燃焼段） シリンダ・シール交換。シールキット 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.28",
+   "r": 10,
+   "fields": {
+    "date": "2010-09-28",
+    "no": "223",
+    "furnace": "2号炉",
+    "place": "炉壁冷却空気ファン",
+    "content": "炉壁冷却空気ファン 軸受交換。カップリング 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.28",
+   "r": 11,
+   "fields": {
+    "date": "2010-09-28",
+    "no": "232",
+    "furnace": "2号炉",
+    "place": "炉現場操作盤",
+    "content": "炉現場操作盤 点検、リレー 外観・動作確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "電工": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.28",
+   "r": 12,
+   "fields": {
+    "date": "2010-09-28",
+    "no": "D01",
+    "furnace": "共通",
+    "place": "プラットホーム投入扉No.2",
+    "content": "プラットホーム投入扉No.2 油圧シリンダ・ヒンジ整備。シール 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "築炉": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.28",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-28",
+    "persons": 20,
+    "manDays": 20.0,
+    "manDaysText": "20人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.29",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-29",
+    "no": "207",
+    "furnace": "2号炉",
+    "place": "ボイラ",
+    "content": "ボイラ第1放射室 清掃",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "機械": 2,
+     "溶接": 3
+    },
+    "manDays": 5.25,
+    "manDaysText": "6人×7h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.29",
+   "r": 7,
+   "fields": {
+    "date": "2010-09-29",
+    "no": "208",
+    "furnace": "2号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 補修完了、外観・寸法検査 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "築炉": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.29",
+   "r": 8,
+   "fields": {
+    "date": "2010-09-29",
+    "no": "210",
+    "furnace": "2号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 劣化部確認・マーキング、撤去 30%",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "築炉": 3,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "20%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.29",
+   "r": 9,
+   "fields": {
+    "date": "2010-09-29",
+    "no": "215",
+    "furnace": "2号炉",
+    "place": "ボイラドラム",
+    "content": "ボイラドラム 開放、内部清掃、管 外観点検。水冷壁 肉厚測定 58 点（下段）",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "45%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.29",
+   "r": 10,
+   "fields": {
+    "date": "2010-09-29",
+    "no": "224",
+    "furnace": "2号炉",
+    "place": "落じんコンベヤ",
+    "content": "落じんコンベヤ 劣化部確認・マーキング、撤去 43%",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 1.75,
+    "manDaysText": "2人×7h",
+    "progress": "50%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.29",
+   "r": 11,
+   "fields": {
+    "date": "2010-09-29",
+    "no": "233",
+    "furnace": "2号炉",
+    "place": "自動燃焼制御装置盤",
+    "content": "自動燃焼制御装置盤 点検、冷却ファン 外観・動作確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "電工": 1
+    },
+    "manDays": 2.12,
+    "manDaysText": "2人×8.5h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.29",
+   "r": 12,
+   "fields": {
+    "date": "2010-09-29",
+    "no": "D02",
+    "furnace": "共通",
+    "place": "プラットホーム投入扉No.4",
+    "content": "プラットホーム投入扉No.4 油圧シリンダ・ヒンジ整備。パッキン 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "築炉": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.29",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-29",
+    "persons": 22,
+    "manDays": 21.12,
+    "manDaysText": "21.1人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.30",
+   "r": 6,
+   "fields": {
+    "date": "2010-09-30",
+    "no": "210",
+    "furnace": "2号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 火格子片部分取替（施工中）",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 2,
+     "雑": 1
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "40%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.30",
+   "r": 7,
+   "fields": {
+    "date": "2010-09-30",
+    "no": "215",
+    "furnace": "2号炉",
+    "place": "ボイラドラム",
+    "content": "ボイラドラム 管 点検後 復旧、作動確認 良。水冷壁 肉厚測定 完了（累計 76 点、最小 3.0mm）",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.30",
+   "r": 8,
+   "fields": {
+    "date": "2010-09-30",
+    "no": "224",
+    "furnace": "2号炉",
+    "place": "落じんコンベヤ",
+    "content": "落じんコンベヤ 補修完了、外観・寸法検査 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.30",
+   "r": 9,
+   "fields": {
+    "date": "2010-09-30",
+    "no": "D03",
+    "furnace": "共通",
+    "place": "防臭剤噴霧装置",
+    "content": "防臭剤噴霧装置 部品交換、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.30",
+   "r": 20,
+   "fields": {
+    "date": "2010-09-30",
+    "persons": 13,
+    "manDays": 13.0,
+    "manDaysText": "13人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.1",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-01",
+    "no": "210",
+    "furnace": "2号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 火格子片部分取替（取付）",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 2,
+     "雑": 1
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "70%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.1",
+   "r": 7,
+   "fields": {
+    "date": "2010-10-01",
+    "no": "211",
+    "furnace": "2号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 油圧ポンプ分解整備、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "築炉": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.1",
+   "r": 8,
+   "fields": {
+    "date": "2010-10-01",
+    "no": "216",
+    "furnace": "2号炉",
+    "place": "スートブロワNo.6",
+    "content": "スートブロワNo.6 噴射管交換、作動確認 良",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.1",
+   "r": 9,
+   "fields": {
+    "date": "2010-10-01",
+    "no": "225",
+    "furnace": "2号炉",
+    "place": "脱酸剤注入ポンプ",
+    "content": "脱酸剤注入ポンプ 既設撤去・新品据付、芯出し、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.1",
+   "r": 10,
+   "fields": {
+    "date": "2010-10-01",
+    "no": "D04",
+    "furnace": "共通",
+    "place": "灰クレーン",
+    "content": "灰クレーン 分解・シーブ 取外し（摩耗あり）",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.25,
+    "manDaysText": "2人×9h",
+    "progress": "45%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.1",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-01",
+    "persons": 15,
+    "manDays": 15.25,
+    "manDaysText": "15.2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.2",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-02",
+    "no": "210",
+    "furnace": "2号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 補修完了、外観・寸法検査 良",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 2,
+     "雑": 1
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.2",
+   "r": 7,
+   "fields": {
+    "date": "2010-10-02",
+    "no": "212",
+    "furnace": "2号炉",
+    "place": "再燃バーナ",
+    "content": "再燃バーナ バーナ分解清掃・ノズル交換、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "築炉": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.2",
+   "r": 8,
+   "fields": {
+    "date": "2010-10-02",
+    "no": "217",
+    "furnace": "2号炉",
+    "place": "給水再循環弁",
+    "content": "給水再循環弁 シリンダ・シール交換。ポジショナ 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.2",
+   "r": 9,
+   "fields": {
+    "date": "2010-10-02",
+    "no": "226",
+    "furnace": "2号炉",
+    "place": "ボイラダスト排出ロータリバルブNo.1",
+    "content": "ボイラダスト排出ロータリバルブNo.1 ロータ・シール整備、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.2",
+   "r": 10,
+   "fields": {
+    "date": "2010-10-02",
+    "no": "D04",
+    "furnace": "共通",
+    "place": "灰クレーン",
+    "content": "灰クレーン 組立・芯出し、単体試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.2",
+   "r": 11,
+   "fields": {
+    "date": "2010-10-02",
+    "no": "D05",
+    "furnace": "共通",
+    "place": "砂ろ過塔",
+    "content": "砂ろ過塔 ろ材交換。シール 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.2",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-02",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "16人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.4",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-04",
+    "no": "218",
+    "furnace": "2号炉",
+    "place": "減温塔",
+    "content": "減温塔 劣化部確認・マーキング、撤去 55%",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "45%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.4",
+   "r": 7,
+   "fields": {
+    "date": "2010-10-04",
+    "no": "227",
+    "furnace": "2号炉",
+    "place": "ボイラダスト排出コンベヤ",
+    "content": "ボイラダスト排出コンベヤ チェーン・スクリュー羽根補修、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.12,
+    "manDaysText": "2人×8.5h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.4",
+   "r": 8,
+   "fields": {
+    "date": "2010-10-04",
+    "no": "D06",
+    "furnace": "共通",
+    "place": "ろ過ポンプA",
+    "content": "ろ過ポンプA 分解整備。ライナリング 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 1.75,
+    "manDaysText": "2人×7h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.4",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-04",
+    "persons": 6,
+    "manDays": 5.88,
+    "manDaysText": "5.9人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.5",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-05",
+    "no": "218",
+    "furnace": "2号炉",
+    "place": "減温塔",
+    "content": "減温塔 補修完了、外観・寸法検査 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.5",
+   "r": 7,
+   "fields": {
+    "date": "2010-10-05",
+    "no": "219",
+    "furnace": "2号炉",
+    "place": "空気予熱器蒸気調節弁",
+    "content": "空気予熱器蒸気調節弁 調節弁分解整備・ポジショナ調整。シールキット 状態確認、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.5",
+   "r": 8,
+   "fields": {
+    "date": "2010-10-05",
+    "no": "228",
+    "furnace": "2号炉",
+    "place": "活性炭輸送ブロワ",
+    "content": "活性炭輸送ブロワ ルーツブロワ分解整備、作動確認 良",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 1.0,
+    "manDaysText": "1人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.5",
+   "r": 9,
+   "fields": {
+    "date": "2010-10-05",
+    "no": "D07",
+    "furnace": "共通",
+    "place": "空気除湿装置（計装用）",
+    "content": "空気除湿装置（計装用） 部品交換、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.25,
+    "manDaysText": "2人×9h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.5",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-05",
+    "persons": 7,
+    "manDays": 7.25,
+    "manDaysText": "7.2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.6",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-06",
+    "no": "220",
+    "furnace": "2号炉",
+    "place": "煙道（BF出口〜煙突）",
+    "content": "煙道（BF出口〜煙突） 劣化部確認・マーキング、撤去 59%",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "50%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.6",
+   "r": 7,
+   "fields": {
+    "date": "2010-10-06",
+    "no": "229",
+    "furnace": "2号炉",
+    "place": "アンモニア水注入ポンプA",
+    "content": "アンモニア水注入ポンプA 既設撤去・新品据付、芯出し、試運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.6",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-06",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.7",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-07",
+    "no": "220",
+    "furnace": "2号炉",
+    "place": "煙道（BF出口〜煙突）",
+    "content": "煙道（BF出口〜煙突） 補修完了、外観・寸法検査 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.7",
+   "r": 7,
+   "fields": {
+    "date": "2010-10-07",
+    "no": "230",
+    "furnace": "2号炉",
+    "place": "主灰搬出コンベヤ",
+    "content": "主灰搬出コンベヤ 劣化部確認・マーキング、撤去 66%",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "40%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.7",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-07",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.8",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-08",
+    "no": "221",
+    "furnace": "2号炉",
+    "place": "煙突内筒",
+    "content": "煙突内筒 開放、内部清掃、ボルト類 外観点検",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "45%"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.8",
+   "r": 7,
+   "fields": {
+    "date": "2010-10-08",
+    "no": "230",
+    "furnace": "2号炉",
+    "place": "主灰搬出コンベヤ",
+    "content": "主灰搬出コンベヤ 補修完了、外観・寸法検査 良",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 1,
+     "溶接": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.8",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-08",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.9",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-09",
+    "no": "221",
+    "furnace": "2号炉",
+    "place": "煙突内筒",
+    "content": "煙突内筒 パッキン 点検後 復旧、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.9",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-09",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.11",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-11",
+    "no": "234",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "炉内最終清掃",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "築炉": 3,
+     "足場": 2
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "28%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.11",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-11",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "6人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.12",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-12",
+    "no": "234",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "足場解体 66%、残材搬出",
+    "persons": 7,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 2,
+     "雑": 2
+    },
+    "manDays": 7.88,
+    "manDaysText": "7人×9h",
+    "progress": "67%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.12",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-12",
+    "persons": 7,
+    "manDays": 7.88,
+    "manDaysText": "7.9人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.13",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-13",
+    "no": "234",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "炉内最終清掃",
+    "persons": 7,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 3,
+     "雑": 2
+    },
+    "manDays": 7.0,
+    "manDaysText": "7人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.13",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-13",
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "7人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.14",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-14",
+    "no": "235",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "マンホール閉鎖 8箇所、回転機 単体試運転",
+    "persons": 6,
+    "trades": {
+     "社員": 3,
+     "築炉": 2,
+     "雑": 1
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "28%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.14",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-14",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "6人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.15",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-15",
+    "no": "235",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "マンホール閉鎖 8箇所、回転機 単体試運転",
+    "persons": 5,
+    "trades": {
+     "社員": 3,
+     "足場": 2
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "67%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.15",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-15",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.16",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-16",
+    "no": "235",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "マンホール閉鎖 6箇所、回転機 単体試運転",
+    "persons": 6,
+    "trades": {
+     "社員": 3,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.16",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-16",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "6人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.18",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-18",
+    "no": "236",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "昇温継続、炉出口 439℃",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "50%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.18",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-18",
+    "persons": 1,
+    "manDays": 0.25,
+    "manDaysText": "0.2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.19",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-19",
+    "no": "236",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "昇温開始（運転委託先）、耐火物乾燥",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.19",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-19",
+    "persons": 1,
+    "manDays": 0.25,
+    "manDaysText": "0.2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.20",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-20",
+    "no": "237",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "persons": 2,
+    "trades": {
+     "社員": 2
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "23%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.20",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-20",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.21",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-21",
+    "no": "237",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 2
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "57%"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.21",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-21",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "2人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.22",
+   "r": 6,
+   "fields": {
+    "date": "2010-10-22",
+    "no": "237",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 2
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.22",
+   "r": 20,
+   "fields": {
+    "date": "2010-10-22",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "2人工"
+   }
+  }
+ ]
+}

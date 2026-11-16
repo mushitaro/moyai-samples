@@ -1,0 +1,122 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成25年度1号炉ボイラダスト排出コンベヤ補修工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "6.24",
+   "r": 7,
+   "fields": {
+    "date": "2013-06-24",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "ボイラダスト排出コンベヤ",
+    "content": "ボイラダスト排出コンベヤ チェーン・スクリュー羽根補修。スプロケット 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.24",
+   "r": 19,
+   "fields": {
+    "date": "2013-06-24",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.25",
+   "r": 7,
+   "fields": {
+    "date": "2013-06-25",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "ボイラダスト排出コンベヤ",
+    "content": "ボイラダスト排出コンベヤ チェーン・スクリュー羽根補修。スプロケット 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.25",
+   "r": 19,
+   "fields": {
+    "date": "2013-06-25",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.26",
+   "r": 7,
+   "fields": {
+    "date": "2013-06-26",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ボイラダスト排出コンベヤ",
+    "content": "ボイラダスト排出コンベヤ チェーン・スクリュー羽根補修、作動確認 良",
+    "staff": 2,
+    "partner": 0,
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.26",
+   "r": 19,
+   "fields": {
+    "date": "2013-06-26",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.27",
+   "r": 7,
+   "fields": {
+    "date": "2013-06-27",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.27",
+   "r": 19,
+   "fields": {
+    "date": "2013-06-27",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  }
+ ]
+}

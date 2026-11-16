@@ -1,0 +1,40 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成9年度定期整備業務委託_手書き様式_0626.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成9年度定期整備業務委託_手書き様式_0626.jpg",
+   "fields": {
+    "date": "1997-06-26",
+    "no": "111",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "persons": 2,
+    "trades": {
+     "社員": 2
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "57%"
+   }
+  },
+  {
+   "kind": "total",
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成9年度定期整備業務委託_手書き様式_0626.jpg",
+   "fields": {
+    "date": "1997-06-26",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "2人工"
+   }
+  }
+ ],
+ "image_size": [
+  1845,
+  1401
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_1016.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2003-10-16",
+    "no": "210",
+    "furnace": "2号炉",
+    "place": "灰押出装置",
+    "content": "灰押出装置 組立・芯出し、単体試運転 良",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 1.0,
+    "manDaysText": "1人×8h",
+    "progress": "完了"
+   },
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_1016.jpg"
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2003-10-16",
+    "no": "214",
+    "furnace": "2号炉",
+    "place": "スートブロワNo.8",
+    "content": "スートブロワNo.8 噴射管交換、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "溶接": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   },
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_1016.jpg"
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2003-10-16",
+    "no": "D03",
+    "furnace": "共通",
+    "place": "ろ過ポンプA",
+    "content": "ろ過ポンプA 分解整備、作動確認 良",
+    "persons": 2,
+    "trades": {
+     "社員": 1,
+     "機械": 1
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "完了"
+   },
+   "seq": 2,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_1016.jpg"
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2003-10-16",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "seq": 3,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_1016.jpg"
+  }
+ ],
+ "image_size": [
+  1988,
+  1527
+ ]
+}

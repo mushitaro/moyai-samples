@@ -1,0 +1,213 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成23年度2号炉耐火物補修工事_業者様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "1024",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-24",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 劣化部確認・マーキング、撤去 39%",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1024",
+   "r": 8,
+   "fields": {
+    "date": "2011-10-24",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1025",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-25",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 補修完了、外観・寸法検査 良",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1025",
+   "r": 8,
+   "fields": {
+    "date": "2011-10-25",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1026",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-26",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 劣化部確認・マーキング、撤去 67%",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1026",
+   "r": 8,
+   "fields": {
+    "date": "2011-10-26",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1027",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-27",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修（アンカー 含む）",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "9時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1027",
+   "r": 8,
+   "fields": {
+    "date": "2011-10-27",
+    "persons": 5,
+    "manDays": 5.62
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1028",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-28",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修（耐火れんが 含む）",
+    "persons": 5,
+    "manDays": 5.31,
+    "manDaysText": "8.5時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1028",
+   "r": 8,
+   "fields": {
+    "date": "2011-10-28",
+    "persons": 5,
+    "manDays": 5.31
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1029",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-29",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修（取付）",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1029",
+   "r": 8,
+   "fields": {
+    "date": "2011-10-29",
+    "persons": 6,
+    "manDays": 6.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1031",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-31",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 補修完了、外観・寸法検査 良",
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "7時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1031",
+   "r": 8,
+   "fields": {
+    "date": "2011-10-31",
+    "persons": 5,
+    "manDays": 4.38
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1101",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-01",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修、作動確認 良",
+    "persons": 3,
+    "manDays": 3.19,
+    "manDaysText": "8.5時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1101",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-01",
+    "persons": 3,
+    "manDays": 3.19
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1102",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-02",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1102",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-02",
+    "persons": 2,
+    "manDays": 2.0
+   }
+  }
+ ]
+}

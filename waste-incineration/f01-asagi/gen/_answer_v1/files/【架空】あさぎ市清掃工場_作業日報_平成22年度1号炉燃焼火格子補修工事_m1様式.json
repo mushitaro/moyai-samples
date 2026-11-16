@@ -1,0 +1,393 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成22年度1号炉燃焼火格子補修工事_m1様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-07",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 劣化部確認・マーキング、撤去 54%",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "雑": 2
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "23%"
+   },
+   "sheet": "6.7",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-07",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   },
+   "sheet": "6.7",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-08",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（取付）",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "67%"
+   },
+   "sheet": "6.8",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-08",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   },
+   "sheet": "6.8",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-09",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 補修完了、外観・寸法検査 良",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   },
+   "sheet": "6.9",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-09",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   },
+   "sheet": "6.9",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-10",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 劣化部確認・マーキング、撤去 39%",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "雑": 2
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "4%"
+   },
+   "sheet": "6.10",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-10",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "6.10",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-11",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（仮組）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 2
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "24%"
+   },
+   "sheet": "6.11",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-11",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "6.11",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-12",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（摺動面 含む）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 2
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "43%"
+   },
+   "sheet": "6.12",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-12",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "6.12",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-14",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（施工中）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "雑": 2
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "57%"
+   },
+   "sheet": "6.14",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-14",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "6.14",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-15",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（施工中）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 2
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "61%"
+   },
+   "sheet": "6.15",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-15",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "6.15",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-16",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（摺動面 含む）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 3,
+     "雑": 1
+    },
+    "manDays": 5.31,
+    "manDaysText": "5人×8.5h",
+    "progress": "76%"
+   },
+   "sheet": "6.16",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-16",
+    "persons": 5,
+    "manDays": 5.31,
+    "manDaysText": "5.3人工"
+   },
+   "sheet": "6.16",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-17",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 補修完了、外観・寸法検査 良",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "完了"
+   },
+   "sheet": "6.17",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-17",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "6.17",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-18",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替、作動確認 良",
+    "persons": 3,
+    "trades": {
+     "社員": 2,
+     "築炉": 1
+    },
+    "manDays": 2.62,
+    "manDaysText": "3人×7h",
+    "progress": "完了"
+   },
+   "sheet": "6.18",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-18",
+    "persons": 3,
+    "manDays": 2.62,
+    "manDaysText": "2.6人工"
+   },
+   "sheet": "6.18",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-06-19",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   },
+   "sheet": "6.19",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-06-19",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "3人工"
+   },
+   "sheet": "6.19",
+   "r": 20
+  }
+ ]
+}

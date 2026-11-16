@@ -1,0 +1,79 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成9年度定期整備業務委託_手書き様式_0526.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "1997-05-26",
+    "no": "101",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "資機材搬入（2t車 2台）",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "55%"
+   },
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成9年度定期整備業務委託_手書き様式_0526.jpg"
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "1997-05-26",
+    "no": "102",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "給じん停止 → 焼却停止（市運転班）。立会",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "完了"
+   },
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成9年度定期整備業務委託_手書き様式_0526.jpg"
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "1997-05-26",
+    "no": "103",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 408℃",
+    "persons": 0,
+    "trades": {},
+    "manDays": 0.0,
+    "manDaysText": "—",
+    "progress": "33%"
+   },
+   "seq": 2,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成9年度定期整備業務委託_手書き様式_0526.jpg"
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "1997-05-26",
+    "persons": 5,
+    "manDays": 4.75,
+    "manDaysText": "4.8人工"
+   },
+   "seq": 3,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成9年度定期整備業務委託_手書き様式_0526.jpg"
+  }
+ ],
+ "image_size": [
+  1792,
+  1324
+ ]
+}

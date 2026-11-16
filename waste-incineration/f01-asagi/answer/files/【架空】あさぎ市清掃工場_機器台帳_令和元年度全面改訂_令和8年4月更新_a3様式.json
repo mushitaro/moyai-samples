@@ -1,0 +1,7085 @@
+{
+ "file": "【架空】あさぎ市清掃工場_機器台帳_令和元年度全面改訂_令和8年4月更新_a3様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 6,
+   "fields": {
+    "code": "1A-001",
+    "kanri": "受-101",
+    "name": "ごみ投入ホッパ",
+    "spec": "鋼板製 有効45m³ 口径6.0×5.5m",
+    "tag": "H-101",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 7,
+   "fields": {
+    "code": "1A-002",
+    "kanri": "受-102",
+    "name": "ホッパゲート",
+    "spec": "油圧駆動 観音開き式",
+    "tag": "G-101",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 8,
+   "fields": {
+    "code": "1A-003",
+    "kanri": "受-103",
+    "name": "ブリッジ解除装置",
+    "spec": "油圧シリンダ式 押出板",
+    "tag": "G-102",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 9,
+   "fields": {
+    "code": "1A-004",
+    "kanri": "受-104",
+    "name": "給じん装置",
+    "spec": "油圧プッシャ式 W2.4m ストローク1.2m",
+    "tag": "PU-101",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 10,
+   "fields": {
+    "code": "2A-001",
+    "kanri": "受-201",
+    "name": "ごみ投入ホッパ",
+    "spec": "鋼板製 有効45m³ 口径6.0×5.5m",
+    "tag": "H-201",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 11,
+   "fields": {
+    "code": "2A-002",
+    "kanri": "受-202",
+    "name": "ホッパゲート",
+    "spec": "油圧駆動 観音開き式",
+    "tag": "G-201",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 12,
+   "fields": {
+    "code": "2A-003",
+    "kanri": "受-203",
+    "name": "ブリッジ解除装置",
+    "spec": "油圧シリンダ式 押出板",
+    "tag": "G-202",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 13,
+   "fields": {
+    "code": "2A-004",
+    "kanri": "受-204",
+    "name": "給じん装置",
+    "spec": "油圧プッシャ式 W2.4m ストローク1.2m",
+    "tag": "PU-201",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 14,
+   "fields": {
+    "code": "CA-001",
+    "kanri": "受-001",
+    "name": "計量機（搬入）",
+    "spec": "ロードセル式 30t 検定付",
+    "tag": "WB-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 15,
+   "fields": {
+    "code": "CA-002",
+    "kanri": "受-002",
+    "name": "計量機（搬出）",
+    "spec": "ロードセル式 30t 検定付",
+    "tag": "WB-02",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 16,
+   "fields": {
+    "code": "CA-003",
+    "kanri": "受-003",
+    "name": "計量データ処理装置",
+    "spec": "パソコン＋伝票発行機",
+    "tag": "WB-03",
+    "inst": 1996,
+    "upd": 2022,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 17,
+   "fields": {
+    "code": "CA-004",
+    "kanri": "受-004",
+    "name": "プラットホーム投入扉No.1",
+    "spec": "油圧駆動 観音開き W3.0×H5.5m",
+    "tag": "DR-01",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 18,
+   "fields": {
+    "code": "CA-005",
+    "kanri": "受-005",
+    "name": "プラットホーム投入扉No.2",
+    "spec": "油圧駆動 観音開き W3.0×H5.5m",
+    "tag": "DR-02",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 19,
+   "fields": {
+    "code": "CA-006",
+    "kanri": "受-006",
+    "name": "プラットホーム投入扉No.3",
+    "spec": "油圧駆動 観音開き W3.0×H5.5m",
+    "tag": "DR-03",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 20,
+   "fields": {
+    "code": "CA-007",
+    "kanri": "受-007",
+    "name": "プラットホーム投入扉No.4",
+    "spec": "油圧駆動 観音開き W3.0×H5.5m",
+    "tag": "DR-04",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 21,
+   "fields": {
+    "code": "CA-008",
+    "kanri": "受-008",
+    "name": "プラットホーム投入扉No.5",
+    "spec": "油圧駆動 観音開き W3.0×H5.5m",
+    "tag": "DR-05",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 22,
+   "fields": {
+    "code": "CA-009",
+    "kanri": "受-009",
+    "name": "プラットホーム投入扉No.6",
+    "spec": "油圧駆動 観音開き W3.0×H5.5m",
+    "tag": "DR-06",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 23,
+   "fields": {
+    "code": "CA-010",
+    "kanri": "受-010",
+    "name": "エアカーテン（入口）",
+    "spec": "上吹出し 5.5kW",
+    "kw": 5.5,
+    "tag": "AC-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 24,
+   "fields": {
+    "code": "CA-011",
+    "kanri": "受-011",
+    "name": "エアカーテン（出口）",
+    "spec": "上吹出し 5.5kW",
+    "kw": 5.5,
+    "tag": "AC-02",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 25,
+   "fields": {
+    "code": "CA-012",
+    "kanri": "受-012",
+    "name": "ごみピット",
+    "spec": "RC造 3,600m³（約8日分）",
+    "tag": "PT-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 26,
+   "fields": {
+    "code": "CA-013",
+    "kanri": "受-013",
+    "name": "ごみクレーン1号機",
+    "role": "常用",
+    "spec": "天井走行 4.0m³油圧開閉ポリップ 定格6.3t 揚程30m",
+    "kw": 75,
+    "tag": "CR-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 27,
+   "fields": {
+    "code": "CA-014",
+    "kanri": "受-014",
+    "name": "ごみクレーン2号機",
+    "role": "予備",
+    "spec": "天井走行 4.0m³油圧開閉ポリップ 定格6.3t 揚程30m",
+    "kw": 75,
+    "tag": "CR-02",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 28,
+   "fields": {
+    "code": "CA-015",
+    "kanri": "受-015",
+    "name": "ごみクレーン1号機制御盤",
+    "spec": "インバータ 屋内自立形",
+    "tag": "CRP-01",
+    "inst": 1996,
+    "upd": 2016,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 29,
+   "fields": {
+    "code": "CA-016",
+    "kanri": "受-016",
+    "name": "ごみクレーン2号機制御盤",
+    "spec": "インバータ 屋内自立形",
+    "tag": "CRP-02",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 30,
+   "fields": {
+    "code": "CA-017",
+    "kanri": "受-017",
+    "name": "ごみクレーン操作卓",
+    "spec": "2席 半自動",
+    "tag": "CRP-03",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 31,
+   "fields": {
+    "code": "CA-018",
+    "kanri": "受-018",
+    "name": "粗大ごみ切断機",
+    "spec": "油圧せん断式 15kW",
+    "kw": 15,
+    "tag": "CU-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 32,
+   "fields": {
+    "code": "CA-019",
+    "kanri": "受-019",
+    "name": "ピット脱臭ファン",
+    "spec": "ターボ形 300m³/min",
+    "kw": 30,
+    "tag": "F-01",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 33,
+   "fields": {
+    "code": "CA-020",
+    "kanri": "受-020",
+    "name": "ピット脱臭装置",
+    "spec": "活性炭吸着式（全炉停止時運転）",
+    "tag": "DO-01",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 34,
+   "fields": {
+    "code": "CA-021",
+    "kanri": "（新設）",
+    "name": "ピット放水銃No.1",
+    "spec": "自動追尾 1,000L/min",
+    "tag": "FW-01",
+    "inst": 2010,
+    "upd": 2010,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 35,
+   "fields": {
+    "code": "CA-022",
+    "kanri": "（新設）",
+    "name": "ピット放水銃No.2",
+    "spec": "自動追尾 1,000L/min",
+    "tag": "FW-02",
+    "inst": 2010,
+    "upd": 2010,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 36,
+   "fields": {
+    "code": "CA-023",
+    "kanri": "受-021",
+    "name": "ごみピット汚水移送ポンプA",
+    "role": "常用",
+    "spec": "水中汚水 0.3m³/min×15m",
+    "kw": 2.2,
+    "tag": "P-01A",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 37,
+   "fields": {
+    "code": "CA-024",
+    "kanri": "受-022",
+    "name": "ごみピット汚水移送ポンプB",
+    "role": "予備",
+    "spec": "水中汚水 0.3m³/min×15m",
+    "kw": 2.2,
+    "tag": "P-01B",
+    "inst": 1996,
+    "imp": "B",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 38,
+   "fields": {
+    "code": "CA-025",
+    "kanri": "受-023",
+    "name": "防臭剤噴霧装置",
+    "spec": "タンク200L＋噴霧ポンプ",
+    "kw": 0.4,
+    "tag": "DS-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 39,
+   "fields": {
+    "code": "CA-026",
+    "kanri": "受-024",
+    "name": "投入扉操作盤",
+    "spec": "屋内壁掛形",
+    "tag": "LP-51",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 40,
+   "fields": {
+    "code": "CA-027",
+    "kanri": "受-025",
+    "name": "プラットホーム出入口シャッター（入口）",
+    "spec": "電動 重量シャッター",
+    "kw": 1.5,
+    "tag": "SS-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 41,
+   "fields": {
+    "code": "CA-028",
+    "kanri": "受-026",
+    "name": "プラットホーム出入口シャッター（出口）",
+    "spec": "電動 重量シャッター",
+    "kw": 1.5,
+    "tag": "SS-02",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 43,
+   "fields": {
+    "code": "1B-001",
+    "kanri": "燃-101",
+    "name": "焼却炉本体",
+    "spec": "鋼板ケーシング 耐火物(不定形・れんが) 火格子面積23.0m²",
+    "tag": "FR-101",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 44,
+   "fields": {
+    "code": "1B-002",
+    "kanri": "燃-102",
+    "name": "乾燥火格子",
+    "spec": "並行揺動式 7.0m² 火格子片420枚",
+    "tag": "ST-101",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 45,
+   "fields": {
+    "code": "1B-003",
+    "kanri": "燃-103",
+    "name": "燃焼火格子",
+    "spec": "並行揺動式 11.0m² 火格子片660枚",
+    "tag": "ST-102",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 46,
+   "fields": {
+    "code": "1B-004",
+    "kanri": "燃-104",
+    "name": "後燃焼火格子",
+    "spec": "並行揺動式 5.0m² 火格子片300枚",
+    "tag": "ST-103",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 47,
+   "fields": {
+    "code": "1B-005",
+    "kanri": "燃-105",
+    "name": "ストーカ油圧ポンプA",
+    "role": "常用",
+    "spec": "可変容量ピストン形 21MPa 120L/min",
+    "kw": 22,
+    "tag": "HP-101A",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 48,
+   "fields": {
+    "code": "1B-006",
+    "kanri": "燃-106",
+    "name": "ストーカ油圧ポンプB",
+    "role": "予備",
+    "spec": "可変容量ピストン形 21MPa 120L/min",
+    "kw": 22,
+    "tag": "HP-101B",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 49,
+   "fields": {
+    "code": "1B-007",
+    "kanri": "燃-107",
+    "name": "ストーカ油圧装置現場盤",
+    "spec": "屋内自立形",
+    "tag": "LP-101",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 50,
+   "fields": {
+    "code": "1B-008",
+    "kanri": "燃-108",
+    "name": "助燃バーナ",
+    "spec": "灯油 ガンタイプ 180L/h",
+    "tag": "BN-101",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 51,
+   "fields": {
+    "code": "1B-009",
+    "kanri": "燃-109",
+    "name": "再燃バーナ",
+    "spec": "灯油 ガンタイプ 120L/h",
+    "tag": "BN-102",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 52,
+   "fields": {
+    "code": "1B-010",
+    "kanri": "燃-110",
+    "name": "バーナ燃焼用送風機",
+    "spec": "ターボ形 60m³N/min×4.0kPa",
+    "kw": 7.5,
+    "tag": "F-105",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 53,
+   "fields": {
+    "code": "1B-011",
+    "kanri": "燃-111",
+    "name": "炉壁冷却空気ファン",
+    "spec": "ターボ形 90m³N/min×3.5kPa",
+    "kw": 11,
+    "tag": "F-104",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 54,
+   "fields": {
+    "code": "1B-012",
+    "kanri": "燃-112",
+    "name": "落じんダンパ（乾燥段）",
+    "spec": "二重フラップ 空気作動",
+    "tag": "AD-101",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 55,
+   "fields": {
+    "code": "1B-013",
+    "kanri": "燃-113",
+    "name": "落じんダンパ（燃焼段）",
+    "spec": "二重フラップ 空気作動",
+    "tag": "AD-102",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 56,
+   "fields": {
+    "code": "1B-014",
+    "kanri": "燃-114",
+    "name": "落じんダンパ（後燃焼段）",
+    "spec": "二重フラップ 空気作動",
+    "tag": "AD-103",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 57,
+   "fields": {
+    "code": "1B-015",
+    "kanri": "燃-115",
+    "name": "落じんコンベヤ",
+    "spec": "水封式スクレーパ W600 L8.5m",
+    "kw": 3.7,
+    "tag": "C-101",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 58,
+   "fields": {
+    "code": "1B-016",
+    "kanri": "燃-116",
+    "name": "灰押出装置",
+    "spec": "油圧プッシャ式 水封",
+    "tag": "AE-101",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 59,
+   "fields": {
+    "code": "2B-001",
+    "kanri": "燃-201",
+    "name": "焼却炉本体",
+    "spec": "鋼板ケーシング 耐火物(不定形・れんが) 火格子面積23.0m²",
+    "tag": "FR-201",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 60,
+   "fields": {
+    "code": "2B-002",
+    "kanri": "燃-202",
+    "name": "乾燥火格子",
+    "spec": "並行揺動式 7.0m² 火格子片420枚",
+    "tag": "ST-201",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 61,
+   "fields": {
+    "code": "2B-003",
+    "kanri": "燃-203",
+    "name": "燃焼火格子",
+    "spec": "並行揺動式 11.0m² 火格子片660枚",
+    "tag": "ST-202",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 62,
+   "fields": {
+    "code": "2B-004",
+    "kanri": "燃-204",
+    "name": "後燃焼火格子",
+    "spec": "並行揺動式 5.0m² 火格子片300枚",
+    "tag": "ST-203",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 63,
+   "fields": {
+    "code": "2B-005",
+    "kanri": "燃-205",
+    "name": "ストーカ油圧ポンプA",
+    "role": "常用",
+    "spec": "可変容量ピストン形 21MPa 120L/min",
+    "kw": 22,
+    "tag": "HP-201A",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 64,
+   "fields": {
+    "code": "2B-006",
+    "kanri": "燃-206",
+    "name": "ストーカ油圧ポンプB",
+    "role": "予備",
+    "spec": "可変容量ピストン形 21MPa 120L/min",
+    "kw": 22,
+    "tag": "HP-201B",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 65,
+   "fields": {
+    "code": "2B-007",
+    "kanri": "燃-207",
+    "name": "ストーカ油圧装置現場盤",
+    "spec": "屋内自立形",
+    "tag": "LP-201",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 66,
+   "fields": {
+    "code": "2B-008",
+    "kanri": "燃-208",
+    "name": "助燃バーナ",
+    "spec": "灯油 ガンタイプ 180L/h",
+    "tag": "BN-201",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 67,
+   "fields": {
+    "code": "2B-009",
+    "kanri": "燃-209",
+    "name": "再燃バーナ",
+    "spec": "灯油 ガンタイプ 120L/h",
+    "tag": "BN-202",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 68,
+   "fields": {
+    "code": "2B-010",
+    "kanri": "燃-210",
+    "name": "バーナ燃焼用送風機",
+    "spec": "ターボ形 60m³N/min×4.0kPa",
+    "kw": 7.5,
+    "tag": "F-205",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 69,
+   "fields": {
+    "code": "2B-011",
+    "kanri": "燃-211",
+    "name": "炉壁冷却空気ファン",
+    "spec": "ターボ形 90m³N/min×3.5kPa",
+    "kw": 11,
+    "tag": "F-204",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 70,
+   "fields": {
+    "code": "2B-012",
+    "kanri": "燃-212",
+    "name": "落じんダンパ（乾燥段）",
+    "spec": "二重フラップ 空気作動",
+    "tag": "AD-201",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 71,
+   "fields": {
+    "code": "2B-013",
+    "kanri": "燃-213",
+    "name": "落じんダンパ（燃焼段）",
+    "spec": "二重フラップ 空気作動",
+    "tag": "AD-202",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 72,
+   "fields": {
+    "code": "2B-014",
+    "kanri": "燃-214",
+    "name": "落じんダンパ（後燃焼段）",
+    "spec": "二重フラップ 空気作動",
+    "tag": "AD-203",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 73,
+   "fields": {
+    "code": "2B-015",
+    "kanri": "燃-215",
+    "name": "落じんコンベヤ",
+    "spec": "水封式スクレーパ W600 L8.5m",
+    "kw": 3.7,
+    "tag": "C-201",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 74,
+   "fields": {
+    "code": "2B-016",
+    "kanri": "燃-216",
+    "name": "灰押出装置",
+    "spec": "油圧プッシャ式 水封",
+    "tag": "AE-201",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 75,
+   "fields": {
+    "code": "CB-001",
+    "kanri": "燃-001",
+    "name": "灯油タンク",
+    "spec": "地下式 20kL",
+    "tag": "T-01",
+    "inst": 1996,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 76,
+   "fields": {
+    "code": "CB-002",
+    "kanri": "燃-002",
+    "name": "灯油移送ポンプA",
+    "role": "常用",
+    "spec": "ギヤポンプ 30L/min",
+    "kw": 0.75,
+    "tag": "P-02A",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 77,
+   "fields": {
+    "code": "CB-003",
+    "kanri": "燃-003",
+    "name": "灯油移送ポンプB",
+    "role": "予備",
+    "spec": "ギヤポンプ 30L/min",
+    "kw": 0.75,
+    "tag": "P-02B",
+    "inst": 1996,
+    "upd": 2014,
+    "imp": "B",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 79,
+   "fields": {
+    "code": "1C-001",
+    "kanri": "冷-101",
+    "name": "ボイラドラム",
+    "spec": "自然循環 最高使用3.4MPa 蒸発量12t/h",
+    "tag": "B-101",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 80,
+   "fields": {
+    "code": "1C-002",
+    "kanri": "冷-102",
+    "name": "水冷壁",
+    "spec": "炉上部・ボイラ第1放射室 SA材",
+    "tag": "B-102",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 81,
+   "fields": {
+    "code": "1C-003",
+    "kanri": "冷-103",
+    "name": "蒸発管群",
+    "spec": "接触伝熱部 STB",
+    "tag": "B-103",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 82,
+   "fields": {
+    "code": "1C-004",
+    "kanri": "冷-104",
+    "name": "過熱器",
+    "spec": "1次・2次 出口3.0MPa 300℃",
+    "tag": "SH-101",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 83,
+   "fields": {
+    "code": "1C-005",
+    "kanri": "冷-105",
+    "name": "エコノマイザ",
+    "spec": "ベアチューブ形",
+    "tag": "EC-101",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 84,
+   "fields": {
+    "code": "1C-006",
+    "kanri": "冷-106",
+    "name": "ボイラ給水ポンプA",
+    "role": "常用",
+    "spec": "多段渦巻 15m³/h×430m",
+    "kw": 45,
+    "tag": "P-101A",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 85,
+   "fields": {
+    "code": "1C-007",
+    "kanri": "冷-107",
+    "name": "ボイラ給水ポンプB",
+    "role": "予備",
+    "spec": "多段渦巻 15m³/h×430m",
+    "kw": 45,
+    "tag": "P-101B",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 86,
+   "fields": {
+    "code": "1C-008",
+    "kanri": "冷-108",
+    "name": "清缶剤注入ポンプ",
+    "spec": "ダイヤフラム 3L/h",
+    "kw": 0.2,
+    "tag": "P-102",
+    "inst": 1996,
+    "upd": 2023,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 87,
+   "fields": {
+    "code": "1C-009",
+    "kanri": "冷-109",
+    "name": "脱酸剤注入ポンプ",
+    "spec": "ダイヤフラム 3L/h",
+    "kw": 0.2,
+    "tag": "P-103",
+    "inst": 1996,
+    "upd": 2012,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 88,
+   "fields": {
+    "code": "1C-010",
+    "kanri": "冷-110",
+    "name": "スートブロワNo.1",
+    "spec": "長抜差式（2次過熱器） 蒸気式",
+    "kw": 1.5,
+    "tag": "SB-101",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 89,
+   "fields": {
+    "code": "1C-011",
+    "kanri": "冷-111",
+    "name": "スートブロワNo.2",
+    "spec": "長抜差式（1次過熱器） 蒸気式",
+    "kw": 1.5,
+    "tag": "SB-102",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 90,
+   "fields": {
+    "code": "1C-012",
+    "kanri": "冷-112",
+    "name": "スートブロワNo.3",
+    "spec": "回転式（蒸発管上段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-103",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 91,
+   "fields": {
+    "code": "1C-013",
+    "kanri": "冷-113",
+    "name": "スートブロワNo.4",
+    "spec": "回転式（蒸発管中段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-104",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 92,
+   "fields": {
+    "code": "1C-014",
+    "kanri": "冷-114",
+    "name": "スートブロワNo.5",
+    "spec": "回転式（蒸発管下段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-105",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 93,
+   "fields": {
+    "code": "1C-015",
+    "kanri": "冷-115",
+    "name": "スートブロワNo.6",
+    "spec": "回転式（エコノマイザ上段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-106",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 94,
+   "fields": {
+    "code": "1C-016",
+    "kanri": "冷-116",
+    "name": "スートブロワNo.7",
+    "spec": "回転式（エコノマイザ中段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-107",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 95,
+   "fields": {
+    "code": "1C-017",
+    "kanri": "冷-117",
+    "name": "スートブロワNo.8",
+    "spec": "回転式（エコノマイザ下段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-108",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 96,
+   "fields": {
+    "code": "1C-018",
+    "kanri": "冷-118",
+    "name": "スートブロワ制御盤",
+    "spec": "屋内自立形 シーケンサ",
+    "tag": "LP-102",
+    "inst": 1996,
+    "imp": "C",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 97,
+   "fields": {
+    "code": "1C-019",
+    "kanri": "冷-119",
+    "name": "主蒸気止め弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-101",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 98,
+   "fields": {
+    "code": "1C-020",
+    "kanri": "冷-120",
+    "name": "主蒸気ドレン弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-102",
+    "inst": 1996,
+    "upd": 2016,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 99,
+   "fields": {
+    "code": "1C-021",
+    "kanri": "冷-121",
+    "name": "起動ブロー弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-103",
+    "inst": 1996,
+    "upd": 2015,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 100,
+   "fields": {
+    "code": "1C-022",
+    "kanri": "冷-122",
+    "name": "給水入口弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-104",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 101,
+   "fields": {
+    "code": "1C-023",
+    "kanri": "冷-123",
+    "name": "非常排水弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-105",
+    "inst": 1996,
+    "upd": 2013,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 102,
+   "fields": {
+    "code": "1C-024",
+    "kanri": "冷-124",
+    "name": "間欠ブロー弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-106",
+    "inst": 1996,
+    "upd": 2012,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 103,
+   "fields": {
+    "code": "1C-025",
+    "kanri": "冷-125",
+    "name": "スートブロワ蒸気元弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-107",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 104,
+   "fields": {
+    "code": "1C-026",
+    "kanri": "冷-126",
+    "name": "スートブロワドレン弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-108",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 105,
+   "fields": {
+    "code": "1C-027",
+    "kanri": "冷-127",
+    "name": "給水調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-101",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 106,
+   "fields": {
+    "code": "1C-028",
+    "kanri": "冷-128",
+    "name": "過熱低減器スプレー調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-102",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 107,
+   "fields": {
+    "code": "1C-029",
+    "kanri": "冷-129",
+    "name": "連続ブロー調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-103",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 108,
+   "fields": {
+    "code": "1C-030",
+    "kanri": "冷-130",
+    "name": "給水再循環弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-104",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 109,
+   "fields": {
+    "code": "1C-031",
+    "kanri": "冷-131",
+    "name": "ボイラダスト排出ロータリバルブNo.1",
+    "spec": "□300",
+    "kw": 0.4,
+    "tag": "RV-101",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 110,
+   "fields": {
+    "code": "1C-032",
+    "kanri": "冷-132",
+    "name": "ボイラダスト排出ロータリバルブNo.2",
+    "spec": "□300",
+    "kw": 0.4,
+    "tag": "RV-102",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 111,
+   "fields": {
+    "code": "1C-033",
+    "kanri": "冷-133",
+    "name": "ボイラダスト排出コンベヤ",
+    "spec": "スクリュー φ250 L6.0m",
+    "kw": 2.2,
+    "tag": "C-102",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 112,
+   "fields": {
+    "code": "1C-034",
+    "kanri": "冷-134",
+    "name": "ボイラ現場盤",
+    "spec": "屋内壁掛形",
+    "tag": "LP-103",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 113,
+   "fields": {
+    "code": "2C-001",
+    "kanri": "冷-201",
+    "name": "ボイラドラム",
+    "spec": "自然循環 最高使用3.4MPa 蒸発量12t/h",
+    "tag": "B-201",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 114,
+   "fields": {
+    "code": "2C-002",
+    "kanri": "冷-202",
+    "name": "水冷壁",
+    "spec": "炉上部・ボイラ第1放射室 SA材",
+    "tag": "B-202",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 115,
+   "fields": {
+    "code": "2C-003",
+    "kanri": "冷-203",
+    "name": "蒸発管群",
+    "spec": "接触伝熱部 STB",
+    "tag": "B-203",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 116,
+   "fields": {
+    "code": "2C-004",
+    "kanri": "冷-204",
+    "name": "過熱器",
+    "spec": "1次・2次 出口3.0MPa 300℃",
+    "tag": "SH-201",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 117,
+   "fields": {
+    "code": "2C-005",
+    "kanri": "冷-205",
+    "name": "エコノマイザ",
+    "spec": "ベアチューブ形",
+    "tag": "EC-201",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 118,
+   "fields": {
+    "code": "2C-006",
+    "kanri": "冷-206",
+    "name": "ボイラ給水ポンプA",
+    "role": "常用",
+    "spec": "多段渦巻 15m³/h×430m",
+    "kw": 45,
+    "tag": "P-201A",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 119,
+   "fields": {
+    "code": "2C-007",
+    "kanri": "冷-207",
+    "name": "ボイラ給水ポンプB",
+    "role": "予備",
+    "spec": "多段渦巻 15m³/h×430m",
+    "kw": 45,
+    "tag": "P-201B",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 120,
+   "fields": {
+    "code": "2C-008",
+    "kanri": "冷-208",
+    "name": "清缶剤注入ポンプ",
+    "spec": "ダイヤフラム 3L/h",
+    "kw": 0.2,
+    "tag": "P-202",
+    "inst": 1996,
+    "upd": 2025,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 121,
+   "fields": {
+    "code": "2C-009",
+    "kanri": "冷-209",
+    "name": "脱酸剤注入ポンプ",
+    "spec": "ダイヤフラム 3L/h",
+    "kw": 0.2,
+    "tag": "P-203",
+    "inst": 1996,
+    "upd": 2025,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 122,
+   "fields": {
+    "code": "2C-010",
+    "kanri": "冷-210",
+    "name": "スートブロワNo.1",
+    "spec": "長抜差式（2次過熱器） 蒸気式",
+    "kw": 1.5,
+    "tag": "SB-201",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 123,
+   "fields": {
+    "code": "2C-011",
+    "kanri": "冷-211",
+    "name": "スートブロワNo.2",
+    "spec": "長抜差式（1次過熱器） 蒸気式",
+    "kw": 1.5,
+    "tag": "SB-202",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 124,
+   "fields": {
+    "code": "2C-012",
+    "kanri": "冷-212",
+    "name": "スートブロワNo.3",
+    "spec": "回転式（蒸発管上段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-203",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 125,
+   "fields": {
+    "code": "2C-013",
+    "kanri": "冷-213",
+    "name": "スートブロワNo.4",
+    "spec": "回転式（蒸発管中段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-204",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 126,
+   "fields": {
+    "code": "2C-014",
+    "kanri": "冷-214",
+    "name": "スートブロワNo.5",
+    "spec": "回転式（蒸発管下段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-205",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 127,
+   "fields": {
+    "code": "2C-015",
+    "kanri": "冷-215",
+    "name": "スートブロワNo.6",
+    "spec": "回転式（エコノマイザ上段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-206",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 128,
+   "fields": {
+    "code": "2C-016",
+    "kanri": "冷-216",
+    "name": "スートブロワNo.7",
+    "spec": "回転式（エコノマイザ中段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-207",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 129,
+   "fields": {
+    "code": "2C-017",
+    "kanri": "冷-217",
+    "name": "スートブロワNo.8",
+    "spec": "回転式（エコノマイザ下段） 蒸気式",
+    "kw": 0.75,
+    "tag": "SB-208",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 130,
+   "fields": {
+    "code": "2C-018",
+    "kanri": "冷-218",
+    "name": "スートブロワ制御盤",
+    "spec": "屋内自立形 シーケンサ",
+    "tag": "LP-202",
+    "inst": 1996,
+    "imp": "C",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 131,
+   "fields": {
+    "code": "2C-019",
+    "kanri": "冷-219",
+    "name": "主蒸気止め弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-201",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 132,
+   "fields": {
+    "code": "2C-020",
+    "kanri": "冷-220",
+    "name": "主蒸気ドレン弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-202",
+    "inst": 1996,
+    "upd": 2012,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 133,
+   "fields": {
+    "code": "2C-021",
+    "kanri": "冷-221",
+    "name": "起動ブロー弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-203",
+    "inst": 1996,
+    "upd": 2013,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 134,
+   "fields": {
+    "code": "2C-022",
+    "kanri": "冷-222",
+    "name": "給水入口弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-204",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 135,
+   "fields": {
+    "code": "2C-023",
+    "kanri": "冷-223",
+    "name": "非常排水弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-205",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 136,
+   "fields": {
+    "code": "2C-024",
+    "kanri": "冷-224",
+    "name": "間欠ブロー弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-206",
+    "inst": 1996,
+    "upd": 2013,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 137,
+   "fields": {
+    "code": "2C-025",
+    "kanri": "冷-225",
+    "name": "スートブロワ蒸気元弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-207",
+    "inst": 1996,
+    "upd": 2013,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 138,
+   "fields": {
+    "code": "2C-026",
+    "kanri": "冷-226",
+    "name": "スートブロワドレン弁",
+    "spec": "電動 玉形/仕切",
+    "tag": "MV-208",
+    "inst": 1996,
+    "upd": 2016,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 139,
+   "fields": {
+    "code": "2C-027",
+    "kanri": "冷-227",
+    "name": "給水調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-201",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 140,
+   "fields": {
+    "code": "2C-028",
+    "kanri": "冷-228",
+    "name": "過熱低減器スプレー調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-202",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 141,
+   "fields": {
+    "code": "2C-029",
+    "kanri": "冷-229",
+    "name": "連続ブロー調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-203",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 142,
+   "fields": {
+    "code": "2C-030",
+    "kanri": "冷-230",
+    "name": "給水再循環弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-204",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 143,
+   "fields": {
+    "code": "2C-031",
+    "kanri": "冷-231",
+    "name": "ボイラダスト排出ロータリバルブNo.1",
+    "spec": "□300",
+    "kw": 0.4,
+    "tag": "RV-201",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 144,
+   "fields": {
+    "code": "2C-032",
+    "kanri": "冷-232",
+    "name": "ボイラダスト排出ロータリバルブNo.2",
+    "spec": "□300",
+    "kw": 0.4,
+    "tag": "RV-202",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 145,
+   "fields": {
+    "code": "2C-033",
+    "kanri": "冷-233",
+    "name": "ボイラダスト排出コンベヤ",
+    "spec": "スクリュー φ250 L6.0m",
+    "kw": 2.2,
+    "tag": "C-202",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 146,
+   "fields": {
+    "code": "2C-034",
+    "kanri": "冷-234",
+    "name": "ボイラ現場盤",
+    "spec": "屋内壁掛形",
+    "tag": "LP-203",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 147,
+   "fields": {
+    "code": "CC-001",
+    "kanri": "冷-001",
+    "name": "ボイラ薬液タンク",
+    "spec": "SUS 500L×2槽",
+    "tag": "T-02",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 149,
+   "fields": {
+    "code": "1D-001",
+    "kanri": "排-101",
+    "name": "減温塔",
+    "spec": "鋼板製 φ4.2m×H17m 2流体噴霧 出口170℃",
+    "tag": "GC-101",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 150,
+   "fields": {
+    "code": "1D-002",
+    "kanri": "排-102",
+    "name": "噴霧水ポンプA",
+    "role": "常用",
+    "spec": "多段渦巻 3.5m³/h×100m",
+    "kw": 5.5,
+    "tag": "P-104A",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 151,
+   "fields": {
+    "code": "1D-003",
+    "kanri": "排-103",
+    "name": "噴霧水ポンプB",
+    "role": "予備",
+    "spec": "多段渦巻 3.5m³/h×100m",
+    "kw": 5.5,
+    "tag": "P-104B",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 152,
+   "fields": {
+    "code": "1D-004",
+    "kanri": "排-104",
+    "name": "噴霧水調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-105",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 153,
+   "fields": {
+    "code": "1D-005",
+    "kanri": "排-105",
+    "name": "噴霧水遮断弁",
+    "spec": "電動 ボール弁",
+    "tag": "MV-109",
+    "inst": 2000,
+    "upd": 2020,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 154,
+   "fields": {
+    "code": "1D-006",
+    "kanri": "排-106",
+    "name": "噴霧空気遮断弁",
+    "spec": "空気作動 ボール弁",
+    "tag": "AV-101",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 155,
+   "fields": {
+    "code": "1D-007",
+    "kanri": "排-107",
+    "name": "減温塔ロータリバルブ",
+    "spec": "□300",
+    "kw": 0.4,
+    "tag": "RV-103",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 156,
+   "fields": {
+    "code": "1D-008",
+    "kanri": "排-108",
+    "name": "減温塔ダスト排出コンベヤ",
+    "spec": "スクリュー φ250 L4.5m",
+    "kw": 2.2,
+    "tag": "C-103",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 157,
+   "fields": {
+    "code": "1D-009",
+    "kanri": "排-109",
+    "name": "減温塔現場盤",
+    "spec": "屋内壁掛形",
+    "tag": "LP-104",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 158,
+   "fields": {
+    "code": "1D-010",
+    "kanri": "排-110",
+    "name": "消石灰定量供給機",
+    "spec": "テーブルフィーダ 10〜40kg/h",
+    "kw": 0.4,
+    "tag": "FD-101",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 159,
+   "fields": {
+    "code": "1D-011",
+    "kanri": "排-111",
+    "name": "消石灰輸送ブロワ",
+    "spec": "ルーツ形 3.0m³/min×50kPa",
+    "kw": 5.5,
+    "tag": "BL-101",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 160,
+   "fields": {
+    "code": "1D-012",
+    "kanri": "排-112",
+    "name": "消石灰供給弁",
+    "spec": "空気作動 ピンチ弁",
+    "tag": "AV-102",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 161,
+   "fields": {
+    "code": "1D-013",
+    "kanri": "排-113",
+    "name": "活性炭定量供給機",
+    "spec": "スクリューフィーダ 1〜6kg/h",
+    "kw": 0.2,
+    "tag": "FD-102",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 162,
+   "fields": {
+    "code": "1D-014",
+    "kanri": "排-114",
+    "name": "活性炭輸送ブロワ",
+    "spec": "ルーツ形 1.5m³/min×40kPa",
+    "kw": 2.2,
+    "tag": "BL-102",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 163,
+   "fields": {
+    "code": "1D-015",
+    "kanri": "排-115",
+    "name": "活性炭供給弁",
+    "spec": "空気作動 ピンチ弁",
+    "tag": "AV-103",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 164,
+   "fields": {
+    "code": "1D-016",
+    "kanri": "排-116",
+    "name": "アンモニア水注入ポンプA",
+    "role": "常用",
+    "spec": "ダイヤフラム 25L/h",
+    "kw": 0.4,
+    "tag": "P-105A",
+    "inst": 1996,
+    "upd": 2023,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 165,
+   "fields": {
+    "code": "1D-017",
+    "kanri": "排-117",
+    "name": "アンモニア水注入ポンプB",
+    "role": "予備",
+    "spec": "ダイヤフラム 25L/h",
+    "kw": 0.4,
+    "tag": "P-105B",
+    "inst": 1996,
+    "upd": 2016,
+    "imp": "B",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 166,
+   "fields": {
+    "code": "1D-018",
+    "kanri": "排-118",
+    "name": "アンモニア水流量調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-106",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 167,
+   "fields": {
+    "code": "1D-019",
+    "kanri": "排-119",
+    "name": "アンモニア水遮断弁",
+    "spec": "空気作動 ボール弁",
+    "tag": "AV-104",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 168,
+   "fields": {
+    "code": "1D-020",
+    "kanri": "排-120",
+    "name": "バグフィルタ本体",
+    "spec": "パルスジェット式 4室 ろ布288本(φ165×6,000) ろ過速度1.0m/min",
+    "tag": "BF-101",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 169,
+   "fields": {
+    "code": "1D-021",
+    "kanri": "排-121",
+    "name": "BF入口ダンパ",
+    "spec": "空気作動 ルーバ",
+    "tag": "AD-104",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 170,
+   "fields": {
+    "code": "1D-022",
+    "kanri": "排-122",
+    "name": "BF出口ダンパ",
+    "spec": "空気作動 ルーバ",
+    "tag": "AD-105",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 171,
+   "fields": {
+    "code": "1D-023",
+    "kanri": "排-123",
+    "name": "BFバイパスダンパ",
+    "spec": "空気作動 ルーバ（常時閉）",
+    "tag": "AD-106",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 172,
+   "fields": {
+    "code": "1D-024",
+    "kanri": "排-124",
+    "name": "BF第1室出口ポペットダンパ",
+    "spec": "空気作動 ポペット",
+    "tag": "AD-17",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 173,
+   "fields": {
+    "code": "1D-025",
+    "kanri": "排-125",
+    "name": "BF第2室出口ポペットダンパ",
+    "spec": "空気作動 ポペット",
+    "tag": "AD-18",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 174,
+   "fields": {
+    "code": "1D-026",
+    "kanri": "排-126",
+    "name": "BF第3室出口ポペットダンパ",
+    "spec": "空気作動 ポペット",
+    "tag": "AD-19",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 175,
+   "fields": {
+    "code": "1D-027",
+    "kanri": "排-127",
+    "name": "BF第4室出口ポペットダンパ",
+    "spec": "空気作動 ポペット",
+    "tag": "AD-110",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 176,
+   "fields": {
+    "code": "1D-028",
+    "kanri": "排-128",
+    "name": "BFロータリバルブNo.1",
+    "spec": "□250",
+    "kw": 0.4,
+    "tag": "RV-104",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 177,
+   "fields": {
+    "code": "1D-029",
+    "kanri": "排-129",
+    "name": "BFロータリバルブNo.2",
+    "spec": "□250",
+    "kw": 0.4,
+    "tag": "RV-105",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 178,
+   "fields": {
+    "code": "1D-030",
+    "kanri": "排-130",
+    "name": "BFロータリバルブNo.3",
+    "spec": "□250",
+    "kw": 0.4,
+    "tag": "RV-106",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 179,
+   "fields": {
+    "code": "1D-031",
+    "kanri": "排-131",
+    "name": "BFロータリバルブNo.4",
+    "spec": "□250",
+    "kw": 0.4,
+    "tag": "RV-107",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 180,
+   "fields": {
+    "code": "1D-032",
+    "kanri": "排-132",
+    "name": "BFダスト排出コンベヤNo.1",
+    "spec": "スクリュー φ300 L7.0m（集合）",
+    "kw": 2.2,
+    "tag": "C-104",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 181,
+   "fields": {
+    "code": "1D-033",
+    "kanri": "排-133",
+    "name": "BFダスト排出コンベヤNo.2",
+    "spec": "スクリュー φ250 L5.0m（搬送）",
+    "kw": 1.5,
+    "tag": "C-105",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 182,
+   "fields": {
+    "code": "1D-034",
+    "kanri": "排-134",
+    "name": "BF加温ヒータ盤",
+    "spec": "屋内自立形 ホッパ加温 24kW",
+    "tag": "LP-105",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 183,
+   "fields": {
+    "code": "1D-035",
+    "kanri": "排-135",
+    "name": "BF制御盤",
+    "spec": "屋内自立形 シーケンサ",
+    "tag": "LP-106",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 184,
+   "fields": {
+    "code": "2D-001",
+    "kanri": "排-201",
+    "name": "減温塔",
+    "spec": "鋼板製 φ4.2m×H17m 2流体噴霧 出口170℃",
+    "tag": "GC-201",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 185,
+   "fields": {
+    "code": "2D-002",
+    "kanri": "排-202",
+    "name": "噴霧水ポンプA",
+    "role": "常用",
+    "spec": "多段渦巻 3.5m³/h×100m",
+    "kw": 5.5,
+    "tag": "P-204A",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 186,
+   "fields": {
+    "code": "2D-003",
+    "kanri": "排-203",
+    "name": "噴霧水ポンプB",
+    "role": "予備",
+    "spec": "多段渦巻 3.5m³/h×100m",
+    "kw": 5.5,
+    "tag": "P-204B",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 187,
+   "fields": {
+    "code": "2D-004",
+    "kanri": "排-204",
+    "name": "噴霧水調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-205",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 188,
+   "fields": {
+    "code": "2D-005",
+    "kanri": "排-205",
+    "name": "噴霧水遮断弁",
+    "spec": "電動 ボール弁",
+    "tag": "MV-209",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 189,
+   "fields": {
+    "code": "2D-006",
+    "kanri": "排-206",
+    "name": "噴霧空気遮断弁",
+    "spec": "空気作動 ボール弁",
+    "tag": "AV-201",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 190,
+   "fields": {
+    "code": "2D-007",
+    "kanri": "排-207",
+    "name": "減温塔ロータリバルブ",
+    "spec": "□300",
+    "kw": 0.4,
+    "tag": "RV-203",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 191,
+   "fields": {
+    "code": "2D-008",
+    "kanri": "排-208",
+    "name": "減温塔ダスト排出コンベヤ",
+    "spec": "スクリュー φ250 L4.5m",
+    "kw": 2.2,
+    "tag": "C-203",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 192,
+   "fields": {
+    "code": "2D-009",
+    "kanri": "排-209",
+    "name": "減温塔現場盤",
+    "spec": "屋内壁掛形",
+    "tag": "LP-204",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 193,
+   "fields": {
+    "code": "2D-010",
+    "kanri": "排-210",
+    "name": "消石灰定量供給機",
+    "spec": "テーブルフィーダ 10〜40kg/h",
+    "kw": 0.4,
+    "tag": "FD-201",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 194,
+   "fields": {
+    "code": "2D-011",
+    "kanri": "排-211",
+    "name": "消石灰輸送ブロワ",
+    "spec": "ルーツ形 3.0m³/min×50kPa",
+    "kw": 5.5,
+    "tag": "BL-201",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 195,
+   "fields": {
+    "code": "2D-012",
+    "kanri": "排-212",
+    "name": "消石灰供給弁",
+    "spec": "空気作動 ピンチ弁",
+    "tag": "AV-202",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 196,
+   "fields": {
+    "code": "2D-013",
+    "kanri": "排-213",
+    "name": "活性炭定量供給機",
+    "spec": "スクリューフィーダ 1〜6kg/h",
+    "kw": 0.2,
+    "tag": "FD-202",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 197,
+   "fields": {
+    "code": "2D-014",
+    "kanri": "排-214",
+    "name": "活性炭輸送ブロワ",
+    "spec": "ルーツ形 1.5m³/min×40kPa",
+    "kw": 2.2,
+    "tag": "BL-202",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 198,
+   "fields": {
+    "code": "2D-015",
+    "kanri": "排-215",
+    "name": "活性炭供給弁",
+    "spec": "空気作動 ピンチ弁",
+    "tag": "AV-203",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 199,
+   "fields": {
+    "code": "2D-016",
+    "kanri": "排-216",
+    "name": "アンモニア水注入ポンプA",
+    "role": "常用",
+    "spec": "ダイヤフラム 25L/h",
+    "kw": 0.4,
+    "tag": "P-205A",
+    "inst": 1996,
+    "upd": 2022,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 200,
+   "fields": {
+    "code": "2D-017",
+    "kanri": "排-217",
+    "name": "アンモニア水注入ポンプB",
+    "role": "予備",
+    "spec": "ダイヤフラム 25L/h",
+    "kw": 0.4,
+    "tag": "P-205B",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "B",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 201,
+   "fields": {
+    "code": "2D-018",
+    "kanri": "排-218",
+    "name": "アンモニア水流量調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-206",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 202,
+   "fields": {
+    "code": "2D-019",
+    "kanri": "排-219",
+    "name": "アンモニア水遮断弁",
+    "spec": "空気作動 ボール弁",
+    "tag": "AV-204",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 203,
+   "fields": {
+    "code": "2D-020",
+    "kanri": "排-220",
+    "name": "バグフィルタ本体",
+    "spec": "パルスジェット式 4室 ろ布288本(φ165×6,000) ろ過速度1.0m/min",
+    "tag": "BF-201",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 204,
+   "fields": {
+    "code": "2D-021",
+    "kanri": "排-221",
+    "name": "BF入口ダンパ",
+    "spec": "空気作動 ルーバ",
+    "tag": "AD-204",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 205,
+   "fields": {
+    "code": "2D-022",
+    "kanri": "排-222",
+    "name": "BF出口ダンパ",
+    "spec": "空気作動 ルーバ",
+    "tag": "AD-205",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 206,
+   "fields": {
+    "code": "2D-023",
+    "kanri": "排-223",
+    "name": "BFバイパスダンパ",
+    "spec": "空気作動 ルーバ（常時閉）",
+    "tag": "AD-206",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 207,
+   "fields": {
+    "code": "2D-024",
+    "kanri": "排-224",
+    "name": "BF第1室出口ポペットダンパ",
+    "spec": "空気作動 ポペット",
+    "tag": "AD-27",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 208,
+   "fields": {
+    "code": "2D-025",
+    "kanri": "排-225",
+    "name": "BF第2室出口ポペットダンパ",
+    "spec": "空気作動 ポペット",
+    "tag": "AD-28",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 209,
+   "fields": {
+    "code": "2D-026",
+    "kanri": "排-226",
+    "name": "BF第3室出口ポペットダンパ",
+    "spec": "空気作動 ポペット",
+    "tag": "AD-29",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 210,
+   "fields": {
+    "code": "2D-027",
+    "kanri": "排-227",
+    "name": "BF第4室出口ポペットダンパ",
+    "spec": "空気作動 ポペット",
+    "tag": "AD-210",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 211,
+   "fields": {
+    "code": "2D-028",
+    "kanri": "排-228",
+    "name": "BFロータリバルブNo.1",
+    "spec": "□250",
+    "kw": 0.4,
+    "tag": "RV-204",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 212,
+   "fields": {
+    "code": "2D-029",
+    "kanri": "排-229",
+    "name": "BFロータリバルブNo.2",
+    "spec": "□250",
+    "kw": 0.4,
+    "tag": "RV-205",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 213,
+   "fields": {
+    "code": "2D-030",
+    "kanri": "排-230",
+    "name": "BFロータリバルブNo.3",
+    "spec": "□250",
+    "kw": 0.4,
+    "tag": "RV-206",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 214,
+   "fields": {
+    "code": "2D-031",
+    "kanri": "排-231",
+    "name": "BFロータリバルブNo.4",
+    "spec": "□250",
+    "kw": 0.4,
+    "tag": "RV-207",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 215,
+   "fields": {
+    "code": "2D-032",
+    "kanri": "排-232",
+    "name": "BFダスト排出コンベヤNo.1",
+    "spec": "スクリュー φ300 L7.0m（集合）",
+    "kw": 2.2,
+    "tag": "C-204",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 216,
+   "fields": {
+    "code": "2D-033",
+    "kanri": "排-233",
+    "name": "BFダスト排出コンベヤNo.2",
+    "spec": "スクリュー φ250 L5.0m（搬送）",
+    "kw": 1.5,
+    "tag": "C-205",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 217,
+   "fields": {
+    "code": "2D-034",
+    "kanri": "排-234",
+    "name": "BF加温ヒータ盤",
+    "spec": "屋内自立形 ホッパ加温 24kW",
+    "tag": "LP-205",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 218,
+   "fields": {
+    "code": "2D-035",
+    "kanri": "排-235",
+    "name": "BF制御盤",
+    "spec": "屋内自立形 シーケンサ",
+    "tag": "LP-206",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 219,
+   "fields": {
+    "code": "CD-001",
+    "kanri": "排-001",
+    "name": "消石灰貯留サイロ",
+    "spec": "鋼板製 60m³",
+    "tag": "SL-01",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 220,
+   "fields": {
+    "code": "CD-002",
+    "kanri": "排-002",
+    "name": "消石灰サイロ集じん器",
+    "spec": "バグ式",
+    "kw": 1.5,
+    "tag": "DC-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 221,
+   "fields": {
+    "code": "CD-003",
+    "kanri": "排-003",
+    "name": "活性炭貯留サイロ",
+    "spec": "鋼板製 15m³",
+    "tag": "SL-02",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 222,
+   "fields": {
+    "code": "CD-004",
+    "kanri": "排-004",
+    "name": "活性炭サイロ集じん器",
+    "spec": "バグ式",
+    "kw": 0.75,
+    "tag": "DC-02",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 223,
+   "fields": {
+    "code": "CD-005",
+    "kanri": "排-005",
+    "name": "アンモニア水貯留タンク",
+    "spec": "SUS 10m³ 25%",
+    "tag": "T-03",
+    "inst": 1996,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 224,
+   "fields": {
+    "code": "CD-006",
+    "kanri": "排-006",
+    "name": "アンモニア水受入ポンプ",
+    "spec": "渦巻 SUS",
+    "kw": 2.2,
+    "tag": "P-03",
+    "inst": 1996,
+    "upd": 2012,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 225,
+   "fields": {
+    "code": "CD-007",
+    "kanri": "排-007",
+    "name": "減温塔噴霧水槽",
+    "spec": "SUS 10m³",
+    "tag": "T-04",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 227,
+   "fields": {
+    "code": "1E-001",
+    "kanri": "通-101",
+    "name": "押込送風機",
+    "spec": "ターボ形 340m³N/min×6.0kPa",
+    "kw": 55,
+    "tag": "F-101",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 228,
+   "fields": {
+    "code": "1E-002",
+    "kanri": "通-102",
+    "name": "押込送風機入口ダンパ",
+    "spec": "電動 ルーバ",
+    "tag": "MD-101",
+    "inst": 1996,
+    "upd": 2016,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 229,
+   "fields": {
+    "code": "1E-003",
+    "kanri": "通-103",
+    "name": "二次送風機",
+    "spec": "ターボ形 125m³N/min×5.0kPa",
+    "kw": 22,
+    "tag": "F-102",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 230,
+   "fields": {
+    "code": "1E-004",
+    "kanri": "通-104",
+    "name": "二次送風機入口ダンパ",
+    "spec": "電動 ルーバ",
+    "tag": "MD-102",
+    "inst": 1996,
+    "upd": 2014,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 231,
+   "fields": {
+    "code": "1E-005",
+    "kanri": "通-105",
+    "name": "一次空気ダンパ（乾燥段）",
+    "spec": "電動 バタフライ",
+    "tag": "MD-13",
+    "inst": 1996,
+    "upd": 2015,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 232,
+   "fields": {
+    "code": "1E-006",
+    "kanri": "通-106",
+    "name": "一次空気ダンパ（燃焼段前部）",
+    "spec": "電動 バタフライ",
+    "tag": "MD-14",
+    "inst": 1996,
+    "upd": 2015,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 233,
+   "fields": {
+    "code": "1E-007",
+    "kanri": "通-107",
+    "name": "一次空気ダンパ（燃焼段後部）",
+    "spec": "電動 バタフライ",
+    "tag": "MD-15",
+    "inst": 1996,
+    "upd": 2016,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 234,
+   "fields": {
+    "code": "1E-008",
+    "kanri": "通-108",
+    "name": "一次空気ダンパ（後燃焼段）",
+    "spec": "電動 バタフライ",
+    "tag": "MD-16",
+    "inst": 1996,
+    "upd": 2015,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 235,
+   "fields": {
+    "code": "1E-009",
+    "kanri": "通-109",
+    "name": "炉壁冷却空気ダンパ",
+    "spec": "電動 バタフライ",
+    "tag": "MD-107",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 236,
+   "fields": {
+    "code": "1E-010",
+    "kanri": "通-110",
+    "name": "蒸気式空気予熱器",
+    "spec": "フィン付管 低圧蒸気 空気出口200℃",
+    "tag": "AH-101",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 237,
+   "fields": {
+    "code": "1E-011",
+    "kanri": "通-111",
+    "name": "空気予熱器蒸気調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-107",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 238,
+   "fields": {
+    "code": "1E-012",
+    "kanri": "通-112",
+    "name": "空気予熱器バイパスダンパ",
+    "spec": "空気作動 バタフライ",
+    "tag": "AD-111",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 239,
+   "fields": {
+    "code": "1E-013",
+    "kanri": "通-113",
+    "name": "誘引通風機",
+    "spec": "ターボ形 33,000m³N/h(550m³N/min)×7.0kPa 170℃",
+    "kw": 160,
+    "tag": "F-103",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 240,
+   "fields": {
+    "code": "1E-014",
+    "kanri": "通-114",
+    "name": "誘引通風機入口ダンパ",
+    "spec": "電動 ルーバ",
+    "tag": "MD-108",
+    "inst": 1996,
+    "upd": 2016,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 241,
+   "fields": {
+    "code": "1E-015",
+    "kanri": "（新設）",
+    "name": "誘引通風機インバータ盤",
+    "spec": "屋内自立形 200kW 6.6kV/400V",
+    "tag": "INV-101",
+    "inst": 2017,
+    "upd": 2017,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 242,
+   "fields": {
+    "code": "1E-016",
+    "kanri": "通-115",
+    "name": "ボイラ出口煙道ダンパ",
+    "spec": "空気作動 ルーバ",
+    "tag": "AD-112",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 243,
+   "fields": {
+    "code": "1E-017",
+    "kanri": "通-116",
+    "name": "煙道（ボイラ出口〜BF入口）",
+    "spec": "鋼板製 角形 保温付",
+    "tag": "DU-101",
+    "inst": 1996,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 244,
+   "fields": {
+    "code": "1E-018",
+    "kanri": "通-117",
+    "name": "煙道（BF出口〜煙突）",
+    "spec": "鋼板製 丸形 保温付",
+    "tag": "DU-102",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 245,
+   "fields": {
+    "code": "1E-019",
+    "kanri": "通-118",
+    "name": "煙突内筒",
+    "spec": "鋼製 φ1,100 H59m",
+    "tag": "SK-101",
+    "inst": 1996,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 246,
+   "fields": {
+    "code": "2E-001",
+    "kanri": "通-201",
+    "name": "押込送風機",
+    "spec": "ターボ形 340m³N/min×6.0kPa",
+    "kw": 55,
+    "tag": "F-201",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 247,
+   "fields": {
+    "code": "2E-002",
+    "kanri": "通-202",
+    "name": "押込送風機入口ダンパ",
+    "spec": "電動 ルーバ",
+    "tag": "MD-201",
+    "inst": 1996,
+    "upd": 2016,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 248,
+   "fields": {
+    "code": "2E-003",
+    "kanri": "通-203",
+    "name": "二次送風機",
+    "spec": "ターボ形 125m³N/min×5.0kPa",
+    "kw": 22,
+    "tag": "F-202",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 249,
+   "fields": {
+    "code": "2E-004",
+    "kanri": "通-204",
+    "name": "二次送風機入口ダンパ",
+    "spec": "電動 ルーバ",
+    "tag": "MD-202",
+    "inst": 1996,
+    "upd": 2015,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 250,
+   "fields": {
+    "code": "2E-005",
+    "kanri": "通-205",
+    "name": "一次空気ダンパ（乾燥段）",
+    "spec": "電動 バタフライ",
+    "tag": "MD-23",
+    "inst": 1996,
+    "upd": 2015,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 251,
+   "fields": {
+    "code": "2E-006",
+    "kanri": "通-206",
+    "name": "一次空気ダンパ（燃焼段前部）",
+    "spec": "電動 バタフライ",
+    "tag": "MD-24",
+    "inst": 1996,
+    "upd": 2014,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 252,
+   "fields": {
+    "code": "2E-007",
+    "kanri": "通-207",
+    "name": "一次空気ダンパ（燃焼段後部）",
+    "spec": "電動 バタフライ",
+    "tag": "MD-25",
+    "inst": 1996,
+    "upd": 2012,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 253,
+   "fields": {
+    "code": "2E-008",
+    "kanri": "通-208",
+    "name": "一次空気ダンパ（後燃焼段）",
+    "spec": "電動 バタフライ",
+    "tag": "MD-26",
+    "inst": 1996,
+    "upd": 2015,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 254,
+   "fields": {
+    "code": "2E-009",
+    "kanri": "通-209",
+    "name": "炉壁冷却空気ダンパ",
+    "spec": "電動 バタフライ",
+    "tag": "MD-207",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 255,
+   "fields": {
+    "code": "2E-010",
+    "kanri": "通-210",
+    "name": "蒸気式空気予熱器",
+    "spec": "フィン付管 低圧蒸気 空気出口200℃",
+    "tag": "AH-201",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 256,
+   "fields": {
+    "code": "2E-011",
+    "kanri": "通-211",
+    "name": "空気予熱器蒸気調節弁",
+    "spec": "空気作動 調節弁",
+    "tag": "CV-207",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 257,
+   "fields": {
+    "code": "2E-012",
+    "kanri": "通-212",
+    "name": "空気予熱器バイパスダンパ",
+    "spec": "空気作動 バタフライ",
+    "tag": "AD-211",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 258,
+   "fields": {
+    "code": "2E-013",
+    "kanri": "通-213",
+    "name": "誘引通風機",
+    "spec": "ターボ形 33,000m³N/h(550m³N/min)×7.0kPa 170℃",
+    "kw": 160,
+    "tag": "F-203",
+    "inst": 1996,
+    "upd": 2018,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 259,
+   "fields": {
+    "code": "2E-014",
+    "kanri": "通-214",
+    "name": "誘引通風機入口ダンパ",
+    "spec": "電動 ルーバ",
+    "tag": "MD-208",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 260,
+   "fields": {
+    "code": "2E-015",
+    "kanri": "（新設）",
+    "name": "誘引通風機インバータ盤",
+    "spec": "屋内自立形 200kW 6.6kV/400V",
+    "tag": "INV-201",
+    "inst": 2018,
+    "upd": 2018,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 261,
+   "fields": {
+    "code": "2E-016",
+    "kanri": "通-215",
+    "name": "ボイラ出口煙道ダンパ",
+    "spec": "空気作動 ルーバ",
+    "tag": "AD-212",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 262,
+   "fields": {
+    "code": "2E-017",
+    "kanri": "通-216",
+    "name": "煙道（ボイラ出口〜BF入口）",
+    "spec": "鋼板製 角形 保温付",
+    "tag": "DU-201",
+    "inst": 1996,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 263,
+   "fields": {
+    "code": "2E-018",
+    "kanri": "通-217",
+    "name": "煙道（BF出口〜煙突）",
+    "spec": "鋼板製 丸形 保温付",
+    "tag": "DU-202",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 264,
+   "fields": {
+    "code": "2E-019",
+    "kanri": "通-218",
+    "name": "煙突内筒",
+    "spec": "鋼製 φ1,100 H59m",
+    "tag": "SK-201",
+    "inst": 1996,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 265,
+   "fields": {
+    "code": "CE-001",
+    "kanri": "通-001",
+    "name": "煙突外筒",
+    "spec": "RC造 H59m 内筒2本収納",
+    "tag": "SK-00",
+    "inst": 1996,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 267,
+   "fields": {
+    "code": "1F-001",
+    "kanri": "灰-101",
+    "name": "主灰搬出コンベヤ",
+    "spec": "水封式スクレーパ W750 L14m",
+    "kw": 5.5,
+    "tag": "C-106",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 268,
+   "fields": {
+    "code": "1F-002",
+    "kanri": "灰-102",
+    "name": "飛灰搬送コンベヤ",
+    "spec": "スクリュー φ300 L12m",
+    "kw": 3.7,
+    "tag": "C-107",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 269,
+   "fields": {
+    "code": "1F-003",
+    "kanri": "灰-103",
+    "name": "灰押出装置補給水弁",
+    "spec": "電動 ボール弁",
+    "tag": "MV-110",
+    "inst": 1996,
+    "upd": 2012,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 270,
+   "fields": {
+    "code": "2F-001",
+    "kanri": "灰-201",
+    "name": "主灰搬出コンベヤ",
+    "spec": "水封式スクレーパ W750 L14m",
+    "kw": 5.5,
+    "tag": "C-206",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 271,
+   "fields": {
+    "code": "2F-002",
+    "kanri": "灰-202",
+    "name": "飛灰搬送コンベヤ",
+    "spec": "スクリュー φ300 L12m",
+    "kw": 3.7,
+    "tag": "C-207",
+    "inst": 2001,
+    "upd": 2001,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 272,
+   "fields": {
+    "code": "2F-003",
+    "kanri": "灰-203",
+    "name": "灰押出装置補給水弁",
+    "spec": "電動 ボール弁",
+    "tag": "MV-210",
+    "inst": 1996,
+    "upd": 2015,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 273,
+   "fields": {
+    "code": "CF-001",
+    "kanri": "灰-001",
+    "name": "灰ピット",
+    "spec": "RC造 450m³",
+    "tag": "PT-02",
+    "inst": 1996,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 274,
+   "fields": {
+    "code": "CF-002",
+    "kanri": "灰-002",
+    "name": "灰クレーン",
+    "spec": "天井走行 2.0m³クラムシェル 定格4.0t",
+    "kw": 37,
+    "tag": "CR-03",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 275,
+   "fields": {
+    "code": "CF-003",
+    "kanri": "灰-003",
+    "name": "灰クレーン制御盤",
+    "spec": "インバータ 屋内自立形",
+    "tag": "CRP-04",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 276,
+   "fields": {
+    "code": "CF-004",
+    "kanri": "灰-004",
+    "name": "飛灰貯留槽",
+    "spec": "鋼板製 40m³",
+    "tag": "SL-03",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 277,
+   "fields": {
+    "code": "CF-005",
+    "kanri": "灰-005",
+    "name": "飛灰貯留槽集じん器",
+    "spec": "バグ式",
+    "kw": 1.5,
+    "tag": "DC-03",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 278,
+   "fields": {
+    "code": "CF-006",
+    "kanri": "灰-006",
+    "name": "飛灰定量切出装置No.1",
+    "role": "常用",
+    "spec": "ロータリフィーダ",
+    "kw": 1.5,
+    "tag": "FD-01",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 279,
+   "fields": {
+    "code": "CF-007",
+    "kanri": "灰-007",
+    "name": "飛灰定量切出装置No.2",
+    "role": "予備",
+    "spec": "ロータリフィーダ",
+    "kw": 1.5,
+    "tag": "FD-02",
+    "inst": 1996,
+    "imp": "B",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 280,
+   "fields": {
+    "code": "CF-008",
+    "kanri": "灰-008",
+    "name": "飛灰混練機1号機",
+    "role": "常用",
+    "spec": "二軸パドル式 2.0t/h",
+    "kw": 22,
+    "tag": "KN-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 281,
+   "fields": {
+    "code": "CF-009",
+    "kanri": "灰-009",
+    "name": "飛灰混練機2号機",
+    "role": "予備",
+    "spec": "二軸パドル式 2.0t/h",
+    "kw": 22,
+    "tag": "KN-02",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 282,
+   "fields": {
+    "code": "CF-010",
+    "kanri": "灰-010",
+    "name": "キレート薬剤タンク",
+    "spec": "PE 5m³",
+    "tag": "T-05",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 283,
+   "fields": {
+    "code": "CF-011",
+    "kanri": "灰-011",
+    "name": "キレート薬剤注入ポンプA",
+    "role": "常用",
+    "spec": "ダイヤフラム",
+    "kw": 0.4,
+    "tag": "P-04A",
+    "inst": 1996,
+    "upd": 2021,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 284,
+   "fields": {
+    "code": "CF-012",
+    "kanri": "灰-012",
+    "name": "キレート薬剤注入ポンプB",
+    "role": "予備",
+    "spec": "ダイヤフラム",
+    "kw": 0.4,
+    "tag": "P-04B",
+    "inst": 1996,
+    "upd": 2014,
+    "imp": "B",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 285,
+   "fields": {
+    "code": "CF-013",
+    "kanri": "灰-013",
+    "name": "混練加湿水ポンプA",
+    "role": "常用",
+    "spec": "渦巻 0.1m³/min",
+    "kw": 1.5,
+    "tag": "P-05A",
+    "inst": 1996,
+    "upd": 2020,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 286,
+   "fields": {
+    "code": "CF-014",
+    "kanri": "灰-014",
+    "name": "混練加湿水ポンプB",
+    "role": "予備",
+    "spec": "渦巻 0.1m³/min",
+    "kw": 1.5,
+    "tag": "P-05B",
+    "inst": 1996,
+    "upd": 2016,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 287,
+   "fields": {
+    "code": "CF-015",
+    "kanri": "灰-015",
+    "name": "処理物搬出コンベヤ",
+    "spec": "ベルト W500 L10m",
+    "kw": 2.2,
+    "tag": "C-01",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 288,
+   "fields": {
+    "code": "CF-016",
+    "kanri": "灰-016",
+    "name": "主灰磁選機",
+    "spec": "吊下げ式 永磁",
+    "kw": 2.2,
+    "tag": "MG-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 289,
+   "fields": {
+    "code": "CF-017",
+    "kanri": "灰-017",
+    "name": "飛灰集合コンベヤ",
+    "spec": "スクリュー φ300 L9.0m",
+    "kw": 3.7,
+    "tag": "C-02",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 290,
+   "fields": {
+    "code": "CF-018",
+    "kanri": "灰-018",
+    "name": "飛灰バケットエレベータ",
+    "spec": "揚程18m",
+    "kw": 3.7,
+    "tag": "C-03",
+    "inst": 2000,
+    "upd": 2000,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 291,
+   "fields": {
+    "code": "CF-019",
+    "kanri": "灰-019",
+    "name": "灰出し設備現場盤",
+    "spec": "屋内自立形",
+    "tag": "LP-41",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 293,
+   "fields": {
+    "code": "1G-001",
+    "kanri": "給-101",
+    "name": "機器冷却水弁（1号炉系）",
+    "spec": "電動 バタフライ 100A",
+    "tag": "MV-111",
+    "inst": 1996,
+    "upd": 2015,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 294,
+   "fields": {
+    "code": "2G-001",
+    "kanri": "給-201",
+    "name": "機器冷却水弁（2号炉系）",
+    "spec": "電動 バタフライ 100A",
+    "tag": "MV-211",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 295,
+   "fields": {
+    "code": "CG-001",
+    "kanri": "給-001",
+    "name": "プラント用水受水槽",
+    "spec": "RC造 200m³",
+    "tag": "T-21",
+    "inst": 1996,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 296,
+   "fields": {
+    "code": "CG-002",
+    "kanri": "給-002",
+    "name": "上水受水槽",
+    "spec": "FRP 30m³",
+    "tag": "T-22",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 297,
+   "fields": {
+    "code": "CG-003",
+    "kanri": "給-003",
+    "name": "プラント用水ポンプA",
+    "role": "常用",
+    "spec": "渦巻 0.6m³/min×45m",
+    "kw": 11,
+    "tag": "P-21A",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 298,
+   "fields": {
+    "code": "CG-004",
+    "kanri": "給-004",
+    "name": "プラント用水ポンプB",
+    "role": "予備",
+    "spec": "渦巻 0.6m³/min×45m",
+    "kw": 11,
+    "tag": "P-21B",
+    "inst": 1996,
+    "imp": "B",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 299,
+   "fields": {
+    "code": "CG-005",
+    "kanri": "給-005",
+    "name": "機器冷却水ポンプA",
+    "role": "常用",
+    "spec": "渦巻 1.2m³/min×35m",
+    "kw": 15,
+    "tag": "P-22A",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 300,
+   "fields": {
+    "code": "CG-006",
+    "kanri": "給-006",
+    "name": "機器冷却水ポンプB",
+    "role": "予備",
+    "spec": "渦巻 1.2m³/min×35m",
+    "kw": 15,
+    "tag": "P-22B",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 301,
+   "fields": {
+    "code": "CG-007",
+    "kanri": "給-007",
+    "name": "機器冷却水冷却塔",
+    "spec": "開放式 向流形 ファン5.5kW",
+    "kw": 5.5,
+    "tag": "CT-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 302,
+   "fields": {
+    "code": "CG-008",
+    "kanri": "給-008",
+    "name": "機器冷却水槽",
+    "spec": "RC造 40m³",
+    "tag": "T-23",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 303,
+   "fields": {
+    "code": "CG-009",
+    "kanri": "給-009",
+    "name": "生活用水加圧給水ユニットA",
+    "role": "常用",
+    "spec": "渦巻 3.7kW",
+    "kw": 3.7,
+    "tag": "P-23A",
+    "inst": 1996,
+    "upd": 2022,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 304,
+   "fields": {
+    "code": "CG-010",
+    "kanri": "給-010",
+    "name": "生活用水加圧給水ユニットB",
+    "role": "予備",
+    "spec": "渦巻 3.7kW",
+    "kw": 3.7,
+    "tag": "P-23B",
+    "inst": 1996,
+    "upd": 2013,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 305,
+   "fields": {
+    "code": "CG-011",
+    "kanri": "給-011",
+    "name": "再利用水ポンプA",
+    "role": "常用",
+    "spec": "渦巻 0.3m³/min×40m",
+    "kw": 5.5,
+    "tag": "P-24A",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 306,
+   "fields": {
+    "code": "CG-012",
+    "kanri": "給-012",
+    "name": "再利用水ポンプB",
+    "role": "予備",
+    "spec": "渦巻 0.3m³/min×40m",
+    "kw": 5.5,
+    "tag": "P-24B",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 307,
+   "fields": {
+    "code": "CG-013",
+    "kanri": "給-013",
+    "name": "再利用水槽",
+    "spec": "RC造 60m³",
+    "tag": "T-24",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 308,
+   "fields": {
+    "code": "CG-014",
+    "kanri": "給-014",
+    "name": "プラント消火栓ポンプ",
+    "spec": "渦巻 0.4m³/min×60m",
+    "kw": 11,
+    "tag": "P-25",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 309,
+   "fields": {
+    "code": "CG-015",
+    "kanri": "給-015",
+    "name": "プラント用水補給弁",
+    "spec": "電動 ボール弁",
+    "tag": "MV-21",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 310,
+   "fields": {
+    "code": "CG-016",
+    "kanri": "給-016",
+    "name": "上水補給弁",
+    "spec": "電動 ボール弁",
+    "tag": "MV-22",
+    "inst": 1996,
+    "upd": 2016,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 311,
+   "fields": {
+    "code": "CG-017",
+    "kanri": "給-017",
+    "name": "冷却塔補給水弁",
+    "spec": "電動 ボール弁",
+    "tag": "MV-23",
+    "inst": 1996,
+    "upd": 2012,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 312,
+   "fields": {
+    "code": "CG-018",
+    "kanri": "給-018",
+    "name": "用水設備現場盤",
+    "spec": "屋内壁掛形",
+    "tag": "LP-21",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 314,
+   "fields": {
+    "code": "CH-001",
+    "kanri": "水-001",
+    "name": "排水受槽",
+    "spec": "RC造 30m³",
+    "tag": "T-31",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 315,
+   "fields": {
+    "code": "CH-002",
+    "kanri": "水-002",
+    "name": "排水移送ポンプA",
+    "role": "常用",
+    "spec": "水中 0.2m³/min",
+    "kw": 1.5,
+    "tag": "P-31A",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 316,
+   "fields": {
+    "code": "CH-003",
+    "kanri": "水-003",
+    "name": "排水移送ポンプB",
+    "role": "予備",
+    "spec": "水中 0.2m³/min",
+    "kw": 1.5,
+    "tag": "P-31B",
+    "inst": 1996,
+    "imp": "B",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 317,
+   "fields": {
+    "code": "CH-004",
+    "kanri": "水-004",
+    "name": "凝集沈殿槽",
+    "spec": "RC造 上向流",
+    "tag": "T-32",
+    "inst": 1996,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 318,
+   "fields": {
+    "code": "CH-005",
+    "kanri": "水-005",
+    "name": "急速撹拌機",
+    "spec": "立形 0.75kW",
+    "kw": 0.75,
+    "tag": "AG-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 319,
+   "fields": {
+    "code": "CH-006",
+    "kanri": "水-006",
+    "name": "緩速撹拌機",
+    "spec": "立形 0.4kW",
+    "kw": 0.4,
+    "tag": "AG-02",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 320,
+   "fields": {
+    "code": "CH-007",
+    "kanri": "水-007",
+    "name": "凝集剤注入ポンプ",
+    "spec": "ダイヤフラム",
+    "kw": 0.2,
+    "tag": "P-32",
+    "inst": 1996,
+    "upd": 2023,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 321,
+   "fields": {
+    "code": "CH-008",
+    "kanri": "水-008",
+    "name": "pH調整剤(酸)注入ポンプ",
+    "spec": "ダイヤフラム",
+    "kw": 0.2,
+    "tag": "P-33",
+    "inst": 1996,
+    "upd": 2013,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 322,
+   "fields": {
+    "code": "CH-009",
+    "kanri": "水-009",
+    "name": "pH調整剤(アルカリ)注入ポンプ",
+    "spec": "ダイヤフラム",
+    "kw": 0.2,
+    "tag": "P-34",
+    "inst": 1996,
+    "upd": 2023,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 323,
+   "fields": {
+    "code": "CH-010",
+    "kanri": "水-010",
+    "name": "高分子凝集剤注入ポンプ",
+    "spec": "ダイヤフラム",
+    "kw": 0.2,
+    "tag": "P-35",
+    "inst": 1996,
+    "upd": 2013,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 324,
+   "fields": {
+    "code": "CH-011",
+    "kanri": "水-011",
+    "name": "砂ろ過塔",
+    "spec": "圧力式 φ1,200",
+    "tag": "SF-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 325,
+   "fields": {
+    "code": "CH-012",
+    "kanri": "水-012",
+    "name": "ろ過ポンプA",
+    "role": "常用",
+    "spec": "渦巻 0.2m³/min×30m",
+    "kw": 2.2,
+    "tag": "P-36A",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 326,
+   "fields": {
+    "code": "CH-013",
+    "kanri": "水-013",
+    "name": "ろ過ポンプB",
+    "role": "予備",
+    "spec": "渦巻 0.2m³/min×30m",
+    "kw": 2.2,
+    "tag": "P-36B",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 327,
+   "fields": {
+    "code": "CH-014",
+    "kanri": "水-014",
+    "name": "キレート吸着塔",
+    "spec": "FRP φ800",
+    "tag": "CA-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 328,
+   "fields": {
+    "code": "CH-015",
+    "kanri": "水-015",
+    "name": "処理水槽",
+    "spec": "RC造 20m³",
+    "tag": "T-33",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 329,
+   "fields": {
+    "code": "CH-016",
+    "kanri": "水-016",
+    "name": "汚泥脱水機",
+    "spec": "スクリュープレス 3.0kW",
+    "kw": 3.0,
+    "tag": "DW-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 330,
+   "fields": {
+    "code": "CH-017",
+    "kanri": "水-017",
+    "name": "汚泥移送ポンプ",
+    "spec": "一軸ねじ 1.5kW",
+    "kw": 1.5,
+    "tag": "P-37",
+    "inst": 1996,
+    "upd": 2023,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 331,
+   "fields": {
+    "code": "CH-018",
+    "kanri": "水-018",
+    "name": "ごみピット汚水ろ過器",
+    "spec": "ストレーナ式 自動逆洗",
+    "kw": 0.4,
+    "tag": "SF-02",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 332,
+   "fields": {
+    "code": "CH-019",
+    "kanri": "水-019",
+    "name": "ごみピット汚水噴霧ポンプA",
+    "role": "常用",
+    "spec": "多段渦巻 1.0m³/h×100m",
+    "kw": 3.7,
+    "tag": "P-38A",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 333,
+   "fields": {
+    "code": "CH-020",
+    "kanri": "水-020",
+    "name": "ごみピット汚水噴霧ポンプB",
+    "role": "予備",
+    "spec": "多段渦巻 1.0m³/h×100m",
+    "kw": 3.7,
+    "tag": "P-38B",
+    "inst": 1996,
+    "imp": "B",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 334,
+   "fields": {
+    "code": "CH-021",
+    "kanri": "水-021",
+    "name": "ごみピット汚水噴霧遮断弁",
+    "spec": "空気作動 ボール弁",
+    "tag": "AV-31",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 335,
+   "fields": {
+    "code": "CH-022",
+    "kanri": "水-022",
+    "name": "排水処理制御盤",
+    "spec": "屋内自立形 シーケンサ",
+    "tag": "LP-31",
+    "inst": 1996,
+    "imp": "C",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 337,
+   "fields": {
+    "code": "CJ-001",
+    "kanri": "余-001",
+    "name": "脱気器",
+    "spec": "スプレートレイ形 30t/h 0.2MPa",
+    "tag": "DA-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 338,
+   "fields": {
+    "code": "CJ-002",
+    "kanri": "余-002",
+    "name": "脱気器給水ポンプA",
+    "role": "常用",
+    "spec": "渦巻 30m³/h×50m",
+    "kw": 11,
+    "tag": "P-11A",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 339,
+   "fields": {
+    "code": "CJ-003",
+    "kanri": "余-003",
+    "name": "脱気器給水ポンプB",
+    "role": "予備",
+    "spec": "渦巻 30m³/h×50m",
+    "kw": 11,
+    "tag": "P-11B",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 340,
+   "fields": {
+    "code": "CJ-004",
+    "kanri": "余-004",
+    "name": "復水タンク",
+    "spec": "SUS 20m³",
+    "tag": "T-11",
+    "inst": 1996,
+    "imp": "B",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 341,
+   "fields": {
+    "code": "CJ-005",
+    "kanri": "余-005",
+    "name": "復水ポンプA",
+    "role": "常用",
+    "spec": "渦巻 30m³/h×40m",
+    "kw": 7.5,
+    "tag": "P-12A",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 342,
+   "fields": {
+    "code": "CJ-006",
+    "kanri": "余-006",
+    "name": "復水ポンプB",
+    "role": "予備",
+    "spec": "渦巻 30m³/h×40m",
+    "kw": 7.5,
+    "tag": "P-12B",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 343,
+   "fields": {
+    "code": "CJ-007",
+    "kanri": "余-007",
+    "name": "純水装置",
+    "spec": "2床3塔 イオン交換 3m³/h",
+    "tag": "DM-01",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 344,
+   "fields": {
+    "code": "CJ-008",
+    "kanri": "余-008",
+    "name": "純水タンク",
+    "spec": "SUS 30m³",
+    "tag": "T-12",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 345,
+   "fields": {
+    "code": "CJ-009",
+    "kanri": "余-009",
+    "name": "純水移送ポンプA",
+    "role": "常用",
+    "spec": "渦巻 5m³/h×30m",
+    "kw": 2.2,
+    "tag": "P-13A",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 346,
+   "fields": {
+    "code": "CJ-010",
+    "kanri": "余-010",
+    "name": "純水移送ポンプB",
+    "role": "予備",
+    "spec": "渦巻 5m³/h×30m",
+    "kw": 2.2,
+    "tag": "P-13B",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 347,
+   "fields": {
+    "code": "CJ-011",
+    "kanri": "余-011",
+    "name": "高圧蒸気だめ",
+    "spec": "φ600×3,500L 3.0MPa",
+    "tag": "SH-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 348,
+   "fields": {
+    "code": "CJ-012",
+    "kanri": "余-012",
+    "name": "低圧蒸気だめ",
+    "spec": "φ500×3,000L 0.5MPa",
+    "tag": "SH-02",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 349,
+   "fields": {
+    "code": "CJ-013",
+    "kanri": "余-013",
+    "name": "蒸気タービン",
+    "spec": "抽気復水式 2,600kW 入口2.8MPa 290℃",
+    "tag": "TB-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 350,
+   "fields": {
+    "code": "CJ-014",
+    "kanri": "余-014",
+    "name": "発電機",
+    "spec": "三相同期 3,250kVA 6.6kV 力率0.8",
+    "tag": "GN-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 351,
+   "fields": {
+    "code": "CJ-015",
+    "kanri": "余-015",
+    "name": "タービン補助油ポンプ",
+    "spec": "歯車 AC 400V",
+    "kw": 5.5,
+    "tag": "P-14",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 352,
+   "fields": {
+    "code": "CJ-016",
+    "kanri": "余-016",
+    "name": "タービン非常用油ポンプ",
+    "spec": "歯車 DC 110V",
+    "kw": 3.7,
+    "tag": "P-15",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 353,
+   "fields": {
+    "code": "CJ-017",
+    "kanri": "余-017",
+    "name": "グランド蒸気復水器",
+    "spec": "シェル＆チューブ",
+    "tag": "HE-11",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 354,
+   "fields": {
+    "code": "CJ-018",
+    "kanri": "余-018",
+    "name": "グランド排風機",
+    "spec": "ターボ形 2.2kW",
+    "kw": 2.2,
+    "tag": "F-11",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 355,
+   "fields": {
+    "code": "CJ-019",
+    "kanri": "余-019",
+    "name": "タービンバイパス減圧減温装置",
+    "spec": "24t/h 3.0→0.3MPa",
+    "tag": "PR-11",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 356,
+   "fields": {
+    "code": "CJ-020",
+    "kanri": "余-020",
+    "name": "タービンバイパス弁",
+    "spec": "空気作動 調節弁 150A",
+    "tag": "CV-11",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 357,
+   "fields": {
+    "code": "CJ-021",
+    "kanri": "余-021",
+    "name": "タービン入口主蒸気止め弁",
+    "spec": "電動 仕切弁 150A",
+    "tag": "MV-11",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 358,
+   "fields": {
+    "code": "CJ-022",
+    "kanri": "余-022",
+    "name": "抽気逆止弁",
+    "spec": "空気作動 逆止弁",
+    "tag": "AV-11",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 359,
+   "fields": {
+    "code": "CJ-023",
+    "kanri": "余-023",
+    "name": "空冷復水器",
+    "spec": "Aフレーム 6セル 復水量20t/h",
+    "tag": "ACC-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "CBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 360,
+   "fields": {
+    "code": "CJ-024",
+    "kanri": "余-024",
+    "name": "空冷復水器ファンNo.1",
+    "spec": "軸流 φ4.2m 減速機付",
+    "kw": 22,
+    "tag": "F-12",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 361,
+   "fields": {
+    "code": "CJ-025",
+    "kanri": "余-025",
+    "name": "空冷復水器ファンNo.2",
+    "spec": "軸流 φ4.2m 減速機付",
+    "kw": 22,
+    "tag": "F-13",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 362,
+   "fields": {
+    "code": "CJ-026",
+    "kanri": "余-026",
+    "name": "空冷復水器ファンNo.3",
+    "spec": "軸流 φ4.2m 減速機付",
+    "kw": 22,
+    "tag": "F-14",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 363,
+   "fields": {
+    "code": "CJ-027",
+    "kanri": "余-027",
+    "name": "空冷復水器ファンNo.4",
+    "spec": "軸流 φ4.2m 減速機付",
+    "kw": 22,
+    "tag": "F-15",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 364,
+   "fields": {
+    "code": "CJ-028",
+    "kanri": "余-028",
+    "name": "空冷復水器ファンNo.5",
+    "spec": "軸流 φ4.2m 減速機付",
+    "kw": 22,
+    "tag": "F-16",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 365,
+   "fields": {
+    "code": "CJ-029",
+    "kanri": "余-029",
+    "name": "空冷復水器ファンNo.6",
+    "spec": "軸流 φ4.2m 減速機付",
+    "kw": 22,
+    "tag": "F-17",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 366,
+   "fields": {
+    "code": "CJ-030",
+    "kanri": "余-030",
+    "name": "復水器真空ポンプA",
+    "role": "常用",
+    "spec": "水封式 7.5kW",
+    "kw": 7.5,
+    "tag": "VP-01A",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 367,
+   "fields": {
+    "code": "CJ-031",
+    "kanri": "余-031",
+    "name": "復水器真空ポンプB",
+    "role": "予備",
+    "spec": "水封式 7.5kW",
+    "kw": 7.5,
+    "tag": "VP-01B",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 368,
+   "fields": {
+    "code": "CJ-032",
+    "kanri": "余-032",
+    "name": "タービン制御盤",
+    "spec": "電子ガバナ 屋内自立形",
+    "tag": "TCP-01",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 369,
+   "fields": {
+    "code": "CJ-033",
+    "kanri": "余-033",
+    "name": "発電機盤",
+    "spec": "発電機遮断器 6.6kV",
+    "tag": "GCP-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 370,
+   "fields": {
+    "code": "CJ-034",
+    "kanri": "余-034",
+    "name": "励磁装置盤",
+    "spec": "サイリスタ励磁",
+    "tag": "EXP-01",
+    "inst": 1996,
+    "upd": 2020,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 371,
+   "fields": {
+    "code": "CJ-035",
+    "kanri": "余-035",
+    "name": "低圧蒸気復水器",
+    "spec": "空冷式 余剰蒸気 6t/h",
+    "tag": "HE-12",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 372,
+   "fields": {
+    "code": "CJ-036",
+    "kanri": "余-036",
+    "name": "場内給湯熱交換器",
+    "spec": "プレート式 600kW",
+    "tag": "HE-13",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 373,
+   "fields": {
+    "code": "CJ-037",
+    "kanri": "余-037",
+    "name": "主蒸気母管弁",
+    "spec": "電動 弁",
+    "tag": "MV-12",
+    "inst": 1996,
+    "upd": 2012,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 374,
+   "fields": {
+    "code": "CJ-038",
+    "kanri": "余-038",
+    "name": "高低圧蒸気減圧弁No.1",
+    "spec": "空気作動 弁",
+    "tag": "CV-12",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 375,
+   "fields": {
+    "code": "CJ-039",
+    "kanri": "余-039",
+    "name": "高低圧蒸気減圧弁No.2",
+    "spec": "空気作動 弁",
+    "tag": "CV-13",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 376,
+   "fields": {
+    "code": "CJ-040",
+    "kanri": "余-040",
+    "name": "空冷復水器真空破壊弁",
+    "spec": "電動 弁",
+    "tag": "MV-13",
+    "inst": 1996,
+    "upd": 2017,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 377,
+   "fields": {
+    "code": "CJ-041",
+    "kanri": "余-041",
+    "name": "復水再循環弁",
+    "spec": "空気作動 弁",
+    "tag": "CV-14",
+    "inst": 1996,
+    "imp": "B",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 378,
+   "fields": {
+    "code": "CJ-042",
+    "kanri": "余-042",
+    "name": "脱気器圧力調節弁",
+    "spec": "空気作動 弁",
+    "tag": "CV-15",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 379,
+   "fields": {
+    "code": "CJ-043",
+    "kanri": "余-043",
+    "name": "脱気器水位調節弁",
+    "spec": "空気作動 弁",
+    "tag": "CV-16",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 380,
+   "fields": {
+    "code": "CJ-044",
+    "kanri": "余-044",
+    "name": "低圧蒸気復水器入口弁",
+    "spec": "電動 弁",
+    "tag": "MV-14",
+    "inst": 1996,
+    "upd": 2012,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 381,
+   "fields": {
+    "code": "CJ-045",
+    "kanri": "余-045",
+    "name": "抽気圧力調節弁",
+    "spec": "空気作動 弁",
+    "tag": "CV-17",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 382,
+   "fields": {
+    "code": "CJ-046",
+    "kanri": "余-046",
+    "name": "ホットウェル水位調節弁",
+    "spec": "空気作動 弁",
+    "tag": "CV-18",
+    "inst": 1996,
+    "imp": "B",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 383,
+   "fields": {
+    "code": "CJ-047",
+    "kanri": "余-047",
+    "name": "タービン現場盤",
+    "spec": "屋内自立形",
+    "tag": "LP-11",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 384,
+   "fields": {
+    "code": "CJ-048",
+    "kanri": "余-048",
+    "name": "タービン油清浄機",
+    "spec": "遠心式",
+    "kw": 1.5,
+    "tag": "OP-11",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 386,
+   "fields": {
+    "code": "CK-001",
+    "kanri": "雑-001",
+    "name": "プラント用空気圧縮機A",
+    "role": "常用",
+    "spec": "スクリュー 7.5m³/min 0.7MPa",
+    "kw": 45,
+    "tag": "AC-11A",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 387,
+   "fields": {
+    "code": "CK-002",
+    "kanri": "雑-002",
+    "name": "プラント用空気圧縮機B",
+    "role": "予備",
+    "spec": "スクリュー 7.5m³/min 0.7MPa",
+    "kw": 45,
+    "tag": "AC-11B",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 388,
+   "fields": {
+    "code": "CK-003",
+    "kanri": "雑-003",
+    "name": "計装用空気圧縮機A",
+    "role": "常用",
+    "spec": "スクリュー オイルフリー 2.0m³/min",
+    "kw": 15,
+    "tag": "AC-12A",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 389,
+   "fields": {
+    "code": "CK-004",
+    "kanri": "雑-004",
+    "name": "計装用空気圧縮機B",
+    "role": "予備",
+    "spec": "スクリュー オイルフリー 2.0m³/min",
+    "kw": 15,
+    "tag": "AC-12B",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 390,
+   "fields": {
+    "code": "CK-005",
+    "kanri": "雑-005",
+    "name": "空気除湿装置（プラント用）",
+    "spec": "冷凍式",
+    "kw": 2.2,
+    "tag": "AD-11",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 391,
+   "fields": {
+    "code": "CK-006",
+    "kanri": "雑-006",
+    "name": "空気除湿装置（計装用）",
+    "spec": "ヒートレス式",
+    "tag": "AD-12",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 392,
+   "fields": {
+    "code": "CK-007",
+    "kanri": "雑-007",
+    "name": "プラント用空気だめ",
+    "spec": "5m³ 0.93MPa",
+    "tag": "AR-11",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 393,
+   "fields": {
+    "code": "CK-008",
+    "kanri": "雑-008",
+    "name": "計装用空気だめ",
+    "spec": "3m³ 0.93MPa",
+    "tag": "AR-12",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 394,
+   "fields": {
+    "code": "CK-009",
+    "kanri": "雑-009",
+    "name": "真空掃除装置",
+    "spec": "移動式 15kW",
+    "kw": 15,
+    "tag": "VC-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 395,
+   "fields": {
+    "code": "CK-010",
+    "kanri": "雑-010",
+    "name": "洗車装置",
+    "spec": "門形 高圧洗浄",
+    "kw": 5.5,
+    "tag": "CW-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 396,
+   "fields": {
+    "code": "CK-011",
+    "kanri": "雑-011",
+    "name": "タービン室天井クレーン",
+    "spec": "10t 天井走行",
+    "kw": 11,
+    "tag": "CR-11",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 397,
+   "fields": {
+    "code": "CK-012",
+    "kanri": "雑-012",
+    "name": "炉室ホイスト（1号炉側）",
+    "spec": "2.8t 電動",
+    "kw": 3.7,
+    "tag": "HO-11",
+    "inst": 1996,
+    "imp": "C",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 398,
+   "fields": {
+    "code": "CK-013",
+    "kanri": "雑-013",
+    "name": "炉室ホイスト（2号炉側）",
+    "spec": "2.8t 電動",
+    "kw": 3.7,
+    "tag": "HO-12",
+    "inst": 1996,
+    "imp": "C",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 399,
+   "fields": {
+    "code": "CK-014",
+    "kanri": "雑-014",
+    "name": "灰出し室環境集じん機",
+    "spec": "バグ式 150m³/min",
+    "kw": 7.5,
+    "tag": "DC-11",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 400,
+   "fields": {
+    "code": "CK-015",
+    "kanri": "雑-015",
+    "name": "炉室換気ファン（給気No.1）",
+    "spec": "軸流 有圧",
+    "kw": 3.7,
+    "tag": "F-21",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 401,
+   "fields": {
+    "code": "CK-016",
+    "kanri": "雑-016",
+    "name": "炉室換気ファン（給気No.2）",
+    "spec": "軸流 有圧",
+    "kw": 3.7,
+    "tag": "F-22",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 402,
+   "fields": {
+    "code": "CK-017",
+    "kanri": "雑-017",
+    "name": "炉室換気ファン（排気No.1）",
+    "spec": "軸流 有圧",
+    "kw": 3.7,
+    "tag": "F-23",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 403,
+   "fields": {
+    "code": "CK-018",
+    "kanri": "雑-018",
+    "name": "炉室換気ファン（排気No.2）",
+    "spec": "軸流 有圧",
+    "kw": 3.7,
+    "tag": "F-24",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 404,
+   "fields": {
+    "code": "CK-019",
+    "kanri": "（新設）",
+    "name": "電気室空調機No.1",
+    "spec": "パッケージ 14kW",
+    "tag": "AHU-01",
+    "inst": 2012,
+    "upd": 2025,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 405,
+   "fields": {
+    "code": "CK-020",
+    "kanri": "（新設）",
+    "name": "電気室空調機No.2",
+    "spec": "パッケージ 14kW",
+    "tag": "AHU-02",
+    "inst": 2012,
+    "upd": 2012,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 406,
+   "fields": {
+    "code": "CK-021",
+    "kanri": "雑-019",
+    "name": "中央制御室空調機",
+    "spec": "パッケージ 11kW",
+    "tag": "AHU-03",
+    "inst": 1996,
+    "upd": 2011,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 408,
+   "fields": {
+    "code": "1L-001",
+    "kanri": "電-101",
+    "name": "炉用動力制御盤MCC-1A",
+    "spec": "コントロールセンタ 400V",
+    "tag": "MCC-1A",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 409,
+   "fields": {
+    "code": "1L-002",
+    "kanri": "電-102",
+    "name": "炉用動力制御盤MCC-1B",
+    "spec": "コントロールセンタ 400V",
+    "tag": "MCC-1B",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 410,
+   "fields": {
+    "code": "1L-003",
+    "kanri": "電-103",
+    "name": "炉現場操作盤",
+    "spec": "屋内自立形",
+    "tag": "LP-107",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 411,
+   "fields": {
+    "code": "1L-004",
+    "kanri": "電-104",
+    "name": "給じん装置現場盤",
+    "spec": "屋内壁掛形",
+    "tag": "LP-108",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 412,
+   "fields": {
+    "code": "2L-001",
+    "kanri": "電-201",
+    "name": "炉用動力制御盤MCC-2A",
+    "spec": "コントロールセンタ 400V",
+    "tag": "MCC-2A",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 413,
+   "fields": {
+    "code": "2L-002",
+    "kanri": "電-202",
+    "name": "炉用動力制御盤MCC-2B",
+    "spec": "コントロールセンタ 400V",
+    "tag": "MCC-2B",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 414,
+   "fields": {
+    "code": "2L-003",
+    "kanri": "電-203",
+    "name": "炉現場操作盤",
+    "spec": "屋内自立形",
+    "tag": "LP-207",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 415,
+   "fields": {
+    "code": "2L-004",
+    "kanri": "電-204",
+    "name": "給じん装置現場盤",
+    "spec": "屋内壁掛形",
+    "tag": "LP-208",
+    "inst": 1996,
+    "imp": "C",
+    "method": "BM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 416,
+   "fields": {
+    "code": "CL-001",
+    "kanri": "電-001",
+    "name": "22kV受電盤",
+    "spec": "キュービクル形ガス絶縁 22kV",
+    "tag": "HV-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 417,
+   "fields": {
+    "code": "CL-002",
+    "kanri": "電-002",
+    "name": "主変圧器",
+    "spec": "油入 22/6.6kV 3,000kVA",
+    "tag": "TR-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 418,
+   "fields": {
+    "code": "CL-003",
+    "kanri": "電-003",
+    "name": "6.6kV高圧配電盤（受電）",
+    "spec": "閉鎖形 VCB",
+    "tag": "HV-11",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 419,
+   "fields": {
+    "code": "CL-004",
+    "kanri": "電-004",
+    "name": "6.6kV高圧配電盤（母線連絡）",
+    "spec": "閉鎖形 VCB",
+    "tag": "HV-12",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 420,
+   "fields": {
+    "code": "CL-005",
+    "kanri": "電-005",
+    "name": "6.6kV高圧配電盤（発電機連絡）",
+    "spec": "閉鎖形 VCB",
+    "tag": "HV-13",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 421,
+   "fields": {
+    "code": "CL-006",
+    "kanri": "電-006",
+    "name": "6.6kV高圧配電盤（1号炉フィーダ）",
+    "spec": "閉鎖形 VCB",
+    "tag": "HV-14",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 422,
+   "fields": {
+    "code": "CL-007",
+    "kanri": "電-007",
+    "name": "6.6kV高圧配電盤（2号炉フィーダ）",
+    "spec": "閉鎖形 VCB",
+    "tag": "HV-15",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 423,
+   "fields": {
+    "code": "CL-008",
+    "kanri": "電-008",
+    "name": "6.6kV高圧配電盤（共通フィーダ）",
+    "spec": "閉鎖形 VCB",
+    "tag": "HV-16",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 424,
+   "fields": {
+    "code": "CL-009",
+    "kanri": "電-009",
+    "name": "6.6kV高圧配電盤（タービン補機フィーダ）",
+    "spec": "閉鎖形 VCB",
+    "tag": "HV-17",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 425,
+   "fields": {
+    "code": "CL-010",
+    "kanri": "電-010",
+    "name": "6.6kV高圧配電盤（所内変圧器フィーダ）",
+    "spec": "閉鎖形 VCB",
+    "tag": "HV-18",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 426,
+   "fields": {
+    "code": "CL-011",
+    "kanri": "電-011",
+    "name": "6.6kV高圧配電盤（計器用変圧器）",
+    "spec": "閉鎖形 VCB",
+    "tag": "HV-19",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 427,
+   "fields": {
+    "code": "CL-012",
+    "kanri": "電-012",
+    "name": "所内変圧器（1号炉系）",
+    "spec": "モールド 6.6kV/420V 750kVA",
+    "tag": "TR-11",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 428,
+   "fields": {
+    "code": "CL-013",
+    "kanri": "電-013",
+    "name": "所内変圧器（2号炉系）",
+    "spec": "モールド 6.6kV/420V 750kVA",
+    "tag": "TR-12",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 429,
+   "fields": {
+    "code": "CL-014",
+    "kanri": "電-014",
+    "name": "所内変圧器（共通系）",
+    "spec": "モールド 6.6kV/420V 750kVA",
+    "tag": "TR-13",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 430,
+   "fields": {
+    "code": "CL-015",
+    "kanri": "電-015",
+    "name": "低圧主幹盤（1号炉系）",
+    "spec": "閉鎖形 ACB",
+    "tag": "LV-11",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 431,
+   "fields": {
+    "code": "CL-016",
+    "kanri": "電-016",
+    "name": "低圧主幹盤（2号炉系）",
+    "spec": "閉鎖形 ACB",
+    "tag": "LV-12",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 432,
+   "fields": {
+    "code": "CL-017",
+    "kanri": "電-017",
+    "name": "低圧主幹盤（共通系）",
+    "spec": "閉鎖形 ACB",
+    "tag": "LV-13",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 433,
+   "fields": {
+    "code": "CL-018",
+    "kanri": "電-018",
+    "name": "共通動力制御盤MCC-C1（受入供給）",
+    "spec": "コントロールセンタ 400V",
+    "tag": "MCC-C1",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 434,
+   "fields": {
+    "code": "CL-019",
+    "kanri": "電-019",
+    "name": "共通動力制御盤MCC-C2（タービン補機）",
+    "spec": "コントロールセンタ 400V",
+    "tag": "MCC-C2",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 435,
+   "fields": {
+    "code": "CL-020",
+    "kanri": "電-020",
+    "name": "共通動力制御盤MCC-C3（排水処理）",
+    "spec": "コントロールセンタ 400V",
+    "tag": "MCC-C3",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 436,
+   "fields": {
+    "code": "CL-021",
+    "kanri": "電-021",
+    "name": "共通動力制御盤MCC-C4（灰出し）",
+    "spec": "コントロールセンタ 400V",
+    "tag": "MCC-C4",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 437,
+   "fields": {
+    "code": "CL-022",
+    "kanri": "電-022",
+    "name": "共通動力制御盤MCC-C5（給水）",
+    "spec": "コントロールセンタ 400V",
+    "tag": "MCC-C5",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 438,
+   "fields": {
+    "code": "CL-023",
+    "kanri": "電-023",
+    "name": "共通動力制御盤MCC-C6（雑設備）",
+    "spec": "コントロールセンタ 400V",
+    "tag": "MCC-C6",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 439,
+   "fields": {
+    "code": "CL-024",
+    "kanri": "電-024",
+    "name": "直流電源装置",
+    "spec": "110V 蓄電池 MSE 300Ah",
+    "tag": "DC-21",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 440,
+   "fields": {
+    "code": "CL-025",
+    "kanri": "電-025",
+    "name": "無停電電源装置",
+    "spec": "UPS 20kVA",
+    "tag": "UPS-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 441,
+   "fields": {
+    "code": "CL-026",
+    "kanri": "電-026",
+    "name": "非常用発電機",
+    "spec": "ディーゼル 500kVA",
+    "tag": "EG-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 442,
+   "fields": {
+    "code": "CL-027",
+    "kanri": "電-027",
+    "name": "非常用発電機盤",
+    "spec": "屋内自立形",
+    "tag": "EGP-01",
+    "inst": 1996,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 443,
+   "fields": {
+    "code": "CL-028",
+    "kanri": "電-028",
+    "name": "進相コンデンサ盤",
+    "spec": "6.6kV 300kvar",
+    "tag": "SC-01",
+    "inst": 1996,
+    "imp": "C",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 444,
+   "fields": {
+    "code": "CL-029",
+    "kanri": "電-029",
+    "name": "系統連系保護継電器盤",
+    "spec": "ディジタル形",
+    "tag": "RP-01",
+    "inst": 1996,
+    "upd": 2019,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 446,
+   "fields": {
+    "code": "1M-001",
+    "kanri": "計-101",
+    "name": "自動燃焼制御装置盤",
+    "spec": "屋内自立形（ACC）",
+    "tag": "ACC-101",
+    "inst": 2000,
+    "upd": 2020,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 447,
+   "fields": {
+    "code": "1M-002",
+    "kanri": "（新設）",
+    "name": "DCS炉コントローラ盤",
+    "spec": "屋内自立形 二重化CPU",
+    "tag": "DCS-101",
+    "inst": 2012,
+    "upd": 2012,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 448,
+   "fields": {
+    "code": "1M-003",
+    "kanri": "計-102",
+    "name": "炉内監視カメラ装置",
+    "spec": "水冷ケーシング カラー",
+    "tag": "TV-101",
+    "inst": 1996,
+    "upd": 2023,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 449,
+   "fields": {
+    "code": "1M-004",
+    "kanri": "計-103",
+    "name": "炉用計装電源盤",
+    "spec": "屋内自立形",
+    "tag": "PS-101",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 450,
+   "fields": {
+    "code": "2M-001",
+    "kanri": "計-201",
+    "name": "自動燃焼制御装置盤",
+    "spec": "屋内自立形（ACC）",
+    "tag": "ACC-201",
+    "inst": 2001,
+    "upd": 2024,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 451,
+   "fields": {
+    "code": "2M-002",
+    "kanri": "（新設）",
+    "name": "DCS炉コントローラ盤",
+    "spec": "屋内自立形 二重化CPU",
+    "tag": "DCS-201",
+    "inst": 2012,
+    "upd": 2012,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 452,
+   "fields": {
+    "code": "2M-003",
+    "kanri": "計-202",
+    "name": "炉内監視カメラ装置",
+    "spec": "水冷ケーシング カラー",
+    "tag": "TV-201",
+    "inst": 1996,
+    "upd": 2025,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 453,
+   "fields": {
+    "code": "2M-004",
+    "kanri": "計-203",
+    "name": "炉用計装電源盤",
+    "spec": "屋内自立形",
+    "tag": "PS-201",
+    "inst": 1996,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 454,
+   "fields": {
+    "code": "CM-001",
+    "kanri": "（新設）",
+    "name": "DCSオペレータステーションNo.1",
+    "spec": "液晶24型×2",
+    "tag": "OPS-01",
+    "inst": 2012,
+    "upd": 2012,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 455,
+   "fields": {
+    "code": "CM-002",
+    "kanri": "（新設）",
+    "name": "DCSオペレータステーションNo.2",
+    "spec": "液晶24型×2",
+    "tag": "OPS-02",
+    "inst": 2012,
+    "upd": 2012,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 456,
+   "fields": {
+    "code": "CM-003",
+    "kanri": "（新設）",
+    "name": "DCSオペレータステーションNo.3",
+    "spec": "液晶24型×2",
+    "tag": "OPS-03",
+    "inst": 2012,
+    "upd": 2012,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 457,
+   "fields": {
+    "code": "CM-004",
+    "kanri": "（新設）",
+    "name": "DCSエンジニアリングステーション",
+    "spec": "PC",
+    "tag": "EWS-01",
+    "inst": 2012,
+    "upd": 2012,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 458,
+   "fields": {
+    "code": "CM-005",
+    "kanri": "（新設）",
+    "name": "DCS共通コントローラ盤",
+    "spec": "屋内自立形 二重化CPU",
+    "tag": "DCS-01",
+    "inst": 2012,
+    "upd": 2012,
+    "imp": "A",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 459,
+   "fields": {
+    "code": "CM-006",
+    "kanri": "（新設）",
+    "name": "データロガ（帳票サーバ）",
+    "spec": "サーバ＋プリンタ",
+    "tag": "DL-01",
+    "inst": 2012,
+    "upd": 2012,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 460,
+   "fields": {
+    "code": "CM-007",
+    "kanri": "計-001",
+    "name": "公害監視表示盤",
+    "spec": "屋外表示＋中央表示",
+    "tag": "EM-01",
+    "inst": 1996,
+    "upd": 2021,
+    "imp": "B",
+    "method": "TBM"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "機器台帳",
+   "r": 461,
+   "fields": {
+    "code": "CM-008",
+    "kanri": "計-002",
+    "name": "ITV監視装置",
+    "spec": "中央モニタ12台",
+    "tag": "TV-01",
+    "inst": 1996,
+    "upd": 2020,
+    "imp": "B",
+    "method": "TBM"
+   }
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成16年度1号炉焼却炉本体補修工事_業者様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-07-05",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修。耐火れんが 状態確認、試運転 良",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0705",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-07-05",
+    "persons": 4,
+    "manDays": 4.0
+   },
+   "sheet": "0705",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-07-06",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 劣化部確認・マーキング、撤去 55%",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0706",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-07-06",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "0706",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-07-07",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修（取付）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0707",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-07-07",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "0707",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-07-08",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 補修完了、外観・寸法検査 良",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0708",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-07-08",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "0708",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-07-09",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修。アンカー 状態確認、試運転 良",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0709",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-07-09",
+    "persons": 3,
+    "manDays": 3.0
+   },
+   "sheet": "0709",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-07-10",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0710",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-07-10",
+    "persons": 4,
+    "manDays": 4.0
+   },
+   "sheet": "0710",
+   "r": 8
+  }
+ ]
+}

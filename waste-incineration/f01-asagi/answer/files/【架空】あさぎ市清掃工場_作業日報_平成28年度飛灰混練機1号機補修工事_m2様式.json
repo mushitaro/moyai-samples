@@ -1,0 +1,151 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成28年度飛灰混練機1号機補修工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "10.3",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-03",
+    "no": "3",
+    "furnace": "共通",
+    "place": "飛灰混練機1号機",
+    "content": "飛灰混練機1号機 分解整備。シール 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.3",
+   "r": 19,
+   "fields": {
+    "date": "2016-10-03",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.4",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-04",
+    "no": "4",
+    "furnace": "共通",
+    "place": "飛灰混練機1号機",
+    "content": "飛灰混練機1号機 分解・パッキン 取外し（一部腐食）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "35.0",
+    "progress": 40
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.4",
+   "r": 19,
+   "fields": {
+    "date": "2016-10-04",
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "35.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.5",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-05",
+    "no": "4",
+    "furnace": "共通",
+    "place": "飛灰混練機1号機",
+    "content": "飛灰混練機1号機 組立・芯出し、単体試運転 良",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "45.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.5",
+   "r": 19,
+   "fields": {
+    "date": "2016-10-05",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "45.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.6",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-06",
+    "no": "5",
+    "furnace": "共通",
+    "place": "飛灰混練機1号機",
+    "content": "飛灰混練機1号機 分解整備、作動確認 良",
+    "staff": 2,
+    "partner": 1,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.6",
+   "r": 19,
+   "fields": {
+    "date": "2016-10-06",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.7",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-07",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.38,
+    "manDaysText": "27.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.7",
+   "r": 19,
+   "fields": {
+    "date": "2016-10-07",
+    "persons": 3,
+    "manDays": 3.38,
+    "manDaysText": "27.0"
+   }
+  }
+ ]
+}

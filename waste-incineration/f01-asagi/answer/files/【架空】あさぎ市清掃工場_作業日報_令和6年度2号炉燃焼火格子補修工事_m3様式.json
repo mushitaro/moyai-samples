@@ -1,0 +1,402 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和6年度2号炉燃焼火格子補修工事_m3様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "1021",
+   "r": 6,
+   "fields": {
+    "date": "2024-10-21",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 劣化部確認・マーキング、撤去 56%",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 50,
+    "progress": 50,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1021",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1021",
+   "r": 8,
+   "fields": {
+    "date": "2024-10-21",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1022",
+   "r": 6,
+   "fields": {
+    "date": "2024-10-22",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 補修完了、外観・寸法検査 良",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1022",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1022",
+   "r": 8,
+   "fields": {
+    "date": "2024-10-22",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1023",
+   "r": 6,
+   "fields": {
+    "date": "2024-10-23",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 劣化部確認・マーキング、撤去 61%",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 20,
+    "progress": 15,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1023",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1023",
+   "r": 8,
+   "fields": {
+    "date": "2024-10-23",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1024",
+   "r": 6,
+   "fields": {
+    "date": "2024-10-24",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（溶接）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 40,
+    "progress": 30,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1024",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1024",
+   "r": 8,
+   "fields": {
+    "date": "2024-10-24",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1025",
+   "r": 6,
+   "fields": {
+    "date": "2024-10-25",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（施工中）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 60,
+    "progress": 55,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1025",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1025",
+   "r": 8,
+   "fields": {
+    "date": "2024-10-25",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1026",
+   "r": 6,
+   "fields": {
+    "date": "2024-10-26",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（取付）",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 80,
+    "progress": 70,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1026",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1026",
+   "r": 8,
+   "fields": {
+    "date": "2024-10-26",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1028",
+   "r": 6,
+   "fields": {
+    "date": "2024-10-28",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 補修完了、外観・寸法検査 良",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1028",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1028",
+   "r": 8,
+   "fields": {
+    "date": "2024-10-28",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1029",
+   "r": 6,
+   "fields": {
+    "date": "2024-10-29",
+    "team": "A班（炉・築炉）",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替、作動確認 良",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1029",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1029",
+   "r": 8,
+   "fields": {
+    "date": "2024-10-29",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1030",
+   "r": 6,
+   "fields": {
+    "date": "2024-10-30",
+    "team": "A班（炉・築炉）",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1030",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1030",
+   "r": 8,
+   "fields": {
+    "date": "2024-10-30",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  }
+ ]
+}

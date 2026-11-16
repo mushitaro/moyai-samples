@@ -1,0 +1,282 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成28年度煙突外筒補修工事_業者様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "1003",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-03",
+    "place": "煙突外筒",
+    "content": "煙突外筒 劣化部確認・マーキング、撤去 42%",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1003",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-03",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1004",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-04",
+    "place": "煙突外筒",
+    "content": "煙突外筒 ひび割れ補修・外面塗装（取付）",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1004",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-04",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1005",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-05",
+    "place": "煙突外筒",
+    "content": "煙突外筒 補修完了、外観・寸法検査 良",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1005",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-05",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1006",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-06",
+    "place": "煙突外筒",
+    "content": "煙突外筒 劣化部確認・マーキング、撤去 50%",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1006",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-06",
+    "persons": 6,
+    "manDays": 6.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1007",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-07",
+    "place": "煙突外筒",
+    "content": "煙突外筒 ひび割れ補修・外面塗装（施工中）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1007",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-07",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1008",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-08",
+    "place": "煙突外筒",
+    "content": "煙突外筒 ひび割れ補修・外面塗装（取付）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1008",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-08",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1010",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-10",
+    "place": "煙突外筒",
+    "content": "煙突外筒 ひび割れ補修・外面塗装（仮組）",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1010",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-10",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1011",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-11",
+    "place": "煙突外筒",
+    "content": "煙突外筒 ひび割れ補修・外面塗装（仮組）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1011",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-11",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1012",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-12",
+    "place": "煙突外筒",
+    "content": "煙突外筒 ひび割れ補修・外面塗装（取付）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1012",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-12",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1013",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-13",
+    "place": "煙突外筒",
+    "content": "煙突外筒 補修完了、外観・寸法検査 良",
+    "persons": 5,
+    "manDays": 5.31,
+    "manDaysText": "8.5時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1013",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-13",
+    "persons": 5,
+    "manDays": 5.31
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1014",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-14",
+    "place": "煙突外筒",
+    "content": "煙突外筒 ひび割れ補修・外面塗装。パッキン 状態確認、試運転 良",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1014",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-14",
+    "persons": 2,
+    "manDays": 2.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1015",
+   "r": 7,
+   "fields": {
+    "date": "2016-10-15",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1015",
+   "r": 8,
+   "fields": {
+    "date": "2016-10-15",
+    "persons": 3,
+    "manDays": 3.0
+   }
+  }
+ ]
+}

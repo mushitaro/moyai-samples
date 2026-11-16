@@ -1,0 +1,41 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成13年度2号炉燃焼火格子補修工事_手書き_0915.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度2号炉燃焼火格子補修工事_手書き_0915.jpg",
+   "fields": {
+    "date": "2001-09-15",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "読めない",
+    "persons": 3,
+    "trades": {
+     "社員": 2,
+     "築炉": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度2号炉燃焼火格子補修工事_手書き_0915.jpg",
+   "fields": {
+    "date": "2001-09-15",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "3人工"
+   }
+  }
+ ],
+ "image_size": [
+  1599,
+  1226
+ ]
+}

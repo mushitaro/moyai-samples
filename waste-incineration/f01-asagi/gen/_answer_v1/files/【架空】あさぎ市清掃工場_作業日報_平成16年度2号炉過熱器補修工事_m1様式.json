@@ -1,0 +1,266 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成16年度2号炉過熱器補修工事_m1様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-18",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "過熱器",
+    "content": "過熱器 劣化部確認・マーキング、撤去 45%",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "50%"
+   },
+   "sheet": "10.18",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-18",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   },
+   "sheet": "10.18",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-19",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "過熱器",
+    "content": "過熱器 補修完了、外観・寸法検査 良",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "完了"
+   },
+   "sheet": "10.19",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-19",
+    "persons": 4,
+    "manDays": 4.5,
+    "manDaysText": "4.5人工"
+   },
+   "sheet": "10.19",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-20",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "過熱器",
+    "content": "過熱器 劣化部確認・マーキング、撤去 54%",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 2,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "25%"
+   },
+   "sheet": "10.20",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-20",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "10.20",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-21",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "過熱器",
+    "content": "過熱器 1次過熱器下段 管8本取替（取付）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "雑": 2
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "50%"
+   },
+   "sheet": "10.21",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-21",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "10.21",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-22",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "過熱器",
+    "content": "過熱器 1次過熱器下段 管8本取替（溶接）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "65%"
+   },
+   "sheet": "10.22",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-22",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "10.22",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-23",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "過熱器",
+    "content": "過熱器 補修完了、外観・寸法検査 良",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 3.5,
+    "manDaysText": "4人×7h",
+    "progress": "完了"
+   },
+   "sheet": "10.23",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-23",
+    "persons": 4,
+    "manDays": 3.5,
+    "manDaysText": "3.5人工"
+   },
+   "sheet": "10.23",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-25",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "過熱器",
+    "content": "過熱器 1次過熱器下段 管8本取替。管 状態確認、試運転 良",
+    "persons": 3,
+    "trades": {
+     "社員": 2,
+     "築炉": 1
+    },
+    "manDays": 2.62,
+    "manDaysText": "3人×7h",
+    "progress": "完了"
+   },
+   "sheet": "10.25",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-25",
+    "persons": 3,
+    "manDays": 2.62,
+    "manDaysText": "2.6人工"
+   },
+   "sheet": "10.25",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-26",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 2.62,
+    "manDaysText": "3人×7h",
+    "progress": "完了"
+   },
+   "sheet": "10.26",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-26",
+    "persons": 3,
+    "manDays": 2.62,
+    "manDaysText": "2.6人工"
+   },
+   "sheet": "10.26",
+   "r": 20
+  }
+ ]
+}

@@ -1,0 +1,296 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成27年度2号炉水冷壁補修工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2015-10-05",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 肉厚測定 40 点（上段）",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 50
+   },
+   "sheet": "10.5",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2015-10-05",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "10.5",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2015-10-06",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 肉厚測定 完了（累計 128 点、最小 3.2mm）",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 100
+   },
+   "sheet": "10.6",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2015-10-06",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "10.6",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2015-10-07",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 肉厚測定 59 点（後列）",
+    "staff": 1,
+    "partner": 5,
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "progress": 12
+   },
+   "sheet": "10.7",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2015-10-07",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   },
+   "sheet": "10.7",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2015-10-08",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 肉厚測定 51 点（前列）",
+    "staff": 1,
+    "partner": 5,
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "progress": 28
+   },
+   "sheet": "10.8",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2015-10-08",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   },
+   "sheet": "10.8",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2015-10-09",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 肉厚測定 30 点（前列）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 40
+   },
+   "sheet": "10.9",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2015-10-09",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "10.9",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2015-10-10",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 肉厚測定 45 点（後列）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 67
+   },
+   "sheet": "10.10",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2015-10-10",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "10.10",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2015-10-12",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 肉厚測定 51 点（後列）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 78
+   },
+   "sheet": "10.12",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2015-10-12",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "10.12",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2015-10-13",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 肉厚測定 完了（累計 258 点、最小 5.0mm）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "45.0",
+    "progress": 100
+   },
+   "sheet": "10.13",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2015-10-13",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "45.0"
+   },
+   "sheet": "10.13",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2015-10-14",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "水冷壁",
+    "content": "水冷壁 肉厚測定 完了（累計 31 点、最小 4.6mm）",
+    "staff": 2,
+    "partner": 1,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   },
+   "sheet": "10.14",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2015-10-14",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "10.14",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2015-10-15",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   },
+   "sheet": "10.15",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2015-10-15",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "10.15",
+   "r": 19
+  }
+ ]
+}

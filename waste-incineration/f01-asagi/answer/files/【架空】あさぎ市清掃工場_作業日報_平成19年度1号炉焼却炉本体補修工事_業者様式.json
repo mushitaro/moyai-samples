@@ -1,0 +1,144 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成19年度1号炉焼却炉本体補修工事_業者様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "0604",
+   "r": 7,
+   "fields": {
+    "date": "2007-06-04",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修。アンカー 状態確認、試運転 良",
+    "persons": 4,
+    "manDays": 4.5,
+    "manDaysText": "9時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0604",
+   "r": 8,
+   "fields": {
+    "date": "2007-06-04",
+    "persons": 4,
+    "manDays": 4.5
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0605",
+   "r": 7,
+   "fields": {
+    "date": "2007-06-05",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 劣化部確認・マーキング、撤去 33%",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0605",
+   "r": 8,
+   "fields": {
+    "date": "2007-06-05",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0606",
+   "r": 7,
+   "fields": {
+    "date": "2007-06-06",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修（仮組）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0606",
+   "r": 8,
+   "fields": {
+    "date": "2007-06-06",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0607",
+   "r": 7,
+   "fields": {
+    "date": "2007-06-07",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 補修完了、外観・寸法検査 良",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0607",
+   "r": 8,
+   "fields": {
+    "date": "2007-06-07",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0608",
+   "r": 7,
+   "fields": {
+    "date": "2007-06-08",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修、作動確認 良",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0608",
+   "r": 8,
+   "fields": {
+    "date": "2007-06-08",
+    "persons": 3,
+    "manDays": 3.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0609",
+   "r": 7,
+   "fields": {
+    "date": "2007-06-09",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0609",
+   "r": 8,
+   "fields": {
+    "date": "2007-06-09",
+    "persons": 3,
+    "manDays": 3.0
+   }
+  }
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和7年度灰ピット壁面補修工事_業者様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "1013",
+   "r": 7,
+   "fields": {
+    "date": "2025-10-13",
+    "place": "資材置場",
+    "content": "資機材搬入・養生",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1013",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-13",
+    "persons": 3,
+    "manDays": 3.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1014",
+   "r": 7,
+   "fields": {
+    "date": "2025-10-14",
+    "place": "灰ピット",
+    "content": "灰ピット 劣化部確認・マーキング、撤去 41%",
+    "persons": 3,
+    "manDays": 3.19,
+    "manDaysText": "8.5時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1014",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-14",
+    "persons": 3,
+    "manDays": 3.19
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1015",
+   "r": 7,
+   "fields": {
+    "date": "2025-10-15",
+    "place": "灰ピット",
+    "content": "灰ピット 補修完了、外観・寸法検査 良",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1015",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-15",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1016",
+   "r": 7,
+   "fields": {
+    "date": "2025-10-16",
+    "place": "灰ピット",
+    "content": "灰ピット 劣化部確認・マーキング、撤去 55%",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "9時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1016",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-16",
+    "persons": 5,
+    "manDays": 5.62
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1017",
+   "r": 7,
+   "fields": {
+    "date": "2025-10-17",
+    "place": "灰ピット",
+    "content": "灰ピット 壁面補修（取付）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1017",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-17",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1018",
+   "r": 7,
+   "fields": {
+    "date": "2025-10-18",
+    "place": "灰ピット",
+    "content": "灰ピット 壁面補修（溶接）",
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "7時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1018",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-18",
+    "persons": 5,
+    "manDays": 4.38
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1020",
+   "r": 7,
+   "fields": {
+    "date": "2025-10-20",
+    "place": "灰ピット",
+    "content": "灰ピット 壁面補修（溶接）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1020",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-20",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1021",
+   "r": 7,
+   "fields": {
+    "date": "2025-10-21",
+    "place": "灰ピット",
+    "content": "灰ピット 壁面補修（溶接）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1021",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-21",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1022",
+   "r": 7,
+   "fields": {
+    "date": "2025-10-22",
+    "place": "灰ピット",
+    "content": "灰ピット 補修完了、外観・寸法検査 良",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "9時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1022",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-22",
+    "persons": 5,
+    "manDays": 5.62
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1023",
+   "r": 7,
+   "fields": {
+    "date": "2025-10-23",
+    "place": "灰ピット",
+    "content": "灰ピット 壁面補修。ボルト類 状態確認、試運転 良",
+    "persons": 3,
+    "manDays": 2.62,
+    "manDaysText": "7時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1023",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-23",
+    "persons": 3,
+    "manDays": 2.62
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1024",
+   "r": 7,
+   "fields": {
+    "date": "2025-10-24",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1024",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-24",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  }
+ ]
+}

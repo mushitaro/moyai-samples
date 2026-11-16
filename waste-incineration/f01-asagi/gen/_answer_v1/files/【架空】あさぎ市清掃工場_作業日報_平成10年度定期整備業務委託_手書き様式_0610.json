@@ -1,0 +1,59 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成10年度定期整備業務委託_手書き様式_0610.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "1998-06-10",
+    "no": "101",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "資機材搬入（2t車 4台）",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 2
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   },
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成10年度定期整備業務委託_手書き様式_0610.jpg"
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "1998-06-10",
+    "no": "103",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 220℃",
+    "persons": 0,
+    "trades": {},
+    "manDays": 0.0,
+    "manDaysText": "—",
+    "progress": "完了"
+   },
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成10年度定期整備業務委託_手書き様式_0610.jpg"
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "1998-06-10",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   },
+   "seq": 2,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成10年度定期整備業務委託_手書き様式_0610.jpg"
+  }
+ ],
+ "image_size": [
+  1796,
+  1382
+ ]
+}

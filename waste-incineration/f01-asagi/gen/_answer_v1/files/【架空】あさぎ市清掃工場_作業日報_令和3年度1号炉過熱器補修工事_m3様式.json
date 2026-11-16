@@ -1,0 +1,314 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和3年度1号炉過熱器補修工事_m3様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-14",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 肉厚測定 完了（累計 56 点、最小 4.2mm）",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "0614",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "0614",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-06-14",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "0614",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-15",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 肉厚測定 67 点（下段）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 25,
+    "progress": 15,
+    "status": "継続"
+   },
+   "sheet": "0615",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "0615",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-06-15",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "0615",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-16",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 肉厚測定 52 点（後列）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.62,
+    "manDaysText": "45.0",
+    "plan": 50,
+    "progress": 50,
+    "status": "継続"
+   },
+   "sheet": "0616",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.62,
+    "manDaysText": "45.0"
+   },
+   "sheet": "0616",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-06-16",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.62,
+    "manDaysText": "45.0"
+   },
+   "sheet": "0616",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-17",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 肉厚測定 23 点（中段）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 75,
+    "progress": 65,
+    "status": "継続"
+   },
+   "sheet": "0617",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "0617",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-06-17",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "0617",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-18",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 肉厚測定 完了（累計 276 点、最小 3.4mm）",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.75,
+    "manDaysText": "54.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "0618",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.75,
+    "manDaysText": "54.0"
+   },
+   "sheet": "0618",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-06-18",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.75,
+    "manDaysText": "54.0"
+   },
+   "sheet": "0618",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-19",
+    "team": "A班（炉・築炉）",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 肉厚測定 完了（累計 60 点、最小 4.1mm）",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "0619",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   },
+   "sheet": "0619",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-06-19",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   },
+   "sheet": "0619",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-21",
+    "team": "A班（炉・築炉）",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "0621",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "0621",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-06-21",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "0621",
+   "r": 8
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成30年度2号炉主灰搬出コンベヤ補修工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "9.10",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-10",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "主灰搬出コンベヤ",
+    "content": "主灰搬出コンベヤ チェーン・フライト交換、作動確認 良",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.10",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-10",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.11",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-11",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "主灰搬出コンベヤ",
+    "content": "主灰搬出コンベヤ チェーン・フライト交換、作動確認 良",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.11",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-11",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.12",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-12",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "主灰搬出コンベヤ",
+    "content": "主灰搬出コンベヤ チェーン・フライト交換。スプロケット 状態確認、試運転 良",
+    "staff": 2,
+    "partner": 1,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.12",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-12",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.13",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-13",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 2.62,
+    "manDaysText": "21.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.13",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-13",
+    "persons": 3,
+    "manDays": 2.62,
+    "manDaysText": "21.0"
+   }
+  }
+ ]
+}

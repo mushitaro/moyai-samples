@@ -1,0 +1,134 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成20年度1号炉主灰搬出コンベヤ補修工事_m1様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "6.2",
+   "r": 6,
+   "fields": {
+    "date": "2008-06-02",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "主灰搬出コンベヤ",
+    "content": "主灰搬出コンベヤ チェーン・フライト交換、作動確認 良",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.2",
+   "r": 20,
+   "fields": {
+    "date": "2008-06-02",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "3人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.3",
+   "r": 6,
+   "fields": {
+    "date": "2008-06-03",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "主灰搬出コンベヤ",
+    "content": "主灰搬出コンベヤ チェーン・フライト交換。フライト 状態確認、試運転 良",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.3",
+   "r": 20,
+   "fields": {
+    "date": "2008-06-03",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.4",
+   "r": 6,
+   "fields": {
+    "date": "2008-06-04",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "主灰搬出コンベヤ",
+    "content": "主灰搬出コンベヤ チェーン・フライト交換、作動確認 良",
+    "persons": 3,
+    "trades": {
+     "社員": 2,
+     "築炉": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.4",
+   "r": 20,
+   "fields": {
+    "date": "2008-06-04",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "3人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.5",
+   "r": 6,
+   "fields": {
+    "date": "2008-06-05",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.5",
+   "r": 20,
+   "fields": {
+    "date": "2008-06-05",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "3人工"
+   }
+  }
+ ]
+}

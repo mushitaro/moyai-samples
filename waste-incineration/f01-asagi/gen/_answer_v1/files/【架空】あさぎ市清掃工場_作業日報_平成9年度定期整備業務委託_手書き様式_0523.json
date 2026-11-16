@@ -1,0 +1,41 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成9年度定期整備業務委託_手書き様式_0523.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "1997-05-23",
+    "no": "101",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "読めない",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 3
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "20%"
+   },
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成9年度定期整備業務委託_手書き様式_0523.jpg"
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "1997-05-23",
+    "persons": 4,
+    "manDays": 4.5,
+    "manDaysText": "4.5人工"
+   },
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成9年度定期整備業務委託_手書き様式_0523.jpg"
+  }
+ ],
+ "image_size": [
+  1772,
+  1366
+ ]
+}

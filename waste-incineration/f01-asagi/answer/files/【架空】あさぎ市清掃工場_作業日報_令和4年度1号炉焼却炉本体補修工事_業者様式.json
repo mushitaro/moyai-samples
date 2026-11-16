@@ -1,0 +1,144 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和4年度1号炉焼却炉本体補修工事_業者様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "0620",
+   "r": 7,
+   "fields": {
+    "date": "2022-06-20",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修。キャスタブル 状態確認、試運転 良",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0620",
+   "r": 8,
+   "fields": {
+    "date": "2022-06-20",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0621",
+   "r": 7,
+   "fields": {
+    "date": "2022-06-21",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 劣化部確認・マーキング、撤去 63%",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0621",
+   "r": 8,
+   "fields": {
+    "date": "2022-06-21",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0622",
+   "r": 7,
+   "fields": {
+    "date": "2022-06-22",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修（溶接）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0622",
+   "r": 8,
+   "fields": {
+    "date": "2022-06-22",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0623",
+   "r": 7,
+   "fields": {
+    "date": "2022-06-23",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 補修完了、外観・寸法検査 良",
+    "persons": 5,
+    "manDays": 5.31,
+    "manDaysText": "8.5時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0623",
+   "r": 8,
+   "fields": {
+    "date": "2022-06-23",
+    "persons": 5,
+    "manDays": 5.31
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0624",
+   "r": 7,
+   "fields": {
+    "date": "2022-06-24",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 耐火物部分補修、作動確認 良",
+    "persons": 3,
+    "manDays": 2.62,
+    "manDaysText": "7時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0624",
+   "r": 8,
+   "fields": {
+    "date": "2022-06-24",
+    "persons": 3,
+    "manDays": 2.62
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0625",
+   "r": 7,
+   "fields": {
+    "date": "2022-06-25",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0625",
+   "r": 8,
+   "fields": {
+    "date": "2022-06-25",
+    "persons": 3,
+    "manDays": 3.0
+   }
+  }
+ ]
+}

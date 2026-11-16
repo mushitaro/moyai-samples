@@ -1,0 +1,391 @@
+{
+ "file": "【架空】あさぎ市清掃工場_工事報告書_平成11年度定期整備業務委託_r1様式.pdf",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "text": "平成11年度"
+   },
+   "seq": 0
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "【架空】あさぎ市清掃工場"
+   },
+   "seq": 1
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "定期整備業務委託"
+   },
+   "seq": 2
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "工　事　報　告　書"
+   },
+   "seq": 3
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "平成11年11月"
+   },
+   "seq": 4
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "汐見重工環境株式会社　環境プラント事業部"
+   },
+   "seq": 5
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "作成 r1"
+   },
+   "seq": 6
+  },
+  {
+   "kind": "parent",
+   "fields": {
+    "text": "１．工事概要"
+   },
+   "seq": 7
+  },
+  {
+   "kind": "parent",
+   "fields": {
+    "項目": "項目",
+    "内容": "内容"
+   },
+   "seq": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "項目": "件名",
+    "内容": "平成11年度 あさぎ市清掃工場 定期整備業務委託"
+   },
+   "seq": 9
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "項目": "契約工期",
+    "内容": "平成11年6月6日〜平成11年12月28日"
+   },
+   "seq": 10
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "項目": "施工期間",
+    "内容": "1号炉 平成11年6月28日〜平成11年7月30日／全停 平成11年7月13日〜平成11年7月15日／2号炉 平成11年9月27日〜平成11年10月29日"
+   },
+   "seq": 11
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "項目": "受注者",
+    "内容": "汐見重工環境株式会社 環境プラント事業部（現場代理人 m1）"
+   },
+   "seq": 12
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "項目": "炉の運転操作",
+    "内容": "市運転班"
+   },
+   "seq": 13
+  },
+  {
+   "kind": "parent",
+   "fields": {
+    "text": "２．実施概要"
+   },
+   "seq": 14
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "定期整備仕様書に基づき、1号炉・2号炉の順に炉を停止して点検・整備を行い、1号炉期間中に全停を行った。対象機器は1号炉 3 件、2号炉 7 件、共通 2 件の計 12 件である。"
+   },
+   "seq": 15
+  },
+  {
+   "kind": "parent",
+   "fields": {
+    "text": "３．整備対象機器と実施内容"
+   },
+   "seq": 16
+  },
+  {
+   "kind": "parent",
+   "fields": {
+    "code": "機器番号",
+    "furnace": "号炉",
+    "name": "機器名",
+    "kind": "区分",
+    "work": "実施内容",
+    "result": "結果"
+   },
+   "seq": 17
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "ST-102",
+    "furnace": "1号炉",
+    "name": "燃焼火格子",
+    "kind": "計測",
+    "work": "火格子摩耗計測",
+    "result": "最大摩耗 2.5mm（限度内）。"
+   },
+   "seq": 18
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "B-101",
+    "furnace": "1号炉",
+    "name": "ボイラドラム",
+    "kind": "点検",
+    "work": "ボイラ開放点検（法定）",
+    "result": "異常なし。"
+   },
+   "seq": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "SH-101",
+    "furnace": "1号炉",
+    "name": "過熱器",
+    "kind": "計測",
+    "work": "肉厚測定",
+    "result": "最小 4.1mm（管理値内）。"
+   },
+   "seq": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "CR-01",
+    "furnace": "共通",
+    "name": "ごみクレーン1号機",
+    "kind": "整備",
+    "work": "ワイヤロープ交換",
+    "result": "整備後の試運転良好。"
+   },
+   "seq": 21
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "EG-01",
+    "furnace": "共通",
+    "name": "非常用発電機",
+    "kind": "点検",
+    "work": "負荷運転試験",
+    "result": "異常なし。"
+   },
+   "seq": 22
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "ST-201",
+    "furnace": "2号炉",
+    "name": "乾燥火格子",
+    "kind": "計測",
+    "work": "火格子摩耗計測",
+    "result": "最大摩耗 5.5mm（限度内）。"
+   },
+   "seq": 23
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "B-202",
+    "furnace": "2号炉",
+    "name": "水冷壁",
+    "kind": "計測",
+    "work": "肉厚測定",
+    "result": "最小 3.4mm（管理値内）。"
+   },
+   "seq": 24
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "SH-201",
+    "furnace": "2号炉",
+    "name": "過熱器",
+    "kind": "計測",
+    "work": "肉厚測定",
+    "result": "最小 4.4mm（管理値内）。"
+   },
+   "seq": 25
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "EC-201",
+    "furnace": "2号炉",
+    "name": "エコノマイザ",
+    "kind": "計測",
+    "work": "肉厚測定",
+    "result": "最小 3.4mm（管理値内）。"
+   },
+   "seq": 26
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "GC-201",
+    "furnace": "2号炉",
+    "name": "減温塔",
+    "kind": "点検",
+    "work": "内部点検（付着物除去）",
+    "result": "異常なし。"
+   },
+   "seq": 27
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "F-201",
+    "furnace": "2号炉",
+    "name": "押込送風機",
+    "kind": "点検",
+    "work": "開放点検・振動測定",
+    "result": "振動 1.9mm/s、異常なし。"
+   },
+   "seq": 28
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "code": "F-203",
+    "furnace": "2号炉",
+    "name": "誘引通風機",
+    "kind": "点検",
+    "work": "開放点検・振動測定",
+    "result": "振動 2.2mm/s、異常なし。"
+   },
+   "seq": 29
+  },
+  {
+   "kind": "parent",
+   "fields": {
+    "text": "４．主な確認結果"
+   },
+   "seq": 30
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "■ 1号炉 燃焼火格子（ST-102）：最大摩耗 2.5mm（限度内）。"
+   },
+   "seq": 31
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "■ 1号炉 過熱器（SH-101）：最小 4.1mm（管理値内）。"
+   },
+   "seq": 32
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "■ 2号炉 乾燥火格子（ST-201）：最大摩耗 5.5mm（限度内）。"
+   },
+   "seq": 33
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "■ 2号炉 水冷壁（B-202）：最小 3.4mm（管理値内）。"
+   },
+   "seq": 34
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "■ 2号炉 過熱器（SH-201）：最小 4.4mm（管理値内）。"
+   },
+   "seq": 35
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "■ 2号炉 エコノマイザ（EC-201）：最小 3.4mm（管理値内）。"
+   },
+   "seq": 36
+  },
+  {
+   "kind": "parent",
+   "fields": {
+    "text": "５．使用部品・支給品"
+   },
+   "seq": 37
+  },
+  {
+   "kind": "parent",
+   "fields": {
+    "part": "品名",
+    "qty": "数量",
+    "where": "使用箇所",
+    "kind": "区分"
+   },
+   "seq": 38
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "part": "ブレーキライニング",
+    "qty": "1式",
+    "where": "共通 ごみクレーン1号機",
+    "kind": "受注者手配"
+   },
+   "seq": 39
+  },
+  {
+   "kind": "parent",
+   "fields": {
+    "text": "６．所見および今後の整備について"
+   },
+   "seq": 40
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "・2号炉 乾燥火格子：劣化が進んでおり、平成12年度の補修（2号炉乾燥火格子補修工事）を提案する。"
+   },
+   "seq": 41
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "・2号炉 焼却炉本体：劣化が進んでおり、平成12年度の補修（2号炉焼却炉本体補修工事）を提案する。"
+   },
+   "seq": 42
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "text": "・1号炉 焼却炉本体：劣化が進んでおり、平成12年度の補修（1号炉焼却炉本体補修工事）を提案する。"
+   },
+   "seq": 43
+  }
+ ]
+}

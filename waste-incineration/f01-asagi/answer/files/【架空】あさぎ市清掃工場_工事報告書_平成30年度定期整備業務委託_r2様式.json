@@ -1,0 +1,1182 @@
+{
+ "file": "【架空】あさぎ市清掃工場_工事報告書_平成30年度定期整備業務委託_r2様式.pdf",
+ "plan": false,
+ "records": [
+  {
+   "kind": "parent",
+   "seq": 0,
+   "r": 1,
+   "fields": {
+    "text": "【架空】工事報告書（サマリー）"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 1,
+   "r": 2,
+   "fields": {
+    "項目": "項目",
+    "内容": "内容"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 2,
+   "r": 3,
+   "fields": {
+    "項目": "件名",
+    "内容": "平成30年度 あさぎ市清掃工場 定期整備業務委託"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 3,
+   "r": 4,
+   "fields": {
+    "項目": "契約工期",
+    "内容": "平成30年5月20日〜平成31年4月23日"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 4,
+   "r": 5,
+   "fields": {
+    "項目": "施工期間",
+    "内容": "1号炉 平成30年6月11日〜平成30年7月13日／全停 平成30年6月26日〜平成30年6月28日／2号炉 平成30年9月3日〜平成31年2月22日"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 5,
+   "r": 6,
+   "fields": {
+    "項目": "受注者",
+    "内容": "汐見重工環境株式会社 環境プラント事業部（現場代理人 m2）"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 6,
+   "r": 7,
+   "fields": {
+    "項目": "炉の運転操作",
+    "内容": "運転委託先"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 7,
+   "r": 8,
+   "fields": {
+    "text": "1. 実施概要"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 8,
+   "r": 9,
+   "fields": {
+    "text": "定期整備仕様書に基づき、1号炉・2号炉の順に炉を停止して点検・整備を行い、1号炉期間中に全停を行った。対象機器は1号炉 17 件、2号炉 17 件、共通 32 件の計 66 件である。別契約の補修工事（ごみクレーン2号機制御盤更新工事、1号炉蒸発管群補修工事、1号炉主灰搬出コンベヤ補修工事、2号炉主灰搬出コンベヤ補修工事）は本報告の対象外である。"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 9,
+   "r": 10,
+   "fields": {
+    "text": "2. 対象機器と実施内容"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 10,
+   "r": 11,
+   "fields": {
+    "code": "機器番号",
+    "furnace": "号炉",
+    "name": "機器名",
+    "kind": "区分",
+    "work": "実施内容",
+    "result": "判定"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 11,
+   "r": 12,
+   "fields": {
+    "code": "G-102",
+    "furnace": "1号炉",
+    "name": "ブリッジ解除装置",
+    "kind": "補修",
+    "work": "油圧シリンダパッキン交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 12,
+   "r": 13,
+   "fields": {
+    "code": "ST-103",
+    "furnace": "1号炉",
+    "name": "後燃焼火格子",
+    "kind": "計測",
+    "work": "火格子摩耗計測",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 13,
+   "r": 14,
+   "fields": {
+    "code": "BN-102",
+    "furnace": "1号炉",
+    "name": "再燃バーナ",
+    "kind": "整備",
+    "work": "バーナ分解清掃・ノズル交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 14,
+   "r": 15,
+   "fields": {
+    "code": "F-105",
+    "furnace": "1号炉",
+    "name": "バーナ燃焼用送風機",
+    "kind": "補修",
+    "work": "軸受交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 15,
+   "r": 16,
+   "fields": {
+    "code": "SH-101",
+    "furnace": "1号炉",
+    "name": "過熱器",
+    "kind": "計測",
+    "work": "肉厚測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 16,
+   "r": 17,
+   "fields": {
+    "code": "SB-105",
+    "furnace": "1号炉",
+    "name": "スートブロワNo.5",
+    "kind": "補修",
+    "work": "噴射管交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 17,
+   "r": 18,
+   "fields": {
+    "code": "MV-101",
+    "furnace": "1号炉",
+    "name": "主蒸気止め弁",
+    "kind": "点検",
+    "work": "アクチュエータ点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 18,
+   "r": 19,
+   "fields": {
+    "code": "CV-103",
+    "furnace": "1号炉",
+    "name": "連続ブロー調節弁",
+    "kind": "整備",
+    "work": "シリンダ・シール交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 19,
+   "r": 20,
+   "fields": {
+    "code": "RV-101",
+    "furnace": "1号炉",
+    "name": "ボイラダスト排出ロータリバルブNo.1",
+    "kind": "整備",
+    "work": "ロータ・シール整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 20,
+   "r": 21,
+   "fields": {
+    "code": "CV-105",
+    "furnace": "1号炉",
+    "name": "噴霧水調節弁",
+    "kind": "整備",
+    "work": "調節弁分解整備・ポジショナ調整",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 21,
+   "r": 22,
+   "fields": {
+    "code": "AD-106",
+    "furnace": "1号炉",
+    "name": "BFバイパスダンパ",
+    "kind": "整備",
+    "work": "シリンダ・弁座整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 22,
+   "r": 23,
+   "fields": {
+    "code": "RV-105",
+    "furnace": "1号炉",
+    "name": "BFロータリバルブNo.2",
+    "kind": "整備",
+    "work": "ロータ・シール整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 23,
+   "r": 24,
+   "fields": {
+    "code": "C-105",
+    "furnace": "1号炉",
+    "name": "BFダスト排出コンベヤNo.2",
+    "kind": "補修",
+    "work": "チェーン・スクリュー羽根補修",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 24,
+   "r": 25,
+   "fields": {
+    "code": "F-101",
+    "furnace": "1号炉",
+    "name": "押込送風機",
+    "kind": "点検",
+    "work": "開放点検・振動測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 25,
+   "r": 26,
+   "fields": {
+    "code": "C-107",
+    "furnace": "1号炉",
+    "name": "飛灰搬送コンベヤ",
+    "kind": "補修",
+    "work": "チェーン・スクリュー羽根補修",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 26,
+   "r": 27,
+   "fields": {
+    "code": "ACC-101",
+    "furnace": "1号炉",
+    "name": "自動燃焼制御装置盤",
+    "kind": "点検",
+    "work": "機能点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 27,
+   "r": 28,
+   "fields": {
+    "code": "DCS-101",
+    "furnace": "1号炉",
+    "name": "DCS炉コントローラ盤",
+    "kind": "点検",
+    "work": "ハード点検（メーカー）",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 28,
+   "r": 29,
+   "fields": {
+    "code": "DR-01",
+    "furnace": "共通",
+    "name": "プラットホーム投入扉No.1",
+    "kind": "整備",
+    "work": "油圧シリンダ・ヒンジ整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 29,
+   "r": 30,
+   "fields": {
+    "code": "DR-02",
+    "furnace": "共通",
+    "name": "プラットホーム投入扉No.2",
+    "kind": "整備",
+    "work": "油圧シリンダ・ヒンジ整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 30,
+   "r": 31,
+   "fields": {
+    "code": "DR-03",
+    "furnace": "共通",
+    "name": "プラットホーム投入扉No.3",
+    "kind": "整備",
+    "work": "油圧シリンダ・ヒンジ整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 31,
+   "r": 32,
+   "fields": {
+    "code": "CR-01",
+    "furnace": "共通",
+    "name": "ごみクレーン1号機",
+    "kind": "整備",
+    "work": "ワイヤロープ交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 32,
+   "r": 33,
+   "fields": {
+    "code": "CU-01",
+    "furnace": "共通",
+    "name": "粗大ごみ切断機",
+    "kind": "補修",
+    "work": "刃交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 33,
+   "r": 34,
+   "fields": {
+    "code": "F-01",
+    "furnace": "共通",
+    "name": "ピット脱臭ファン",
+    "kind": "点検",
+    "work": "開放点検・振動測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 34,
+   "r": 35,
+   "fields": {
+    "code": "P-02A",
+    "furnace": "共通",
+    "name": "灯油移送ポンプA",
+    "kind": "更新",
+    "work": "ポンプ更新",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 35,
+   "r": 36,
+   "fields": {
+    "code": "SL-01",
+    "furnace": "共通",
+    "name": "消石灰貯留サイロ",
+    "kind": "点検",
+    "work": "内部点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 36,
+   "r": 37,
+   "fields": {
+    "code": "DC-01",
+    "furnace": "共通",
+    "name": "消石灰サイロ集じん器",
+    "kind": "整備",
+    "work": "ろ布交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 37,
+   "r": 38,
+   "fields": {
+    "code": "P-21A",
+    "furnace": "共通",
+    "name": "プラント用水ポンプA",
+    "kind": "整備",
+    "work": "分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 38,
+   "r": 39,
+   "fields": {
+    "code": "P-31A",
+    "furnace": "共通",
+    "name": "排水移送ポンプA",
+    "kind": "整備",
+    "work": "分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 39,
+   "r": 40,
+   "fields": {
+    "code": "AG-02",
+    "furnace": "共通",
+    "name": "緩速撹拌機",
+    "kind": "補修",
+    "work": "減速機交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 40,
+   "r": 41,
+   "fields": {
+    "code": "AV-31",
+    "furnace": "共通",
+    "name": "ごみピット汚水噴霧遮断弁",
+    "kind": "整備",
+    "work": "シリンダ・シール交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 41,
+   "r": 42,
+   "fields": {
+    "code": "SH-01",
+    "furnace": "共通",
+    "name": "高圧蒸気だめ",
+    "kind": "点検",
+    "work": "開放点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 42,
+   "r": 43,
+   "fields": {
+    "code": "SH-02",
+    "furnace": "共通",
+    "name": "低圧蒸気だめ",
+    "kind": "点検",
+    "work": "開放点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 43,
+   "r": 44,
+   "fields": {
+    "code": "P-15",
+    "furnace": "共通",
+    "name": "タービン非常用油ポンプ",
+    "kind": "整備",
+    "work": "分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 44,
+   "r": 45,
+   "fields": {
+    "code": "AV-11",
+    "furnace": "共通",
+    "name": "抽気逆止弁",
+    "kind": "点検",
+    "work": "作動確認・シール点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 45,
+   "r": 46,
+   "fields": {
+    "code": "VP-01B",
+    "furnace": "共通",
+    "name": "復水器真空ポンプB",
+    "kind": "整備",
+    "work": "分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 46,
+   "r": 47,
+   "fields": {
+    "code": "CV-12",
+    "furnace": "共通",
+    "name": "高低圧蒸気減圧弁No.1",
+    "kind": "整備",
+    "work": "調節弁分解整備・ポジショナ調整",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 47,
+   "r": 48,
+   "fields": {
+    "code": "HV-01",
+    "furnace": "共通",
+    "name": "22kV受電盤",
+    "kind": "点検",
+    "work": "精密点検（全停）",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 48,
+   "r": 49,
+   "fields": {
+    "code": "HV-11",
+    "furnace": "共通",
+    "name": "6.6kV高圧配電盤（受電）",
+    "kind": "点検",
+    "work": "精密点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 49,
+   "r": 50,
+   "fields": {
+    "code": "HV-12",
+    "furnace": "共通",
+    "name": "6.6kV高圧配電盤（母線連絡）",
+    "kind": "点検",
+    "work": "精密点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 50,
+   "r": 51,
+   "fields": {
+    "code": "HV-13",
+    "furnace": "共通",
+    "name": "6.6kV高圧配電盤（発電機連絡）",
+    "kind": "点検",
+    "work": "精密点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 51,
+   "r": 52,
+   "fields": {
+    "code": "HV-16",
+    "furnace": "共通",
+    "name": "6.6kV高圧配電盤（共通フィーダ）",
+    "kind": "点検",
+    "work": "精密点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 52,
+   "r": 53,
+   "fields": {
+    "code": "HV-18",
+    "furnace": "共通",
+    "name": "6.6kV高圧配電盤（所内変圧器フィーダ）",
+    "kind": "点検",
+    "work": "精密点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 53,
+   "r": 54,
+   "fields": {
+    "code": "HV-19",
+    "furnace": "共通",
+    "name": "6.6kV高圧配電盤（計器用変圧器）",
+    "kind": "点検",
+    "work": "精密点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 54,
+   "r": 55,
+   "fields": {
+    "code": "TR-11",
+    "furnace": "共通",
+    "name": "所内変圧器（1号炉系）",
+    "kind": "点検",
+    "work": "外観・絶縁点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 55,
+   "r": 56,
+   "fields": {
+    "code": "TR-12",
+    "furnace": "共通",
+    "name": "所内変圧器（2号炉系）",
+    "kind": "点検",
+    "work": "外観・絶縁点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 56,
+   "r": 57,
+   "fields": {
+    "code": "LV-12",
+    "furnace": "共通",
+    "name": "低圧主幹盤（2号炉系）",
+    "kind": "点検",
+    "work": "精密点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 57,
+   "r": 58,
+   "fields": {
+    "code": "LV-13",
+    "furnace": "共通",
+    "name": "低圧主幹盤（共通系）",
+    "kind": "点検",
+    "work": "精密点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 58,
+   "r": 59,
+   "fields": {
+    "code": "MCC-C2",
+    "furnace": "共通",
+    "name": "共通動力制御盤MCC-C2（タービン補機）",
+    "kind": "点検",
+    "work": "盤内点検・絶縁測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 59,
+   "r": 60,
+   "fields": {
+    "code": "MCC-C3",
+    "furnace": "共通",
+    "name": "共通動力制御盤MCC-C3（排水処理）",
+    "kind": "点検",
+    "work": "盤内点検・絶縁測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 60,
+   "r": 61,
+   "fields": {
+    "code": "BN-201",
+    "furnace": "2号炉",
+    "name": "助燃バーナ",
+    "kind": "整備",
+    "work": "バーナ分解清掃・ノズル交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 61,
+   "r": 62,
+   "fields": {
+    "code": "BN-202",
+    "furnace": "2号炉",
+    "name": "再燃バーナ",
+    "kind": "整備",
+    "work": "バーナ分解清掃・ノズル交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 62,
+   "r": 63,
+   "fields": {
+    "code": "C-201",
+    "furnace": "2号炉",
+    "name": "落じんコンベヤ",
+    "kind": "補修",
+    "work": "チェーン・スクリュー羽根補修",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 63,
+   "r": 64,
+   "fields": {
+    "code": "B-201",
+    "furnace": "2号炉",
+    "name": "ボイラドラム",
+    "kind": "点検",
+    "work": "ボイラ開放点検（法定）",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 64,
+   "r": 65,
+   "fields": {
+    "code": "EC-201",
+    "furnace": "2号炉",
+    "name": "エコノマイザ",
+    "kind": "計測",
+    "work": "肉厚測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 65,
+   "r": 66,
+   "fields": {
+    "code": "P-201A",
+    "furnace": "2号炉",
+    "name": "ボイラ給水ポンプA",
+    "kind": "整備",
+    "work": "分解整備（メカシール・軸受）",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 66,
+   "r": 67,
+   "fields": {
+    "code": "SB-205",
+    "furnace": "2号炉",
+    "name": "スートブロワNo.5",
+    "kind": "補修",
+    "work": "噴射管交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 67,
+   "r": 68,
+   "fields": {
+    "code": "SB-206",
+    "furnace": "2号炉",
+    "name": "スートブロワNo.6",
+    "kind": "補修",
+    "work": "噴射管交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 68,
+   "r": 69,
+   "fields": {
+    "code": "CV-202",
+    "furnace": "2号炉",
+    "name": "過熱低減器スプレー調節弁",
+    "kind": "整備",
+    "work": "シリンダ・シール交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 69,
+   "r": 70,
+   "fields": {
+    "code": "GC-201",
+    "furnace": "2号炉",
+    "name": "減温塔",
+    "kind": "点検",
+    "work": "内部点検（付着物除去）",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 70,
+   "r": 71,
+   "fields": {
+    "code": "FD-202",
+    "furnace": "2号炉",
+    "name": "活性炭定量供給機",
+    "kind": "整備",
+    "work": "分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 71,
+   "r": 72,
+   "fields": {
+    "code": "BL-202",
+    "furnace": "2号炉",
+    "name": "活性炭輸送ブロワ",
+    "kind": "整備",
+    "work": "ルーツブロワ分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 72,
+   "r": 73,
+   "fields": {
+    "code": "P-205B",
+    "furnace": "2号炉",
+    "name": "アンモニア水注入ポンプB",
+    "kind": "更新",
+    "work": "ポンプ更新",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 73,
+   "r": 74,
+   "fields": {
+    "code": "F-202",
+    "furnace": "2号炉",
+    "name": "二次送風機",
+    "kind": "補修",
+    "work": "軸受交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 74,
+   "r": 75,
+   "fields": {
+    "code": "CV-207",
+    "furnace": "2号炉",
+    "name": "空気予熱器蒸気調節弁",
+    "kind": "整備",
+    "work": "調節弁分解整備・ポジショナ調整",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 75,
+   "r": 76,
+   "fields": {
+    "code": "AD-212",
+    "furnace": "2号炉",
+    "name": "ボイラ出口煙道ダンパ",
+    "kind": "整備",
+    "work": "シリンダ・シール交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 76,
+   "r": 77,
+   "fields": {
+    "code": "LP-207",
+    "furnace": "2号炉",
+    "name": "炉現場操作盤",
+    "kind": "点検",
+    "work": "盤内点検・清掃・絶縁測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 77,
+   "r": 78,
+   "fields": {
+    "text": "3. 主な確認結果"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 78,
+   "r": 79,
+   "fields": {
+    "text": "■ 1号炉 ブリッジ解除装置（G-102）：補修後の作動確認良好。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 79,
+   "r": 80,
+   "fields": {
+    "text": "■ 1号炉 後燃焼火格子（ST-103）：最大摩耗 3.0mm（限度内）。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 80,
+   "r": 81,
+   "fields": {
+    "text": "■ 1号炉 バーナ燃焼用送風機（F-105）：補修後の作動確認良好。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 81,
+   "r": 82,
+   "fields": {
+    "text": "■ 1号炉 過熱器（SH-101）：最小 3.6mm（管理値内）。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 82,
+   "r": 83,
+   "fields": {
+    "text": "■ 1号炉 スートブロワNo.5（SB-105）：補修後の作動確認良好。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 83,
+   "r": 84,
+   "fields": {
+    "text": "■ 1号炉 BFダスト排出コンベヤNo.2（C-105）：補修後の作動確認良好。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 84,
+   "r": 85,
+   "fields": {
+    "text": "■ 1号炉 飛灰搬送コンベヤ（C-107）：補修後の作動確認良好。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 85,
+   "r": 86,
+   "fields": {
+    "text": "■ 共通 粗大ごみ切断機（CU-01）：補修後の作動確認良好。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 86,
+   "r": 87,
+   "fields": {
+    "text": "■ 共通 灯油移送ポンプA（P-02A）：更新後の試運転良好。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 87,
+   "r": 88,
+   "fields": {
+    "text": "■ 共通 緩速撹拌機（AG-02）：補修後の作動確認良好。"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 88,
+   "r": 89,
+   "fields": {
+    "text": "4. 支給品・部品の扱い"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 89,
+   "r": 90,
+   "fields": {
+    "part": "品名",
+    "qty": "数量",
+    "where": "使用箇所",
+    "kind": "区分"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 90,
+   "r": 91,
+   "fields": {
+    "part": "シール",
+    "qty": "1式",
+    "where": "1号炉 ブリッジ解除装置",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 91,
+   "r": 92,
+   "fields": {
+    "part": "パッキン",
+    "qty": "1式",
+    "where": "1号炉 再燃バーナ",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 92,
+   "r": 93,
+   "fields": {
+    "part": "グランドパッキン",
+    "qty": "1式",
+    "where": "1号炉 バーナ燃焼用送風機",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 93,
+   "r": 94,
+   "fields": {
+    "part": "シール",
+    "qty": "1式",
+    "where": "1号炉 スートブロワNo.5",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 94,
+   "r": 95,
+   "fields": {
+    "part": "シールキット",
+    "qty": "1式",
+    "where": "1号炉 連続ブロー調節弁",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 95,
+   "r": 96,
+   "fields": {
+    "part": "チェーン",
+    "qty": "1式",
+    "where": "1号炉 ボイラダスト排出ロータリバルブNo.1",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 96,
+   "r": 97,
+   "fields": {
+    "part": "シリンダ",
+    "qty": "1式",
+    "where": "1号炉 噴霧水調節弁",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 97,
+   "r": 98,
+   "fields": {
+    "part": "ポジショナ",
+    "qty": "1式",
+    "where": "1号炉 BFバイパスダンパ",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 98,
+   "r": 99,
+   "fields": {
+    "text": "5. 今後の整備に関する提案"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 99,
+   "r": 100,
+   "fields": {
+    "text": "・共通 系統連系保護継電器盤：劣化が進んでおり、令和元年度の補修（系統連系保護継電器盤更新工事）を提案する。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 100,
+   "r": 101,
+   "fields": {
+    "text": "・共通 灰クレーン制御盤：劣化が進んでおり、令和元年度の補修（灰クレーン制御盤更新工事）を提案する。"
+   }
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成23年度1号炉後燃焼火格子補修工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "7.12",
+   "r": 7,
+   "fields": {
+    "date": "2011-07-12",
+    "no": "2",
+    "furnace": "—",
+    "place": "資材置場",
+    "content": "資機材搬入・養生",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "7.12",
+   "r": 19,
+   "fields": {
+    "date": "2011-07-12",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "7.13",
+   "r": 7,
+   "fields": {
+    "date": "2011-07-13",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 35 点（後列）",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 40
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "7.13",
+   "r": 19,
+   "fields": {
+    "date": "2011-07-13",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "7.14",
+   "r": 7,
+   "fields": {
+    "date": "2011-07-14",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 完了（累計 48 点、最小 3.0mm）",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 2.62,
+    "manDaysText": "21.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "7.14",
+   "r": 19,
+   "fields": {
+    "date": "2011-07-14",
+    "persons": 3,
+    "manDays": 2.62,
+    "manDaysText": "21.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "7.15",
+   "r": 7,
+   "fields": {
+    "date": "2011-07-15",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 24 点（後列）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 25
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "7.15",
+   "r": 19,
+   "fields": {
+    "date": "2011-07-15",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "7.16",
+   "r": 7,
+   "fields": {
+    "date": "2011-07-16",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 76 点（前列）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 40
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "7.16",
+   "r": 19,
+   "fields": {
+    "date": "2011-07-16",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "7.18",
+   "r": 7,
+   "fields": {
+    "date": "2011-07-18",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 52 点（中段）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 70
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "7.18",
+   "r": 19,
+   "fields": {
+    "date": "2011-07-18",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "7.19",
+   "r": 7,
+   "fields": {
+    "date": "2011-07-19",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 完了（累計 268 点、最小 4.9mm）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "7.19",
+   "r": 19,
+   "fields": {
+    "date": "2011-07-19",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "7.20",
+   "r": 7,
+   "fields": {
+    "date": "2011-07-20",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 完了（累計 24 点、最小 4.3mm）",
+    "staff": 2,
+    "partner": 1,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "7.20",
+   "r": 19,
+   "fields": {
+    "date": "2011-07-20",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "7.21",
+   "r": 7,
+   "fields": {
+    "date": "2011-07-21",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.38,
+    "manDaysText": "27.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "7.21",
+   "r": 19,
+   "fields": {
+    "date": "2011-07-21",
+    "persons": 3,
+    "manDays": 3.38,
+    "manDaysText": "27.0"
+   }
+  }
+ ]
+}

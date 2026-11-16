@@ -1,0 +1,402 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和8年度1号炉後燃焼火格子補修工事_m3様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2026-06-08",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 41 点（中段）",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.38,
+    "manDaysText": "27.0",
+    "plan": 50,
+    "progress": 45,
+    "status": "継続"
+   },
+   "sheet": "0608",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.38,
+    "manDaysText": "27.0"
+   },
+   "sheet": "0608",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2026-06-08",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.38,
+    "manDaysText": "27.0"
+   },
+   "sheet": "0608",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2026-06-09",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 完了（累計 104 点、最小 3.8mm）",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "0609",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "0609",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2026-06-09",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "0609",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2026-06-10",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 52 点（後列）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 20,
+    "progress": 10,
+    "status": "継続"
+   },
+   "sheet": "0610",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "0610",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2026-06-10",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "0610",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2026-06-11",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 20 点（後列）",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 40,
+    "progress": 35,
+    "status": "継続"
+   },
+   "sheet": "0611",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "0611",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2026-06-11",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "0611",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2026-06-12",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 63 点（下段）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 60,
+    "progress": 55,
+    "status": "継続"
+   },
+   "sheet": "0612",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "0612",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2026-06-12",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "0612",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2026-06-13",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 71 点（後列）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 80,
+    "progress": 80,
+    "status": "継続"
+   },
+   "sheet": "0613",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "0613",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2026-06-13",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "0613",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2026-06-15",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 完了（累計 315 点、最小 3.4mm）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 4.38,
+    "manDaysText": "35.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "0615",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 4.38,
+    "manDaysText": "35.0"
+   },
+   "sheet": "0615",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2026-06-15",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 4.38,
+    "manDaysText": "35.0"
+   },
+   "sheet": "0615",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2026-06-16",
+    "team": "A班（炉・築炉）",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "後燃焼火格子",
+    "content": "後燃焼火格子 摩耗計測 完了（累計 44 点、最小 4.7mm）",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "0616",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "0616",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2026-06-16",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "0616",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2026-06-17",
+    "team": "A班（炉・築炉）",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "0617",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "0617",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2026-06-17",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "0617",
+   "r": 8
+  }
+ ]
+}

@@ -1,0 +1,5262 @@
+{
+ "file": "【架空】あさぎ市清掃工場_機器台帳_平成20年Excel化_a2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 6,
+   "fields": {
+    "kanri": "受-101",
+    "tag": "H-101",
+    "name": "ごみ投入ホッパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 7,
+   "fields": {
+    "kanri": "受-102",
+    "tag": "G-101",
+    "name": "ホッパゲート",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 8,
+   "fields": {
+    "kanri": "受-103",
+    "tag": "G-102",
+    "name": "ブリッジ解除装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 9,
+   "fields": {
+    "kanri": "受-104",
+    "tag": "PU-101",
+    "name": "給じん装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 11,
+   "fields": {
+    "kanri": "受-201",
+    "tag": "H-201",
+    "name": "ごみ投入ホッパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 12,
+   "fields": {
+    "kanri": "受-202",
+    "tag": "G-201",
+    "name": "ホッパゲート",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 13,
+   "fields": {
+    "kanri": "受-203",
+    "tag": "G-202",
+    "name": "ブリッジ解除装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 14,
+   "fields": {
+    "kanri": "受-204",
+    "tag": "PU-201",
+    "name": "給じん装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 16,
+   "fields": {
+    "kanri": "受-001",
+    "tag": "WB-01",
+    "name": "計量機（搬入）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 17,
+   "fields": {
+    "kanri": "受-002",
+    "tag": "WB-02",
+    "name": "計量機（搬出）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 18,
+   "fields": {
+    "kanri": "受-003",
+    "tag": "WB-03",
+    "name": "計量データ処理装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 19,
+   "fields": {
+    "kanri": "受-004",
+    "tag": "DR-01",
+    "name": "プラットホーム投入扉No.1",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 20,
+   "fields": {
+    "kanri": "受-005",
+    "tag": "DR-02",
+    "name": "プラットホーム投入扉No.2",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 21,
+   "fields": {
+    "kanri": "受-006",
+    "tag": "DR-03",
+    "name": "プラットホーム投入扉No.3",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 22,
+   "fields": {
+    "kanri": "受-007",
+    "tag": "DR-04",
+    "name": "プラットホーム投入扉No.4",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 23,
+   "fields": {
+    "kanri": "受-008",
+    "tag": "DR-05",
+    "name": "プラットホーム投入扉No.5",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 24,
+   "fields": {
+    "kanri": "受-009",
+    "tag": "DR-06",
+    "name": "プラットホーム投入扉No.6",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 25,
+   "fields": {
+    "kanri": "受-010",
+    "tag": "AC-01",
+    "name": "エアカーテン（入口）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 26,
+   "fields": {
+    "kanri": "受-011",
+    "tag": "AC-02",
+    "name": "エアカーテン（出口）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 27,
+   "fields": {
+    "kanri": "受-012",
+    "tag": "PT-01",
+    "name": "ごみピット",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 28,
+   "fields": {
+    "kanri": "受-013",
+    "tag": "CR-01",
+    "name": "ごみクレーン1号機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 29,
+   "fields": {
+    "kanri": "受-014",
+    "tag": "CR-02",
+    "name": "ごみクレーン2号機",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 30,
+   "fields": {
+    "kanri": "受-015",
+    "tag": "CRP-01",
+    "name": "ごみクレーン1号機制御盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 31,
+   "fields": {
+    "kanri": "受-016",
+    "tag": "CRP-02",
+    "name": "ごみクレーン2号機制御盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 32,
+   "fields": {
+    "kanri": "受-017",
+    "tag": "CRP-03",
+    "name": "ごみクレーン操作卓",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 33,
+   "fields": {
+    "kanri": "受-018",
+    "tag": "CU-01",
+    "name": "粗大ごみ切断機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 34,
+   "fields": {
+    "kanri": "受-019",
+    "tag": "F-01",
+    "name": "ピット脱臭ファン",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 35,
+   "fields": {
+    "kanri": "受-020",
+    "tag": "DO-01",
+    "name": "ピット脱臭装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 36,
+   "fields": {
+    "kanri": "受-021",
+    "tag": "P-01A",
+    "name": "ごみピット汚水移送ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 37,
+   "fields": {
+    "kanri": "受-022",
+    "tag": "P-01B",
+    "name": "ごみピット汚水移送ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 38,
+   "fields": {
+    "kanri": "受-023",
+    "tag": "DS-01",
+    "name": "防臭剤噴霧装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 39,
+   "fields": {
+    "kanri": "受-024",
+    "tag": "LP-51",
+    "name": "投入扉操作盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 40,
+   "fields": {
+    "kanri": "受-025",
+    "tag": "SS-01",
+    "name": "プラットホーム出入口シャッター（入口）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "受入供給",
+   "r": 41,
+   "fields": {
+    "kanri": "受-026",
+    "tag": "SS-02",
+    "name": "プラットホーム出入口シャッター（出口）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 6,
+   "fields": {
+    "kanri": "燃-101",
+    "tag": "FR-101",
+    "name": "焼却炉本体",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 7,
+   "fields": {
+    "kanri": "燃-102",
+    "tag": "ST-101",
+    "name": "乾燥火格子",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 8,
+   "fields": {
+    "kanri": "燃-103",
+    "tag": "ST-102",
+    "name": "燃焼火格子",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 9,
+   "fields": {
+    "kanri": "燃-104",
+    "tag": "ST-103",
+    "name": "後燃焼火格子",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 10,
+   "fields": {
+    "kanri": "燃-105",
+    "tag": "HP-101A",
+    "name": "ストーカ油圧ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 11,
+   "fields": {
+    "kanri": "燃-106",
+    "tag": "HP-101B",
+    "name": "ストーカ油圧ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 12,
+   "fields": {
+    "kanri": "燃-107",
+    "tag": "LP-101",
+    "name": "ストーカ油圧装置現場盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 13,
+   "fields": {
+    "kanri": "燃-108",
+    "tag": "BN-101",
+    "name": "助燃バーナ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 14,
+   "fields": {
+    "kanri": "燃-109",
+    "tag": "BN-102",
+    "name": "再燃バーナ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 15,
+   "fields": {
+    "kanri": "燃-110",
+    "tag": "F-105",
+    "name": "バーナ燃焼用送風機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 16,
+   "fields": {
+    "kanri": "燃-111",
+    "tag": "F-104",
+    "name": "炉壁冷却空気ファン",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 17,
+   "fields": {
+    "kanri": "燃-112",
+    "tag": "AD-101",
+    "name": "落じんダンパ（乾燥段）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 18,
+   "fields": {
+    "kanri": "燃-113",
+    "tag": "AD-102",
+    "name": "落じんダンパ（燃焼段）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 19,
+   "fields": {
+    "kanri": "燃-114",
+    "tag": "AD-103",
+    "name": "落じんダンパ（後燃焼段）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 20,
+   "fields": {
+    "kanri": "燃-115",
+    "tag": "C-101",
+    "name": "落じんコンベヤ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 21,
+   "fields": {
+    "kanri": "燃-116",
+    "tag": "AE-101",
+    "name": "灰押出装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 23,
+   "fields": {
+    "kanri": "燃-201",
+    "tag": "FR-201",
+    "name": "焼却炉本体",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 24,
+   "fields": {
+    "kanri": "燃-202",
+    "tag": "ST-201",
+    "name": "乾燥火格子",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 25,
+   "fields": {
+    "kanri": "燃-203",
+    "tag": "ST-202",
+    "name": "燃焼火格子",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 26,
+   "fields": {
+    "kanri": "燃-204",
+    "tag": "ST-203",
+    "name": "後燃焼火格子",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 27,
+   "fields": {
+    "kanri": "燃-205",
+    "tag": "HP-201A",
+    "name": "ストーカ油圧ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 28,
+   "fields": {
+    "kanri": "燃-206",
+    "tag": "HP-201B",
+    "name": "ストーカ油圧ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 29,
+   "fields": {
+    "kanri": "燃-207",
+    "tag": "LP-201",
+    "name": "ストーカ油圧装置現場盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 30,
+   "fields": {
+    "kanri": "燃-208",
+    "tag": "BN-201",
+    "name": "助燃バーナ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 31,
+   "fields": {
+    "kanri": "燃-209",
+    "tag": "BN-202",
+    "name": "再燃バーナ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 32,
+   "fields": {
+    "kanri": "燃-210",
+    "tag": "F-205",
+    "name": "バーナ燃焼用送風機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 33,
+   "fields": {
+    "kanri": "燃-211",
+    "tag": "F-204",
+    "name": "炉壁冷却空気ファン",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 34,
+   "fields": {
+    "kanri": "燃-212",
+    "tag": "AD-201",
+    "name": "落じんダンパ（乾燥段）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 35,
+   "fields": {
+    "kanri": "燃-213",
+    "tag": "AD-202",
+    "name": "落じんダンパ（燃焼段）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 36,
+   "fields": {
+    "kanri": "燃-214",
+    "tag": "AD-203",
+    "name": "落じんダンパ（後燃焼段）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 37,
+   "fields": {
+    "kanri": "燃-215",
+    "tag": "C-201",
+    "name": "落じんコンベヤ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 38,
+   "fields": {
+    "kanri": "燃-216",
+    "tag": "AE-201",
+    "name": "灰押出装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 40,
+   "fields": {
+    "kanri": "燃-001",
+    "tag": "T-01",
+    "name": "灯油タンク",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 41,
+   "fields": {
+    "kanri": "燃-002",
+    "tag": "P-02A",
+    "name": "灯油移送ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼",
+   "r": 42,
+   "fields": {
+    "kanri": "燃-003",
+    "tag": "P-02B",
+    "name": "灯油移送ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 6,
+   "fields": {
+    "kanri": "冷-101",
+    "tag": "B-101",
+    "name": "ボイラドラム",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 7,
+   "fields": {
+    "kanri": "冷-102",
+    "tag": "B-102",
+    "name": "水冷壁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 8,
+   "fields": {
+    "kanri": "冷-103",
+    "tag": "B-103",
+    "name": "蒸発管群",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 9,
+   "fields": {
+    "kanri": "冷-104",
+    "tag": "SH-101",
+    "name": "過熱器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 10,
+   "fields": {
+    "kanri": "冷-105",
+    "tag": "EC-101",
+    "name": "エコノマイザ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 11,
+   "fields": {
+    "kanri": "冷-106",
+    "tag": "P-101A",
+    "name": "No.1 ボイラ給水ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 12,
+   "fields": {
+    "kanri": "冷-107",
+    "tag": "P-101B",
+    "name": "No.1 ボイラ給水ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 13,
+   "fields": {
+    "kanri": "冷-108",
+    "tag": "P-102",
+    "name": "No.1 清缶剤注入ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 14,
+   "fields": {
+    "kanri": "冷-109",
+    "tag": "P-103",
+    "name": "No.1 脱酸剤注入ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 15,
+   "fields": {
+    "kanri": "冷-110",
+    "tag": "SB-101",
+    "name": "スートブロワNo.1",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 16,
+   "fields": {
+    "kanri": "冷-111",
+    "tag": "SB-102",
+    "name": "スートブロワNo.2",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 17,
+   "fields": {
+    "kanri": "冷-112",
+    "tag": "SB-103",
+    "name": "スートブロワNo.3",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 18,
+   "fields": {
+    "kanri": "冷-113",
+    "tag": "SB-104",
+    "name": "スートブロワNo.4",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 19,
+   "fields": {
+    "kanri": "冷-114",
+    "tag": "SB-105",
+    "name": "スートブロワNo.5",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 20,
+   "fields": {
+    "kanri": "冷-115",
+    "tag": "SB-106",
+    "name": "スートブロワNo.6",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 21,
+   "fields": {
+    "kanri": "冷-116",
+    "tag": "SB-107",
+    "name": "スートブロワNo.7",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 22,
+   "fields": {
+    "kanri": "冷-117",
+    "tag": "SB-108",
+    "name": "スートブロワNo.8",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 23,
+   "fields": {
+    "kanri": "冷-118",
+    "tag": "LP-102",
+    "name": "スートブロワ制御盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 24,
+   "fields": {
+    "kanri": "冷-119",
+    "tag": "MV-101",
+    "name": "主蒸気止め弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 25,
+   "fields": {
+    "kanri": "冷-120",
+    "tag": "MV-102",
+    "name": "主蒸気ドレン弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 26,
+   "fields": {
+    "kanri": "冷-121",
+    "tag": "MV-103",
+    "name": "起動ブロー弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 27,
+   "fields": {
+    "kanri": "冷-122",
+    "tag": "MV-104",
+    "name": "給水入口弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 28,
+   "fields": {
+    "kanri": "冷-123",
+    "tag": "MV-105",
+    "name": "非常排水弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 29,
+   "fields": {
+    "kanri": "冷-124",
+    "tag": "MV-106",
+    "name": "間欠ブロー弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 30,
+   "fields": {
+    "kanri": "冷-125",
+    "tag": "MV-107",
+    "name": "スートブロワ蒸気元弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 31,
+   "fields": {
+    "kanri": "冷-126",
+    "tag": "MV-108",
+    "name": "スートブロワドレン弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 32,
+   "fields": {
+    "kanri": "冷-127",
+    "tag": "CV-101",
+    "name": "給水調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 33,
+   "fields": {
+    "kanri": "冷-128",
+    "tag": "CV-102",
+    "name": "過熱低減器スプレー調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 34,
+   "fields": {
+    "kanri": "冷-129",
+    "tag": "CV-103",
+    "name": "連続ブロー調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 35,
+   "fields": {
+    "kanri": "冷-130",
+    "tag": "CV-104",
+    "name": "給水再循環弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 36,
+   "fields": {
+    "kanri": "冷-131",
+    "tag": "RV-101",
+    "name": "ボイラダスト排出ロータリバルブNo.1",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 37,
+   "fields": {
+    "kanri": "冷-132",
+    "tag": "RV-102",
+    "name": "ボイラダスト排出ロータリバルブNo.2",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 38,
+   "fields": {
+    "kanri": "冷-133",
+    "tag": "C-102",
+    "name": "ボイラダスト排出コンベヤ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 39,
+   "fields": {
+    "kanri": "冷-134",
+    "tag": "LP-103",
+    "name": "ボイラ現場盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 41,
+   "fields": {
+    "kanri": "冷-201",
+    "tag": "B-201",
+    "name": "ボイラドラム",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 42,
+   "fields": {
+    "kanri": "冷-202",
+    "tag": "B-202",
+    "name": "水冷壁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 43,
+   "fields": {
+    "kanri": "冷-203",
+    "tag": "B-203",
+    "name": "蒸発管群",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 44,
+   "fields": {
+    "kanri": "冷-204",
+    "tag": "SH-201",
+    "name": "過熱器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 45,
+   "fields": {
+    "kanri": "冷-205",
+    "tag": "EC-201",
+    "name": "エコノマイザ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 46,
+   "fields": {
+    "kanri": "冷-206",
+    "tag": "P-201A",
+    "name": "No.2 ボイラ給水ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 47,
+   "fields": {
+    "kanri": "冷-207",
+    "tag": "P-201B",
+    "name": "No.2 ボイラ給水ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 48,
+   "fields": {
+    "kanri": "冷-208",
+    "tag": "P-202",
+    "name": "No.2 清缶剤注入ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 49,
+   "fields": {
+    "kanri": "冷-209",
+    "tag": "P-203",
+    "name": "No.2 脱酸剤注入ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 50,
+   "fields": {
+    "kanri": "冷-210",
+    "tag": "SB-201",
+    "name": "スートブロワNo.1",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 51,
+   "fields": {
+    "kanri": "冷-211",
+    "tag": "SB-202",
+    "name": "スートブロワNo.2",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 52,
+   "fields": {
+    "kanri": "冷-212",
+    "tag": "SB-203",
+    "name": "スートブロワNo.3",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 53,
+   "fields": {
+    "kanri": "冷-213",
+    "tag": "SB-204",
+    "name": "スートブロワNo.4",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 54,
+   "fields": {
+    "kanri": "冷-214",
+    "tag": "SB-205",
+    "name": "スートブロワNo.5",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 55,
+   "fields": {
+    "kanri": "冷-215",
+    "tag": "SB-206",
+    "name": "スートブロワNo.6",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 56,
+   "fields": {
+    "kanri": "冷-216",
+    "tag": "SB-207",
+    "name": "スートブロワNo.7",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 57,
+   "fields": {
+    "kanri": "冷-217",
+    "tag": "SB-208",
+    "name": "スートブロワNo.8",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 58,
+   "fields": {
+    "kanri": "冷-218",
+    "tag": "LP-202",
+    "name": "スートブロワ制御盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 59,
+   "fields": {
+    "kanri": "冷-219",
+    "tag": "MV-201",
+    "name": "主蒸気止め弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 60,
+   "fields": {
+    "kanri": "冷-220",
+    "tag": "MV-202",
+    "name": "主蒸気ドレン弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 61,
+   "fields": {
+    "kanri": "冷-221",
+    "tag": "MV-203",
+    "name": "起動ブロー弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 62,
+   "fields": {
+    "kanri": "冷-222",
+    "tag": "MV-204",
+    "name": "給水入口弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 63,
+   "fields": {
+    "kanri": "冷-223",
+    "tag": "MV-205",
+    "name": "非常排水弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 64,
+   "fields": {
+    "kanri": "冷-224",
+    "tag": "MV-206",
+    "name": "間欠ブロー弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 65,
+   "fields": {
+    "kanri": "冷-225",
+    "tag": "MV-207",
+    "name": "スートブロワ蒸気元弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 66,
+   "fields": {
+    "kanri": "冷-226",
+    "tag": "MV-208",
+    "name": "スートブロワドレン弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 67,
+   "fields": {
+    "kanri": "冷-227",
+    "tag": "CV-201",
+    "name": "給水調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 68,
+   "fields": {
+    "kanri": "冷-228",
+    "tag": "CV-202",
+    "name": "過熱低減器スプレー調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 69,
+   "fields": {
+    "kanri": "冷-229",
+    "tag": "CV-203",
+    "name": "連続ブロー調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 70,
+   "fields": {
+    "kanri": "冷-230",
+    "tag": "CV-204",
+    "name": "給水再循環弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 71,
+   "fields": {
+    "kanri": "冷-231",
+    "tag": "RV-201",
+    "name": "ボイラダスト排出ロータリバルブNo.1",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 72,
+   "fields": {
+    "kanri": "冷-232",
+    "tag": "RV-202",
+    "name": "ボイラダスト排出ロータリバルブNo.2",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 73,
+   "fields": {
+    "kanri": "冷-233",
+    "tag": "C-202",
+    "name": "ボイラダスト排出コンベヤ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 74,
+   "fields": {
+    "kanri": "冷-234",
+    "tag": "LP-203",
+    "name": "ボイラ現場盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "燃焼ガス冷却",
+   "r": 76,
+   "fields": {
+    "kanri": "冷-001",
+    "tag": "T-02",
+    "name": "ボイラ薬液タンク",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 6,
+   "fields": {
+    "kanri": "排-101",
+    "tag": "GC-101",
+    "name": "減温塔",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 7,
+   "fields": {
+    "kanri": "排-102",
+    "tag": "P-104A",
+    "name": "No.1 噴霧水ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 8,
+   "fields": {
+    "kanri": "排-103",
+    "tag": "P-104B",
+    "name": "No.1 噴霧水ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 9,
+   "fields": {
+    "kanri": "排-104",
+    "tag": "CV-105",
+    "name": "噴霧水調節弁",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 10,
+   "fields": {
+    "kanri": "排-105",
+    "tag": "MV-109",
+    "name": "噴霧水遮断弁",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 11,
+   "fields": {
+    "kanri": "排-106",
+    "tag": "AV-101",
+    "name": "噴霧空気遮断弁",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 12,
+   "fields": {
+    "kanri": "排-107",
+    "tag": "RV-103",
+    "name": "減温塔ロータリバルブ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 13,
+   "fields": {
+    "kanri": "排-108",
+    "tag": "C-103",
+    "name": "減温塔ダスト排出コンベヤ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 14,
+   "fields": {
+    "kanri": "排-109",
+    "tag": "LP-104",
+    "name": "減温塔現場盤",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 15,
+   "fields": {
+    "kanri": "排-110",
+    "tag": "FD-101",
+    "name": "消石灰定量供給機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 16,
+   "fields": {
+    "kanri": "排-111",
+    "tag": "BL-101",
+    "name": "消石灰輸送ブロワ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 17,
+   "fields": {
+    "kanri": "排-112",
+    "tag": "AV-102",
+    "name": "消石灰供給弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 18,
+   "fields": {
+    "kanri": "排-113",
+    "tag": "FD-102",
+    "name": "活性炭定量供給機",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 19,
+   "fields": {
+    "kanri": "排-114",
+    "tag": "BL-102",
+    "name": "活性炭輸送ブロワ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 20,
+   "fields": {
+    "kanri": "排-115",
+    "tag": "AV-103",
+    "name": "活性炭供給弁",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 21,
+   "fields": {
+    "kanri": "排-116",
+    "tag": "P-105A",
+    "name": "No.1 アンモニア水注入ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 22,
+   "fields": {
+    "kanri": "排-117",
+    "tag": "P-105B",
+    "name": "No.1 アンモニア水注入ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 23,
+   "fields": {
+    "kanri": "排-118",
+    "tag": "CV-106",
+    "name": "アンモニア水流量調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 24,
+   "fields": {
+    "kanri": "排-119",
+    "tag": "AV-104",
+    "name": "アンモニア水遮断弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 25,
+   "fields": {
+    "kanri": "排-120",
+    "tag": "BF-101",
+    "name": "バグフィルタ本体",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 26,
+   "fields": {
+    "kanri": "排-121",
+    "tag": "AD-104",
+    "name": "BF入口ダンパ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 27,
+   "fields": {
+    "kanri": "排-122",
+    "tag": "AD-105",
+    "name": "BF出口ダンパ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 28,
+   "fields": {
+    "kanri": "排-123",
+    "tag": "AD-106",
+    "name": "BFバイパスダンパ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 29,
+   "fields": {
+    "kanri": "排-124",
+    "tag": "AD-17",
+    "name": "BF第1室出口ポペットダンパ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 30,
+   "fields": {
+    "kanri": "排-125",
+    "tag": "AD-18",
+    "name": "BF第2室出口ポペットダンパ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 31,
+   "fields": {
+    "kanri": "排-126",
+    "tag": "AD-19",
+    "name": "BF第3室出口ポペットダンパ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 32,
+   "fields": {
+    "kanri": "排-127",
+    "tag": "AD-110",
+    "name": "BF第4室出口ポペットダンパ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 33,
+   "fields": {
+    "kanri": "排-128",
+    "tag": "RV-104",
+    "name": "BFロータリバルブNo.1",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 34,
+   "fields": {
+    "kanri": "排-129",
+    "tag": "RV-105",
+    "name": "BFロータリバルブNo.2",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 35,
+   "fields": {
+    "kanri": "排-130",
+    "tag": "RV-106",
+    "name": "BFロータリバルブNo.3",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 36,
+   "fields": {
+    "kanri": "排-131",
+    "tag": "RV-107",
+    "name": "BFロータリバルブNo.4",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 37,
+   "fields": {
+    "kanri": "排-132",
+    "tag": "C-104",
+    "name": "BFダスト排出コンベヤNo.1",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 38,
+   "fields": {
+    "kanri": "排-133",
+    "tag": "C-105",
+    "name": "BFダスト排出コンベヤNo.2",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 39,
+   "fields": {
+    "kanri": "排-134",
+    "tag": "LP-105",
+    "name": "BF加温ヒータ盤",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 40,
+   "fields": {
+    "kanri": "排-135",
+    "tag": "LP-106",
+    "name": "BF制御盤",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 43,
+   "fields": {
+    "kanri": "排-201",
+    "tag": "GC-201",
+    "name": "減温塔",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 44,
+   "fields": {
+    "kanri": "排-202",
+    "tag": "P-204A",
+    "name": "No.2 噴霧水ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 45,
+   "fields": {
+    "kanri": "排-203",
+    "tag": "P-204B",
+    "name": "No.2 噴霧水ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 46,
+   "fields": {
+    "kanri": "排-204",
+    "tag": "CV-205",
+    "name": "噴霧水調節弁",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 47,
+   "fields": {
+    "kanri": "排-205",
+    "tag": "MV-209",
+    "name": "噴霧水遮断弁",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 48,
+   "fields": {
+    "kanri": "排-206",
+    "tag": "AV-201",
+    "name": "噴霧空気遮断弁",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 49,
+   "fields": {
+    "kanri": "排-207",
+    "tag": "RV-203",
+    "name": "減温塔ロータリバルブ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 50,
+   "fields": {
+    "kanri": "排-208",
+    "tag": "C-203",
+    "name": "減温塔ダスト排出コンベヤ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 51,
+   "fields": {
+    "kanri": "排-209",
+    "tag": "LP-204",
+    "name": "減温塔現場盤",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 52,
+   "fields": {
+    "kanri": "排-210",
+    "tag": "FD-201",
+    "name": "消石灰定量供給機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 53,
+   "fields": {
+    "kanri": "排-211",
+    "tag": "BL-201",
+    "name": "消石灰輸送ブロワ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 54,
+   "fields": {
+    "kanri": "排-212",
+    "tag": "AV-202",
+    "name": "消石灰供給弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 55,
+   "fields": {
+    "kanri": "排-213",
+    "tag": "FD-202",
+    "name": "活性炭定量供給機",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 56,
+   "fields": {
+    "kanri": "排-214",
+    "tag": "BL-202",
+    "name": "活性炭輸送ブロワ",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 57,
+   "fields": {
+    "kanri": "排-215",
+    "tag": "AV-203",
+    "name": "活性炭供給弁",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 58,
+   "fields": {
+    "kanri": "排-216",
+    "tag": "P-205A",
+    "name": "No.2 アンモニア水注入ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 59,
+   "fields": {
+    "kanri": "排-217",
+    "tag": "P-205B",
+    "name": "No.2 アンモニア水注入ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 60,
+   "fields": {
+    "kanri": "排-218",
+    "tag": "CV-206",
+    "name": "アンモニア水流量調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 61,
+   "fields": {
+    "kanri": "排-219",
+    "tag": "AV-204",
+    "name": "アンモニア水遮断弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 62,
+   "fields": {
+    "kanri": "排-220",
+    "tag": "BF-201",
+    "name": "バグフィルタ本体",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 63,
+   "fields": {
+    "kanri": "排-221",
+    "tag": "AD-204",
+    "name": "BF入口ダンパ",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 64,
+   "fields": {
+    "kanri": "排-222",
+    "tag": "AD-205",
+    "name": "BF出口ダンパ",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 65,
+   "fields": {
+    "kanri": "排-223",
+    "tag": "AD-206",
+    "name": "BFバイパスダンパ",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 66,
+   "fields": {
+    "kanri": "排-224",
+    "tag": "AD-27",
+    "name": "BF第1室出口ポペットダンパ",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 67,
+   "fields": {
+    "kanri": "排-225",
+    "tag": "AD-28",
+    "name": "BF第2室出口ポペットダンパ",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 68,
+   "fields": {
+    "kanri": "排-226",
+    "tag": "AD-29",
+    "name": "BF第3室出口ポペットダンパ",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 69,
+   "fields": {
+    "kanri": "排-227",
+    "tag": "AD-210",
+    "name": "BF第4室出口ポペットダンパ",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 70,
+   "fields": {
+    "kanri": "排-228",
+    "tag": "RV-204",
+    "name": "BFロータリバルブNo.1",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 71,
+   "fields": {
+    "kanri": "排-229",
+    "tag": "RV-205",
+    "name": "BFロータリバルブNo.2",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 72,
+   "fields": {
+    "kanri": "排-230",
+    "tag": "RV-206",
+    "name": "BFロータリバルブNo.3",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 73,
+   "fields": {
+    "kanri": "排-231",
+    "tag": "RV-207",
+    "name": "BFロータリバルブNo.4",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 74,
+   "fields": {
+    "kanri": "排-232",
+    "tag": "C-204",
+    "name": "BFダスト排出コンベヤNo.1",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 75,
+   "fields": {
+    "kanri": "排-233",
+    "tag": "C-205",
+    "name": "BFダスト排出コンベヤNo.2",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 76,
+   "fields": {
+    "kanri": "排-234",
+    "tag": "LP-205",
+    "name": "BF加温ヒータ盤",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 77,
+   "fields": {
+    "kanri": "排-235",
+    "tag": "LP-206",
+    "name": "BF制御盤",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 80,
+   "fields": {
+    "kanri": "排-001",
+    "tag": "SL-01",
+    "name": "消石灰貯留サイロ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 81,
+   "fields": {
+    "kanri": "排-002",
+    "tag": "DC-01",
+    "name": "消石灰サイロ集じん器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 82,
+   "fields": {
+    "kanri": "排-003",
+    "tag": "SL-02",
+    "name": "活性炭貯留サイロ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 83,
+   "fields": {
+    "kanri": "排-004",
+    "tag": "DC-02",
+    "name": "活性炭サイロ集じん器",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 84,
+   "fields": {
+    "kanri": "排-005",
+    "tag": "T-03",
+    "name": "アンモニア水貯留タンク",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 85,
+   "fields": {
+    "kanri": "排-006",
+    "tag": "P-03",
+    "name": "アンモニア水受入ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排ガス処理",
+   "r": 86,
+   "fields": {
+    "kanri": "排-007",
+    "tag": "T-04",
+    "name": "減温塔噴霧水槽",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 6,
+   "fields": {
+    "kanri": "通-101",
+    "tag": "F-101",
+    "name": "１号押込送風機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 7,
+   "fields": {
+    "kanri": "通-102",
+    "tag": "MD-101",
+    "name": "１号押込送風機入口ダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 8,
+   "fields": {
+    "kanri": "通-103",
+    "tag": "F-102",
+    "name": "１号二次送風機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 9,
+   "fields": {
+    "kanri": "通-104",
+    "tag": "MD-102",
+    "name": "１号二次送風機入口ダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 10,
+   "fields": {
+    "kanri": "通-105",
+    "tag": "MD-13",
+    "name": "１号一次空気ダンパ（乾燥段）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 11,
+   "fields": {
+    "kanri": "通-106",
+    "tag": "MD-14",
+    "name": "１号一次空気ダンパ（燃焼段前部）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 12,
+   "fields": {
+    "kanri": "通-107",
+    "tag": "MD-15",
+    "name": "１号一次空気ダンパ（燃焼段後部）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 13,
+   "fields": {
+    "kanri": "通-108",
+    "tag": "MD-16",
+    "name": "１号一次空気ダンパ（後燃焼段）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 14,
+   "fields": {
+    "kanri": "通-109",
+    "tag": "MD-107",
+    "name": "１号炉壁冷却空気ダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 15,
+   "fields": {
+    "kanri": "通-110",
+    "tag": "AH-101",
+    "name": "１号蒸気式空気予熱器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 16,
+   "fields": {
+    "kanri": "通-111",
+    "tag": "CV-107",
+    "name": "１号空気予熱器蒸気調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 17,
+   "fields": {
+    "kanri": "通-112",
+    "tag": "AD-111",
+    "name": "１号空気予熱器バイパスダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 18,
+   "fields": {
+    "kanri": "通-113",
+    "tag": "F-103",
+    "name": "１号誘引通風機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 19,
+   "fields": {
+    "kanri": "通-114",
+    "tag": "MD-108",
+    "name": "１号誘引通風機入口ダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 20,
+   "fields": {
+    "kanri": "通-115",
+    "tag": "AD-112",
+    "name": "１号ボイラ出口煙道ダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 21,
+   "fields": {
+    "kanri": "通-116",
+    "tag": "DU-101",
+    "name": "１号煙道（ボイラ出口〜BF入口）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 22,
+   "fields": {
+    "kanri": "通-117",
+    "tag": "DU-102",
+    "name": "１号煙道（BF出口〜煙突）",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 23,
+   "fields": {
+    "kanri": "通-118",
+    "tag": "SK-101",
+    "name": "１号煙突内筒",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 25,
+   "fields": {
+    "kanri": "通-201",
+    "tag": "F-201",
+    "name": "２号押込送風機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 26,
+   "fields": {
+    "kanri": "通-202",
+    "tag": "MD-201",
+    "name": "２号押込送風機入口ダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 27,
+   "fields": {
+    "kanri": "通-203",
+    "tag": "F-202",
+    "name": "２号二次送風機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 28,
+   "fields": {
+    "kanri": "通-204",
+    "tag": "MD-202",
+    "name": "２号二次送風機入口ダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 29,
+   "fields": {
+    "kanri": "通-205",
+    "tag": "MD-23",
+    "name": "２号一次空気ダンパ（乾燥段）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 30,
+   "fields": {
+    "kanri": "通-206",
+    "tag": "MD-24",
+    "name": "２号一次空気ダンパ（燃焼段前部）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 31,
+   "fields": {
+    "kanri": "通-207",
+    "tag": "MD-25",
+    "name": "２号一次空気ダンパ（燃焼段後部）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 32,
+   "fields": {
+    "kanri": "通-208",
+    "tag": "MD-26",
+    "name": "２号一次空気ダンパ（後燃焼段）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 33,
+   "fields": {
+    "kanri": "通-209",
+    "tag": "MD-207",
+    "name": "２号炉壁冷却空気ダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 34,
+   "fields": {
+    "kanri": "通-210",
+    "tag": "AH-201",
+    "name": "２号蒸気式空気予熱器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 35,
+   "fields": {
+    "kanri": "通-211",
+    "tag": "CV-207",
+    "name": "２号空気予熱器蒸気調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 36,
+   "fields": {
+    "kanri": "通-212",
+    "tag": "AD-211",
+    "name": "２号空気予熱器バイパスダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 37,
+   "fields": {
+    "kanri": "通-213",
+    "tag": "F-203",
+    "name": "２号誘引通風機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 38,
+   "fields": {
+    "kanri": "通-214",
+    "tag": "MD-208",
+    "name": "２号誘引通風機入口ダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 39,
+   "fields": {
+    "kanri": "通-215",
+    "tag": "AD-212",
+    "name": "２号ボイラ出口煙道ダンパ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 40,
+   "fields": {
+    "kanri": "通-216",
+    "tag": "DU-201",
+    "name": "２号煙道（ボイラ出口〜BF入口）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 41,
+   "fields": {
+    "kanri": "通-217",
+    "tag": "DU-202",
+    "name": "２号煙道（BF出口〜煙突）",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 42,
+   "fields": {
+    "kanri": "通-218",
+    "tag": "SK-201",
+    "name": "２号煙突内筒",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "通風",
+   "r": 44,
+   "fields": {
+    "kanri": "通-001",
+    "tag": "SK-00",
+    "name": "煙突外筒",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 6,
+   "fields": {
+    "kanri": "灰-101",
+    "tag": "C-106",
+    "name": "主灰搬出コンベヤ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 7,
+   "fields": {
+    "kanri": "灰-102",
+    "tag": "C-107",
+    "name": "飛灰搬送コンベヤ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 8,
+   "fields": {
+    "kanri": "灰-103",
+    "tag": "MV-110",
+    "name": "灰押出装置補給水弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 10,
+   "fields": {
+    "kanri": "灰-201",
+    "tag": "C-206",
+    "name": "主灰搬出コンベヤ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 11,
+   "fields": {
+    "kanri": "灰-202",
+    "tag": "C-207",
+    "name": "飛灰搬送コンベヤ",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 12,
+   "fields": {
+    "kanri": "灰-203",
+    "tag": "MV-210",
+    "name": "灰押出装置補給水弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 14,
+   "fields": {
+    "kanri": "灰-001",
+    "tag": "PT-02",
+    "name": "灰ピット",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 15,
+   "fields": {
+    "kanri": "灰-002",
+    "tag": "CR-03",
+    "name": "灰クレーン",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 16,
+   "fields": {
+    "kanri": "灰-003",
+    "tag": "CRP-04",
+    "name": "灰クレーン制御盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 17,
+   "fields": {
+    "kanri": "灰-004",
+    "tag": "SL-03",
+    "name": "飛灰貯留槽",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 18,
+   "fields": {
+    "kanri": "灰-005",
+    "tag": "DC-03",
+    "name": "飛灰貯留槽集じん器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 19,
+   "fields": {
+    "kanri": "灰-006",
+    "tag": "FD-01",
+    "name": "飛灰定量切出装置No.1",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 20,
+   "fields": {
+    "kanri": "灰-007",
+    "tag": "FD-02",
+    "name": "飛灰定量切出装置No.2",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 21,
+   "fields": {
+    "kanri": "灰-008",
+    "tag": "KN-01",
+    "name": "飛灰混練機1号機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 22,
+   "fields": {
+    "kanri": "灰-009",
+    "tag": "KN-02",
+    "name": "飛灰混練機2号機",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 23,
+   "fields": {
+    "kanri": "灰-010",
+    "tag": "T-05",
+    "name": "キレート薬剤タンク",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 24,
+   "fields": {
+    "kanri": "灰-011",
+    "tag": "P-04A",
+    "name": "キレート薬剤注入ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 25,
+   "fields": {
+    "kanri": "灰-012",
+    "tag": "P-04B",
+    "name": "キレート薬剤注入ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 26,
+   "fields": {
+    "kanri": "灰-013",
+    "tag": "P-05A",
+    "name": "混練加湿水ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 27,
+   "fields": {
+    "kanri": "灰-014",
+    "tag": "P-05B",
+    "name": "混練加湿水ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 28,
+   "fields": {
+    "kanri": "灰-015",
+    "tag": "C-01",
+    "name": "処理物搬出コンベヤ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 29,
+   "fields": {
+    "kanri": "灰-016",
+    "tag": "MG-01",
+    "name": "主灰磁選機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 30,
+   "fields": {
+    "kanri": "灰-017",
+    "tag": "C-02",
+    "name": "飛灰集合コンベヤ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 31,
+   "fields": {
+    "kanri": "灰-018",
+    "tag": "C-03",
+    "name": "飛灰バケットエレベータ",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "灰出し",
+   "r": 32,
+   "fields": {
+    "kanri": "灰-019",
+    "tag": "LP-41",
+    "name": "灰出し設備現場盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 6,
+   "fields": {
+    "kanri": "給-101",
+    "tag": "MV-111",
+    "name": "機器冷却水弁（1号炉系）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 8,
+   "fields": {
+    "kanri": "給-201",
+    "tag": "MV-211",
+    "name": "機器冷却水弁（2号炉系）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 10,
+   "fields": {
+    "kanri": "給-001",
+    "tag": "T-21",
+    "name": "プラント用水受水槽",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 11,
+   "fields": {
+    "kanri": "給-002",
+    "tag": "T-22",
+    "name": "上水受水槽",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 12,
+   "fields": {
+    "kanri": "給-003",
+    "tag": "P-21A",
+    "name": "プラント用水ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 13,
+   "fields": {
+    "kanri": "給-004",
+    "tag": "P-21B",
+    "name": "プラント用水ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 14,
+   "fields": {
+    "kanri": "給-005",
+    "tag": "P-22A",
+    "name": "機器冷却水ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 15,
+   "fields": {
+    "kanri": "給-006",
+    "tag": "P-22B",
+    "name": "機器冷却水ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 16,
+   "fields": {
+    "kanri": "給-007",
+    "tag": "CT-01",
+    "name": "機器冷却水冷却塔",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 17,
+   "fields": {
+    "kanri": "給-008",
+    "tag": "T-23",
+    "name": "機器冷却水槽",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 18,
+   "fields": {
+    "kanri": "給-009",
+    "tag": "P-23A",
+    "name": "生活用水加圧給水ユニットA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 19,
+   "fields": {
+    "kanri": "給-010",
+    "tag": "P-23B",
+    "name": "生活用水加圧給水ユニットB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 20,
+   "fields": {
+    "kanri": "給-011",
+    "tag": "P-24A",
+    "name": "再利用水ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 21,
+   "fields": {
+    "kanri": "給-012",
+    "tag": "P-24B",
+    "name": "再利用水ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 22,
+   "fields": {
+    "kanri": "給-013",
+    "tag": "T-24",
+    "name": "再利用水槽",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 23,
+   "fields": {
+    "kanri": "給-014",
+    "tag": "P-25",
+    "name": "プラント消火栓ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 24,
+   "fields": {
+    "kanri": "給-015",
+    "tag": "MV-21",
+    "name": "プラント用水補給弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 25,
+   "fields": {
+    "kanri": "給-016",
+    "tag": "MV-22",
+    "name": "上水補給弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 26,
+   "fields": {
+    "kanri": "給-017",
+    "tag": "MV-23",
+    "name": "冷却塔補給水弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "給水",
+   "r": 27,
+   "fields": {
+    "kanri": "給-018",
+    "tag": "LP-21",
+    "name": "用水設備現場盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 6,
+   "fields": {
+    "kanri": "水-001",
+    "tag": "T-31",
+    "name": "排水受槽",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 7,
+   "fields": {
+    "kanri": "水-002",
+    "tag": "P-31A",
+    "name": "排水移送ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 8,
+   "fields": {
+    "kanri": "水-003",
+    "tag": "P-31B",
+    "name": "排水移送ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 9,
+   "fields": {
+    "kanri": "水-004",
+    "tag": "T-32",
+    "name": "凝集沈殿槽",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 10,
+   "fields": {
+    "kanri": "水-005",
+    "tag": "AG-01",
+    "name": "急速撹拌機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 11,
+   "fields": {
+    "kanri": "水-006",
+    "tag": "AG-02",
+    "name": "緩速撹拌機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 12,
+   "fields": {
+    "kanri": "水-007",
+    "tag": "P-32",
+    "name": "凝集剤注入ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 13,
+   "fields": {
+    "kanri": "水-008",
+    "tag": "P-33",
+    "name": "pH調整剤(酸)注入ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 14,
+   "fields": {
+    "kanri": "水-009",
+    "tag": "P-34",
+    "name": "pH調整剤(アルカリ)注入ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 15,
+   "fields": {
+    "kanri": "水-010",
+    "tag": "P-35",
+    "name": "高分子凝集剤注入ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 16,
+   "fields": {
+    "kanri": "水-011",
+    "tag": "SF-01",
+    "name": "砂ろ過塔",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 17,
+   "fields": {
+    "kanri": "水-012",
+    "tag": "P-36A",
+    "name": "ろ過ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 18,
+   "fields": {
+    "kanri": "水-013",
+    "tag": "P-36B",
+    "name": "ろ過ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 19,
+   "fields": {
+    "kanri": "水-014",
+    "tag": "CA-01",
+    "name": "キレート吸着塔",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 20,
+   "fields": {
+    "kanri": "水-015",
+    "tag": "T-33",
+    "name": "処理水槽",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 21,
+   "fields": {
+    "kanri": "水-016",
+    "tag": "DW-01",
+    "name": "汚泥脱水機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 22,
+   "fields": {
+    "kanri": "水-017",
+    "tag": "P-37",
+    "name": "汚泥移送ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 23,
+   "fields": {
+    "kanri": "水-018",
+    "tag": "SF-02",
+    "name": "ごみピット汚水ろ過器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 24,
+   "fields": {
+    "kanri": "水-019",
+    "tag": "P-38A",
+    "name": "ごみピット汚水噴霧ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 25,
+   "fields": {
+    "kanri": "水-020",
+    "tag": "P-38B",
+    "name": "ごみピット汚水噴霧ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 26,
+   "fields": {
+    "kanri": "水-021",
+    "tag": "AV-31",
+    "name": "ごみピット汚水噴霧遮断弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "排水処理",
+   "r": 27,
+   "fields": {
+    "kanri": "水-022",
+    "tag": "LP-31",
+    "name": "排水処理制御盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 6,
+   "fields": {
+    "kanri": "余-001",
+    "tag": "DA-01",
+    "name": "脱気器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 7,
+   "fields": {
+    "kanri": "余-002",
+    "tag": "P-11A",
+    "name": "脱気器給水ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 8,
+   "fields": {
+    "kanri": "余-003",
+    "tag": "P-11B",
+    "name": "脱気器給水ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 9,
+   "fields": {
+    "kanri": "余-004",
+    "tag": "T-11",
+    "name": "復水タンク",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 10,
+   "fields": {
+    "kanri": "余-005",
+    "tag": "P-12A",
+    "name": "復水ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 11,
+   "fields": {
+    "kanri": "余-006",
+    "tag": "P-12B",
+    "name": "復水ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 12,
+   "fields": {
+    "kanri": "余-007",
+    "tag": "DM-01",
+    "name": "純水装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 13,
+   "fields": {
+    "kanri": "余-008",
+    "tag": "T-12",
+    "name": "純水タンク",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 14,
+   "fields": {
+    "kanri": "余-009",
+    "tag": "P-13A",
+    "name": "純水移送ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 15,
+   "fields": {
+    "kanri": "余-010",
+    "tag": "P-13B",
+    "name": "純水移送ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 16,
+   "fields": {
+    "kanri": "余-011",
+    "tag": "SH-01",
+    "name": "高圧蒸気だめ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 17,
+   "fields": {
+    "kanri": "余-012",
+    "tag": "SH-02",
+    "name": "低圧蒸気だめ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 18,
+   "fields": {
+    "kanri": "余-013",
+    "tag": "TB-01",
+    "name": "蒸気タービン",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 19,
+   "fields": {
+    "kanri": "余-014",
+    "tag": "GN-01",
+    "name": "発電機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 20,
+   "fields": {
+    "kanri": "余-015",
+    "tag": "P-14",
+    "name": "タービン補助油ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 21,
+   "fields": {
+    "kanri": "余-016",
+    "tag": "P-15",
+    "name": "タービン非常用油ポンプ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 22,
+   "fields": {
+    "kanri": "余-017",
+    "tag": "HE-11",
+    "name": "グランド蒸気復水器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 23,
+   "fields": {
+    "kanri": "余-018",
+    "tag": "F-11",
+    "name": "グランド排風機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 24,
+   "fields": {
+    "kanri": "余-019",
+    "tag": "PR-11",
+    "name": "タービンバイパス減圧減温装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 25,
+   "fields": {
+    "kanri": "余-020",
+    "tag": "CV-11",
+    "name": "タービンバイパス弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 26,
+   "fields": {
+    "kanri": "余-021",
+    "tag": "MV-11",
+    "name": "タービン入口主蒸気止め弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 27,
+   "fields": {
+    "kanri": "余-022",
+    "tag": "AV-11",
+    "name": "抽気逆止弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 28,
+   "fields": {
+    "kanri": "余-023",
+    "tag": "ACC-01",
+    "name": "空冷復水器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 29,
+   "fields": {
+    "kanri": "余-024",
+    "tag": "F-12",
+    "name": "空冷復水器ファンNo.1",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 30,
+   "fields": {
+    "kanri": "余-025",
+    "tag": "F-13",
+    "name": "空冷復水器ファンNo.2",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 31,
+   "fields": {
+    "kanri": "余-026",
+    "tag": "F-14",
+    "name": "空冷復水器ファンNo.3",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 32,
+   "fields": {
+    "kanri": "余-027",
+    "tag": "F-15",
+    "name": "空冷復水器ファンNo.4",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 33,
+   "fields": {
+    "kanri": "余-028",
+    "tag": "F-16",
+    "name": "空冷復水器ファンNo.5",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 34,
+   "fields": {
+    "kanri": "余-029",
+    "tag": "F-17",
+    "name": "空冷復水器ファンNo.6",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 35,
+   "fields": {
+    "kanri": "余-030",
+    "tag": "VP-01A",
+    "name": "復水器真空ポンプA",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 36,
+   "fields": {
+    "kanri": "余-031",
+    "tag": "VP-01B",
+    "name": "復水器真空ポンプB",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 37,
+   "fields": {
+    "kanri": "余-032",
+    "tag": "TCP-01",
+    "name": "タービン制御盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 38,
+   "fields": {
+    "kanri": "余-033",
+    "tag": "GCP-01",
+    "name": "発電機盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 39,
+   "fields": {
+    "kanri": "余-034",
+    "tag": "EXP-01",
+    "name": "励磁装置盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 40,
+   "fields": {
+    "kanri": "余-035",
+    "tag": "HE-12",
+    "name": "低圧蒸気復水器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 41,
+   "fields": {
+    "kanri": "余-036",
+    "tag": "HE-13",
+    "name": "場内給湯熱交換器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 42,
+   "fields": {
+    "kanri": "余-037",
+    "tag": "MV-12",
+    "name": "主蒸気母管弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 43,
+   "fields": {
+    "kanri": "余-038",
+    "tag": "CV-12",
+    "name": "高低圧蒸気減圧弁No.1",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 44,
+   "fields": {
+    "kanri": "余-039",
+    "tag": "CV-13",
+    "name": "高低圧蒸気減圧弁No.2",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 45,
+   "fields": {
+    "kanri": "余-040",
+    "tag": "MV-13",
+    "name": "空冷復水器真空破壊弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 46,
+   "fields": {
+    "kanri": "余-041",
+    "tag": "CV-14",
+    "name": "復水再循環弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 47,
+   "fields": {
+    "kanri": "余-042",
+    "tag": "CV-15",
+    "name": "脱気器圧力調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 48,
+   "fields": {
+    "kanri": "余-043",
+    "tag": "CV-16",
+    "name": "脱気器水位調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 49,
+   "fields": {
+    "kanri": "余-044",
+    "tag": "MV-14",
+    "name": "低圧蒸気復水器入口弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 50,
+   "fields": {
+    "kanri": "余-045",
+    "tag": "CV-17",
+    "name": "抽気圧力調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 51,
+   "fields": {
+    "kanri": "余-046",
+    "tag": "CV-18",
+    "name": "ホットウェル水位調節弁",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 52,
+   "fields": {
+    "kanri": "余-047",
+    "tag": "LP-11",
+    "name": "タービン現場盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "余熱利用",
+   "r": 53,
+   "fields": {
+    "kanri": "余-048",
+    "tag": "OP-11",
+    "name": "タービン油清浄機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 6,
+   "fields": {
+    "kanri": "雑-001",
+    "tag": "AC-11A",
+    "name": "プラント用空気圧縮機A",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 7,
+   "fields": {
+    "kanri": "雑-002",
+    "tag": "AC-11B",
+    "name": "プラント用空気圧縮機B",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 8,
+   "fields": {
+    "kanri": "雑-003",
+    "tag": "AC-12A",
+    "name": "計装用空気圧縮機A",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 9,
+   "fields": {
+    "kanri": "雑-004",
+    "tag": "AC-12B",
+    "name": "計装用空気圧縮機B",
+    "qty": "1台(予備)",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 10,
+   "fields": {
+    "kanri": "雑-005",
+    "tag": "AD-11",
+    "name": "空気除湿装置（プラント用）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 11,
+   "fields": {
+    "kanri": "雑-006",
+    "tag": "AD-12",
+    "name": "空気除湿装置（計装用）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 12,
+   "fields": {
+    "kanri": "雑-007",
+    "tag": "AR-11",
+    "name": "プラント用空気だめ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 13,
+   "fields": {
+    "kanri": "雑-008",
+    "tag": "AR-12",
+    "name": "計装用空気だめ",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 14,
+   "fields": {
+    "kanri": "雑-009",
+    "tag": "VC-01",
+    "name": "真空掃除装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 15,
+   "fields": {
+    "kanri": "雑-010",
+    "tag": "CW-01",
+    "name": "洗車装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 16,
+   "fields": {
+    "kanri": "雑-011",
+    "tag": "CR-11",
+    "name": "タービン室天井クレーン",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 17,
+   "fields": {
+    "kanri": "雑-012",
+    "tag": "HO-11",
+    "name": "炉室ホイスト（1号炉側）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 18,
+   "fields": {
+    "kanri": "雑-013",
+    "tag": "HO-12",
+    "name": "炉室ホイスト（2号炉側）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 19,
+   "fields": {
+    "kanri": "雑-014",
+    "tag": "DC-11",
+    "name": "灰出し室環境集じん機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 20,
+   "fields": {
+    "kanri": "雑-015",
+    "tag": "F-21",
+    "name": "炉室換気ファン（給気No.1）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 21,
+   "fields": {
+    "kanri": "雑-016",
+    "tag": "F-22",
+    "name": "炉室換気ファン（給気No.2）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 22,
+   "fields": {
+    "kanri": "雑-017",
+    "tag": "F-23",
+    "name": "炉室換気ファン（排気No.1）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 23,
+   "fields": {
+    "kanri": "雑-018",
+    "tag": "F-24",
+    "name": "炉室換気ファン（排気No.2）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "雑",
+   "r": 24,
+   "fields": {
+    "kanri": "雑-019",
+    "tag": "AHU-03",
+    "name": "中央制御室空調機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 6,
+   "fields": {
+    "kanri": "電-101",
+    "tag": "MCC-1A",
+    "name": "炉用動力制御盤MCC-1A",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 7,
+   "fields": {
+    "kanri": "電-102",
+    "tag": "MCC-1B",
+    "name": "炉用動力制御盤MCC-1B",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 8,
+   "fields": {
+    "kanri": "電-103",
+    "tag": "LP-107",
+    "name": "炉現場操作盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 9,
+   "fields": {
+    "kanri": "電-104",
+    "tag": "LP-108",
+    "name": "給じん装置現場盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 11,
+   "fields": {
+    "kanri": "電-201",
+    "tag": "MCC-2A",
+    "name": "炉用動力制御盤MCC-2A",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 12,
+   "fields": {
+    "kanri": "電-202",
+    "tag": "MCC-2B",
+    "name": "炉用動力制御盤MCC-2B",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 13,
+   "fields": {
+    "kanri": "電-203",
+    "tag": "LP-207",
+    "name": "炉現場操作盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 14,
+   "fields": {
+    "kanri": "電-204",
+    "tag": "LP-208",
+    "name": "給じん装置現場盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 16,
+   "fields": {
+    "kanri": "電-001",
+    "tag": "HV-01",
+    "name": "22kV受電盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 17,
+   "fields": {
+    "kanri": "電-002",
+    "tag": "TR-01",
+    "name": "主変圧器",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 18,
+   "fields": {
+    "kanri": "電-003",
+    "tag": "HV-11",
+    "name": "6.6kV高圧配電盤（受電）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 19,
+   "fields": {
+    "kanri": "電-004",
+    "tag": "HV-12",
+    "name": "6.6kV高圧配電盤（母線連絡）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 20,
+   "fields": {
+    "kanri": "電-005",
+    "tag": "HV-13",
+    "name": "6.6kV高圧配電盤（発電機連絡）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 21,
+   "fields": {
+    "kanri": "電-006",
+    "tag": "HV-14",
+    "name": "6.6kV高圧配電盤（1号炉フィーダ）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 22,
+   "fields": {
+    "kanri": "電-007",
+    "tag": "HV-15",
+    "name": "6.6kV高圧配電盤（2号炉フィーダ）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 23,
+   "fields": {
+    "kanri": "電-008",
+    "tag": "HV-16",
+    "name": "6.6kV高圧配電盤（共通フィーダ）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 24,
+   "fields": {
+    "kanri": "電-009",
+    "tag": "HV-17",
+    "name": "6.6kV高圧配電盤（タービン補機フィーダ）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 25,
+   "fields": {
+    "kanri": "電-010",
+    "tag": "HV-18",
+    "name": "6.6kV高圧配電盤（所内変圧器フィーダ）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 26,
+   "fields": {
+    "kanri": "電-011",
+    "tag": "HV-19",
+    "name": "6.6kV高圧配電盤（計器用変圧器）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 27,
+   "fields": {
+    "kanri": "電-012",
+    "tag": "TR-11",
+    "name": "所内変圧器（1号炉系）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 28,
+   "fields": {
+    "kanri": "電-013",
+    "tag": "TR-12",
+    "name": "所内変圧器（2号炉系）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 29,
+   "fields": {
+    "kanri": "電-014",
+    "tag": "TR-13",
+    "name": "所内変圧器（共通系）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 30,
+   "fields": {
+    "kanri": "電-015",
+    "tag": "LV-11",
+    "name": "低圧主幹盤（1号炉系）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 31,
+   "fields": {
+    "kanri": "電-016",
+    "tag": "LV-12",
+    "name": "低圧主幹盤（2号炉系）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 32,
+   "fields": {
+    "kanri": "電-017",
+    "tag": "LV-13",
+    "name": "低圧主幹盤（共通系）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 33,
+   "fields": {
+    "kanri": "電-018",
+    "tag": "MCC-C1",
+    "name": "共通動力制御盤MCC-C1（受入供給）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 34,
+   "fields": {
+    "kanri": "電-019",
+    "tag": "MCC-C2",
+    "name": "共通動力制御盤MCC-C2（タービン補機）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 35,
+   "fields": {
+    "kanri": "電-020",
+    "tag": "MCC-C3",
+    "name": "共通動力制御盤MCC-C3（排水処理）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 36,
+   "fields": {
+    "kanri": "電-021",
+    "tag": "MCC-C4",
+    "name": "共通動力制御盤MCC-C4（灰出し）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 37,
+   "fields": {
+    "kanri": "電-022",
+    "tag": "MCC-C5",
+    "name": "共通動力制御盤MCC-C5（給水）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 38,
+   "fields": {
+    "kanri": "電-023",
+    "tag": "MCC-C6",
+    "name": "共通動力制御盤MCC-C6（雑設備）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 39,
+   "fields": {
+    "kanri": "電-024",
+    "tag": "DC-21",
+    "name": "直流電源装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 40,
+   "fields": {
+    "kanri": "電-025",
+    "tag": "UPS-01",
+    "name": "無停電電源装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 41,
+   "fields": {
+    "kanri": "電-026",
+    "tag": "EG-01",
+    "name": "非常用発電機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 42,
+   "fields": {
+    "kanri": "電-027",
+    "tag": "EGP-01",
+    "name": "非常用発電機盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 43,
+   "fields": {
+    "kanri": "電-028",
+    "tag": "SC-01",
+    "name": "進相コンデンサ盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "電気",
+   "r": 44,
+   "fields": {
+    "kanri": "電-029",
+    "tag": "RP-01",
+    "name": "系統連系保護継電器盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 6,
+   "fields": {
+    "kanri": "計-101",
+    "tag": "ACC-101",
+    "name": "自動燃焼制御装置盤",
+    "qty": "1台",
+    "inst": "H13.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 7,
+   "fields": {
+    "kanri": "計-102",
+    "tag": "TV-101",
+    "name": "炉内監視カメラ装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 8,
+   "fields": {
+    "kanri": "計-103",
+    "tag": "PS-101",
+    "name": "炉用計装電源盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 9,
+   "fields": {
+    "kanri": "計-104",
+    "tag": "DCS-10",
+    "name": "1号炉制御盤（旧DCS）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 11,
+   "fields": {
+    "kanri": "計-201",
+    "tag": "ACC-201",
+    "name": "自動燃焼制御装置盤",
+    "qty": "1台",
+    "inst": "H14.2"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 12,
+   "fields": {
+    "kanri": "計-202",
+    "tag": "TV-201",
+    "name": "炉内監視カメラ装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 13,
+   "fields": {
+    "kanri": "計-203",
+    "tag": "PS-201",
+    "name": "炉用計装電源盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 14,
+   "fields": {
+    "kanri": "計-204",
+    "tag": "DCS-20",
+    "name": "2号炉制御盤（旧DCS）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 16,
+   "fields": {
+    "kanri": "計-001",
+    "tag": "EM-01",
+    "name": "公害監視表示盤",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 17,
+   "fields": {
+    "kanri": "計-002",
+    "tag": "TV-01",
+    "name": "ITV監視装置",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 18,
+   "fields": {
+    "kanri": "計-003",
+    "tag": "CRT-01",
+    "name": "CRTオペレータコンソールNo.1",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 19,
+   "fields": {
+    "kanri": "計-004",
+    "tag": "CRT-02",
+    "name": "CRTオペレータコンソールNo.2",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 20,
+   "fields": {
+    "kanri": "計-005",
+    "tag": "BB-01",
+    "name": "中央監視盤（ベンチボード）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 21,
+   "fields": {
+    "kanri": "計-006",
+    "tag": "CP-01",
+    "name": "データ処理用計算機",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "計装制御",
+   "r": 22,
+   "fields": {
+    "kanri": "計-007",
+    "tag": "DCS-00",
+    "name": "共通制御盤（旧DCS）",
+    "qty": "1台",
+    "inst": "H9.3"
+   }
+  }
+ ]
+}

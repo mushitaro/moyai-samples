@@ -1,0 +1,200 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成16年度2号炉燃焼火格子補修工事_m1様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-18",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替。摺動面 状態確認、試運転 良",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   },
+   "sheet": "10.18",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-18",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   },
+   "sheet": "10.18",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-19",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 劣化部確認・マーキング、撤去 48%",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "33%"
+   },
+   "sheet": "10.19",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-19",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "10.19",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-20",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（取付）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 2,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "67%"
+   },
+   "sheet": "10.20",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-20",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "10.20",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-21",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 補修完了、外観・寸法検査 良",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "雑": 2
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "完了"
+   },
+   "sheet": "10.21",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-21",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "10.21",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-22",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替。ピン・ボルト 状態確認、試運転 良",
+    "persons": 3,
+    "trades": {
+     "社員": 2,
+     "築炉": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   },
+   "sheet": "10.22",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-22",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "3人工"
+   },
+   "sheet": "10.22",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2004-10-23",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   },
+   "sheet": "10.23",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2004-10-23",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "3人工"
+   },
+   "sheet": "10.23",
+   "r": 20
+  }
+ ]
+}

@@ -1,0 +1,259 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成23年度ごみピット壁面補修工事_業者様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "1031",
+   "r": 7,
+   "fields": {
+    "date": "2011-10-31",
+    "place": "ごみピット",
+    "content": "ごみピット 劣化部確認・マーキング、撤去 34%",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1031",
+   "r": 8,
+   "fields": {
+    "date": "2011-10-31",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1101",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-01",
+    "place": "ごみピット",
+    "content": "ごみピット 補修完了、外観・寸法検査 良",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1101",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-01",
+    "persons": 4,
+    "manDays": 4.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1102",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-02",
+    "place": "ごみピット",
+    "content": "ごみピット 劣化部確認・マーキング、撤去 65%",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "9時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1102",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-02",
+    "persons": 5,
+    "manDays": 5.62
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1103",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-03",
+    "place": "ごみピット",
+    "content": "ごみピット 壁面補修（ボルト類 含む）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1103",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-03",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1104",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-04",
+    "place": "ごみピット",
+    "content": "ごみピット 壁面補修（溶接）",
+    "persons": 5,
+    "manDays": 5.31,
+    "manDaysText": "8.5時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1104",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-04",
+    "persons": 5,
+    "manDays": 5.31
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1105",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-05",
+    "place": "ごみピット",
+    "content": "ごみピット 壁面補修（溶接）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1105",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-05",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1107",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-07",
+    "place": "ごみピット",
+    "content": "ごみピット 壁面補修（取付）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1107",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-07",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1108",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-08",
+    "place": "ごみピット",
+    "content": "ごみピット 壁面補修（取付）",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1108",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-08",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1109",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-09",
+    "place": "ごみピット",
+    "content": "ごみピット 補修完了、外観・寸法検査 良",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1109",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-09",
+    "persons": 5,
+    "manDays": 5.0
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1110",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-10",
+    "place": "ごみピット",
+    "content": "ごみピット 壁面補修。シール 状態確認、試運転 良",
+    "persons": 3,
+    "manDays": 3.38,
+    "manDaysText": "9時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1110",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-10",
+    "persons": 3,
+    "manDays": 3.38
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1111",
+   "r": 7,
+   "fields": {
+    "date": "2011-11-11",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "8時間"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1111",
+   "r": 8,
+   "fields": {
+    "date": "2011-11-11",
+    "persons": 3,
+    "manDays": 3.0
+   }
+  }
+ ]
+}

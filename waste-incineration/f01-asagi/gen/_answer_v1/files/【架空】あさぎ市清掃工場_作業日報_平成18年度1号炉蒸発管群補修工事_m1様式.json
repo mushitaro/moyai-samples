@@ -1,0 +1,231 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成18年度1号炉蒸発管群補修工事_m1様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2006-06-05",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 完了（累計 49 点、最小 4.5mm）",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   },
+   "sheet": "6.5",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2006-06-05",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   },
+   "sheet": "6.5",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2006-06-06",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 57 点（下段）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 3
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "20%"
+   },
+   "sheet": "6.6",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2006-06-06",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "6.6",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2006-06-07",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 25 点（前列）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 2,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "45%"
+   },
+   "sheet": "6.7",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2006-06-07",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "6.7",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2006-06-08",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 32 点（後列）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "雑": 2
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "65%"
+   },
+   "sheet": "6.8",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2006-06-08",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "6.8",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2006-06-09",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 完了（累計 220 点、最小 3.2mm）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "完了"
+   },
+   "sheet": "6.9",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2006-06-09",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "6.9",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2006-06-10",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 完了（累計 50 点、最小 3.3mm）",
+    "persons": 3,
+    "trades": {
+     "社員": 2,
+     "築炉": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   },
+   "sheet": "6.10",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2006-06-10",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "3人工"
+   },
+   "sheet": "6.10",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2006-06-12",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "雑": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   },
+   "sheet": "6.12",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2006-06-12",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "3人工"
+   },
+   "sheet": "6.12",
+   "r": 20
+  }
+ ]
+}

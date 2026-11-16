@@ -1,0 +1,3277 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成29年度基幹的設備改良工事（平成29年度施工分）_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "9.4",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-04",
+    "no": "2",
+    "furnace": "—",
+    "place": "現場",
+    "content": "仮設足場・養生、既設撤去準備",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 20
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.4",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-04",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.5",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-05",
+    "no": "2",
+    "furnace": "—",
+    "place": "現場",
+    "content": "仮設足場・養生、既設撤去準備",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 40
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.5",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-05",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.6",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-06",
+    "no": "2",
+    "furnace": "—",
+    "place": "現場",
+    "content": "仮設足場・養生、既設撤去準備",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 60
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.6",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-06",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.7",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-07",
+    "no": "2",
+    "furnace": "—",
+    "place": "現場",
+    "content": "仮設足場・養生、既設撤去準備",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 75
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.7",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-07",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.8",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-08",
+    "no": "2",
+    "furnace": "—",
+    "place": "現場",
+    "content": "仮設足場・養生、既設撤去準備",
+    "staff": 1,
+    "partner": 5,
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.8",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-08",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.9",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-09",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "給じん装置",
+    "content": "給じん装置 既設撤去、据付面 清掃・墨出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "progress": 9
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.9",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-09",
+    "persons": 8,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.11",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-11",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "給じん装置",
+    "content": "給じん装置 新品据付・アンカー打設",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 13
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.11",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-11",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.12",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-12",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "給じん装置",
+    "content": "給じん装置 新品据付・配線接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 27
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.12",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-12",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.13",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-13",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "給じん装置",
+    "content": "給じん装置 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 36
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.13",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-13",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.14",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-14",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "給じん装置",
+    "content": "給じん装置 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "progress": 45
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.14",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-14",
+    "persons": 8,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.15",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-15",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "給じん装置",
+    "content": "給じん装置 新品据付・配管接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 55
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.15",
+   "r": 8,
+   "fields": {
+    "date": "2017-09-15",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 既設撤去、据付面 清掃・墨出し。乾燥火格子 既設撤去、据付面 清掃・墨出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 0
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.15",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-15",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.16",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-16",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "給じん装置",
+    "content": "給じん装置 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "progress": 64
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.16",
+   "r": 8,
+   "fields": {
+    "date": "2017-09-16",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・アンカー打設。ほか 2 台",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 7.88,
+    "manDaysText": "63.0",
+    "progress": 4
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.16",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-16",
+    "persons": 15,
+    "manDays": 14.88,
+    "manDaysText": "119.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.18",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-18",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "給じん装置",
+    "content": "給じん装置 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 63
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.18",
+   "r": 8,
+   "fields": {
+    "date": "2017-09-18",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・アンカー打設。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 7
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.18",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-18",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.19",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-19",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "給じん装置",
+    "content": "給じん装置 新品据付・配管接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 82
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.19",
+   "r": 8,
+   "fields": {
+    "date": "2017-09-19",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・配線接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 9
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.19",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-19",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.20",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-20",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "給じん装置",
+    "content": "給じん装置 新品据付・配線接続",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "progress": 91
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.20",
+   "r": 8,
+   "fields": {
+    "date": "2017-09-20",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・配線接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 6
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.20",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-20",
+    "persons": 15,
+    "manDays": 15.0,
+    "manDaysText": "120.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.21",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-21",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "給じん装置",
+    "content": "給じん装置 試運転・調整 完了",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 6.12,
+    "manDaysText": "49.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.21",
+   "r": 8,
+   "fields": {
+    "date": "2017-09-21",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・アンカー打設。乾燥火格子 新品据付・配線接続。ほか 2 台",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 7.88,
+    "manDaysText": "63.0",
+    "progress": 13
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.21",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-21",
+    "persons": 14,
+    "manDays": 14.0,
+    "manDaysText": "112.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.22",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-22",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配管接続。乾燥火格子 新品据付・アンカー打設。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 11
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.22",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-22",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.23",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-23",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 18
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.23",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-23",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.25",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-25",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配管接続。乾燥火格子 新品据付・配管接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 20
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.25",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-25",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.26",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-26",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配管接続。乾燥火格子 新品据付・配管接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 22
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.26",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-26",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.27",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-27",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・アンカー打設。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 24
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.27",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-27",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.28",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-28",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配管接続。乾燥火格子 新品据付・配線接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 27
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.28",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-28",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.29",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-29",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 29
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.29",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-29",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.30",
+   "r": 7,
+   "fields": {
+    "date": "2017-09-30",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配管接続。乾燥火格子 新品据付・アンカー打設。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 31
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.30",
+   "r": 19,
+   "fields": {
+    "date": "2017-09-30",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.2",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-02",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・アンカー打設。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 33
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.2",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-02",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.3",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-03",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配管接続。乾燥火格子 新品据付・アンカー打設。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 36
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.3",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-03",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.4",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-04",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・芯出し。乾燥火格子 新品据付・配線接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 38
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.4",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-04",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.5",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-05",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・配管接続。ほか 2 台",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "progress": 40
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.5",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-05",
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.6",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-06",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・芯出し。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 42
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.6",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-06",
+    "persons": 8,
+    "manDays": 9.0,
+    "manDaysText": "72.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.7",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-07",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・アンカー打設。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 44
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.7",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-07",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.9",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-09",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配管接続。乾燥火格子 新品据付・配線接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 47
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.9",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-09",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.10",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-10",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・アンカー打設。乾燥火格子 新品据付・アンカー打設。ほか 2 台",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "progress": 39
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.10",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-10",
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.11",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-11",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・アンカー打設。乾燥火格子 新品据付・配線接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 51
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.11",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-11",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 既設撤去、据付面 清掃・墨出し。ストーカ油圧ポンプB 既設撤去、据付面 清掃・墨出し。ほか 1 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 8
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.11",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-11",
+    "persons": 16,
+    "manDays": 17.0,
+    "manDaysText": "136.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.12",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-12",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・芯出し。乾燥火格子 新品据付・配管接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 53
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.12",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-12",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 新品据付・芯出し。ストーカ油圧ポンプB 新品据付・配線接続。ほか 1 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 17
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.12",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-12",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.13",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-13",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・芯出し。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 56
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.13",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-13",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 新品据付・配線接続。ストーカ油圧ポンプB 新品据付・配管接続。ほか 1 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 25
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.13",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-13",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.14",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-14",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・アンカー打設。乾燥火格子 新品据付・アンカー打設。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 53
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.14",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-14",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 新品据付・芯出し。ストーカ油圧ポンプB 新品据付・配管接続。ほか 1 台",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 33
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.14",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-14",
+    "persons": 17,
+    "manDays": 17.0,
+    "manDaysText": "136.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.16",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-16",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・アンカー打設。乾燥火格子 新品据付・配線接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 50
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.16",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-16",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 新品据付・配線接続。ストーカ油圧ポンプB 新品据付・配線接続。ほか 1 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 32
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.16",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-16",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.17",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-17",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配管接続。乾燥火格子 新品据付・配管接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 52
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.17",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-17",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 新品据付・芯出し。ストーカ油圧ポンプB 新品据付・配線接続。ほか 1 台",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 45
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.17",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-17",
+    "persons": 17,
+    "manDays": 17.0,
+    "manDaysText": "136.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.18",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-18",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配管接続。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 64
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.18",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-18",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 新品据付・配線接続。ストーカ油圧ポンプB 新品据付・配管接続。ほか 1 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 48
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.18",
+   "r": 9,
+   "fields": {
+    "date": "2017-10-18",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 既設撤去、据付面 清掃・墨出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 0
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.18",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-18",
+    "persons": 24,
+    "manDays": 24.0,
+    "manDaysText": "192.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.19",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-19",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・アンカー打設。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 62
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.19",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-19",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 新品据付・配線接続。ストーカ油圧ポンプB 新品据付・芯出し。ほか 1 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 62
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.19",
+   "r": 9,
+   "fields": {
+    "date": "2017-10-19",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・芯出し",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 7.88,
+    "manDaysText": "63.0",
+    "progress": 8
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.19",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-19",
+    "persons": 23,
+    "manDays": 23.88,
+    "manDaysText": "191.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.20",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-20",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・アンカー打設。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 69
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.20",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-20",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 新品据付・芯出し。ストーカ油圧ポンプB 新品据付・配管接続。ほか 1 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 70
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.20",
+   "r": 9,
+   "fields": {
+    "date": "2017-10-20",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・配管接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 7
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.20",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-20",
+    "persons": 25,
+    "manDays": 25.0,
+    "manDaysText": "200.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.21",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-21",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 71
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.21",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-21",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 新品据付・配管接続。ストーカ油圧ポンプB 新品据付・配線接続。ほか 1 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 83
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.21",
+   "r": 9,
+   "fields": {
+    "date": "2017-10-21",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 6
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.21",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-21",
+    "persons": 25,
+    "manDays": 25.0,
+    "manDaysText": "200.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.23",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-23",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・芯出し。乾燥火格子 新品据付・配線接続。ほか 2 台",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 68
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.23",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-23",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 新品据付・配線接続。ストーカ油圧ポンプB 新品据付・アンカー打設。ほか 1 台",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 82
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.23",
+   "r": 9,
+   "fields": {
+    "date": "2017-10-23",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・アンカー打設",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.56,
+    "manDaysText": "76.5",
+    "progress": 20
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.23",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-23",
+    "persons": 27,
+    "manDays": 27.56,
+    "manDaysText": "220.5"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.24",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-24",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 76
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.24",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-24",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ストーカ油圧ポンプA",
+    "content": "ストーカ油圧ポンプA 試運転・調整 完了。ストーカ油圧ポンプB 試運転・調整 完了。ほか 1 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.24",
+   "r": 9,
+   "fields": {
+    "date": "2017-10-24",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 14
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.24",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-24",
+    "persons": 24,
+    "manDays": 24.0,
+    "manDaysText": "192.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.25",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-25",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・配線接続。ほか 2 台",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 78
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.25",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-25",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・配線接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 18
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.25",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-25",
+    "persons": 17,
+    "manDays": 17.0,
+    "manDaysText": "136.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.26",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-26",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・アンカー打設。乾燥火格子 新品据付・配管接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 80
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.26",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-26",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・アンカー打設",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 27
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.26",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-26",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.27",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-27",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・芯出し。乾燥火格子 新品据付・配管接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.5,
+    "manDaysText": "68.0",
+    "progress": 82
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.27",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-27",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・アンカー打設",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "progress": 26
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.27",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-27",
+    "persons": 15,
+    "manDays": 15.5,
+    "manDaysText": "124.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.28",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-28",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・アンカー打設。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "progress": 74
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.28",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-28",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 30
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.28",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-28",
+    "persons": 15,
+    "manDays": 15.0,
+    "manDaysText": "120.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.30",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-30",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 77
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.30",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-30",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・配線接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.5,
+    "manDaysText": "68.0",
+    "progress": 44
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.30",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-30",
+    "persons": 16,
+    "manDays": 16.5,
+    "manDaysText": "132.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.31",
+   "r": 7,
+   "fields": {
+    "date": "2017-10-31",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・芯出し。乾燥火格子 新品据付・アンカー打設。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 89
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.31",
+   "r": 8,
+   "fields": {
+    "date": "2017-10-31",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・芯出し",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 7.88,
+    "manDaysText": "63.0",
+    "progress": 48
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.31",
+   "r": 19,
+   "fields": {
+    "date": "2017-10-31",
+    "persons": 15,
+    "manDays": 15.88,
+    "manDaysText": "127.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.1",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-01",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配管接続。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 86
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.1",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-01",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 47
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.1",
+   "r": 9,
+   "fields": {
+    "date": "2017-11-01",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 既設撤去、据付面 清掃・墨出し。誘引通風機インバータ盤 既設撤去、据付面 清掃・墨出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 5
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.1",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-01",
+    "persons": 24,
+    "manDays": 24.0,
+    "manDaysText": "192.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.2",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-02",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・芯出し。乾燥火格子 新品据付・芯出し。ほか 2 台",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 93
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.2",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-02",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・アンカー打設",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 51
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.2",
+   "r": 9,
+   "fields": {
+    "date": "2017-11-02",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・芯出し。誘引通風機インバータ盤 新品据付・配管接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 5
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.2",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-02",
+    "persons": 25,
+    "manDays": 25.0,
+    "manDaysText": "200.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.3",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-03",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配線接続。乾燥火格子 新品据付・アンカー打設。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 96
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.3",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-03",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 50
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.3",
+   "r": 9,
+   "fields": {
+    "date": "2017-11-03",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・アンカー打設。誘引通風機インバータ盤 新品据付・配管接続",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "progress": 15
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.3",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-03",
+    "persons": 23,
+    "manDays": 23.0,
+    "manDaysText": "184.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.4",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-04",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 新品据付・配管接続。乾燥火格子 新品据付・配線接続。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 98
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.4",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-04",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・アンカー打設",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 64
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.4",
+   "r": 9,
+   "fields": {
+    "date": "2017-11-04",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・アンカー打設。誘引通風機インバータ盤 新品据付・アンカー打設",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 20
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.4",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-04",
+    "persons": 24,
+    "manDays": 24.0,
+    "manDaysText": "192.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.6",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-06",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "焼却炉本体",
+    "content": "焼却炉本体 試運転・調整 完了。乾燥火格子 試運転・調整 完了。ほか 2 台",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.6",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-06",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・アンカー打設",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 68
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.6",
+   "r": 9,
+   "fields": {
+    "date": "2017-11-06",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・アンカー打設。誘引通風機インバータ盤 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 25
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.6",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-06",
+    "persons": 24,
+    "manDays": 24.0,
+    "manDaysText": "192.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.7",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-07",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・配線接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 67
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.7",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-07",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・配管接続。誘引通風機インバータ盤 新品据付・配管接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.5,
+    "manDaysText": "68.0",
+    "progress": 30
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.7",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-07",
+    "persons": 16,
+    "manDays": 16.5,
+    "manDaysText": "132.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.8",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-08",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・配線接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 76
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.8",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-08",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・芯出し。誘引通風機インバータ盤 新品据付・配線接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 25
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.8",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-08",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.9",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-09",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・配線接続",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 80
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.9",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-09",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・アンカー打設。誘引通風機インバータ盤 新品据付・配線接続",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 6.12,
+    "manDaysText": "49.0",
+    "progress": 35
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.9",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-09",
+    "persons": 16,
+    "manDays": 15.12,
+    "manDaysText": "121.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.10",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-10",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・アンカー打設",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 84
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.10",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-10",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・アンカー打設。誘引通風機インバータ盤 新品据付・配線接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 45
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.10",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-10",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.11",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-11",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 83
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.11",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-11",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・アンカー打設。誘引通風機インバータ盤 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 40
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.11",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-11",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.13",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-13",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 92
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.13",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-13",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・配管接続。誘引通風機インバータ盤 新品据付・配線接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 45
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.13",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-13",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.14",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-14",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 新品据付・配管接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 91
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.14",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-14",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・配線接続。誘引通風機インバータ盤 新品据付・配線接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 60
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.14",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-14",
+    "persons": 16,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.15",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-15",
+    "no": "6",
+    "furnace": "1号炉",
+    "place": "過熱器",
+    "content": "過熱器 試運転・調整 完了",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.15",
+   "r": 8,
+   "fields": {
+    "date": "2017-11-15",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・アンカー打設。誘引通風機インバータ盤 新品据付・配線接続",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 60
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.15",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-15",
+    "persons": 16,
+    "manDays": 15.0,
+    "manDaysText": "120.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.16",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-16",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・配管接続。誘引通風機インバータ盤 新品据付・芯出し",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 60
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.16",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-16",
+    "persons": 8,
+    "manDays": 9.0,
+    "manDaysText": "72.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.17",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-17",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・芯出し。誘引通風機インバータ盤 新品据付・配管接続",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 75
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.17",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-17",
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.18",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-18",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・配管接続。誘引通風機インバータ盤 新品据付・配管接続",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 10.12,
+    "manDaysText": "81.0",
+    "progress": 70
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.18",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-18",
+    "persons": 9,
+    "manDays": 10.12,
+    "manDaysText": "81.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.20",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-20",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・配管接続。誘引通風機インバータ盤 新品据付・配線接続",
+    "staff": 2,
+    "partner": 5,
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "progress": 85
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.20",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-20",
+    "persons": 7,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.21",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-21",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・芯出し。誘引通風機インバータ盤 新品据付・配管接続",
+    "staff": 2,
+    "partner": 7,
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 90
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.21",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-21",
+    "persons": 9,
+    "manDays": 9.0,
+    "manDaysText": "72.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.22",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-22",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 新品据付・アンカー打設。誘引通風機インバータ盤 新品据付・アンカー打設",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "progress": 95
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.22",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-22",
+    "persons": 8,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "11.23",
+   "r": 7,
+   "fields": {
+    "date": "2017-11-23",
+    "no": "7",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 試運転・調整 完了。誘引通風機インバータ盤 試運転・調整 完了",
+    "staff": 2,
+    "partner": 6,
+    "persons": 8,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "11.23",
+   "r": 19,
+   "fields": {
+    "date": "2017-11-23",
+    "persons": 8,
+    "manDays": 9.0,
+    "manDaysText": "72.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.3",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-03",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "staff": 3,
+    "partner": 2,
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "35.0",
+    "progress": 3
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.3",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-03",
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "35.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.5",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-05",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "staff": 3,
+    "partner": 2,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 10
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.5",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-05",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.6",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-06",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "staff": 3,
+    "partner": 3,
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "progress": 18
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.6",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-06",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.7",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-07",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "staff": 3,
+    "partner": 2,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 21
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.7",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-07",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.8",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-08",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "staff": 3,
+    "partner": 2,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 38
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.8",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-08",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.9",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-09",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "staff": 3,
+    "partner": 3,
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "progress": 41
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.9",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-09",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.10",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-10",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "staff": 3,
+    "partner": 2,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 49
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.10",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-10",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.12",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-12",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "staff": 3,
+    "partner": 2,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 62
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.12",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-12",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.13",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-13",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "staff": 3,
+    "partner": 2,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 69
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.13",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-13",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.14",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-14",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "staff": 3,
+    "partner": 2,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 67
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.14",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-14",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.15",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-15",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "staff": 3,
+    "partner": 2,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 85
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.15",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-15",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.16",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-16",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "staff": 3,
+    "partner": 2,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 87
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.16",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-16",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "2.17",
+   "r": 7,
+   "fields": {
+    "date": "2018-02-17",
+    "no": "8",
+    "furnace": "—",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "staff": 3,
+    "partner": 2,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "2.17",
+   "r": 19,
+   "fields": {
+    "date": "2018-02-17",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成24年度2号炉乾燥火格子補修工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-10-08",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "乾燥火格子",
+    "content": "乾燥火格子 摩耗計測 44 点（前列）",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 50
+   },
+   "sheet": "10.8",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-10-08",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "10.8",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-10-09",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "乾燥火格子",
+    "content": "乾燥火格子 摩耗計測 完了（累計 122 点、最小 3.1mm）",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 100
+   },
+   "sheet": "10.9",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-10-09",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "10.9",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-10-10",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "乾燥火格子",
+    "content": "乾燥火格子 摩耗計測 76 点（後列）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 20
+   },
+   "sheet": "10.10",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-10-10",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "10.10",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-10-11",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "乾燥火格子",
+    "content": "乾燥火格子 摩耗計測 62 点（後列）",
+    "staff": 1,
+    "partner": 5,
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "progress": 50
+   },
+   "sheet": "10.11",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-10-11",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   },
+   "sheet": "10.11",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-10-12",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "乾燥火格子",
+    "content": "乾燥火格子 摩耗計測 61 点（下段）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 65
+   },
+   "sheet": "10.12",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-10-12",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "10.12",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-10-13",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "乾燥火格子",
+    "content": "乾燥火格子 摩耗計測 完了（累計 292 点、最小 3.8mm）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 100
+   },
+   "sheet": "10.13",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-10-13",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "10.13",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-10-15",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "乾燥火格子",
+    "content": "乾燥火格子 摩耗計測 完了（累計 52 点、最小 2.6mm）",
+    "staff": 2,
+    "partner": 1,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   },
+   "sheet": "10.15",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-10-15",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "10.15",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-10-16",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   },
+   "sheet": "10.16",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-10-16",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "10.16",
+   "r": 19
+  }
+ ]
+}

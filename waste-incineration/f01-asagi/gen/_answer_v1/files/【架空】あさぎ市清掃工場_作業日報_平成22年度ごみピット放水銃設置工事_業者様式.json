@@ -1,0 +1,558 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成22年度ごみピット放水銃設置工事_業者様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-01",
+    "place": "現場",
+    "content": "仮設足場・養生、既設撤去準備",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "1101",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-11-01",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "1101",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-02",
+    "place": "現場",
+    "content": "仮設足場・養生、既設撤去準備",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "1102",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-11-02",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "1102",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-03",
+    "place": "現場",
+    "content": "仮設足場・養生、既設撤去準備",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "1103",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-11-03",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "1103",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-04",
+    "place": "現場",
+    "content": "仮設足場・養生、既設撤去準備",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "1104",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-11-04",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "1104",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-05",
+    "place": "現場",
+    "content": "仮設足場・養生、既設撤去準備",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "1105",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-11-05",
+    "persons": 6,
+    "manDays": 6.0
+   },
+   "sheet": "1105",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-06",
+    "place": "ピット放水銃No.1",
+    "content": "ピット放水銃No.1 既設撤去、据付面 清掃・墨出し。ピット放水銃No.2 既設撤去、据付面 清掃・墨出し",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "1106",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-11-06",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "1106",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-08",
+    "place": "ピット放水銃No.1",
+    "content": "ピット放水銃No.1 新品据付・配管接続。ピット放水銃No.2 新品据付・芯出し",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "1108",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-11-08",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "1108",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-09",
+    "place": "ピット放水銃No.1",
+    "content": "ピット放水銃No.1 新品据付・芯出し。ピット放水銃No.2 新品据付・アンカー打設",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "1109",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-11-09",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "1109",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-10",
+    "place": "ピット放水銃No.1",
+    "content": "ピット放水銃No.1 新品据付・配線接続。ピット放水銃No.2 新品据付・配線接続",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "1110",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-11-10",
+    "persons": 4,
+    "manDays": 4.0
+   },
+   "sheet": "1110",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-11",
+    "place": "ピット放水銃No.1",
+    "content": "ピット放水銃No.1 新品据付・アンカー打設。ピット放水銃No.2 新品据付・配管接続",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "1111",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-11-11",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "1111",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-12",
+    "place": "ピット放水銃No.1",
+    "content": "ピット放水銃No.1 試運転・調整 完了。ピット放水銃No.2 試運転・調整 完了",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "1112",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2010-11-12",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "1112",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-05",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "9時間"
+   },
+   "sheet": "0205",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-05",
+    "persons": 5,
+    "manDays": 5.62
+   },
+   "sheet": "0205",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-07",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0207",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-07",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "0207",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-08",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0208",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-08",
+    "persons": 6,
+    "manDays": 6.0
+   },
+   "sheet": "0208",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-09",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "9時間"
+   },
+   "sheet": "0209",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-09",
+    "persons": 5,
+    "manDays": 5.62
+   },
+   "sheet": "0209",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-10",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0210",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-10",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "0210",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-11",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0211",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-11",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "0211",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-12",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0212",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-12",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "0212",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-14",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "7時間"
+   },
+   "sheet": "0214",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-14",
+    "persons": 5,
+    "manDays": 4.38
+   },
+   "sheet": "0214",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-15",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0215",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-15",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "0215",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-16",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0216",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-16",
+    "persons": 5,
+    "manDays": 5.0
+   },
+   "sheet": "0216",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-17",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "8時間"
+   },
+   "sheet": "0217",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-17",
+    "persons": 4,
+    "manDays": 4.0
+   },
+   "sheet": "0217",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-18",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "9時間"
+   },
+   "sheet": "0218",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-18",
+    "persons": 5,
+    "manDays": 5.62
+   },
+   "sheet": "0218",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2011-02-19",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "persons": 6,
+    "manDays": 5.25,
+    "manDaysText": "7時間"
+   },
+   "sheet": "0219",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2011-02-19",
+    "persons": 6,
+    "manDays": 5.25
+   },
+   "sheet": "0219",
+   "r": 8
+  }
+ ]
+}

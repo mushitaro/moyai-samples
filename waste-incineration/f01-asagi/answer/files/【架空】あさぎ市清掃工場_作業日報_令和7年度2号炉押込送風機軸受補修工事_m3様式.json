@@ -1,0 +1,226 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和7年度2号炉押込送風機軸受補修工事_m3様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "1006",
+   "r": 6,
+   "fields": {
+    "date": "2025-10-06",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "押込送風機",
+    "content": "押込送風機 軸受、作動確認 良",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1006",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1006",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-06",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1007",
+   "r": 6,
+   "fields": {
+    "date": "2025-10-07",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "押込送風機",
+    "content": "押込送風機 劣化部確認・マーキング、撤去 52%",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 50,
+    "progress": 50,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1007",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1007",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-07",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1008",
+   "r": 6,
+   "fields": {
+    "date": "2025-10-08",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "押込送風機",
+    "content": "押込送風機 補修完了、外観・寸法検査 良",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1008",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1008",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-08",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1009",
+   "r": 6,
+   "fields": {
+    "date": "2025-10-09",
+    "team": "A班（炉・築炉）",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "押込送風機",
+    "content": "押込送風機 軸受。グランドパッキン 状態確認、試運転 良",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1009",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1009",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-09",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1010",
+   "r": 6,
+   "fields": {
+    "date": "2025-10-10",
+    "team": "A班（炉・築炉）",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1010",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1010",
+   "r": 8,
+   "fields": {
+    "date": "2025-10-10",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  }
+ ]
+}

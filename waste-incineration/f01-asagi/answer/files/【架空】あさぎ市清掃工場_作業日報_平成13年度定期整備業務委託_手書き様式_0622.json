@@ -1,0 +1,61 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0622.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0622.jpg",
+   "fields": {
+    "date": "2001-06-22",
+    "no": "115",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "電動弁・ダンパ 作動試験",
+    "persons": 6,
+    "trades": {
+     "社員": 3,
+     "築炉": 2,
+     "足場": 1
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0622.jpg",
+   "fields": {
+    "date": "2001-06-22",
+    "no": "C06",
+    "furnace": "共通",
+    "place": "中央制御室",
+    "content": "昇温開始（市運転班）、耐火物乾燥",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "seq": 2,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0622.jpg",
+   "fields": {
+    "date": "2001-06-22",
+    "persons": 7,
+    "manDays": 6.25,
+    "manDaysText": "6.2人工"
+   }
+  }
+ ],
+ "image_size": [
+  1705,
+  1262
+ ]
+}

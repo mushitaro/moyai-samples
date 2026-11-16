@@ -1,0 +1,182 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和5年度処理物搬出コンベヤ補修工事_m3様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "1009",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-09",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "共通",
+    "place": "処理物搬出コンベヤ",
+    "content": "処理物搬出コンベヤ チェーン・スクリュー羽根補修、作動確認 良",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1009",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1009",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-09",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1010",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-10",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "共通",
+    "place": "処理物搬出コンベヤ",
+    "content": "処理物搬出コンベヤ チェーン・スクリュー羽根補修。チェーン 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 4.38,
+    "manDaysText": "35.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1010",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 4.38,
+    "manDaysText": "35.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1010",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-10",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 4.38,
+    "manDaysText": "35.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1011",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-11",
+    "team": "A班（炉・築炉）",
+    "no": "5",
+    "furnace": "共通",
+    "place": "処理物搬出コンベヤ",
+    "content": "処理物搬出コンベヤ チェーン・スクリュー羽根補修。スプロケット 状態確認、試運転 良",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1011",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1011",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-11",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1012",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-12",
+    "team": "A班（炉・築炉）",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1012",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1012",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-12",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成21年度2号炉誘引通風機補修工事_m1様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "10.26",
+   "r": 6,
+   "fields": {
+    "date": "2009-10-26",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 開放点検、グランドパッキン 状態確認、異常なし。復旧",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.26",
+   "r": 20,
+   "fields": {
+    "date": "2009-10-26",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.27",
+   "r": 6,
+   "fields": {
+    "date": "2009-10-27",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 点検（カップリング・カップリング）、試運転時振動 1.4mm/s",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.27",
+   "r": 20,
+   "fields": {
+    "date": "2009-10-27",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.28",
+   "r": 6,
+   "fields": {
+    "date": "2009-10-28",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 内部点検・清掃、カップリング に軽微な摩耗（経過観察）",
+    "persons": 3,
+    "trades": {
+     "社員": 2,
+     "雑": 1
+    },
+    "manDays": 3.38,
+    "manDaysText": "3人×9h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.28",
+   "r": 20,
+   "fields": {
+    "date": "2009-10-28",
+    "persons": 3,
+    "manDays": 3.38,
+    "manDaysText": "3.4人工"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "10.29",
+   "r": 6,
+   "fields": {
+    "date": "2009-10-29",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "10.29",
+   "r": 20,
+   "fields": {
+    "date": "2009-10-29",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   }
+  }
+ ]
+}

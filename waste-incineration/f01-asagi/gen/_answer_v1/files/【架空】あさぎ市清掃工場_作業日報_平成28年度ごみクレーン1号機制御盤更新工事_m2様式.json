@@ -1,0 +1,296 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成28年度ごみクレーン1号機制御盤更新工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2016-10-03",
+    "no": "3",
+    "furnace": "共通",
+    "place": "ごみクレーン1号機制御盤",
+    "content": "ごみクレーン1号機制御盤 既設撤去、据付面 清掃・墨出し",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 45
+   },
+   "sheet": "10.3",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2016-10-03",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "10.3",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2016-10-04",
+    "no": "3",
+    "furnace": "共通",
+    "place": "ごみクレーン1号機制御盤",
+    "content": "ごみクレーン1号機制御盤 試運転・調整 完了",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 100
+   },
+   "sheet": "10.4",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2016-10-04",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "10.4",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2016-10-05",
+    "no": "4",
+    "furnace": "共通",
+    "place": "ごみクレーン1号機制御盤",
+    "content": "ごみクレーン1号機制御盤 既設撤去、据付面 清掃・墨出し",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "45.0",
+    "progress": 17
+   },
+   "sheet": "10.5",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2016-10-05",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "45.0"
+   },
+   "sheet": "10.5",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2016-10-06",
+    "no": "4",
+    "furnace": "共通",
+    "place": "ごみクレーン1号機制御盤",
+    "content": "ごみクレーン1号機制御盤 新品据付・配線接続",
+    "staff": 1,
+    "partner": 5,
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "progress": 23
+   },
+   "sheet": "10.6",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2016-10-06",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   },
+   "sheet": "10.6",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2016-10-07",
+    "no": "4",
+    "furnace": "共通",
+    "place": "ごみクレーン1号機制御盤",
+    "content": "ごみクレーン1号機制御盤 新品据付・アンカー打設",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 50
+   },
+   "sheet": "10.7",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2016-10-07",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "10.7",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2016-10-08",
+    "no": "4",
+    "furnace": "共通",
+    "place": "ごみクレーン1号機制御盤",
+    "content": "ごみクレーン1号機制御盤 新品据付・配線接続",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 67
+   },
+   "sheet": "10.8",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2016-10-08",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "10.8",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2016-10-10",
+    "no": "4",
+    "furnace": "共通",
+    "place": "ごみクレーン1号機制御盤",
+    "content": "ごみクレーン1号機制御盤 新品据付・アンカー打設",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 83
+   },
+   "sheet": "10.10",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2016-10-10",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "10.10",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2016-10-11",
+    "no": "4",
+    "furnace": "共通",
+    "place": "ごみクレーン1号機制御盤",
+    "content": "ごみクレーン1号機制御盤 試運転・調整 完了",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 100
+   },
+   "sheet": "10.11",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2016-10-11",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "10.11",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2016-10-12",
+    "no": "5",
+    "furnace": "共通",
+    "place": "ごみクレーン1号機制御盤",
+    "content": "ごみクレーン1号機制御盤 既設撤去・新品据付、配線接続、試運転 良",
+    "staff": 2,
+    "partner": 1,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   },
+   "sheet": "10.12",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2016-10-12",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "10.12",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2016-10-13",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   },
+   "sheet": "10.13",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2016-10-13",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "10.13",
+   "r": 19
+  }
+ ]
+}

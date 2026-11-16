@@ -1,0 +1,296 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成26年度1号炉燃焼火格子補修工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "6.9",
+   "r": 7,
+   "fields": {
+    "date": "2014-06-09",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 劣化部確認・マーキング、撤去 53%",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 50
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.9",
+   "r": 19,
+   "fields": {
+    "date": "2014-06-09",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.10",
+   "r": 7,
+   "fields": {
+    "date": "2014-06-10",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 補修完了、外観・寸法検査 良",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.10",
+   "r": 19,
+   "fields": {
+    "date": "2014-06-10",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.11",
+   "r": 7,
+   "fields": {
+    "date": "2014-06-11",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 劣化部確認・マーキング、撤去 31%",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 7
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.11",
+   "r": 19,
+   "fields": {
+    "date": "2014-06-11",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.12",
+   "r": 7,
+   "fields": {
+    "date": "2014-06-12",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（仮組）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 23
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.12",
+   "r": 19,
+   "fields": {
+    "date": "2014-06-12",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.13",
+   "r": 7,
+   "fields": {
+    "date": "2014-06-13",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（仮組）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 45
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.13",
+   "r": 19,
+   "fields": {
+    "date": "2014-06-13",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.14",
+   "r": 7,
+   "fields": {
+    "date": "2014-06-14",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（ピン・ボルト 含む）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 62
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.14",
+   "r": 19,
+   "fields": {
+    "date": "2014-06-14",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.16",
+   "r": 7,
+   "fields": {
+    "date": "2014-06-16",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替（溶接）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 73
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.16",
+   "r": 19,
+   "fields": {
+    "date": "2014-06-16",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.17",
+   "r": 7,
+   "fields": {
+    "date": "2014-06-17",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 補修完了、外観・寸法検査 良",
+    "staff": 1,
+    "partner": 5,
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.17",
+   "r": 19,
+   "fields": {
+    "date": "2014-06-17",
+    "persons": 6,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.18",
+   "r": 7,
+   "fields": {
+    "date": "2014-06-18",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 火格子片部分取替、作動確認 良",
+    "staff": 2,
+    "partner": 1,
+    "persons": 3,
+    "manDays": 3.38,
+    "manDaysText": "27.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.18",
+   "r": 19,
+   "fields": {
+    "date": "2014-06-18",
+    "persons": 3,
+    "manDays": 3.38,
+    "manDaysText": "27.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.19",
+   "r": 7,
+   "fields": {
+    "date": "2014-06-19",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.19",
+   "r": 19,
+   "fields": {
+    "date": "2014-06-19",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  }
+ ]
+}

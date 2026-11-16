@@ -1,0 +1,296 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成24年度1号炉蒸発管群補修工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-06-25",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 20 点（上段）",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 40
+   },
+   "sheet": "6.25",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-06-25",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "6.25",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-06-26",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 完了（累計 116 点、最小 3.2mm）",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 100
+   },
+   "sheet": "6.26",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-06-26",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "6.26",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-06-27",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 76 点（下段）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 12
+   },
+   "sheet": "6.27",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-06-27",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "6.27",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-06-28",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 79 点（前列）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 23
+   },
+   "sheet": "6.28",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-06-28",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "6.28",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-06-29",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 77 点（中段）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 40
+   },
+   "sheet": "6.29",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-06-29",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "6.29",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-06-30",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 69 点（中段）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 67
+   },
+   "sheet": "6.30",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-06-30",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "6.30",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-07-02",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 33 点（下段）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 78
+   },
+   "sheet": "7.2",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-07-02",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "7.2",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-07-03",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 完了（累計 150 点、最小 3.3mm）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 100
+   },
+   "sheet": "7.3",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-07-03",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "7.3",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-07-04",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 肉厚測定 完了（累計 23 点、最小 3.0mm）",
+    "staff": 2,
+    "partner": 1,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   },
+   "sheet": "7.4",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-07-04",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "7.4",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2012-07-05",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   },
+   "sheet": "7.5",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2012-07-05",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "7.5",
+   "r": 19
+  }
+ ]
+}

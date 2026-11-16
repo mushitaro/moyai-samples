@@ -1,0 +1,270 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和4年度2号炉エコノマイザ補修工事_m3様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2022-10-24",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 管部分取替。管 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "1024",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1024",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2022-10-24",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1024",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2022-10-25",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 劣化部確認・マーキング、撤去 63%",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   },
+   "sheet": "1025",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   },
+   "sheet": "1025",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2022-10-25",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   },
+   "sheet": "1025",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2022-10-26",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 管部分取替（取付）",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 67,
+    "progress": 62,
+    "status": "継続"
+   },
+   "sheet": "1026",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1026",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2022-10-26",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1026",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2022-10-27",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 補修完了、外観・寸法検査 良",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "1027",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "1027",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2022-10-27",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "1027",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2022-10-28",
+    "team": "A班（炉・築炉）",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 管部分取替、作動確認 良",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "1028",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "1028",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2022-10-28",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "1028",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2022-10-29",
+    "team": "A班（炉・築炉）",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "1029",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "1029",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2022-10-29",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "1029",
+   "r": 8
+  }
+ ]
+}

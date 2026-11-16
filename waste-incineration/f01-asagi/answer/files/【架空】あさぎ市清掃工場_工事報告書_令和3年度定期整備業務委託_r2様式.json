@@ -1,0 +1,1099 @@
+{
+ "file": "【架空】あさぎ市清掃工場_工事報告書_令和3年度定期整備業務委託_r2様式.pdf",
+ "plan": false,
+ "records": [
+  {
+   "kind": "parent",
+   "seq": 0,
+   "r": 1,
+   "fields": {
+    "text": "【架空】工事報告書（サマリー）"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 1,
+   "r": 2,
+   "fields": {
+    "項目": "項目",
+    "内容": "内容"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 2,
+   "r": 3,
+   "fields": {
+    "項目": "件名",
+    "内容": "令和3年度 あさぎ市清掃工場 定期整備業務委託"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 3,
+   "r": 4,
+   "fields": {
+    "項目": "契約工期",
+    "内容": "令和3年5月16日〜令和4年1月11日"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 4,
+   "r": 5,
+   "fields": {
+    "項目": "施工期間",
+    "内容": "1号炉 令和3年6月7日〜令和3年7月9日／全停 令和3年6月22日〜令和3年6月24日／2号炉 令和3年10月11日〜令和3年11月12日"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 5,
+   "r": 6,
+   "fields": {
+    "項目": "受注者",
+    "内容": "汐見重工環境株式会社 環境プラント事業部（現場代理人 m3）"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 6,
+   "r": 7,
+   "fields": {
+    "項目": "炉の運転操作",
+    "内容": "運転委託先"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 7,
+   "r": 8,
+   "fields": {
+    "text": "1. 実施概要"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 8,
+   "r": 9,
+   "fields": {
+    "text": "定期整備仕様書に基づき、1号炉・2号炉の順に炉を停止して点検・整備を行い、1号炉期間中に全停を行った。対象機器は1号炉 22 件、2号炉 17 件、共通 20 件の計 59 件である。別契約の補修工事（公害監視表示盤更新工事、2号炉燃焼火格子補修工事、1号炉過熱器補修工事）は本報告の対象外である。"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 9,
+   "r": 10,
+   "fields": {
+    "text": "2. 対象機器と実施内容"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 10,
+   "r": 11,
+   "fields": {
+    "code": "機器コード",
+    "furnace": "号炉",
+    "name": "機器名",
+    "kind": "区分",
+    "work": "実施内容",
+    "result": "判定"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 11,
+   "r": 12,
+   "fields": {
+    "code": "1B-001",
+    "furnace": "1号炉",
+    "name": "焼却炉本体",
+    "kind": "補修",
+    "work": "耐火物部分補修",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 12,
+   "r": 13,
+   "fields": {
+    "code": "1B-002",
+    "furnace": "1号炉",
+    "name": "乾燥火格子",
+    "kind": "計測",
+    "work": "火格子摩耗計測",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 13,
+   "r": 14,
+   "fields": {
+    "code": "1B-003",
+    "furnace": "1号炉",
+    "name": "燃焼火格子",
+    "kind": "計測",
+    "work": "火格子摩耗計測",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 14,
+   "r": 15,
+   "fields": {
+    "code": "1B-004",
+    "furnace": "1号炉",
+    "name": "後燃焼火格子",
+    "kind": "計測",
+    "work": "火格子摩耗計測",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 15,
+   "r": 16,
+   "fields": {
+    "code": "1B-007",
+    "furnace": "1号炉",
+    "name": "ストーカ油圧装置現場盤",
+    "kind": "点検",
+    "work": "盤内点検・清掃・絶縁測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 16,
+   "r": 17,
+   "fields": {
+    "code": "1B-008",
+    "furnace": "1号炉",
+    "name": "助燃バーナ",
+    "kind": "整備",
+    "work": "バーナ分解清掃・ノズル交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 17,
+   "r": 18,
+   "fields": {
+    "code": "1C-001",
+    "furnace": "1号炉",
+    "name": "ボイラドラム",
+    "kind": "点検",
+    "work": "ボイラ開放点検（法定）",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 18,
+   "r": 19,
+   "fields": {
+    "code": "1C-002",
+    "furnace": "1号炉",
+    "name": "水冷壁",
+    "kind": "計測",
+    "work": "肉厚測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 19,
+   "r": 20,
+   "fields": {
+    "code": "1C-004",
+    "furnace": "1号炉",
+    "name": "過熱器",
+    "kind": "計測",
+    "work": "肉厚測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 20,
+   "r": 21,
+   "fields": {
+    "code": "1C-005",
+    "furnace": "1号炉",
+    "name": "エコノマイザ",
+    "kind": "計測",
+    "work": "肉厚測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 21,
+   "r": 22,
+   "fields": {
+    "code": "1C-013",
+    "furnace": "1号炉",
+    "name": "スートブロワNo.4",
+    "kind": "補修",
+    "work": "噴射管交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 22,
+   "r": 23,
+   "fields": {
+    "code": "1C-019",
+    "furnace": "1号炉",
+    "name": "主蒸気止め弁",
+    "kind": "点検",
+    "work": "アクチュエータ点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 23,
+   "r": 24,
+   "fields": {
+    "code": "1D-008",
+    "furnace": "1号炉",
+    "name": "減温塔ダスト排出コンベヤ",
+    "kind": "補修",
+    "work": "チェーン・スクリュー羽根補修",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 24,
+   "r": 25,
+   "fields": {
+    "code": "1E-001",
+    "furnace": "1号炉",
+    "name": "押込送風機",
+    "kind": "点検",
+    "work": "開放点検・振動測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 25,
+   "r": 26,
+   "fields": {
+    "code": "1E-003",
+    "furnace": "1号炉",
+    "name": "二次送風機",
+    "kind": "補修",
+    "work": "軸受交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 26,
+   "r": 27,
+   "fields": {
+    "code": "1E-015",
+    "furnace": "1号炉",
+    "name": "誘引通風機インバータ盤",
+    "kind": "点検",
+    "work": "インバータ点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 27,
+   "r": 28,
+   "fields": {
+    "code": "1E-016",
+    "furnace": "1号炉",
+    "name": "ボイラ出口煙道ダンパ",
+    "kind": "整備",
+    "work": "シリンダ・シール交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 28,
+   "r": 29,
+   "fields": {
+    "code": "1E-017",
+    "furnace": "1号炉",
+    "name": "煙道（ボイラ出口〜BF入口）",
+    "kind": "補修",
+    "work": "腐食部当て板補修",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 29,
+   "r": 30,
+   "fields": {
+    "code": "1E-018",
+    "furnace": "1号炉",
+    "name": "煙道（BF出口〜煙突）",
+    "kind": "補修",
+    "work": "腐食部当て板補修",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 30,
+   "r": 31,
+   "fields": {
+    "code": "1F-001",
+    "furnace": "1号炉",
+    "name": "主灰搬出コンベヤ",
+    "kind": "補修",
+    "work": "チェーン・フライト交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 31,
+   "r": 32,
+   "fields": {
+    "code": "1M-001",
+    "furnace": "1号炉",
+    "name": "自動燃焼制御装置盤",
+    "kind": "点検",
+    "work": "機能点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 32,
+   "r": 33,
+   "fields": {
+    "code": "1M-002",
+    "furnace": "1号炉",
+    "name": "DCS炉コントローラ盤",
+    "kind": "点検",
+    "work": "ハード点検（メーカー）",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 33,
+   "r": 34,
+   "fields": {
+    "code": "CA-007",
+    "furnace": "共通",
+    "name": "プラットホーム投入扉No.4",
+    "kind": "整備",
+    "work": "油圧シリンダ・ヒンジ整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 34,
+   "r": 35,
+   "fields": {
+    "code": "CA-009",
+    "furnace": "共通",
+    "name": "プラットホーム投入扉No.6",
+    "kind": "整備",
+    "work": "油圧シリンダ・ヒンジ整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 35,
+   "r": 36,
+   "fields": {
+    "code": "CA-017",
+    "furnace": "共通",
+    "name": "ごみクレーン操作卓",
+    "kind": "点検",
+    "work": "盤内点検・清掃・絶縁測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 36,
+   "r": 37,
+   "fields": {
+    "code": "CA-019",
+    "furnace": "共通",
+    "name": "ピット脱臭ファン",
+    "kind": "補修",
+    "work": "軸受交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 37,
+   "r": 38,
+   "fields": {
+    "code": "CB-001",
+    "furnace": "共通",
+    "name": "灯油タンク",
+    "kind": "点検",
+    "work": "内部点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 38,
+   "r": 39,
+   "fields": {
+    "code": "CF-011",
+    "furnace": "共通",
+    "name": "キレート薬剤注入ポンプA",
+    "kind": "更新",
+    "work": "ポンプ更新",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 39,
+   "r": 40,
+   "fields": {
+    "code": "CH-012",
+    "furnace": "共通",
+    "name": "ろ過ポンプA",
+    "kind": "整備",
+    "work": "分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 40,
+   "r": 41,
+   "fields": {
+    "code": "CH-019",
+    "furnace": "共通",
+    "name": "ごみピット汚水噴霧ポンプA",
+    "kind": "整備",
+    "work": "分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 41,
+   "r": 42,
+   "fields": {
+    "code": "CH-020",
+    "furnace": "共通",
+    "name": "ごみピット汚水噴霧ポンプB",
+    "kind": "整備",
+    "work": "分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 42,
+   "r": 43,
+   "fields": {
+    "code": "CH-022",
+    "furnace": "共通",
+    "name": "排水処理制御盤",
+    "kind": "点検",
+    "work": "盤内点検・清掃・絶縁測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 43,
+   "r": 44,
+   "fields": {
+    "code": "CJ-003",
+    "furnace": "共通",
+    "name": "脱気器給水ポンプB",
+    "kind": "整備",
+    "work": "分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 44,
+   "r": 45,
+   "fields": {
+    "code": "CJ-009",
+    "furnace": "共通",
+    "name": "純水移送ポンプA",
+    "kind": "整備",
+    "work": "分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 45,
+   "r": 46,
+   "fields": {
+    "code": "CJ-012",
+    "furnace": "共通",
+    "name": "低圧蒸気だめ",
+    "kind": "点検",
+    "work": "開放点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 46,
+   "r": 47,
+   "fields": {
+    "code": "CJ-022",
+    "furnace": "共通",
+    "name": "抽気逆止弁",
+    "kind": "点検",
+    "work": "作動確認・シール点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 47,
+   "r": 48,
+   "fields": {
+    "code": "CJ-034",
+    "furnace": "共通",
+    "name": "励磁装置盤",
+    "kind": "点検",
+    "work": "機能点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 48,
+   "r": 49,
+   "fields": {
+    "code": "CJ-035",
+    "furnace": "共通",
+    "name": "低圧蒸気復水器",
+    "kind": "点検",
+    "work": "開放清掃",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 49,
+   "r": 50,
+   "fields": {
+    "code": "CK-001",
+    "furnace": "共通",
+    "name": "プラント用空気圧縮機A",
+    "kind": "整備",
+    "work": "オーバーホール",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 50,
+   "r": 51,
+   "fields": {
+    "code": "CL-001",
+    "furnace": "共通",
+    "name": "22kV受電盤",
+    "kind": "点検",
+    "work": "精密点検（全停）",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 51,
+   "r": 52,
+   "fields": {
+    "code": "CL-019",
+    "furnace": "共通",
+    "name": "共通動力制御盤MCC-C2（タービン補機）",
+    "kind": "点検",
+    "work": "盤内点検・絶縁測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 52,
+   "r": 53,
+   "fields": {
+    "code": "CL-027",
+    "furnace": "共通",
+    "name": "非常用発電機盤",
+    "kind": "点検",
+    "work": "精密点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 53,
+   "r": 54,
+   "fields": {
+    "code": "2A-002",
+    "furnace": "2号炉",
+    "name": "ホッパゲート",
+    "kind": "補修",
+    "work": "油圧シリンダパッキン交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 54,
+   "r": 55,
+   "fields": {
+    "code": "2B-001",
+    "furnace": "2号炉",
+    "name": "焼却炉本体",
+    "kind": "補修",
+    "work": "耐火物部分補修",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 55,
+   "r": 56,
+   "fields": {
+    "code": "2B-003",
+    "furnace": "2号炉",
+    "name": "燃焼火格子",
+    "kind": "計測",
+    "work": "火格子摩耗計測",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 56,
+   "r": 57,
+   "fields": {
+    "code": "2B-005",
+    "furnace": "2号炉",
+    "name": "ストーカ油圧ポンプA",
+    "kind": "整備",
+    "work": "油圧ポンプ分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 57,
+   "r": 58,
+   "fields": {
+    "code": "2C-002",
+    "furnace": "2号炉",
+    "name": "水冷壁",
+    "kind": "補修",
+    "work": "管部分取替",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 58,
+   "r": 59,
+   "fields": {
+    "code": "2C-004",
+    "furnace": "2号炉",
+    "name": "過熱器",
+    "kind": "計測",
+    "work": "肉厚測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 59,
+   "r": 60,
+   "fields": {
+    "code": "2C-005",
+    "furnace": "2号炉",
+    "name": "エコノマイザ",
+    "kind": "計測",
+    "work": "肉厚測定",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 60,
+   "r": 61,
+   "fields": {
+    "code": "2C-019",
+    "furnace": "2号炉",
+    "name": "主蒸気止め弁",
+    "kind": "整備",
+    "work": "弁体すり合わせ・グランド交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 61,
+   "r": 62,
+   "fields": {
+    "code": "2C-029",
+    "furnace": "2号炉",
+    "name": "連続ブロー調節弁",
+    "kind": "整備",
+    "work": "シリンダ・シール交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 62,
+   "r": 63,
+   "fields": {
+    "code": "2D-001",
+    "furnace": "2号炉",
+    "name": "減温塔",
+    "kind": "点検",
+    "work": "内部点検（付着物除去）",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 63,
+   "r": 64,
+   "fields": {
+    "code": "2D-010",
+    "furnace": "2号炉",
+    "name": "消石灰定量供給機",
+    "kind": "整備",
+    "work": "分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 64,
+   "r": 65,
+   "fields": {
+    "code": "2D-011",
+    "furnace": "2号炉",
+    "name": "消石灰輸送ブロワ",
+    "kind": "整備",
+    "work": "ルーツブロワ分解整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 65,
+   "r": 66,
+   "fields": {
+    "code": "2D-021",
+    "furnace": "2号炉",
+    "name": "BF入口ダンパ",
+    "kind": "整備",
+    "work": "シリンダ・シール交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 66,
+   "r": 67,
+   "fields": {
+    "code": "2D-023",
+    "furnace": "2号炉",
+    "name": "BFバイパスダンパ",
+    "kind": "点検",
+    "work": "作動確認・シール点検",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 67,
+   "r": 68,
+   "fields": {
+    "code": "2D-029",
+    "furnace": "2号炉",
+    "name": "BFロータリバルブNo.2",
+    "kind": "整備",
+    "work": "ロータ・シール整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 68,
+   "r": 69,
+   "fields": {
+    "code": "2D-030",
+    "furnace": "2号炉",
+    "name": "BFロータリバルブNo.3",
+    "kind": "整備",
+    "work": "ロータ・シール整備",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 69,
+   "r": 70,
+   "fields": {
+    "code": "2F-001",
+    "furnace": "2号炉",
+    "name": "主灰搬出コンベヤ",
+    "kind": "補修",
+    "work": "チェーン・フライト交換",
+    "result": "A"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 70,
+   "r": 71,
+   "fields": {
+    "text": "3. 主な確認結果"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 71,
+   "r": 72,
+   "fields": {
+    "text": "■ 1号炉 焼却炉本体（1B-001）：補修後の作動確認良好。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 72,
+   "r": 73,
+   "fields": {
+    "text": "■ 1号炉 乾燥火格子（1B-002）：最大摩耗 2.9mm（限度内）。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 73,
+   "r": 74,
+   "fields": {
+    "text": "■ 1号炉 燃焼火格子（1B-003）：最大摩耗 2.5mm（限度内）。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 74,
+   "r": 75,
+   "fields": {
+    "text": "■ 1号炉 後燃焼火格子（1B-004）：最大摩耗 2.0mm（限度内）。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 75,
+   "r": 76,
+   "fields": {
+    "text": "■ 1号炉 水冷壁（1C-002）：最小 3.9mm（管理値内）。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 76,
+   "r": 77,
+   "fields": {
+    "text": "■ 1号炉 過熱器（1C-004）：最小 3.2mm（管理値内）。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 77,
+   "r": 78,
+   "fields": {
+    "text": "■ 1号炉 エコノマイザ（1C-005）：最小 4.1mm（管理値内）。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 78,
+   "r": 79,
+   "fields": {
+    "text": "■ 1号炉 スートブロワNo.4（1C-013）：補修後の作動確認良好。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 79,
+   "r": 80,
+   "fields": {
+    "text": "■ 1号炉 減温塔ダスト排出コンベヤ（1D-008）：補修後の作動確認良好。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 80,
+   "r": 81,
+   "fields": {
+    "text": "■ 1号炉 二次送風機（1E-003）：補修後の作動確認良好。"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 81,
+   "r": 82,
+   "fields": {
+    "text": "4. 支給品・部品の扱い"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 82,
+   "r": 83,
+   "fields": {
+    "part": "品名",
+    "qty": "数量",
+    "where": "使用箇所",
+    "kind": "区分"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 83,
+   "r": 84,
+   "fields": {
+    "part": "キャスタブル",
+    "qty": "1式",
+    "where": "1号炉 焼却炉本体",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 84,
+   "r": 85,
+   "fields": {
+    "part": "ボルト類",
+    "qty": "1式",
+    "where": "1号炉 助燃バーナ",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 85,
+   "r": 86,
+   "fields": {
+    "part": "パッキン",
+    "qty": "1式",
+    "where": "1号炉 スートブロワNo.4",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 86,
+   "r": 87,
+   "fields": {
+    "part": "チェーン",
+    "qty": "1式",
+    "where": "1号炉 減温塔ダスト排出コンベヤ",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 87,
+   "r": 88,
+   "fields": {
+    "part": "カップリング",
+    "qty": "1式",
+    "where": "1号炉 二次送風機",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 88,
+   "r": 89,
+   "fields": {
+    "part": "ポジショナ",
+    "qty": "1式",
+    "where": "1号炉 ボイラ出口煙道ダンパ",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 89,
+   "r": 90,
+   "fields": {
+    "part": "ボルト類",
+    "qty": "1式",
+    "where": "1号炉 煙道（ボイラ出口〜BF入口）",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 90,
+   "r": 91,
+   "fields": {
+    "part": "シール",
+    "qty": "1式",
+    "where": "1号炉 煙道（BF出口〜煙突）",
+    "kind": "受注者手配"
+   }
+  },
+  {
+   "kind": "parent",
+   "seq": 91,
+   "r": 92,
+   "fields": {
+    "text": "5. 今後の整備に関する提案"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 92,
+   "r": 93,
+   "fields": {
+    "text": "・2号炉 乾燥火格子：劣化が進んでおり、令和4年度の補修（2号炉乾燥火格子補修工事）を提案する。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 93,
+   "r": 94,
+   "fields": {
+    "text": "・1号炉 後燃焼火格子：劣化が進んでおり、令和4年度の補修（1号炉後燃焼火格子補修工事）を提案する。"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 94,
+   "r": 95,
+   "fields": {
+    "text": "・1号炉 焼却炉本体：劣化が進んでおり、令和4年度の補修（1号炉焼却炉本体補修工事）を提案する。"
+   }
+  }
+ ]
+}

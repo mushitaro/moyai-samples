@@ -1,0 +1,40 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成10年度定期整備業務委託_手書き様式_1027.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成10年度定期整備業務委託_手書き様式_1027.jpg",
+   "fields": {
+    "date": "1998-10-27",
+    "no": "212",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "昇温継続、炉出口 318℃",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成10年度定期整備業務委託_手書き様式_1027.jpg",
+   "fields": {
+    "date": "1998-10-27",
+    "persons": 1,
+    "manDays": 0.25,
+    "manDaysText": "0.2人工"
+   }
+  }
+ ],
+ "image_size": [
+  1660,
+  1235
+ ]
+}

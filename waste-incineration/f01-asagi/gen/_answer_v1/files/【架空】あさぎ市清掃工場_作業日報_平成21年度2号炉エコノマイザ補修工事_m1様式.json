@@ -1,0 +1,201 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成21年度2号炉エコノマイザ補修工事_m1様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-26",
+    "no": "3",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 完了（累計 40 点、最小 3.1mm）",
+    "persons": 4,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   },
+   "sheet": "10.26",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2009-10-26",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   },
+   "sheet": "10.26",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-27",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 23 点（中段）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "33%"
+   },
+   "sheet": "10.27",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2009-10-27",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "10.27",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-28",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 49 点（後列）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 3,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "62%"
+   },
+   "sheet": "10.28",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2009-10-28",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "10.28",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-29",
+    "no": "4",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 完了（累計 69 点、最小 4.0mm）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "完了"
+   },
+   "sheet": "10.29",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2009-10-29",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "sheet": "10.29",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-30",
+    "no": "5",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 完了（累計 56 点、最小 4.2mm）",
+    "persons": 4,
+    "trades": {
+     "社員": 2,
+     "築炉": 1,
+     "足場": 1
+    },
+    "manDays": 4.0,
+    "manDaysText": "4人×8h",
+    "progress": "完了"
+   },
+   "sheet": "10.30",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2009-10-30",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "4人工"
+   },
+   "sheet": "10.30",
+   "r": 20
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-31",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   },
+   "sheet": "10.31",
+   "r": 6
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2009-10-31",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "3人工"
+   },
+   "sheet": "10.31",
+   "r": 20
+  }
+ ]
+}

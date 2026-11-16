@@ -1,0 +1,534 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和3年度公害監視表示盤更新工事_m3様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-18",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "共通",
+    "place": "公害監視表示盤",
+    "content": "公害監視表示盤 既設撤去、据付面 清掃・墨出し",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   },
+   "sheet": "1018",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1018",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-18",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1018",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-19",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "共通",
+    "place": "公害監視表示盤",
+    "content": "公害監視表示盤 新品据付・芯出し",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 67,
+    "progress": 67,
+    "status": "継続"
+   },
+   "sheet": "1019",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1019",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-19",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1019",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-20",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "共通",
+    "place": "公害監視表示盤",
+    "content": "公害監視表示盤 試運転・調整 完了",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "1020",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1020",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-20",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1020",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-21",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "共通",
+    "place": "公害監視表示盤",
+    "content": "公害監視表示盤 既設撤去、据付面 清掃・墨出し",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.62,
+    "manDaysText": "45.0",
+    "plan": 14,
+    "progress": 9,
+    "status": "継続"
+   },
+   "sheet": "1021",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.62,
+    "manDaysText": "45.0"
+   },
+   "sheet": "1021",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-21",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.62,
+    "manDaysText": "45.0"
+   },
+   "sheet": "1021",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-22",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "共通",
+    "place": "公害監視表示盤",
+    "content": "公害監視表示盤 新品据付・芯出し",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 29,
+    "progress": 29,
+    "status": "継続"
+   },
+   "sheet": "1022",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "1022",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-22",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "1022",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-23",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "共通",
+    "place": "公害監視表示盤",
+    "content": "公害監視表示盤 新品据付・アンカー打設",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 43,
+    "progress": 43,
+    "status": "継続"
+   },
+   "sheet": "1023",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "1023",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-23",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "1023",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-25",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "共通",
+    "place": "公害監視表示盤",
+    "content": "公害監視表示盤 新品据付・アンカー打設",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 57,
+    "progress": 47,
+    "status": "継続"
+   },
+   "sheet": "1025",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "1025",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-25",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "1025",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-26",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "共通",
+    "place": "公害監視表示盤",
+    "content": "公害監視表示盤 新品据付・アンカー打設",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 71,
+    "progress": 71,
+    "status": "継続"
+   },
+   "sheet": "1026",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1026",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-26",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1026",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-27",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "共通",
+    "place": "公害監視表示盤",
+    "content": "公害監視表示盤 新品据付・アンカー打設",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 86,
+    "progress": 76,
+    "status": "継続"
+   },
+   "sheet": "1027",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "1027",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-27",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "1027",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-28",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "共通",
+    "place": "公害監視表示盤",
+    "content": "公害監視表示盤 試運転・調整 完了",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "1028",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1028",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-28",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "1028",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-29",
+    "team": "A班（炉・築炉）",
+    "no": "5",
+    "furnace": "共通",
+    "place": "公害監視表示盤",
+    "content": "公害監視表示盤 既設撤去・新品据付、配線接続、試運転 良",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "1029",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "1029",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-29",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "1029",
+   "r": 8
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-30",
+    "team": "A班（炉・築炉）",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   },
+   "sheet": "1030",
+   "r": 6
+  },
+  {
+   "kind": "subtotal",
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "1030",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2021-10-30",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "1030",
+   "r": 8
+  }
+ ]
+}

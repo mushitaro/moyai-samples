@@ -1,0 +1,267 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成30年度ごみクレーン2号機制御盤更新工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "9.10",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-10",
+    "no": "3",
+    "furnace": "共通",
+    "place": "ごみクレーン2号機制御盤",
+    "content": "ごみクレーン2号機制御盤 既設撤去、据付面 清掃・墨出し",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 50
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.10",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-10",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.11",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-11",
+    "no": "3",
+    "furnace": "共通",
+    "place": "ごみクレーン2号機制御盤",
+    "content": "ごみクレーン2号機制御盤 試運転・調整 完了",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.11",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-11",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.12",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-12",
+    "no": "4",
+    "furnace": "共通",
+    "place": "ごみクレーン2号機制御盤",
+    "content": "ごみクレーン2号機制御盤 既設撤去、据付面 清掃・墨出し",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 20
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.12",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-12",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.13",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-13",
+    "no": "4",
+    "furnace": "共通",
+    "place": "ごみクレーン2号機制御盤",
+    "content": "ごみクレーン2号機制御盤 新品据付・配線接続",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 30
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.13",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-13",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.14",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-14",
+    "no": "4",
+    "furnace": "共通",
+    "place": "ごみクレーン2号機制御盤",
+    "content": "ごみクレーン2号機制御盤 新品据付・アンカー打設",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.31,
+    "manDaysText": "42.5",
+    "progress": 60
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.14",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-14",
+    "persons": 5,
+    "manDays": 5.31,
+    "manDaysText": "42.5"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.15",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-15",
+    "no": "4",
+    "furnace": "共通",
+    "place": "ごみクレーン2号機制御盤",
+    "content": "ごみクレーン2号機制御盤 新品据付・アンカー打設",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "35.0",
+    "progress": 80
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.15",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-15",
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "35.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.17",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-17",
+    "no": "4",
+    "furnace": "共通",
+    "place": "ごみクレーン2号機制御盤",
+    "content": "ごみクレーン2号機制御盤 試運転・調整 完了",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.17",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-17",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.18",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-18",
+    "no": "5",
+    "furnace": "共通",
+    "place": "ごみクレーン2号機制御盤",
+    "content": "ごみクレーン2号機制御盤 既設撤去・新品据付、配線接続、試運転 良",
+    "staff": 2,
+    "partner": 1,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.18",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-18",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "9.19",
+   "r": 7,
+   "fields": {
+    "date": "2018-09-19",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "9.19",
+   "r": 19,
+   "fields": {
+    "date": "2018-09-19",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  }
+ ]
+}

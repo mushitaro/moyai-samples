@@ -1,0 +1,61 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成14年度定期整備業務委託_手書き様式_0624.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2002-06-24",
+    "no": "120",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "炉内最終清掃",
+    "persons": 6,
+    "trades": {
+     "社員": 1,
+     "足場": 3,
+     "雑": 2
+    },
+    "manDays": 6.0,
+    "manDaysText": "6人×8h",
+    "progress": "23%"
+   },
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成14年度定期整備業務委託_手書き様式_0624.jpg"
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2002-06-24",
+    "no": "C01",
+    "furnace": "共通",
+    "place": "現場",
+    "content": "2号炉 立下げ（全停準備） 完了",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "完了"
+   },
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成14年度定期整備業務委託_手書き様式_0624.jpg"
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2002-06-24",
+    "persons": 7,
+    "manDays": 6.25,
+    "manDaysText": "6.2人工"
+   },
+   "seq": 2,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成14年度定期整備業務委託_手書き様式_0624.jpg"
+  }
+ ],
+ "image_size": [
+  1890,
+  1456
+ ]
+}

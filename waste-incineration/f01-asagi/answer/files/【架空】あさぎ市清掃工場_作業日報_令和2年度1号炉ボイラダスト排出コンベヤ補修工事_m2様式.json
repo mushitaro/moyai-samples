@@ -1,0 +1,122 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和2年度1号炉ボイラダスト排出コンベヤ補修工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "6.15",
+   "r": 7,
+   "fields": {
+    "date": "2020-06-15",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "ボイラダスト排出コンベヤ",
+    "content": "ボイラダスト排出コンベヤ チェーン・スクリュー羽根補修、作動確認 良",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.15",
+   "r": 19,
+   "fields": {
+    "date": "2020-06-15",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.16",
+   "r": 7,
+   "fields": {
+    "date": "2020-06-16",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "ボイラダスト排出コンベヤ",
+    "content": "ボイラダスト排出コンベヤ チェーン・スクリュー羽根補修。チェーン 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "35.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.16",
+   "r": 19,
+   "fields": {
+    "date": "2020-06-16",
+    "persons": 5,
+    "manDays": 4.38,
+    "manDaysText": "35.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.17",
+   "r": 7,
+   "fields": {
+    "date": "2020-06-17",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "ボイラダスト排出コンベヤ",
+    "content": "ボイラダスト排出コンベヤ チェーン・スクリュー羽根補修、作動確認 良",
+    "staff": 2,
+    "partner": 1,
+    "persons": 3,
+    "manDays": 3.19,
+    "manDaysText": "25.5",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.17",
+   "r": 19,
+   "fields": {
+    "date": "2020-06-17",
+    "persons": 3,
+    "manDays": 3.19,
+    "manDaysText": "25.5"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "6.18",
+   "r": 7,
+   "fields": {
+    "date": "2020-06-18",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "6.18",
+   "r": 19,
+   "fields": {
+    "date": "2020-06-18",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  }
+ ]
+}

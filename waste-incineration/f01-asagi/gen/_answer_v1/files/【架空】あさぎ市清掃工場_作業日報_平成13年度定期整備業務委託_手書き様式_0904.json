@@ -1,0 +1,60 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0904.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2001-09-04",
+    "no": "201",
+    "furnace": "2号炉",
+    "place": "資材置場",
+    "content": "読めない",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 1,
+     "雑": 2
+    },
+    "manDays": 5.62,
+    "manDaysText": "5人×9h",
+    "progress": "80%"
+   },
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0904.jpg"
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2001-09-04",
+    "no": "203",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 320℃",
+    "persons": 0,
+    "trades": {},
+    "manDays": 0.0,
+    "manDaysText": "—",
+    "progress": "57%"
+   },
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0904.jpg"
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2001-09-04",
+    "persons": 5,
+    "manDays": 5.62,
+    "manDaysText": "5.6人工"
+   },
+   "seq": 2,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0904.jpg"
+  }
+ ],
+ "image_size": [
+  1860,
+  1397
+ ]
+}

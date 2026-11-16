@@ -1,0 +1,101 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0707.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0707.jpg",
+   "fields": {
+    "date": "2003-07-07",
+    "no": "121",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "足場解体 33%、残材搬出",
+    "persons": 7,
+    "trades": {
+     "社員": 1,
+     "築炉": 1,
+     "足場": 4,
+     "雑": 1
+    },
+    "manDays": 7.0,
+    "manDaysText": "7人×8h",
+    "progress": "23%"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0707.jpg",
+   "fields": {
+    "date": "2003-07-07",
+    "no": "C01",
+    "furnace": "共通",
+    "place": "現場",
+    "content": "2号炉 立下げ（全停準備） 完了",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 0.25,
+    "manDaysText": "1人×2h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 2,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0707.jpg",
+   "fields": {
+    "date": "2003-07-07",
+    "no": "C13",
+    "furnace": "共通",
+    "place": "機器冷却水冷却塔",
+    "content": "機器冷却水冷却塔 組立・芯出し、単体試運転 良",
+    "persons": 1,
+    "trades": {
+     "社員": 1
+    },
+    "manDays": 1.0,
+    "manDaysText": "1人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "seq": 3,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0707.jpg",
+   "fields": {
+    "date": "2003-07-07",
+    "no": "C14",
+    "furnace": "共通",
+    "place": "汚泥脱水機",
+    "content": "読めない",
+    "persons": 3,
+    "trades": {
+     "社員": 1,
+     "機械": 2
+    },
+    "manDays": 3.0,
+    "manDaysText": "3人×8h",
+    "progress": "完了"
+   }
+  },
+  {
+   "kind": "total",
+   "seq": 4,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成15年度定期整備業務委託_手書き様式_0707.jpg",
+   "fields": {
+    "date": "2003-07-07",
+    "persons": 12,
+    "manDays": 11.25,
+    "manDaysText": "11.2人工"
+   }
+  }
+ ],
+ "image_size": [
+  1954,
+  1496
+ ]
+}

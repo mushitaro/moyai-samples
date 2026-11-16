@@ -1,0 +1,4590 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和5年度定期整備業務委託_m3様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "0526",
+   "r": 6,
+   "fields": {
+    "date": "2023-05-26",
+    "team": "A班（炉・築炉）",
+    "no": "1-01",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "資機材搬入（2t車 4台）",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 20,
+    "progress": 15,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0526",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0526",
+   "r": 8,
+   "fields": {
+    "date": "2023-05-26",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0527",
+   "r": 6,
+   "fields": {
+    "date": "2023-05-27",
+    "team": "A班（炉・築炉）",
+    "no": "1-01",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "資機材搬入（2t車 3台）",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 3.5,
+    "manDaysText": "28.0",
+    "plan": 40,
+    "progress": 30,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0527",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 3.5,
+    "manDaysText": "28.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0527",
+   "r": 8,
+   "fields": {
+    "date": "2023-05-27",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 3.5,
+    "manDaysText": "28.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0529",
+   "r": 6,
+   "fields": {
+    "date": "2023-05-29",
+    "team": "運転操作（運転委託先）",
+    "no": "1-02",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "給じん停止 → 焼却停止（運転委託先）。立会",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0529",
+   "r": 7,
+   "fields": {
+    "date": "2023-05-29",
+    "team": "運転操作（運転委託先）",
+    "no": "1-03",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 486℃",
+    "staff": 0,
+    "partner": 0,
+    "manDays": 0.0,
+    "manDaysText": "0.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0529",
+   "r": 8,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0529",
+   "r": 9,
+   "fields": {
+    "date": "2023-05-29",
+    "team": "A班（炉・築炉）",
+    "no": "1-01",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "新規入場者教育 5名",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 60,
+    "progress": 50,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0529",
+   "r": 10,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0529",
+   "r": 11,
+   "fields": {
+    "date": "2023-05-29",
+    "staff": 2,
+    "partner": 3,
+    "manDays": 4.25,
+    "manDaysText": "34.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0530",
+   "r": 6,
+   "fields": {
+    "date": "2023-05-30",
+    "team": "運転操作（運転委託先）",
+    "no": "1-03",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 309℃",
+    "staff": 0,
+    "partner": 0,
+    "manDays": 0.0,
+    "manDaysText": "0.0",
+    "plan": 67,
+    "progress": 67,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0530",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 0,
+    "partner": 0,
+    "manDays": 0.0,
+    "manDaysText": "0.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0530",
+   "r": 8,
+   "fields": {
+    "date": "2023-05-30",
+    "team": "A班（炉・築炉）",
+    "no": "1-01",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "工具・換気設備 配置",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 3.5,
+    "manDaysText": "28.0",
+    "plan": 80,
+    "progress": 80,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0530",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 3.5,
+    "manDaysText": "28.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0530",
+   "r": 10,
+   "fields": {
+    "date": "2023-05-30",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 3.5,
+    "manDaysText": "28.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0531",
+   "r": 6,
+   "fields": {
+    "date": "2023-05-31",
+    "team": "運転操作（運転委託先）",
+    "no": "1-03",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 163℃",
+    "staff": 0,
+    "partner": 0,
+    "manDays": 0.0,
+    "manDaysText": "0.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0531",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 0,
+    "partner": 0,
+    "manDays": 0.0,
+    "manDaysText": "0.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0531",
+   "r": 8,
+   "fields": {
+    "date": "2023-05-31",
+    "team": "A班（炉・築炉）",
+    "no": "1-01",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "工具・換気設備 配置",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0531",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0531",
+   "r": 10,
+   "fields": {
+    "date": "2023-05-31",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0601",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-01",
+    "team": "A班（炉・築炉）",
+    "no": "1-04",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "O2 20.9%・CO 0ppm 確認、電源ロック、マンホール 7箇所開放",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0601",
+   "r": 7,
+   "fields": {
+    "date": "2023-06-01",
+    "team": "A班（炉・築炉）",
+    "no": "1-05",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "炉内足場 段数追加、ボイラ側 組立",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "plan": 50,
+    "progress": 50,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0601",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-01",
+    "team": "A班（炉・築炉）",
+    "no": "1-06",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "側壁付着物 はつり除去",
+    "staff": 1,
+    "partner": 8,
+    "manDays": 7.88,
+    "manDaysText": "63.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0601",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 4,
+    "partner": 16,
+    "manDays": 18.88,
+    "manDaysText": "151.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0601",
+   "r": 10,
+   "fields": {
+    "date": "2023-06-01",
+    "staff": 4,
+    "partner": 16,
+    "manDays": 18.88,
+    "manDaysText": "151.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0602",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-02",
+    "team": "A班（炉・築炉）",
+    "no": "1-05",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "足場組立 100%",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.88,
+    "manDaysText": "63.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0602",
+   "r": 7,
+   "fields": {
+    "date": "2023-06-02",
+    "team": "A班（炉・築炉）",
+    "no": "1-06",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "側壁付着物 はつり除去",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "plan": 67,
+    "progress": 57,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0602",
+   "r": 8,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 12,
+    "manDays": 14.88,
+    "manDaysText": "119.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0602",
+   "r": 9,
+   "fields": {
+    "date": "2023-06-02",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "1-07",
+    "furnace": "1号炉",
+    "place": "ボイラ",
+    "content": "ボイラ第2放射室 清掃",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 20,
+    "progress": 15,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0602",
+   "r": 10,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0602",
+   "r": 11,
+   "fields": {
+    "date": "2023-06-02",
+    "staff": 3,
+    "partner": 17,
+    "manDays": 20.88,
+    "manDaysText": "167.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0603",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-03",
+    "team": "A班（炉・築炉）",
+    "no": "1-06",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "側壁付着物 はつり除去",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0603",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0603",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-03",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "1-07",
+    "furnace": "1号炉",
+    "place": "ボイラ",
+    "content": "水管付着ダスト掻落し・エアブロー",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 40,
+    "progress": 30,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0603",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0603",
+   "r": 10,
+   "fields": {
+    "date": "2023-06-03",
+    "staff": 2,
+    "partner": 11,
+    "manDays": 13.0,
+    "manDaysText": "104.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0605",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-05",
+    "team": "A班（炉・築炉）",
+    "no": "1-08",
+    "furnace": "1号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 摩耗計測 完了（累計 45 点、最小 4.7mm）",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.88,
+    "manDaysText": "7.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0605",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.88,
+    "manDaysText": "7.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0605",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-05",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "1-07",
+    "furnace": "1号炉",
+    "place": "ボイラ",
+    "content": "ボイラ第2放射室 清掃",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 60,
+    "progress": 55,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0605",
+   "r": 9,
+   "fields": {
+    "date": "2023-06-05",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "1-11",
+    "furnace": "1号炉",
+    "place": "ボイラドラム",
+    "content": "ボイラドラム 開放、内部清掃、ヘッダ 外観点検。蒸発管群 肉厚測定 38 点（中段）。ほか 1 台",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 50,
+    "progress": 50,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0605",
+   "r": 10,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 6,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0605",
+   "r": 11,
+   "fields": {
+    "date": "2023-06-05",
+    "team": "C班（回転機・機械）",
+    "no": "1-16",
+    "furnace": "1号炉",
+    "place": "清缶剤注入ポンプ",
+    "content": "清缶剤注入ポンプ 既設撤去・新品据付、芯出し、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0605",
+   "r": 12,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0605",
+   "r": 13,
+   "fields": {
+    "date": "2023-06-05",
+    "team": "D班（電気計装）",
+    "no": "1-21",
+    "furnace": "1号炉",
+    "place": "炉現場操作盤",
+    "content": "炉現場操作盤 点検、端子 外観・動作確認 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0605",
+   "r": 14,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0605",
+   "r": 15,
+   "fields": {
+    "date": "2023-06-05",
+    "staff": 5,
+    "partner": 8,
+    "manDays": 12.88,
+    "manDaysText": "103.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0606",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-06",
+    "team": "A班（炉・築炉）",
+    "no": "1-09",
+    "furnace": "1号炉",
+    "place": "再燃バーナ",
+    "content": "再燃バーナ バーナ分解清掃・ノズル交換、作動確認 良",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0606",
+   "r": 7,
+   "fields": {
+    "date": "2023-06-06",
+    "team": "A班（炉・築炉）",
+    "no": "C-10",
+    "furnace": "共通",
+    "place": "プラットホーム投入扉No.1",
+    "content": "プラットホーム投入扉No.1 油圧シリンダ・ヒンジ整備。ボルト類 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0606",
+   "r": 8,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 3,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0606",
+   "r": 9,
+   "fields": {
+    "date": "2023-06-06",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "1-07",
+    "furnace": "1号炉",
+    "place": "ボイラ",
+    "content": "水管付着ダスト掻落し・エアブロー",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 80,
+    "progress": 75,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0606",
+   "r": 10,
+   "fields": {
+    "date": "2023-06-06",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "1-11",
+    "furnace": "1号炉",
+    "place": "ボイラドラム",
+    "content": "ボイラドラム 管 点検後 復旧、作動確認 良。蒸発管群 肉厚測定 完了（累計 118 点、最小 3.8mm）。ほか 1 台",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0606",
+   "r": 11,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 7,
+    "manDays": 9.0,
+    "manDaysText": "72.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0606",
+   "r": 12,
+   "fields": {
+    "date": "2023-06-06",
+    "team": "C班（回転機・機械）",
+    "no": "1-17",
+    "furnace": "1号炉",
+    "place": "ボイラダスト排出ロータリバルブNo.1",
+    "content": "ボイラダスト排出ロータリバルブNo.1 ロータ・シール整備。スプロケット 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0606",
+   "r": 13,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0606",
+   "r": 14,
+   "fields": {
+    "date": "2023-06-06",
+    "team": "D班（電気計装）",
+    "no": "1-22",
+    "furnace": "1号炉",
+    "place": "炉内監視カメラ装置",
+    "content": "炉内監視カメラ装置 既設撤去・新品据付、配線接続、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0606",
+   "r": 15,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0606",
+   "r": 16,
+   "fields": {
+    "date": "2023-06-06",
+    "staff": 6,
+    "partner": 12,
+    "manDays": 18.0,
+    "manDaysText": "144.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0607",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-07",
+    "team": "A班（炉・築炉）",
+    "no": "1-10",
+    "furnace": "1号炉",
+    "place": "灰押出装置",
+    "content": "灰押出装置 分解・スプロケット 取外し（一部腐食）",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 50,
+    "progress": 50,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0607",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0607",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-07",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "1-07",
+    "furnace": "1号炉",
+    "place": "ボイラ",
+    "content": "ボイラ第3放射室 清掃",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 5.25,
+    "manDaysText": "42.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0607",
+   "r": 9,
+   "fields": {
+    "date": "2023-06-07",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "1-12",
+    "furnace": "1号炉",
+    "place": "スートブロワNo.2",
+    "content": "スートブロワNo.2 ランス・パッキン交換。ボルト類 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0607",
+   "r": 10,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 6,
+    "manDays": 7.25,
+    "manDaysText": "58.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0607",
+   "r": 11,
+   "fields": {
+    "date": "2023-06-07",
+    "team": "C班（回転機・機械）",
+    "no": "1-18",
+    "furnace": "1号炉",
+    "place": "アンモニア水注入ポンプA",
+    "content": "アンモニア水注入ポンプA 既設撤去・新品据付、芯出し、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0607",
+   "r": 12,
+   "fields": {
+    "date": "2023-06-07",
+    "team": "C班（回転機・機械）",
+    "no": "C-11",
+    "furnace": "共通",
+    "place": "凝集剤注入ポンプ",
+    "content": "凝集剤注入ポンプ 既設撤去・新品据付、芯出し、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0607",
+   "r": 13,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0607",
+   "r": 14,
+   "fields": {
+    "date": "2023-06-07",
+    "team": "D班（電気計装）",
+    "no": "1-23",
+    "furnace": "1号炉",
+    "place": "炉用計装電源盤",
+    "content": "炉用計装電源盤 点検、リレー 外観・動作確認 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0607",
+   "r": 15,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0607",
+   "r": 16,
+   "fields": {
+    "date": "2023-06-07",
+    "staff": 6,
+    "partner": 10,
+    "manDays": 15.25,
+    "manDaysText": "122.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0608",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-08",
+    "team": "A班（炉・築炉）",
+    "no": "1-10",
+    "furnace": "1号炉",
+    "place": "灰押出装置",
+    "content": "灰押出装置 組立・芯出し、単体試運転 良",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.19,
+    "manDaysText": "25.5",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0608",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.19,
+    "manDaysText": "25.5"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0608",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-08",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "1-13",
+    "furnace": "1号炉",
+    "place": "スートブロワNo.7",
+    "content": "スートブロワNo.7 噴射管交換。ボルト類 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 1.75,
+    "manDaysText": "14.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0608",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 1.75,
+    "manDaysText": "14.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0608",
+   "r": 10,
+   "fields": {
+    "date": "2023-06-08",
+    "team": "C班（回転機・機械）",
+    "no": "1-19",
+    "furnace": "1号炉",
+    "place": "押込送風機",
+    "content": "押込送風機 開放点検、グランドパッキン 状態確認、異常なし。復旧。二次送風機 点検（カップリング・カップリング）、試運転時振動 1.5mm/s",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0608",
+   "r": 11,
+   "fields": {
+    "date": "2023-06-08",
+    "team": "C班（回転機・機械）",
+    "no": "C-12",
+    "furnace": "共通",
+    "place": "pH調整剤(アルカリ)注入ポンプ",
+    "content": "pH調整剤(アルカリ)注入ポンプ 既設撤去・新品据付、芯出し、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0608",
+   "r": 12,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0608",
+   "r": 13,
+   "fields": {
+    "date": "2023-06-08",
+    "staff": 4,
+    "partner": 5,
+    "manDays": 8.94,
+    "manDaysText": "71.5"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0609",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-09",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "1-14",
+    "furnace": "1号炉",
+    "place": "BFバイパスダンパ",
+    "content": "BFバイパスダンパ 開放点検、シールキット 状態確認、異常なし。復旧",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0609",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0609",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-09",
+    "team": "C班（回転機・機械）",
+    "no": "1-20",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 劣化部確認・マーキング、撤去 34%",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 50,
+    "progress": 45,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0609",
+   "r": 9,
+   "fields": {
+    "date": "2023-06-09",
+    "team": "C班（回転機・機械）",
+    "no": "C-13",
+    "furnace": "共通",
+    "place": "計装用空気圧縮機A",
+    "content": "計装用空気圧縮機A オーバーホール。軸受 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0609",
+   "r": 10,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0609",
+   "r": 11,
+   "fields": {
+    "date": "2023-06-09",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0610",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-10",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "1-15",
+    "furnace": "1号炉",
+    "place": "空気予熱器バイパスダンパ",
+    "content": "空気予熱器バイパスダンパ シリンダ・シール交換、作動確認 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.12,
+    "manDaysText": "17.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0610",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.12,
+    "manDaysText": "17.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0610",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-10",
+    "team": "C班（回転機・機械）",
+    "no": "1-20",
+    "furnace": "1号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 補修完了、外観・寸法検査 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 1.75,
+    "manDaysText": "14.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0610",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 1.75,
+    "manDaysText": "14.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0610",
+   "r": 10,
+   "fields": {
+    "date": "2023-06-10",
+    "team": "D班（電気計装）",
+    "no": "C-14",
+    "furnace": "共通",
+    "place": "DCSオペレータステーションNo.1",
+    "content": "DCSオペレータステーションNo.1 盤内清掃、端子増締め、絶縁抵抗 82MΩ以上",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 1.75,
+    "manDaysText": "14.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0610",
+   "r": 11,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 1.75,
+    "manDaysText": "14.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0610",
+   "r": 12,
+   "fields": {
+    "date": "2023-06-10",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 5.62,
+    "manDaysText": "45.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0612",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-12",
+    "team": "運転操作（運転委託先）",
+    "no": "C-01",
+    "furnace": "共通",
+    "place": "現場",
+    "content": "2号炉 立下げ（全停準備） 完了",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0612",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0612",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-12",
+    "team": "A班（炉・築炉）",
+    "no": "1-24",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "足場解体 33%、残材搬出",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "plan": 33,
+    "progress": 23,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0612",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0612",
+   "r": 10,
+   "fields": {
+    "date": "2023-06-12",
+    "team": "D班（電気計装）",
+    "no": "C-15",
+    "furnace": "共通",
+    "place": "DCSオペレータステーションNo.2",
+    "content": "DCSオペレータステーションNo.2 点検、冷却ファン 外観・動作確認 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0612",
+   "r": 11,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0612",
+   "r": 12,
+   "fields": {
+    "date": "2023-06-12",
+    "staff": 3,
+    "partner": 7,
+    "manDays": 9.25,
+    "manDaysText": "74.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0613",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-13",
+    "team": "A班（炉・築炉）",
+    "no": "1-24",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "足場解体 66%、残材搬出",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "plan": 67,
+    "progress": 62,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0613",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0613",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-13",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "C-02",
+    "furnace": "共通",
+    "place": "脱気器",
+    "content": "脱気器 開放、内部清掃、シール 外観点検。純水装置 分解・パッキン 取外し（一部腐食）。ほか 2 台",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.75,
+    "manDaysText": "30.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0613",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.75,
+    "manDaysText": "30.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0613",
+   "r": 10,
+   "fields": {
+    "date": "2023-06-13",
+    "team": "C班（回転機・機械）",
+    "no": "C-03",
+    "furnace": "共通",
+    "place": "蒸気タービン",
+    "content": "蒸気タービン 分解・ボルト類 取外し（一部腐食）。タービン非常用油ポンプ 分解・軸受 取外し（摩耗あり）。ほか 2 台",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.75,
+    "manDaysText": "30.0",
+    "plan": 33,
+    "progress": 28,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0613",
+   "r": 11,
+   "fields": {
+    "date": "2023-06-13",
+    "team": "C班（回転機・機械）",
+    "no": "C-04",
+    "furnace": "共通",
+    "place": "タービン油清浄機",
+    "content": "タービン油清浄機 劣化部確認・マーキング、撤去 59%",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.75,
+    "manDaysText": "30.0",
+    "plan": 33,
+    "progress": 28,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0613",
+   "r": 12,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 4,
+    "manDays": 7.5,
+    "manDaysText": "60.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0613",
+   "r": 13,
+   "fields": {
+    "date": "2023-06-13",
+    "team": "D班（電気計装）",
+    "no": "C-05",
+    "furnace": "共通",
+    "place": "発電機",
+    "content": "発電機 開放、内部清掃、シール 外観点検。タービン入口主蒸気止め弁 開放、内部清掃、シリンダ 外観点検。ほか 2 台",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0613",
+   "r": 14,
+   "fields": {
+    "date": "2023-06-13",
+    "team": "D班（電気計装）",
+    "no": "C-06",
+    "furnace": "共通",
+    "place": "6.6kV高圧配電盤（受電）",
+    "content": "6.6kV高圧配電盤（受電） 開放、内部清掃、リレー 外観点検。6.6kV高圧配電盤（1号炉フィーダ） 開放、内部清掃、リレー 外観点検。ほか 2 台",
+    "staff": 2,
+    "partner": 3,
+    "manDays": 6.25,
+    "manDaysText": "50.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0613",
+   "r": 15,
+   "fields": {
+    "date": "2023-06-13",
+    "team": "D班（電気計装）",
+    "no": "C-07",
+    "furnace": "共通",
+    "place": "低圧主幹盤（2号炉系）",
+    "content": "低圧主幹盤（2号炉系） 開放、内部清掃、リレー 外観点検。共通動力制御盤MCC-C4（灰出し） 開放、内部清掃、冷却ファン 外観点検。ほか 2 台",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0613",
+   "r": 16,
+   "fields": {
+    "date": "2023-06-13",
+    "team": "D班（電気計装）",
+    "no": "C-08",
+    "furnace": "共通",
+    "place": "進相コンデンサ盤",
+    "content": "進相コンデンサ盤 開放、内部清掃、冷却ファン 外観点検",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 33,
+    "progress": 28,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0613",
+   "r": 17,
+   "fields": {
+    "date": "2023-06-13",
+    "team": "D班（電気計装）",
+    "no": "C-16",
+    "furnace": "共通",
+    "place": "DCSオペレータステーションNo.3",
+    "content": "DCSオペレータステーションNo.3 盤内清掃、端子増締め、絶縁抵抗 12MΩ以上",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.12,
+    "manDaysText": "17.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0613",
+   "r": 18,
+   "fields": {
+    "label": "小計",
+    "staff": 9,
+    "partner": 10,
+    "manDays": 23.38,
+    "manDaysText": "187.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0613",
+   "r": 19,
+   "fields": {
+    "date": "2023-06-13",
+    "staff": 13,
+    "partner": 22,
+    "manDays": 41.62,
+    "manDaysText": "333.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0614",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-14",
+    "team": "A班（炉・築炉）",
+    "no": "1-24",
+    "furnace": "1号炉",
+    "place": "炉内",
+    "content": "足場解体 100%、残材搬出",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0614",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0614",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-14",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "C-02",
+    "furnace": "共通",
+    "place": "脱気器",
+    "content": "脱気器 点検継続（パッキン）。純水装置 イオン交換樹脂交換（シール 含む）。ほか 2 台",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.38,
+    "manDaysText": "27.0",
+    "plan": 67,
+    "progress": 67,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0614",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.38,
+    "manDaysText": "27.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0614",
+   "r": 10,
+   "fields": {
+    "date": "2023-06-14",
+    "team": "C班（回転機・機械）",
+    "no": "C-03",
+    "furnace": "共通",
+    "place": "蒸気タービン",
+    "content": "蒸気タービン 開放点検（溶接）。タービン非常用油ポンプ 分解整備（溶接）。ほか 2 台",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.25,
+    "manDaysText": "18.0",
+    "plan": 67,
+    "progress": 67,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0614",
+   "r": 11,
+   "fields": {
+    "date": "2023-06-14",
+    "team": "C班（回転機・機械）",
+    "no": "C-04",
+    "furnace": "共通",
+    "place": "タービン油清浄機",
+    "content": "タービン油清浄機 部品交換（シール 含む）",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.38,
+    "manDaysText": "27.0",
+    "plan": 67,
+    "progress": 67,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0614",
+   "r": 12,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 3,
+    "manDays": 5.62,
+    "manDaysText": "45.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0614",
+   "r": 13,
+   "fields": {
+    "date": "2023-06-14",
+    "team": "D班（電気計装）",
+    "no": "C-05",
+    "furnace": "共通",
+    "place": "発電機",
+    "content": "発電機 点検継続（シール）。タービン入口主蒸気止め弁 点検継続（ポジショナ）。ほか 2 台",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.5,
+    "manDaysText": "36.0",
+    "plan": 67,
+    "progress": 62,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0614",
+   "r": 14,
+   "fields": {
+    "date": "2023-06-14",
+    "team": "D班（電気計装）",
+    "no": "C-06",
+    "furnace": "共通",
+    "place": "6.6kV高圧配電盤（受電）",
+    "content": "6.6kV高圧配電盤（受電） 点検継続（冷却ファン）。6.6kV高圧配電盤（1号炉フィーダ） 点検継続（冷却ファン）。ほか 2 台",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.5,
+    "manDaysText": "36.0",
+    "plan": 67,
+    "progress": 67,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0614",
+   "r": 15,
+   "fields": {
+    "date": "2023-06-14",
+    "team": "D班（電気計装）",
+    "no": "C-07",
+    "furnace": "共通",
+    "place": "低圧主幹盤（2号炉系）",
+    "content": "低圧主幹盤（2号炉系） 点検継続（端子）。共通動力制御盤MCC-C4（灰出し） 点検継続（冷却ファン）。ほか 2 台",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.5,
+    "manDaysText": "36.0",
+    "plan": 67,
+    "progress": 67,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0614",
+   "r": 16,
+   "fields": {
+    "date": "2023-06-14",
+    "team": "D班（電気計装）",
+    "no": "C-08",
+    "furnace": "共通",
+    "place": "進相コンデンサ盤",
+    "content": "進相コンデンサ盤 点検継続（リレー）",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.38,
+    "manDaysText": "27.0",
+    "plan": 67,
+    "progress": 67,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0614",
+   "r": 17,
+   "fields": {
+    "label": "小計",
+    "staff": 8,
+    "partner": 7,
+    "manDays": 16.88,
+    "manDaysText": "135.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0614",
+   "r": 18,
+   "fields": {
+    "date": "2023-06-14",
+    "staff": 12,
+    "partner": 18,
+    "manDays": 32.88,
+    "manDaysText": "263.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0615",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-15",
+    "team": "A班（炉・築炉）",
+    "no": "1-25",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "電動弁・ダンパ 作動試験",
+    "staff": 3,
+    "partner": 2,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0615",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 3,
+    "partner": 2,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0615",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-15",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "C-02",
+    "furnace": "共通",
+    "place": "脱気器",
+    "content": "脱気器 パッキン 点検後 復旧、作動確認 良。純水装置 組立・芯出し、単体試運転 良。ほか 2 台",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.38,
+    "manDaysText": "27.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0615",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.38,
+    "manDaysText": "27.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0615",
+   "r": 10,
+   "fields": {
+    "date": "2023-06-15",
+    "team": "C班（回転機・機械）",
+    "no": "C-03",
+    "furnace": "共通",
+    "place": "蒸気タービン",
+    "content": "蒸気タービン 組立・芯出し、単体試運転 良。タービン非常用油ポンプ 組立・芯出し、単体試運転 良。ほか 2 台",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.38,
+    "manDaysText": "27.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0615",
+   "r": 11,
+   "fields": {
+    "date": "2023-06-15",
+    "team": "C班（回転機・機械）",
+    "no": "C-04",
+    "furnace": "共通",
+    "place": "タービン油清浄機",
+    "content": "タービン油清浄機 補修完了、外観・寸法検査 良",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.38,
+    "manDaysText": "27.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0615",
+   "r": 12,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 4,
+    "manDays": 6.75,
+    "manDaysText": "54.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0615",
+   "r": 13,
+   "fields": {
+    "date": "2023-06-15",
+    "team": "D班（電気計装）",
+    "no": "C-05",
+    "furnace": "共通",
+    "place": "発電機",
+    "content": "発電機 シール 点検後 復旧、作動確認 良。タービン入口主蒸気止め弁 シールキット 点検後 復旧、作動確認 良。ほか 2 台",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.5,
+    "manDaysText": "36.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0615",
+   "r": 14,
+   "fields": {
+    "date": "2023-06-15",
+    "team": "D班（電気計装）",
+    "no": "C-06",
+    "furnace": "共通",
+    "place": "6.6kV高圧配電盤（受電）",
+    "content": "6.6kV高圧配電盤（受電） 冷却ファン 点検後 復旧、作動確認 良。6.6kV高圧配電盤（1号炉フィーダ） 端子 点検後 復旧、作動確認 良。ほか 2 台",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.5,
+    "manDaysText": "36.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0615",
+   "r": 15,
+   "fields": {
+    "date": "2023-06-15",
+    "team": "D班（電気計装）",
+    "no": "C-07",
+    "furnace": "共通",
+    "place": "低圧主幹盤（2号炉系）",
+    "content": "低圧主幹盤（2号炉系） 端子 点検後 復旧、作動確認 良。共通動力制御盤MCC-C4（灰出し） 端子 点検後 復旧、作動確認 良。ほか 2 台",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.5,
+    "manDaysText": "36.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0615",
+   "r": 16,
+   "fields": {
+    "date": "2023-06-15",
+    "team": "D班（電気計装）",
+    "no": "C-08",
+    "furnace": "共通",
+    "place": "進相コンデンサ盤",
+    "content": "進相コンデンサ盤 冷却ファン 点検後 復旧、作動確認 良",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.5,
+    "manDaysText": "36.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0615",
+   "r": 17,
+   "fields": {
+    "label": "小計",
+    "staff": 8,
+    "partner": 8,
+    "manDays": 18.0,
+    "manDaysText": "144.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0615",
+   "r": 18,
+   "fields": {
+    "date": "2023-06-15",
+    "staff": 14,
+    "partner": 16,
+    "manDays": 33.12,
+    "manDaysText": "265.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0616",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-16",
+    "team": "運転操作（運転委託先）",
+    "no": "C-09",
+    "furnace": "共通",
+    "place": "中央制御室",
+    "content": "昇温継続、炉出口 453℃",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0616",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0616",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-16",
+    "team": "A班（炉・築炉）",
+    "no": "1-25",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "電動弁・ダンパ 作動試験",
+    "staff": 3,
+    "partner": 2,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 67,
+    "progress": 57,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0616",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 3,
+    "partner": 2,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0616",
+   "r": 10,
+   "fields": {
+    "date": "2023-06-16",
+    "staff": 4,
+    "partner": 2,
+    "manDays": 5.25,
+    "manDaysText": "42.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0617",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-17",
+    "team": "A班（炉・築炉）",
+    "no": "1-25",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "マンホール閉鎖 7箇所、回転機 単体試運転",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 5.25,
+    "manDaysText": "42.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0617",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 5.25,
+    "manDaysText": "42.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0617",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-17",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 5.25,
+    "manDaysText": "42.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0626",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-26",
+    "team": "運転操作（運転委託先）",
+    "no": "1-26",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "昇温継続、炉出口 435℃",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0",
+    "plan": 50,
+    "progress": 50,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0626",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0626",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-26",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0627",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-27",
+    "team": "運転操作（運転委託先）",
+    "no": "1-26",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "昇温継続、炉出口 294℃",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0627",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0627",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-27",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0628",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-28",
+    "team": "運転操作（運転委託先）",
+    "no": "1-27",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0628",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0628",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-28",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0629",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-29",
+    "team": "運転操作（運転委託先）",
+    "no": "1-27",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "定格負荷 連続運転 良",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 67,
+    "progress": 67,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0629",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0629",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-29",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0630",
+   "r": 6,
+   "fields": {
+    "date": "2023-06-30",
+    "team": "運転操作（運転委託先）",
+    "no": "1-27",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0630",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0630",
+   "r": 8,
+   "fields": {
+    "date": "2023-06-30",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0929",
+   "r": 6,
+   "fields": {
+    "date": "2023-09-29",
+    "team": "A班（炉・築炉）",
+    "no": "2-01",
+    "furnace": "2号炉",
+    "place": "資材置場",
+    "content": "資機材搬入（2t車 4台）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 20,
+    "progress": 10,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0929",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0929",
+   "r": 8,
+   "fields": {
+    "date": "2023-09-29",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0930",
+   "r": 6,
+   "fields": {
+    "date": "2023-09-30",
+    "team": "A班（炉・築炉）",
+    "no": "2-01",
+    "furnace": "2号炉",
+    "place": "資材置場",
+    "content": "仮設電源・照明 配置",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 40,
+    "progress": 40,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0930",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0930",
+   "r": 8,
+   "fields": {
+    "date": "2023-09-30",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1002",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-02",
+    "team": "運転操作（運転委託先）",
+    "no": "2-02",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "給じん停止 → 焼却停止（運転委託先）。立会",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1002",
+   "r": 7,
+   "fields": {
+    "date": "2023-10-02",
+    "team": "運転操作（運転委託先）",
+    "no": "2-03",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 400℃",
+    "staff": 0,
+    "partner": 0,
+    "manDays": 0.0,
+    "manDaysText": "0.0",
+    "plan": 33,
+    "progress": 28,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1002",
+   "r": 8,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1002",
+   "r": 9,
+   "fields": {
+    "date": "2023-10-02",
+    "team": "A班（炉・築炉）",
+    "no": "2-01",
+    "furnace": "2号炉",
+    "place": "資材置場",
+    "content": "新規入場者教育 5名",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 60,
+    "progress": 55,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1002",
+   "r": 10,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1002",
+   "r": 11,
+   "fields": {
+    "date": "2023-10-02",
+    "staff": 2,
+    "partner": 4,
+    "manDays": 5.25,
+    "manDaysText": "42.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1003",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-03",
+    "team": "運転操作（運転委託先）",
+    "no": "2-03",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 373℃",
+    "staff": 0,
+    "partner": 0,
+    "manDays": 0.0,
+    "manDaysText": "0.0",
+    "plan": 67,
+    "progress": 67,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1003",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 0,
+    "partner": 0,
+    "manDays": 0.0,
+    "manDaysText": "0.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1003",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-03",
+    "team": "A班（炉・築炉）",
+    "no": "2-01",
+    "furnace": "2号炉",
+    "place": "資材置場",
+    "content": "新規入場者教育 4名",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 80,
+    "progress": 75,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1003",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1003",
+   "r": 10,
+   "fields": {
+    "date": "2023-10-03",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1004",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-04",
+    "team": "運転操作（運転委託先）",
+    "no": "2-03",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 249℃",
+    "staff": 0,
+    "partner": 0,
+    "manDays": 0.0,
+    "manDaysText": "0.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1004",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 0,
+    "partner": 0,
+    "manDays": 0.0,
+    "manDaysText": "0.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1004",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-04",
+    "team": "A班（炉・築炉）",
+    "no": "2-01",
+    "furnace": "2号炉",
+    "place": "資材置場",
+    "content": "資機材搬入（2t車 2台）",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.25,
+    "manDaysText": "34.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1004",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.25,
+    "manDaysText": "34.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1004",
+   "r": 10,
+   "fields": {
+    "date": "2023-10-04",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.25,
+    "manDaysText": "34.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1005",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-05",
+    "team": "A班（炉・築炉）",
+    "no": "2-04",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "O2 20.9%・CO 0ppm 確認、電源ロック、マンホール 7箇所開放",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1005",
+   "r": 7,
+   "fields": {
+    "date": "2023-10-05",
+    "team": "A班（炉・築炉）",
+    "no": "2-05",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "炉内足場 段数追加、ボイラ側 組立",
+    "staff": 1,
+    "partner": 7,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "plan": 50,
+    "progress": 45,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1005",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-05",
+    "team": "A班（炉・築炉）",
+    "no": "2-06",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "クリンカ除去 約3.5t 搬出",
+    "staff": 1,
+    "partner": 7,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1005",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 4,
+    "partner": 16,
+    "manDays": 20.0,
+    "manDaysText": "160.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1005",
+   "r": 10,
+   "fields": {
+    "date": "2023-10-05",
+    "staff": 4,
+    "partner": 16,
+    "manDays": 20.0,
+    "manDaysText": "160.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1006",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-06",
+    "team": "A班（炉・築炉）",
+    "no": "2-05",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "炉内足場 段数追加、ボイラ側 組立",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.88,
+    "manDaysText": "63.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1006",
+   "r": 7,
+   "fields": {
+    "date": "2023-10-06",
+    "team": "A班（炉・築炉）",
+    "no": "2-06",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "クリンカ除去 約2.8t 搬出",
+    "staff": 1,
+    "partner": 7,
+    "manDays": 8.0,
+    "manDaysText": "64.0",
+    "plan": 67,
+    "progress": 62,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1006",
+   "r": 8,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 13,
+    "manDays": 15.88,
+    "manDaysText": "127.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1006",
+   "r": 9,
+   "fields": {
+    "date": "2023-10-06",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "2-07",
+    "furnace": "2号炉",
+    "place": "ボイラ",
+    "content": "水管付着ダスト掻落し・エアブロー",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 20,
+    "progress": 20,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1006",
+   "r": 10,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1006",
+   "r": 11,
+   "fields": {
+    "date": "2023-10-06",
+    "staff": 3,
+    "partner": 18,
+    "manDays": 21.88,
+    "manDaysText": "175.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1007",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-07",
+    "team": "A班（炉・築炉）",
+    "no": "2-06",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "クリンカ除去 約1.2t 搬出",
+    "staff": 1,
+    "partner": 7,
+    "manDays": 9.0,
+    "manDaysText": "72.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1007",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 7,
+    "manDays": 9.0,
+    "manDaysText": "72.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1007",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-07",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "2-07",
+    "furnace": "2号炉",
+    "place": "ボイラ",
+    "content": "水管付着ダスト掻落し・エアブロー",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 40,
+    "progress": 40,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1007",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1007",
+   "r": 10,
+   "fields": {
+    "date": "2023-10-07",
+    "staff": 2,
+    "partner": 12,
+    "manDays": 15.0,
+    "manDaysText": "120.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1009",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-09",
+    "team": "A班（炉・築炉）",
+    "no": "2-08",
+    "furnace": "2号炉",
+    "place": "燃焼火格子",
+    "content": "燃焼火格子 摩耗計測 完了（累計 76 点、最小 4.0mm）。後燃焼火格子 摩耗計測 完了（累計 56 点、最小 2.7mm）",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 1.0,
+    "manDaysText": "8.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1009",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 1.0,
+    "manDaysText": "8.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1009",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-09",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "2-07",
+    "furnace": "2号炉",
+    "place": "ボイラ",
+    "content": "ボイラ第1放射室 清掃",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 60,
+    "progress": 55,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1009",
+   "r": 9,
+   "fields": {
+    "date": "2023-10-09",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "2-12",
+    "furnace": "2号炉",
+    "place": "落じんダンパ（燃焼段）",
+    "content": "落じんダンパ（燃焼段） シリンダ・シール交換。シリンダ 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1009",
+   "r": 10,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 6,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1009",
+   "r": 11,
+   "fields": {
+    "date": "2023-10-09",
+    "team": "C班（回転機・機械）",
+    "no": "2-17",
+    "furnace": "2号炉",
+    "place": "ボイラダスト排出ロータリバルブNo.1",
+    "content": "ボイラダスト排出ロータリバルブNo.1 ロータ・シール整備。スプロケット 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1009",
+   "r": 12,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1009",
+   "r": 13,
+   "fields": {
+    "date": "2023-10-09",
+    "team": "D班（電気計装）",
+    "no": "2-21",
+    "furnace": "2号炉",
+    "place": "ストーカ油圧装置現場盤",
+    "content": "ストーカ油圧装置現場盤 盤内清掃、端子増締め、絶縁抵抗 78MΩ以上",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1009",
+   "r": 14,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1009",
+   "r": 15,
+   "fields": {
+    "date": "2023-10-09",
+    "staff": 5,
+    "partner": 8,
+    "manDays": 13.0,
+    "manDaysText": "104.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1010",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-10",
+    "team": "A班（炉・築炉）",
+    "no": "2-09",
+    "furnace": "2号炉",
+    "place": "助燃バーナ",
+    "content": "助燃バーナ バーナ分解清掃・ノズル交換、作動確認 良",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.19,
+    "manDaysText": "25.5",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1010",
+   "r": 7,
+   "fields": {
+    "date": "2023-10-10",
+    "team": "A班（炉・築炉）",
+    "no": "D-01",
+    "furnace": "共通",
+    "place": "プラットホーム投入扉No.5",
+    "content": "プラットホーム投入扉No.5 油圧シリンダ・ヒンジ整備。シール 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1010",
+   "r": 8,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 3,
+    "manDays": 5.19,
+    "manDaysText": "41.5"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1010",
+   "r": 9,
+   "fields": {
+    "date": "2023-10-10",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "2-07",
+    "furnace": "2号炉",
+    "place": "ボイラ",
+    "content": "水管付着ダスト掻落し・エアブロー",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "plan": 80,
+    "progress": 70,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1010",
+   "r": 10,
+   "fields": {
+    "date": "2023-10-10",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "2-13",
+    "furnace": "2号炉",
+    "place": "落じんダンパ（後燃焼段）",
+    "content": "落じんダンパ（後燃焼段） シリンダ・シール交換、作動確認 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1010",
+   "r": 11,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 7,
+    "manDays": 9.0,
+    "manDaysText": "72.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1010",
+   "r": 12,
+   "fields": {
+    "date": "2023-10-10",
+    "team": "C班（回転機・機械）",
+    "no": "2-18",
+    "furnace": "2号炉",
+    "place": "減温塔ロータリバルブ",
+    "content": "減温塔ロータリバルブ ロータ・シール整備。スプロケット 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1010",
+   "r": 13,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1010",
+   "r": 14,
+   "fields": {
+    "date": "2023-10-10",
+    "team": "D班（電気計装）",
+    "no": "2-22",
+    "furnace": "2号炉",
+    "place": "主蒸気止め弁",
+    "content": "主蒸気止め弁 開放点検、シリンダ 状態確認、異常なし。復旧",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1010",
+   "r": 15,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 2,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1010",
+   "r": 16,
+   "fields": {
+    "date": "2023-10-10",
+    "staff": 6,
+    "partner": 13,
+    "manDays": 19.19,
+    "manDaysText": "153.5"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1011",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-11",
+    "team": "A班（炉・築炉）",
+    "no": "2-10",
+    "furnace": "2号炉",
+    "place": "再燃バーナ",
+    "content": "再燃バーナ バーナ分解清掃・ノズル交換、作動確認 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1011",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1011",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-11",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "2-07",
+    "furnace": "2号炉",
+    "place": "ボイラ",
+    "content": "ボイラ第2放射室 清掃",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1011",
+   "r": 9,
+   "fields": {
+    "date": "2023-10-11",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "2-14",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 38 点（上段）",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 50,
+    "progress": 50,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1011",
+   "r": 10,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 6,
+    "manDays": 8.0,
+    "manDaysText": "64.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1011",
+   "r": 11,
+   "fields": {
+    "date": "2023-10-11",
+    "team": "C班（回転機・機械）",
+    "no": "2-19",
+    "furnace": "2号炉",
+    "place": "活性炭輸送ブロワ",
+    "content": "活性炭輸送ブロワ ルーツブロワ分解整備、作動確認 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1011",
+   "r": 12,
+   "fields": {
+    "date": "2023-10-11",
+    "team": "C班（回転機・機械）",
+    "no": "D-02",
+    "furnace": "共通",
+    "place": "ごみクレーン1号機",
+    "content": "ごみクレーン1号機 ワイヤロープ交換。シーブ 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1011",
+   "r": 13,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1011",
+   "r": 14,
+   "fields": {
+    "date": "2023-10-11",
+    "team": "D班（電気計装）",
+    "no": "2-23",
+    "furnace": "2号炉",
+    "place": "BF加温ヒータ盤",
+    "content": "BF加温ヒータ盤 盤内清掃、端子増締め、絶縁抵抗 93MΩ以上",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1011",
+   "r": 15,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1011",
+   "r": 16,
+   "fields": {
+    "date": "2023-10-11",
+    "staff": 6,
+    "partner": 10,
+    "manDays": 16.0,
+    "manDaysText": "128.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1012",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-12",
+    "team": "A班（炉・築炉）",
+    "no": "2-11",
+    "furnace": "2号炉",
+    "place": "灰押出装置",
+    "content": "灰押出装置 分解・スプロケット 取外し（一部腐食）",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 50,
+    "progress": 40,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1012",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1012",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-12",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "2-14",
+    "furnace": "2号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 完了（累計 110 点、最小 4.5mm）",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 1.75,
+    "manDaysText": "14.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1012",
+   "r": 9,
+   "fields": {
+    "date": "2023-10-12",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "2-15",
+    "furnace": "2号炉",
+    "place": "スートブロワNo.4",
+    "content": "スートブロワNo.4 噴射管交換。シール 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1012",
+   "r": 10,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 3.75,
+    "manDaysText": "30.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1012",
+   "r": 11,
+   "fields": {
+    "date": "2023-10-12",
+    "team": "C班（回転機・機械）",
+    "no": "2-20",
+    "furnace": "2号炉",
+    "place": "誘引通風機",
+    "content": "誘引通風機 開放点検、軸受 状態確認、異常なし。復旧",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.25,
+    "manDaysText": "18.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1012",
+   "r": 12,
+   "fields": {
+    "date": "2023-10-12",
+    "team": "C班（回転機・機械）",
+    "no": "D-03",
+    "furnace": "共通",
+    "place": "プラント用水ポンプA",
+    "content": "プラント用水ポンプA 分解整備、作動確認 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1012",
+   "r": 13,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 2,
+    "manDays": 4.25,
+    "manDaysText": "34.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1012",
+   "r": 14,
+   "fields": {
+    "date": "2023-10-12",
+    "team": "D班（電気計装）",
+    "no": "2-24",
+    "furnace": "2号炉",
+    "place": "炉用動力制御盤MCC-2A",
+    "content": "炉用動力制御盤MCC-2A 盤内清掃、端子増締め、絶縁抵抗 55MΩ以上。炉用動力制御盤MCC-2B 点検、冷却ファン 外観・動作確認 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1012",
+   "r": 15,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1012",
+   "r": 16,
+   "fields": {
+    "date": "2023-10-12",
+    "staff": 6,
+    "partner": 6,
+    "manDays": 12.0,
+    "manDaysText": "96.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1013",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-13",
+    "team": "A班（炉・築炉）",
+    "no": "2-11",
+    "furnace": "2号炉",
+    "place": "灰押出装置",
+    "content": "灰押出装置 組立・芯出し、単体試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1013",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1013",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-13",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "2-16",
+    "furnace": "2号炉",
+    "place": "バグフィルタ本体",
+    "content": "バグフィルタ本体 開放点検、ボルト類 状態確認、異常なし。復旧",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1013",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1013",
+   "r": 10,
+   "fields": {
+    "date": "2023-10-13",
+    "team": "C班（回転機・機械）",
+    "no": "D-04",
+    "furnace": "共通",
+    "place": "プラント消火栓ポンプ",
+    "content": "プラント消火栓ポンプ 分解整備。ライナリング 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1013",
+   "r": 11,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1013",
+   "r": 12,
+   "fields": {
+    "date": "2023-10-13",
+    "team": "D班（電気計装）",
+    "no": "2-25",
+    "furnace": "2号炉",
+    "place": "DCS炉コントローラ盤",
+    "content": "DCS炉コントローラ盤 点検、リレー 外観・動作確認 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.25,
+    "manDaysText": "18.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1013",
+   "r": 13,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.25,
+    "manDaysText": "18.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1013",
+   "r": 14,
+   "fields": {
+    "date": "2023-10-13",
+    "staff": 4,
+    "partner": 4,
+    "manDays": 8.25,
+    "manDaysText": "66.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1014",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-14",
+    "team": "A班（炉・築炉）",
+    "no": "2-26",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "炉内最終清掃",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "plan": 33,
+    "progress": 23,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1014",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1014",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-14",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "D-05",
+    "furnace": "共通",
+    "place": "砂ろ過塔",
+    "content": "砂ろ過塔 ろ材交換。シール 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.12,
+    "manDaysText": "17.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1014",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.12,
+    "manDaysText": "17.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1014",
+   "r": 10,
+   "fields": {
+    "date": "2023-10-14",
+    "staff": 2,
+    "partner": 7,
+    "manDays": 9.12,
+    "manDaysText": "73.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1016",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-16",
+    "team": "A班（炉・築炉）",
+    "no": "2-26",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "炉内最終清掃",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "plan": 67,
+    "progress": 67,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1016",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1016",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-16",
+    "team": "B班（ボイラ・排ガス）",
+    "no": "D-06",
+    "furnace": "共通",
+    "place": "キレート吸着塔",
+    "content": "キレート吸着塔 ろ材交換。ボルト類 状態確認、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1016",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1016",
+   "r": 10,
+   "fields": {
+    "date": "2023-10-16",
+    "staff": 2,
+    "partner": 7,
+    "manDays": 9.0,
+    "manDaysText": "72.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1017",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-17",
+    "team": "A班（炉・築炉）",
+    "no": "2-26",
+    "furnace": "2号炉",
+    "place": "炉内",
+    "content": "足場解体 100%、残材搬出",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1017",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 6,
+    "manDays": 7.0,
+    "manDaysText": "56.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1017",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-17",
+    "team": "C班（回転機・機械）",
+    "no": "D-07",
+    "furnace": "共通",
+    "place": "汚泥移送ポンプ",
+    "content": "汚泥移送ポンプ 既設撤去・新品据付、芯出し、試運転 良",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1017",
+   "r": 9,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1017",
+   "r": 10,
+   "fields": {
+    "date": "2023-10-17",
+    "staff": 2,
+    "partner": 7,
+    "manDays": 9.0,
+    "manDaysText": "72.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1018",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-18",
+    "team": "A班（炉・築炉）",
+    "no": "2-27",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "電動弁・ダンパ 作動試験",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 33,
+    "progress": 33,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1018",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1018",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-18",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1019",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-19",
+    "team": "A班（炉・築炉）",
+    "no": "2-27",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "マンホール閉鎖 7箇所、回転機 単体試運転",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 67,
+    "progress": 57,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1019",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1019",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-19",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1020",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-20",
+    "team": "A班（炉・築炉）",
+    "no": "2-27",
+    "furnace": "2号炉",
+    "place": "炉・ボイラ",
+    "content": "電動弁・ダンパ 作動試験",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1020",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1020",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-20",
+    "staff": 3,
+    "partner": 3,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1030",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-30",
+    "team": "運転操作（運転委託先）",
+    "no": "2-28",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "昇温継続、炉出口 455℃",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0",
+    "plan": 50,
+    "progress": 50,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1030",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1030",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-30",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1031",
+   "r": 6,
+   "fields": {
+    "date": "2023-10-31",
+    "team": "運転操作（運転委託先）",
+    "no": "2-28",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "昇温継続、炉出口 306℃",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1031",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1031",
+   "r": 8,
+   "fields": {
+    "date": "2023-10-31",
+    "staff": 1,
+    "partner": 0,
+    "manDays": 0.25,
+    "manDaysText": "2.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1101",
+   "r": 6,
+   "fields": {
+    "date": "2023-11-01",
+    "team": "運転操作（運転委託先）",
+    "no": "2-29",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 33,
+    "progress": 28,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1101",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1101",
+   "r": 8,
+   "fields": {
+    "date": "2023-11-01",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1102",
+   "r": 6,
+   "fields": {
+    "date": "2023-11-02",
+    "team": "運転操作（運転委託先）",
+    "no": "2-29",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 67,
+    "progress": 62,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1102",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1102",
+   "r": 8,
+   "fields": {
+    "date": "2023-11-02",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "1103",
+   "r": 6,
+   "fields": {
+    "date": "2023-11-03",
+    "team": "運転操作（運転委託先）",
+    "no": "2-29",
+    "furnace": "2号炉",
+    "place": "中央制御室",
+    "content": "負荷運転、排ガス値 確認",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "1103",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "1103",
+   "r": 8,
+   "fields": {
+    "date": "2023-11-03",
+    "staff": 2,
+    "partner": 0,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  }
+ ]
+}

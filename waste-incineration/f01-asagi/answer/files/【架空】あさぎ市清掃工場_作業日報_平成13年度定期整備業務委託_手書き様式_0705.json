@@ -1,0 +1,40 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0705.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0705.jpg",
+   "fields": {
+    "date": "2001-07-05",
+    "no": "117",
+    "furnace": "1号炉",
+    "place": "中央制御室",
+    "content": "読めない",
+    "persons": 2,
+    "trades": {
+     "社員": 2
+    },
+    "manDays": 2.0,
+    "manDaysText": "2人×8h",
+    "progress": "62%"
+   }
+  },
+  {
+   "kind": "total",
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0705.jpg",
+   "fields": {
+    "date": "2001-07-05",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "2人工"
+   }
+  }
+ ],
+ "image_size": [
+  1737,
+  1331
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0605.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2001-06-05",
+    "no": "101",
+    "furnace": "1号炉",
+    "place": "資材置場",
+    "content": "資機材搬入（2t車 3台）",
+    "persons": 5,
+    "trades": {
+     "社員": 1,
+     "築炉": 2,
+     "足場": 1,
+     "雑": 1
+    },
+    "manDays": 5.0,
+    "manDaysText": "5人×8h",
+    "progress": "75%"
+   },
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0605.jpg"
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2001-06-05",
+    "no": "103",
+    "furnace": "1号炉",
+    "place": "炉・ボイラ",
+    "content": "IDF 運転継続で冷却。炉出口 333℃",
+    "persons": 0,
+    "trades": {},
+    "manDays": 0.0,
+    "manDaysText": "—",
+    "progress": "62%"
+   },
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0605.jpg"
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2001-06-05",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "5人工"
+   },
+   "seq": 2,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成13年度定期整備業務委託_手書き様式_0605.jpg"
+  }
+ ],
+ "image_size": [
+  1629,
+  1234
+ ]
+}

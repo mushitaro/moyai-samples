@@ -1,0 +1,41 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成11年度定期整備業務委託_手書き様式_0714.jpg",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "seq": 0,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成11年度定期整備業務委託_手書き様式_0714.jpg",
+   "fields": {
+    "date": "1999-07-14",
+    "no": "C02",
+    "furnace": "共通",
+    "place": "非常用発電機",
+    "content": "読めない",
+    "persons": 4,
+    "trades": {
+     "社員": 2,
+     "電工": 2
+    },
+    "manDays": 4.5,
+    "manDaysText": "4人×9h",
+    "progress": "67%"
+   }
+  },
+  {
+   "kind": "total",
+   "seq": 1,
+   "image": "【架空】あさぎ市清掃工場_作業日報_平成11年度定期整備業務委託_手書き様式_0714.jpg",
+   "fields": {
+    "date": "1999-07-14",
+    "persons": 4,
+    "manDays": 4.5,
+    "manDaysText": "4.5人工"
+   }
+  }
+ ],
+ "image_size": [
+  1830,
+  1361
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_平成30年度1号炉蒸発管群補修工事_m2様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2018-06-18",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 管部分取替、作動確認 良",
+    "staff": 1,
+    "partner": 3,
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "progress": 100
+   },
+   "sheet": "6.18",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2018-06-18",
+    "persons": 4,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   },
+   "sheet": "6.18",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2018-06-19",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 劣化部確認・マーキング、撤去 40%",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 23
+   },
+   "sheet": "6.19",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2018-06-19",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "6.19",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2018-06-20",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 管部分取替（施工中）",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 62
+   },
+   "sheet": "6.20",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2018-06-20",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "6.20",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2018-06-21",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 補修完了、外観・寸法検査 良",
+    "staff": 1,
+    "partner": 4,
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "progress": 100
+   },
+   "sheet": "6.21",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2018-06-21",
+    "persons": 5,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   },
+   "sheet": "6.21",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2018-06-22",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "蒸発管群",
+    "content": "蒸発管群 管部分取替。ヘッダ 状態確認、試運転 良",
+    "staff": 2,
+    "partner": 0,
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "progress": 100
+   },
+   "sheet": "6.22",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2018-06-22",
+    "persons": 2,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   },
+   "sheet": "6.22",
+   "r": 19
+  },
+  {
+   "kind": "item",
+   "fields": {
+    "date": "2018-06-23",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 2,
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0",
+    "progress": 100
+   },
+   "sheet": "6.23",
+   "r": 7
+  },
+  {
+   "kind": "total",
+   "fields": {
+    "date": "2018-06-23",
+    "persons": 3,
+    "manDays": 3.0,
+    "manDaysText": "24.0"
+   },
+   "sheet": "6.23",
+   "r": 19
+  }
+ ]
+}

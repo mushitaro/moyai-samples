@@ -1,0 +1,490 @@
+{
+ "file": "【架空】あさぎ市清掃工場_作業日報_令和6年度1号炉エコノマイザ補修工事_m3様式.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "kind": "item",
+   "sheet": "0624",
+   "r": 6,
+   "fields": {
+    "date": "2024-06-24",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 39 点（下段）",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 50,
+    "progress": 45,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0624",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0624",
+   "r": 8,
+   "fields": {
+    "date": "2024-06-24",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0625",
+   "r": 6,
+   "fields": {
+    "date": "2024-06-25",
+    "team": "A班（炉・築炉）",
+    "no": "3",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 完了（累計 72 点、最小 4.3mm）",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0625",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0625",
+   "r": 8,
+   "fields": {
+    "date": "2024-06-25",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.0,
+    "manDaysText": "32.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0626",
+   "r": 6,
+   "fields": {
+    "date": "2024-06-26",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 21 点（上段）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 14,
+    "progress": 14,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0626",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0626",
+   "r": 8,
+   "fields": {
+    "date": "2024-06-26",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0627",
+   "r": 6,
+   "fields": {
+    "date": "2024-06-27",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 64 点（下段）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.31,
+    "manDaysText": "42.5",
+    "plan": 29,
+    "progress": 29,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0627",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.31,
+    "manDaysText": "42.5"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0627",
+   "r": 8,
+   "fields": {
+    "date": "2024-06-27",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.31,
+    "manDaysText": "42.5"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0628",
+   "r": 6,
+   "fields": {
+    "date": "2024-06-28",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 31 点（中段）",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.25,
+    "manDaysText": "34.0",
+    "plan": 43,
+    "progress": 33,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0628",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.25,
+    "manDaysText": "34.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0628",
+   "r": 8,
+   "fields": {
+    "date": "2024-06-28",
+    "staff": 1,
+    "partner": 3,
+    "manDays": 4.25,
+    "manDaysText": "34.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0629",
+   "r": 6,
+   "fields": {
+    "date": "2024-06-29",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 22 点（前列）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 57,
+    "progress": 57,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0629",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0629",
+   "r": 8,
+   "fields": {
+    "date": "2024-06-29",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0701",
+   "r": 6,
+   "fields": {
+    "date": "2024-07-01",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 29 点（後列）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 71,
+    "progress": 71,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0701",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0701",
+   "r": 8,
+   "fields": {
+    "date": "2024-07-01",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0702",
+   "r": 6,
+   "fields": {
+    "date": "2024-07-02",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 29 点（前列）",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0",
+    "plan": 86,
+    "progress": 86,
+    "status": "継続"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0702",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0702",
+   "r": 8,
+   "fields": {
+    "date": "2024-07-02",
+    "staff": 1,
+    "partner": 5,
+    "manDays": 6.0,
+    "manDaysText": "48.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0703",
+   "r": 6,
+   "fields": {
+    "date": "2024-07-03",
+    "team": "A班（炉・築炉）",
+    "no": "4",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 完了（累計 399 点、最小 4.7mm）",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0703",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0703",
+   "r": 8,
+   "fields": {
+    "date": "2024-07-03",
+    "staff": 1,
+    "partner": 4,
+    "manDays": 5.0,
+    "manDaysText": "40.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0704",
+   "r": 6,
+   "fields": {
+    "date": "2024-07-04",
+    "team": "A班（炉・築炉）",
+    "no": "5",
+    "furnace": "1号炉",
+    "place": "エコノマイザ",
+    "content": "エコノマイザ 肉厚測定 完了（累計 78 点、最小 3.1mm）",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.38,
+    "manDaysText": "27.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0704",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.38,
+    "manDaysText": "27.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0704",
+   "r": 8,
+   "fields": {
+    "date": "2024-07-04",
+    "staff": 2,
+    "partner": 1,
+    "manDays": 3.38,
+    "manDaysText": "27.0"
+   }
+  },
+  {
+   "kind": "item",
+   "sheet": "0705",
+   "r": 6,
+   "fields": {
+    "date": "2024-07-05",
+    "team": "A班（炉・築炉）",
+    "no": "6",
+    "furnace": "—",
+    "place": "現場",
+    "content": "復旧・清掃・搬出 完了",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0",
+    "plan": 100,
+    "progress": 100,
+    "status": "完了"
+   }
+  },
+  {
+   "kind": "subtotal",
+   "sheet": "0705",
+   "r": 7,
+   "fields": {
+    "label": "小計",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  },
+  {
+   "kind": "total",
+   "sheet": "0705",
+   "r": 8,
+   "fields": {
+    "date": "2024-07-05",
+    "staff": 1,
+    "partner": 1,
+    "manDays": 2.0,
+    "manDaysText": "16.0"
+   }
+  }
+ ]
+}
