@@ -1,0 +1,449 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_平成24年度_全炉停止時共通設備整備業務委託全炉停止_工程班表様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "11-12",
+"kind": "item",
+"fields": {
+"date": "2012-11-12",
+"no": "Z-01",
+"name": "全炉停止 立会・隔離（主蒸気母管・給水）",
+"text": "全炉停止 立会",
+"team": "機械班C",
+"persons": 5,
+"hours": 6.0,
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-01"
+]
+},
+{
+"sheet": "11-12",
+"kind": "total",
+"fields": {
+"date": "2012-11-12",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "11-13",
+"kind": "item",
+"fields": {
+"date": "2012-11-13",
+"no": "Z-02",
+"name": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験",
+"text": "主蒸気母管止弁、高圧蒸気だめ安全弁、低圧蒸気だめ安全弁 開放",
+"team": "機械班C",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-02"
+]
+},
+{
+"sheet": "11-13",
+"kind": "item",
+"fields": {
+"date": "2012-11-13",
+"no": "Z-04",
+"name": "特高受変電・高圧配電盤 停電点検",
+"text": "接地変圧器、主変圧器、高圧配電盤 No.3 ほか 3 台 精密点検",
+"team": "電気工事 湾岸電工",
+"persons": 6,
+"hours": 9.0,
+"manDays": 6.75,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"Z-04"
+]
+},
+{
+"sheet": "11-13",
+"kind": "total",
+"fields": {
+"date": "2012-11-13",
+"persons": 11
+},
+"r": 7,
+"_check": [
+"11"
+]
+},
+{
+"sheet": "11-14",
+"kind": "item",
+"fields": {
+"date": "2012-11-14",
+"no": "Z-02",
+"name": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験",
+"text": "脱気器安全弁、主蒸気母管入口弁（3号炉） 閉鎖・漏れ確認",
+"team": "機械班C",
+"persons": 5,
+"hours": 6.0,
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-02"
+]
+},
+{
+"sheet": "11-14",
+"kind": "item",
+"fields": {
+"date": "2012-11-14",
+"no": "Z-04",
+"name": "特高受変電・高圧配電盤 停電点検",
+"text": "復電、所内変圧器 No.3、直流電源装置、無停電電源装置A ほか 2 台 確認",
+"team": "電気工事 湾岸電工",
+"persons": 6,
+"hours": 6.0,
+"manDays": 4.5,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"Z-04"
+]
+},
+{
+"sheet": "11-14",
+"kind": "item",
+"fields": {
+"date": "2012-11-14",
+"no": "Z-05",
+"name": "煙突・内筒 点検",
+"text": "煙突内筒（1号炉）、煙突内筒（2号炉） 点検（内筒 外観）",
+"team": "みなと足場",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"Z-05"
+]
+},
+{
+"sheet": "11-14",
+"kind": "item",
+"fields": {
+"date": "2012-11-14",
+"no": "Z-08",
+"name": "中央制御装置（DCS）点検",
+"text": "共通制御ステーション FCS-C1、共通制御ステーション FCS-C2、共通制御ステーション FCS-C3（受変電） ほか 1 台 点検",
+"team": "電気計装班",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 8,
+"_check": [
+"Z-08"
+]
+},
+{
+"sheet": "11-14",
+"kind": "total",
+"fields": {
+"date": "2012-11-14",
+"persons": 20
+},
+"r": 9,
+"_check": [
+"20"
+]
+},
+{
+"sheet": "11-15",
+"kind": "item",
+"fields": {
+"date": "2012-11-15",
+"no": "Z-03",
+"name": "脱気器・給水系統 開放点検",
+"text": "脱気器、脱気器圧力調節弁 点検",
+"team": "機械班C",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-03"
+]
+},
+{
+"sheet": "11-15",
+"kind": "item",
+"fields": {
+"date": "2012-11-15",
+"no": "Z-05",
+"name": "煙突・内筒 点検",
+"text": "煙突内筒（3号炉） 板厚測定・記録",
+"team": "みなと足場",
+"persons": 4,
+"hours": 6.0,
+"manDays": 3.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"Z-05"
+]
+},
+{
+"sheet": "11-15",
+"kind": "item",
+"fields": {
+"date": "2012-11-15",
+"no": "Z-08",
+"name": "中央制御装置（DCS）点検",
+"text": "オペレータステーション No.1、オペレータステーション No.2、オペレータステーション No.3 ほか 1 台 点検",
+"team": "電気計装班",
+"persons": 3,
+"hours": 8.0,
+"manDays": 3.0,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"Z-08"
+]
+},
+{
+"sheet": "11-15",
+"kind": "total",
+"fields": {
+"date": "2012-11-15",
+"persons": 12
+},
+"r": 8,
+"_check": [
+"12"
+]
+},
+{
+"sheet": "11-16",
+"kind": "item",
+"fields": {
+"date": "2012-11-16",
+"no": "Z-03",
+"name": "脱気器・給水系統 開放点検",
+"text": "低圧蒸気減圧弁 復旧",
+"team": "機械班C",
+"persons": 5,
+"hours": 6.0,
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-03"
+]
+},
+{
+"sheet": "11-16",
+"kind": "item",
+"fields": {
+"date": "2012-11-16",
+"no": "Z-08",
+"name": "中央制御装置（DCS）点検",
+"text": "オペレータステーション No.5、エンジニアリングステーション、データロガー 点検 完了",
+"team": "電気計装班",
+"persons": 4,
+"hours": 7.0,
+"manDays": 3.5,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"Z-08"
+]
+},
+{
+"sheet": "11-16",
+"kind": "total",
+"fields": {
+"date": "2012-11-16",
+"persons": 9
+},
+"r": 7,
+"_check": [
+"9"
+]
+},
+{
+"sheet": "11-17",
+"kind": "item",
+"fields": {
+"date": "2012-11-17",
+"no": "Z-06",
+"name": "空冷復水器 点検",
+"text": "空冷復水器 点検",
+"team": "機械班C",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-06"
+]
+},
+{
+"sheet": "11-17",
+"kind": "total",
+"fields": {
+"date": "2012-11-17",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "11-18",
+"kind": "item",
+"fields": {
+"date": "2012-11-18",
+"no": "Z-07",
+"name": "蒸気タービン 補機 点検（タービン停止中）",
+"text": "蒸気加減弁、抽気逆止弁（高圧）、潤滑油冷却器A ほか 1 台 点検",
+"team": "機械班C",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-07"
+]
+},
+{
+"sheet": "11-18",
+"kind": "total",
+"fields": {
+"date": "2012-11-18",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "11-19",
+"kind": "item",
+"fields": {
+"date": "2012-11-19",
+"no": "Z-07",
+"name": "蒸気タービン 補機 点検（タービン停止中）",
+"text": "タービン振動監視装置、発電機保護継電器盤、励磁装置 ほか 1 台 点検",
+"team": "機械班C",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-07"
+]
+},
+{
+"sheet": "11-19",
+"kind": "total",
+"fields": {
+"date": "2012-11-19",
+"persons": 4
+},
+"r": 6,
+"_check": [
+"4"
+]
+},
+{
+"sheet": "11-20",
+"kind": "item",
+"fields": {
+"date": "2012-11-20",
+"no": "Z-07",
+"name": "蒸気タービン 補機 点検（タービン停止中）",
+"text": "グランド蒸気復水器、グランドエゼクタ、タービン制御盤 復旧",
+"team": "機械班C",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-07"
+]
+},
+{
+"sheet": "11-20",
+"kind": "total",
+"fields": {
+"date": "2012-11-20",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "11-21",
+"kind": "item",
+"fields": {
+"date": "2012-11-21",
+"no": "Z-09",
+"name": "復旧・各炉立上げ立会",
+"text": "隔離解除・復旧、各炉 立上げ立会",
+"team": "機械班C",
+"persons": 5,
+"hours": 6.0,
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-09"
+]
+},
+{
+"sheet": "11-21",
+"kind": "total",
+"fields": {
+"date": "2012-11-21",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+}
+]
+}

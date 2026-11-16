@@ -1,0 +1,1069 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_令和6年度_全炉停止時共通設備整備業務委託全炉停止_R3縦型拡張様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "11.11",
+"kind": "item",
+"fields": {
+"date": "2024-11-11",
+"team": "機械班C",
+"text": "全炉停止 立会・隔離：全炉停止 立会。主蒸気母管・給水母管 隔離、施錠（ロックアウト）確認",
+"persons": 5,
+"hours": 7.0,
+"no": "Z-01",
+"manDays": 4.38,
+"manDaysText": "35.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"機械班C",
+"Z-01"
+]
+},
+{
+"sheet": "11.11",
+"kind": "total",
+"fields": {
+"date": "2024-11-11",
+"persons": 5,
+"manDaysText": "35.0",
+"manDaysTotal": 4.38
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "11.11",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-11",
+"会社": "汐見重工環境",
+"persons": 5,
+"manDaysText": "35.0",
+"累計": 5,
+"manDaysTotal": 4.38
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.11",
+"kind": "item",
+"fields": {
+"date": "2024-11-11",
+"no": "Z-01",
+"name": "全炉停止 立会・隔離（主蒸気母管・給水）",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"Z-01"
+]
+},
+{
+"sheet": "11.12",
+"kind": "item",
+"fields": {
+"date": "2024-11-12",
+"team": "電気工事 湾岸電工",
+"text": "特高受変電・高圧配電盤 停電点検：受電停止、主変圧器、高圧配電盤 No.3、高圧配電盤 No.6 ほか 3 台 停電点検",
+"persons": 6,
+"hours": 8.0,
+"no": "Z-04",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"Z-04"
+]
+},
+{
+"sheet": "11.12",
+"kind": "total",
+"fields": {
+"date": "2024-11-12",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "11.12",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-12",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 6,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.12",
+"kind": "item",
+"fields": {
+"date": "2024-11-12",
+"no": "Z-04",
+"name": "特高受変電・高圧配電盤 停電点検",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"Z-04"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2024-11-13",
+"team": "電気工事 湾岸電工",
+"text": "特高受変電・高圧配電盤 停電点検：直流電源装置、無停電電源装置A、無停電電源装置B ほか 2 台 点検 完了、復電",
+"persons": 6,
+"hours": 6.0,
+"no": "Z-04",
+"manDays": 4.5,
+"manDaysText": "36.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"Z-04"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2024-11-13",
+"team": "みなと足場",
+"text": "煙突・内筒 点検：煙突内筒（1号炉）、煙突内筒（2号炉） 点検（内筒 外観）",
+"persons": 5,
+"hours": 8.0,
+"no": "Z-05",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"みなと足場",
+"Z-05"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2024-11-13",
+"team": "電気計装班",
+"text": "中央制御装置：共通制御ステーション FCS-C1、共通制御ステーション FCS-C2、共通制御ステーション FCS-C3（受変電） ほか 1 台 点検",
+"persons": 4,
+"hours": 7.0,
+"no": "Z-08",
+"manDays": 3.5,
+"manDaysText": "28.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気計装班",
+"Z-08"
+]
+},
+{
+"sheet": "11.13",
+"kind": "total",
+"fields": {
+"date": "2024-11-13",
+"persons": 15,
+"manDaysText": "104.0",
+"manDaysTotal": 13.0
+},
+"r": 16,
+"_check": [
+"15名"
+]
+},
+{
+"sheet": "11.13",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-13",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "28.0",
+"累計": 9,
+"manDaysTotal": 3.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.13",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-13",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 5,
+"manDaysTotal": 5.0
+},
+"r": 20,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "11.13",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-13",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "36.0",
+"累計": 12,
+"manDaysTotal": 4.5
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2024-11-13",
+"no": "Z-04",
+"name": "特高受変電・高圧配電盤 停電点検",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 24,
+"_check": [
+"Z-04"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2024-11-13",
+"no": "Z-05",
+"name": "煙突・内筒 点検",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"Z-05"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2024-11-13",
+"no": "Z-08",
+"name": "中央制御装置（DCS）点検",
+"進捗": 33,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"Z-08"
+]
+},
+{
+"sheet": "11.14",
+"kind": "item",
+"fields": {
+"date": "2024-11-14",
+"team": "みなと足場",
+"text": "煙突・内筒 点検：煙突内筒（3号炉） 点検 完了",
+"persons": 5,
+"hours": 7.0,
+"no": "Z-05",
+"manDays": 4.38,
+"manDaysText": "35.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"Z-05"
+]
+},
+{
+"sheet": "11.14",
+"kind": "item",
+"fields": {
+"date": "2024-11-14",
+"team": "電気計装班",
+"text": "中央制御装置：オペレータステーション No.1、オペレータステーション No.2、オペレータステーション No.3 ほか 1 台 点検",
+"persons": 4,
+"hours": 8.0,
+"no": "Z-08",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気計装班",
+"Z-08"
+]
+},
+{
+"sheet": "11.14",
+"kind": "total",
+"fields": {
+"date": "2024-11-14",
+"persons": 9,
+"manDaysText": "67.0",
+"manDaysTotal": 8.38
+},
+"r": 16,
+"_check": [
+"9名"
+]
+},
+{
+"sheet": "11.14",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-14",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"累計": 13,
+"manDaysTotal": 4.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.14",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-14",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "35.0",
+"累計": 10,
+"manDaysTotal": 4.38
+},
+"r": 20,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "11.14",
+"kind": "item",
+"fields": {
+"date": "2024-11-14",
+"no": "Z-05",
+"name": "煙突・内筒 点検",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 23,
+"_check": [
+"Z-05"
+]
+},
+{
+"sheet": "11.14",
+"kind": "item",
+"fields": {
+"date": "2024-11-14",
+"no": "Z-08",
+"name": "中央制御装置（DCS）点検",
+"進捗": 67,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"Z-08"
+]
+},
+{
+"sheet": "11.15",
+"kind": "item",
+"fields": {
+"date": "2024-11-15",
+"team": "電気計装班",
+"text": "中央制御装置：オペレータステーション No.5、エンジニアリングステーション、データロガー ほか 1 台 点検 完了",
+"persons": 4,
+"hours": 8.0,
+"no": "Z-08",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"電気計装班",
+"Z-08"
+]
+},
+{
+"sheet": "11.15",
+"kind": "total",
+"fields": {
+"date": "2024-11-15",
+"persons": 4,
+"manDaysText": "32.0",
+"manDaysTotal": 4.0
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.15",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-15",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"累計": 17,
+"manDaysTotal": 4.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.15",
+"kind": "item",
+"fields": {
+"date": "2024-11-15",
+"no": "Z-08",
+"name": "中央制御装置（DCS）点検",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"Z-08"
+]
+},
+{
+"sheet": "11.17",
+"kind": "item",
+"fields": {
+"date": "2024-11-17",
+"team": "機械班C",
+"text": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験：主蒸気母管止弁、高圧蒸気だめ安全弁、低圧蒸気だめ安全弁 開放",
+"persons": 4,
+"hours": 7.0,
+"no": "Z-02",
+"manDays": 3.5,
+"manDaysText": "28.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"機械班C",
+"Z-02"
+]
+},
+{
+"sheet": "11.17",
+"kind": "total",
+"fields": {
+"date": "2024-11-17",
+"persons": 4,
+"manDaysText": "28.0",
+"manDaysTotal": 3.5
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.17",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-17",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "28.0",
+"累計": 21,
+"manDaysTotal": 3.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.17",
+"kind": "item",
+"fields": {
+"date": "2024-11-17",
+"no": "Z-02",
+"name": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"Z-02"
+]
+},
+{
+"sheet": "11.18",
+"kind": "item",
+"fields": {
+"date": "2024-11-18",
+"team": "機械班C",
+"text": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験：脱気器安全弁、主蒸気母管入口弁（3号炉） 復旧・試験",
+"persons": 5,
+"hours": 7.0,
+"no": "Z-02",
+"manDays": 4.38,
+"manDaysText": "35.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"機械班C",
+"Z-02"
+]
+},
+{
+"sheet": "11.18",
+"kind": "total",
+"fields": {
+"date": "2024-11-18",
+"persons": 5,
+"manDaysText": "35.0",
+"manDaysTotal": 4.38
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "11.18",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-18",
+"会社": "汐見重工環境",
+"persons": 5,
+"manDaysText": "35.0",
+"累計": 26,
+"manDaysTotal": 4.38
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.18",
+"kind": "item",
+"fields": {
+"date": "2024-11-18",
+"no": "Z-02",
+"name": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"Z-02"
+]
+},
+{
+"sheet": "11.19",
+"kind": "item",
+"fields": {
+"date": "2024-11-19",
+"team": "機械班C",
+"text": "脱気器・給水系統 開放点検：脱気器、脱気器圧力調節弁 点検",
+"persons": 5,
+"hours": 8.0,
+"no": "Z-03",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"機械班C",
+"Z-03"
+]
+},
+{
+"sheet": "11.19",
+"kind": "total",
+"fields": {
+"date": "2024-11-19",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "11.19",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-19",
+"会社": "汐見重工環境",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 31,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.19",
+"kind": "item",
+"fields": {
+"date": "2024-11-19",
+"no": "Z-03",
+"name": "脱気器・給水系統 開放点検",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"Z-03"
+]
+},
+{
+"sheet": "11.20",
+"kind": "item",
+"fields": {
+"date": "2024-11-20",
+"team": "機械班C",
+"text": "脱気器・給水系統 開放点検：低圧蒸気減圧弁 閉鎖",
+"persons": 5,
+"hours": 6.0,
+"no": "Z-03",
+"manDays": 3.75,
+"manDaysText": "30.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"機械班C",
+"Z-03"
+]
+},
+{
+"sheet": "11.20",
+"kind": "total",
+"fields": {
+"date": "2024-11-20",
+"persons": 5,
+"manDaysText": "30.0",
+"manDaysTotal": 3.75
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "11.20",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-20",
+"会社": "汐見重工環境",
+"persons": 5,
+"manDaysText": "30.0",
+"累計": 36,
+"manDaysTotal": 3.75
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.20",
+"kind": "item",
+"fields": {
+"date": "2024-11-20",
+"no": "Z-03",
+"name": "脱気器・給水系統 開放点検",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"Z-03"
+]
+},
+{
+"sheet": "11.21",
+"kind": "item",
+"fields": {
+"date": "2024-11-21",
+"team": "機械班C",
+"text": "空冷復水器 点検：空冷復水器 点検",
+"persons": 5,
+"hours": 7.0,
+"no": "Z-06",
+"manDays": 4.38,
+"manDaysText": "35.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"機械班C",
+"Z-06"
+]
+},
+{
+"sheet": "11.21",
+"kind": "total",
+"fields": {
+"date": "2024-11-21",
+"persons": 5,
+"manDaysText": "35.0",
+"manDaysTotal": 4.38
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "11.21",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-21",
+"会社": "汐見重工環境",
+"persons": 5,
+"manDaysText": "35.0",
+"累計": 41,
+"manDaysTotal": 4.38
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.21",
+"kind": "item",
+"fields": {
+"date": "2024-11-21",
+"no": "Z-06",
+"name": "空冷復水器 点検",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"Z-06"
+]
+},
+{
+"sheet": "11.22",
+"kind": "item",
+"fields": {
+"date": "2024-11-22",
+"team": "機械班C",
+"text": "蒸気タービン 補機 点検：補助油ポンプ、潤滑油冷却器A、ターニング装置 ほか 1 台 点検（タービン停止中）",
+"persons": 5,
+"hours": 8.0,
+"no": "Z-07",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"機械班C",
+"Z-07"
+]
+},
+{
+"sheet": "11.22",
+"kind": "total",
+"fields": {
+"date": "2024-11-22",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "11.22",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-22",
+"会社": "汐見重工環境",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 46,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.22",
+"kind": "item",
+"fields": {
+"date": "2024-11-22",
+"no": "Z-07",
+"name": "蒸気タービン 補機 点検（タービン停止中）",
+"進捗": 33,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"Z-07"
+]
+},
+{
+"sheet": "11.23",
+"kind": "item",
+"fields": {
+"date": "2024-11-23",
+"team": "機械班C",
+"text": "蒸気タービン 補機 点検：調速装置、タービン振動監視装置、発電機保護継電器盤 ほか 1 台 整備",
+"persons": 5,
+"hours": 9.0,
+"no": "Z-07",
+"manDays": 5.62,
+"manDaysText": "45.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"機械班C",
+"Z-07"
+]
+},
+{
+"sheet": "11.23",
+"kind": "total",
+"fields": {
+"date": "2024-11-23",
+"persons": 5,
+"manDaysText": "45.0",
+"manDaysTotal": 5.62
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "11.23",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-23",
+"会社": "汐見重工環境",
+"persons": 5,
+"manDaysText": "45.0",
+"累計": 51,
+"manDaysTotal": 5.62
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.23",
+"kind": "item",
+"fields": {
+"date": "2024-11-23",
+"no": "Z-07",
+"name": "蒸気タービン 補機 点検（タービン停止中）",
+"進捗": 67,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"Z-07"
+]
+},
+{
+"sheet": "11.24",
+"kind": "item",
+"fields": {
+"date": "2024-11-24",
+"team": "機械班C",
+"text": "蒸気タービン 補機 点検：同期投入盤、グランド蒸気復水器、タービン制御盤 点検 完了",
+"persons": 4,
+"hours": 6.0,
+"no": "Z-07",
+"manDays": 3.0,
+"manDaysText": "24.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"機械班C",
+"Z-07"
+]
+},
+{
+"sheet": "11.24",
+"kind": "total",
+"fields": {
+"date": "2024-11-24",
+"persons": 4,
+"manDaysText": "24.0",
+"manDaysTotal": 3.0
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.24",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-24",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "24.0",
+"累計": 55,
+"manDaysTotal": 3.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.24",
+"kind": "item",
+"fields": {
+"date": "2024-11-24",
+"no": "Z-07",
+"name": "蒸気タービン 補機 点検（タービン停止中）",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"Z-07"
+]
+},
+{
+"sheet": "11.25",
+"kind": "item",
+"fields": {
+"date": "2024-11-25",
+"team": "機械班C",
+"text": "復旧・各炉立上げ立会：隔離解除・復旧、各炉 立上げ立会",
+"persons": 5,
+"hours": 7.0,
+"no": "Z-09",
+"manDays": 4.38,
+"manDaysText": "35.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"機械班C",
+"Z-09"
+]
+},
+{
+"sheet": "11.25",
+"kind": "total",
+"fields": {
+"date": "2024-11-25",
+"persons": 5,
+"manDaysText": "35.0",
+"manDaysTotal": 4.38
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "11.25",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-25",
+"会社": "汐見重工環境",
+"persons": 5,
+"manDaysText": "35.0",
+"累計": 60,
+"manDaysTotal": 4.38
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.25",
+"kind": "item",
+"fields": {
+"date": "2024-11-25",
+"no": "Z-09",
+"name": "復旧・各炉立上げ立会",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"Z-09"
+]
+}
+]
+}

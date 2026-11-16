@@ -1,0 +1,369 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_令和2年度_全炉停止時共通設備整備業務委託全炉停止_H26縦型様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "11.9",
+"kind": "item",
+"fields": {
+"date": "2020-11-09",
+"team": "機械班C",
+"text": "全炉停止 立会・隔離　全炉停止 立会",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": "5名×7.0h"
+},
+"r": 8,
+"_check": [
+"全炉停止 立会・隔離　全"
+]
+},
+{
+"sheet": "11.9",
+"kind": "total",
+"fields": {
+"date": "2020-11-09",
+"persons": 5
+},
+"r": 22,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "11.10",
+"kind": "item",
+"fields": {
+"date": "2020-11-10",
+"team": "機械班C",
+"text": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験　主蒸気母管止弁、高圧蒸気だめ安全弁 開放",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": "4名×8.0h"
+},
+"r": 8,
+"_check": [
+"蒸気だめ・主蒸気系統 弁"
+]
+},
+{
+"sheet": "11.10",
+"kind": "item",
+"fields": {
+"date": "2020-11-10",
+"team": "電気工事 湾岸電工",
+"text": "特高受変電・高圧配電盤 停電点検　受電停止、接地変圧器、主変圧器、高圧配電盤 No.4 ほか 2 台 停電点検",
+"persons": 6,
+"hours": 8.0,
+"manDays": 6.0,
+"manDaysText": "6名×8.0h"
+},
+"r": 9,
+"_check": [
+"特高受変電・高圧配電盤 "
+]
+},
+{
+"sheet": "11.10",
+"kind": "total",
+"fields": {
+"date": "2020-11-10",
+"persons": 10
+},
+"r": 22,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "11.11",
+"kind": "item",
+"fields": {
+"date": "2020-11-11",
+"team": "機械班C",
+"text": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験　低圧蒸気だめ安全弁、脱気器安全弁 閉鎖・漏れ確認",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": "5名×8.0h"
+},
+"r": 8,
+"_check": [
+"蒸気だめ・主蒸気系統 弁"
+]
+},
+{
+"sheet": "11.11",
+"kind": "item",
+"fields": {
+"date": "2020-11-11",
+"team": "みなと足場",
+"text": "煙突・内筒 点検　煙突内筒（3号炉） 点検",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": "5名×7.0h"
+},
+"r": 9,
+"_check": [
+"煙突・内筒 点検　煙突内"
+]
+},
+{
+"sheet": "11.11",
+"kind": "item",
+"fields": {
+"date": "2020-11-11",
+"team": "電気工事 湾岸電工",
+"text": "特高受変電・高圧配電盤 停電点検　復電、高圧配電盤 No.11、無停電電源装置A、無停電電源装置B ほか 1 台 確認",
+"persons": 6,
+"hours": 8.0,
+"manDays": 6.0,
+"manDaysText": "6名×8.0h"
+},
+"r": 10,
+"_check": [
+"特高受変電・高圧配電盤 "
+]
+},
+{
+"sheet": "11.11",
+"kind": "item",
+"fields": {
+"date": "2020-11-11",
+"team": "電気計装班",
+"text": "中央制御装置　共通制御ステーション FCS-C1、共通制御ステーション FCS-C2、共通制御ステーション FCS-C3（受変電） ほか 1 台 二重化切替試験",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": "4名×8.0h"
+},
+"r": 11,
+"_check": [
+"中央制御装置　共通制御ス"
+]
+},
+{
+"sheet": "11.11",
+"kind": "total",
+"fields": {
+"date": "2020-11-11",
+"persons": 20
+},
+"r": 22,
+"_check": [
+"20名"
+]
+},
+{
+"sheet": "11.12",
+"kind": "item",
+"fields": {
+"date": "2020-11-12",
+"team": "機械班C",
+"text": "脱気器・給水系統 開放点検　脱気器、脱気器圧力調節弁 開放",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": "5名×8.0h"
+},
+"r": 8,
+"_check": [
+"脱気器・給水系統 開放点"
+]
+},
+{
+"sheet": "11.12",
+"kind": "item",
+"fields": {
+"date": "2020-11-12",
+"team": "電気計装班",
+"text": "中央制御装置　オペレータステーション No.1、オペレータステーション No.2、オペレータステーション No.3 ほか 1 台 点検",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": "4名×8.0h"
+},
+"r": 9,
+"_check": [
+"中央制御装置　オペレータ"
+]
+},
+{
+"sheet": "11.12",
+"kind": "total",
+"fields": {
+"date": "2020-11-12",
+"persons": 9
+},
+"r": 22,
+"_check": [
+"9名"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2020-11-13",
+"team": "機械班C",
+"text": "脱気器・給水系統 開放点検　タービンバイパス減圧減温弁 復旧",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": "5名×7.0h"
+},
+"r": 8,
+"_check": [
+"脱気器・給水系統 開放点"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2020-11-13",
+"team": "電気計装班",
+"text": "中央制御装置　オペレータステーション No.5、エンジニアリングステーション、データロガー ほか 1 台 点検 完了",
+"persons": 4,
+"hours": 7.0,
+"manDays": 3.5,
+"manDaysText": "4名×7.0h"
+},
+"r": 9,
+"_check": [
+"中央制御装置　オペレータ"
+]
+},
+{
+"sheet": "11.13",
+"kind": "total",
+"fields": {
+"date": "2020-11-13",
+"persons": 9
+},
+"r": 22,
+"_check": [
+"9名"
+]
+},
+{
+"sheet": "11.14",
+"kind": "item",
+"fields": {
+"date": "2020-11-14",
+"team": "機械班C",
+"text": "空冷復水器 点検　空冷復水器 点検（フィンチューブ 外観）",
+"persons": 4,
+"hours": 6.0,
+"manDays": 3.0,
+"manDaysText": "4名×6.0h"
+},
+"r": 8,
+"_check": [
+"空冷復水器 点検　空冷復"
+]
+},
+{
+"sheet": "11.14",
+"kind": "total",
+"fields": {
+"date": "2020-11-14",
+"persons": 4
+},
+"r": 22,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.15",
+"kind": "item",
+"fields": {
+"date": "2020-11-15",
+"team": "機械班C",
+"text": "蒸気タービン 補機 点検　潤滑油冷却器A、調速装置、タービン振動監視装置 点検",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": "5名×8.0h"
+},
+"r": 8,
+"_check": [
+"蒸気タービン 補機 点検"
+]
+},
+{
+"sheet": "11.15",
+"kind": "total",
+"fields": {
+"date": "2020-11-15",
+"persons": 5
+},
+"r": 22,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "11.16",
+"kind": "item",
+"fields": {
+"date": "2020-11-16",
+"team": "機械班C",
+"text": "蒸気タービン 補機 点検　グランド蒸気復水器、タービン制御油ユニット 点検 完了",
+"persons": 5,
+"hours": 6.0,
+"manDays": 3.75,
+"manDaysText": "5名×6.0h"
+},
+"r": 8,
+"_check": [
+"蒸気タービン 補機 点検"
+]
+},
+{
+"sheet": "11.16",
+"kind": "total",
+"fields": {
+"date": "2020-11-16",
+"persons": 5
+},
+"r": 22,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "11.17",
+"kind": "item",
+"fields": {
+"date": "2020-11-17",
+"team": "機械班C",
+"text": "復旧・各炉立上げ立会　隔離解除・復旧、各炉 立上げ立会",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": "5名×7.0h"
+},
+"r": 8,
+"_check": [
+"復旧・各炉立上げ立会　隔"
+]
+},
+{
+"sheet": "11.17",
+"kind": "total",
+"fields": {
+"date": "2020-11-17",
+"persons": 5
+},
+"r": 22,
+"_check": [
+"5名"
+]
+}
+]
+}

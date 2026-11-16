@@ -1,0 +1,267 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_平成29年度_更新工事1号炉_H26縦型様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "5.17",
+"kind": "item",
+"fields": {
+"date": "2017-05-17",
+"team": "据付協力 浜町機工",
+"text": "準備・既設撤去　仮設・養生",
+"persons": 10,
+"hours": 8.0,
+"manDays": 10.0,
+"manDaysText": "10名×8.0h"
+},
+"r": 8,
+"_check": [
+"準備・既設撤去　仮設・養"
+]
+},
+{
+"sheet": "5.17",
+"kind": "total",
+"fields": {
+"date": "2017-05-17",
+"persons": 10
+},
+"r": 22,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "5.18",
+"kind": "item",
+"fields": {
+"date": "2017-05-18",
+"team": "据付協力 浜町機工",
+"text": "準備・既設撤去　既設 撤去 完了",
+"persons": 10,
+"hours": 7.0,
+"manDays": 8.75,
+"manDaysText": "10名×7.0h"
+},
+"r": 8,
+"_check": [
+"準備・既設撤去　既設 撤"
+]
+},
+{
+"sheet": "5.18",
+"kind": "total",
+"fields": {
+"date": "2017-05-18",
+"persons": 10
+},
+"r": 22,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "5.19",
+"kind": "item",
+"fields": {
+"date": "2017-05-19",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整　後燃焼火格子 据付・芯出し",
+"persons": 10,
+"hours": 8.0,
+"manDays": 10.0,
+"manDaysText": "10名×8.0h"
+},
+"r": 8,
+"_check": [
+"新設据付・調整　後燃焼火"
+]
+},
+{
+"sheet": "5.19",
+"kind": "total",
+"fields": {
+"date": "2017-05-19",
+"persons": 10
+},
+"r": 22,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "5.20",
+"kind": "item",
+"fields": {
+"date": "2017-05-20",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整　新設据付・調整 据付",
+"persons": 10,
+"hours": 8.0,
+"manDays": 10.0,
+"manDaysText": "10名×8.0h"
+},
+"r": 8,
+"_check": [
+"新設据付・調整　新設据付"
+]
+},
+{
+"sheet": "5.20",
+"kind": "total",
+"fields": {
+"date": "2017-05-20",
+"persons": 10
+},
+"r": 22,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "5.22",
+"kind": "item",
+"fields": {
+"date": "2017-05-22",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整　新設据付・調整 据付",
+"persons": 10,
+"hours": 8.0,
+"manDays": 10.0,
+"manDaysText": "10名×8.0h"
+},
+"r": 8,
+"_check": [
+"新設据付・調整　新設据付"
+]
+},
+{
+"sheet": "5.22",
+"kind": "total",
+"fields": {
+"date": "2017-05-22",
+"persons": 10
+},
+"r": 22,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "5.23",
+"kind": "item",
+"fields": {
+"date": "2017-05-23",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整　新設据付・調整 据付",
+"persons": 10,
+"hours": 8.0,
+"manDays": 10.0,
+"manDaysText": "10名×8.0h"
+},
+"r": 8,
+"_check": [
+"新設据付・調整　新設据付"
+]
+},
+{
+"sheet": "5.23",
+"kind": "total",
+"fields": {
+"date": "2017-05-23",
+"persons": 10
+},
+"r": 22,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "5.24",
+"kind": "item",
+"fields": {
+"date": "2017-05-24",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整　新設据付・調整 据付",
+"persons": 10,
+"hours": 8.0,
+"manDays": 10.0,
+"manDaysText": "10名×8.0h"
+},
+"r": 8,
+"_check": [
+"新設据付・調整　新設据付"
+]
+},
+{
+"sheet": "5.24",
+"kind": "total",
+"fields": {
+"date": "2017-05-24",
+"persons": 10
+},
+"r": 22,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "5.25",
+"kind": "item",
+"fields": {
+"date": "2017-05-25",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整　新設据付・調整 調整・試運転",
+"persons": 10,
+"hours": 8.0,
+"manDays": 10.0,
+"manDaysText": "10名×8.0h"
+},
+"r": 8,
+"_check": [
+"新設据付・調整　新設据付"
+]
+},
+{
+"sheet": "5.25",
+"kind": "total",
+"fields": {
+"date": "2017-05-25",
+"persons": 10
+},
+"r": 22,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "5.26",
+"kind": "item",
+"fields": {
+"date": "2017-05-26",
+"team": "据付協力 浜町機工",
+"text": "検査・片付け　検査・片付け（市 監督員 確認）",
+"persons": 10,
+"hours": 7.0,
+"manDays": 8.75,
+"manDaysText": "10名×7.0h"
+},
+"r": 8,
+"_check": [
+"検査・片付け　検査・片付"
+]
+},
+{
+"sheet": "5.26",
+"kind": "total",
+"fields": {
+"date": "2017-05-26",
+"persons": 10
+},
+"r": 22,
+"_check": [
+"10名"
+]
+}
+]
+}

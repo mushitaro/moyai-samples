@@ -1,0 +1,396 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_令和4年度_補修工事2号炉_R3縦型拡張様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "11.28",
+"kind": "item",
+"fields": {
+"date": "2022-11-28",
+"team": "溶接班",
+"text": "準備・既設撤去：準備、既設 撤去",
+"persons": 4,
+"hours": 8.0,
+"no": "H-01",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"溶接班",
+"H-01"
+]
+},
+{
+"sheet": "11.28",
+"kind": "total",
+"fields": {
+"date": "2022-11-28",
+"persons": 4,
+"manDays": 4.0,
+"manDaysText": "32.0"
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.28",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-28",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"manDays": 4.0,
+"累計": 4
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.28",
+"kind": "item",
+"fields": {
+"date": "2022-11-28",
+"no": "H-01",
+"name": "準備・既設撤去",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"H-01"
+]
+},
+{
+"sheet": "11.29",
+"kind": "item",
+"fields": {
+"date": "2022-11-29",
+"team": "溶接班",
+"text": "準備・既設撤去：既設 撤去 完了",
+"persons": 4,
+"hours": 6.0,
+"no": "H-01",
+"manDays": 3.0,
+"manDaysText": "24.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"溶接班",
+"H-01"
+]
+},
+{
+"sheet": "11.29",
+"kind": "total",
+"fields": {
+"date": "2022-11-29",
+"persons": 4,
+"manDays": 3.0,
+"manDaysText": "24.0"
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.29",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-29",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "24.0",
+"manDays": 3.0,
+"累計": 8
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.29",
+"kind": "item",
+"fields": {
+"date": "2022-11-29",
+"no": "H-01",
+"name": "準備・既設撤去",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"H-01"
+]
+},
+{
+"sheet": "11.30",
+"kind": "item",
+"fields": {
+"date": "2022-11-30",
+"team": "溶接班",
+"text": "取替・肉盛溶接・非破壊検査：ボイラ本体 取替・溶接",
+"persons": 3,
+"hours": 7.0,
+"no": "H-02",
+"manDays": 2.62,
+"manDaysText": "21.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"溶接班",
+"H-02"
+]
+},
+{
+"sheet": "11.30",
+"kind": "total",
+"fields": {
+"date": "2022-11-30",
+"persons": 3,
+"manDays": 2.62,
+"manDaysText": "21.0"
+},
+"r": 16,
+"_check": [
+"3名"
+]
+},
+{
+"sheet": "11.30",
+"kind": "subtotal",
+"fields": {
+"date": "2022-11-30",
+"会社": "汐見重工環境",
+"persons": 3,
+"manDaysText": "21.0",
+"manDays": 2.62,
+"累計": 11
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.30",
+"kind": "item",
+"fields": {
+"date": "2022-11-30",
+"no": "H-02",
+"name": "取替・肉盛溶接・非破壊検査",
+"進捗": 33,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"H-02"
+]
+},
+{
+"sheet": "12.1",
+"kind": "item",
+"fields": {
+"date": "2022-12-01",
+"team": "溶接班",
+"text": "取替・肉盛溶接・非破壊検査：取替・肉盛溶接・非破壊検査 据付",
+"persons": 4,
+"hours": 8.0,
+"no": "H-02",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"溶接班",
+"H-02"
+]
+},
+{
+"sheet": "12.1",
+"kind": "total",
+"fields": {
+"date": "2022-12-01",
+"persons": 4,
+"manDays": 4.0,
+"manDaysText": "32.0"
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "12.1",
+"kind": "subtotal",
+"fields": {
+"date": "2022-12-01",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"manDays": 4.0,
+"累計": 15
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "12.1",
+"kind": "item",
+"fields": {
+"date": "2022-12-01",
+"no": "H-02",
+"name": "取替・肉盛溶接・非破壊検査",
+"進捗": 67,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"H-02"
+]
+},
+{
+"sheet": "12.2",
+"kind": "item",
+"fields": {
+"date": "2022-12-02",
+"team": "溶接班",
+"text": "取替・肉盛溶接・非破壊検査：取替・肉盛溶接・非破壊検査 調整・試運転",
+"persons": 3,
+"hours": 7.0,
+"no": "H-02",
+"manDays": 2.62,
+"manDaysText": "21.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"溶接班",
+"H-02"
+]
+},
+{
+"sheet": "12.2",
+"kind": "total",
+"fields": {
+"date": "2022-12-02",
+"persons": 3,
+"manDays": 2.62,
+"manDaysText": "21.0"
+},
+"r": 16,
+"_check": [
+"3名"
+]
+},
+{
+"sheet": "12.2",
+"kind": "subtotal",
+"fields": {
+"date": "2022-12-02",
+"会社": "汐見重工環境",
+"persons": 3,
+"manDaysText": "21.0",
+"manDays": 2.62,
+"累計": 18
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "12.2",
+"kind": "item",
+"fields": {
+"date": "2022-12-02",
+"no": "H-02",
+"name": "取替・肉盛溶接・非破壊検査",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"H-02"
+]
+},
+{
+"sheet": "12.3",
+"kind": "item",
+"fields": {
+"date": "2022-12-03",
+"team": "溶接班",
+"text": "検査・片付け：検査・片付け（市 監督員 確認）",
+"persons": 4,
+"hours": 6.0,
+"no": "H-03",
+"manDays": 3.0,
+"manDaysText": "24.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"溶接班",
+"H-03"
+]
+},
+{
+"sheet": "12.3",
+"kind": "total",
+"fields": {
+"date": "2022-12-03",
+"persons": 4,
+"manDays": 3.0,
+"manDaysText": "24.0"
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "12.3",
+"kind": "subtotal",
+"fields": {
+"date": "2022-12-03",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "24.0",
+"manDays": 3.0,
+"累計": 22
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "12.3",
+"kind": "item",
+"fields": {
+"date": "2022-12-03",
+"no": "H-03",
+"name": "検査・片付け",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"H-03"
+]
+}
+]
+}

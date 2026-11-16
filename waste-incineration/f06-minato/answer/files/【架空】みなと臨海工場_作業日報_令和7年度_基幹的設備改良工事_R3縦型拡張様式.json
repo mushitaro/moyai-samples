@@ -1,0 +1,3376 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_令和7年度_基幹的設備改良工事_R3縦型拡張様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "10.1",
+"kind": "item",
+"fields": {
+"date": "2025-10-01",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮設盤 設置",
+"persons": 6,
+"hours": 9.0,
+"no": "K-01",
+"manDays": 6.75,
+"manDaysText": "54.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.1",
+"kind": "total",
+"fields": {
+"date": "2025-10-01",
+"persons": 6,
+"manDaysText": "54.0",
+"manDaysTotal": 6.75
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.1",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-01",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "54.0",
+"累計": 6,
+"manDaysTotal": 6.75
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.1",
+"kind": "item",
+"fields": {
+"date": "2025-10-01",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 5,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.2",
+"kind": "item",
+"fields": {
+"date": "2025-10-02",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮設盤 設置",
+"persons": 6,
+"hours": 7.0,
+"no": "K-01",
+"manDays": 5.25,
+"manDaysText": "42.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.2",
+"kind": "total",
+"fields": {
+"date": "2025-10-02",
+"persons": 6,
+"manDaysText": "42.0",
+"manDaysTotal": 5.25
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.2",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-02",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "42.0",
+"累計": 12,
+"manDaysTotal": 5.25
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.2",
+"kind": "item",
+"fields": {
+"date": "2025-10-02",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 10,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.3",
+"kind": "item",
+"fields": {
+"date": "2025-10-03",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮設盤 設置",
+"persons": 6,
+"hours": 9.0,
+"no": "K-01",
+"manDays": 6.75,
+"manDaysText": "54.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.3",
+"kind": "total",
+"fields": {
+"date": "2025-10-03",
+"persons": 6,
+"manDaysText": "54.0",
+"manDaysTotal": 6.75
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.3",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-03",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "54.0",
+"累計": 18,
+"manDaysTotal": 6.75
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.3",
+"kind": "item",
+"fields": {
+"date": "2025-10-03",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 15,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.4",
+"kind": "item",
+"fields": {
+"date": "2025-10-04",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮設盤 設置",
+"persons": 6,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.4",
+"kind": "total",
+"fields": {
+"date": "2025-10-04",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.4",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-04",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 24,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.4",
+"kind": "item",
+"fields": {
+"date": "2025-10-04",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 20,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.6",
+"kind": "item",
+"fields": {
+"date": "2025-10-06",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮設盤 設置",
+"persons": 6,
+"hours": 9.0,
+"no": "K-01",
+"manDays": 6.75,
+"manDaysText": "54.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.6",
+"kind": "total",
+"fields": {
+"date": "2025-10-06",
+"persons": 6,
+"manDaysText": "54.0",
+"manDaysTotal": 6.75
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.6",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-06",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "54.0",
+"累計": 30,
+"manDaysTotal": 6.75
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.6",
+"kind": "item",
+"fields": {
+"date": "2025-10-06",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 25,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.7",
+"kind": "item",
+"fields": {
+"date": "2025-10-07",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮設盤 設置",
+"persons": 5,
+"hours": 9.0,
+"no": "K-01",
+"manDays": 5.62,
+"manDaysText": "45.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.7",
+"kind": "total",
+"fields": {
+"date": "2025-10-07",
+"persons": 5,
+"manDaysText": "45.0",
+"manDaysTotal": 5.62
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "10.7",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-07",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "45.0",
+"累計": 35,
+"manDaysTotal": 5.62
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.7",
+"kind": "item",
+"fields": {
+"date": "2025-10-07",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 30,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.8",
+"kind": "item",
+"fields": {
+"date": "2025-10-08",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮設盤 設置",
+"persons": 6,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.8",
+"kind": "total",
+"fields": {
+"date": "2025-10-08",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.8",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-08",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 41,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.8",
+"kind": "item",
+"fields": {
+"date": "2025-10-08",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 35,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.9",
+"kind": "item",
+"fields": {
+"date": "2025-10-09",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：切替手順 確認",
+"persons": 6,
+"hours": 7.0,
+"no": "K-01",
+"manDays": 5.25,
+"manDaysText": "42.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.9",
+"kind": "total",
+"fields": {
+"date": "2025-10-09",
+"persons": 6,
+"manDaysText": "42.0",
+"manDaysTotal": 5.25
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.9",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-09",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "42.0",
+"累計": 47,
+"manDaysTotal": 5.25
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.9",
+"kind": "item",
+"fields": {
+"date": "2025-10-09",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 40,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.10",
+"kind": "item",
+"fields": {
+"date": "2025-10-10",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：切替手順 確認",
+"persons": 6,
+"hours": 7.0,
+"no": "K-01",
+"manDays": 5.25,
+"manDaysText": "42.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.10",
+"kind": "total",
+"fields": {
+"date": "2025-10-10",
+"persons": 6,
+"manDaysText": "42.0",
+"manDaysTotal": 5.25
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.10",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-10",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "42.0",
+"累計": 53,
+"manDaysTotal": 5.25
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.10",
+"kind": "item",
+"fields": {
+"date": "2025-10-10",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 45,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.11",
+"kind": "item",
+"fields": {
+"date": "2025-10-11",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：切替手順 確認",
+"persons": 6,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.11",
+"kind": "total",
+"fields": {
+"date": "2025-10-11",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.11",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-11",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 59,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.11",
+"kind": "item",
+"fields": {
+"date": "2025-10-11",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.13",
+"kind": "item",
+"fields": {
+"date": "2025-10-13",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：切替手順 確認",
+"persons": 6,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.13",
+"kind": "total",
+"fields": {
+"date": "2025-10-13",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.13",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-13",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 65,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.13",
+"kind": "item",
+"fields": {
+"date": "2025-10-13",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 55,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.14",
+"kind": "item",
+"fields": {
+"date": "2025-10-14",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：切替手順 確認",
+"persons": 6,
+"hours": 7.0,
+"no": "K-01",
+"manDays": 5.25,
+"manDaysText": "42.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.14",
+"kind": "total",
+"fields": {
+"date": "2025-10-14",
+"persons": 6,
+"manDaysText": "42.0",
+"manDaysTotal": 5.25
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.14",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-14",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "42.0",
+"累計": 71,
+"manDaysTotal": 5.25
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.14",
+"kind": "item",
+"fields": {
+"date": "2025-10-14",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 60,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.15",
+"kind": "item",
+"fields": {
+"date": "2025-10-15",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：切替手順 確認",
+"persons": 5,
+"hours": 9.0,
+"no": "K-01",
+"manDays": 5.62,
+"manDaysText": "45.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.15",
+"kind": "total",
+"fields": {
+"date": "2025-10-15",
+"persons": 5,
+"manDaysText": "45.0",
+"manDaysTotal": 5.62
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "10.15",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-15",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "45.0",
+"累計": 76,
+"manDaysTotal": 5.62
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.15",
+"kind": "item",
+"fields": {
+"date": "2025-10-15",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 65,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.16",
+"kind": "item",
+"fields": {
+"date": "2025-10-16",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：切替手順 確認",
+"persons": 6,
+"hours": 9.0,
+"no": "K-01",
+"manDays": 6.75,
+"manDaysText": "54.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.16",
+"kind": "total",
+"fields": {
+"date": "2025-10-16",
+"persons": 6,
+"manDaysText": "54.0",
+"manDaysTotal": 6.75
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.16",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-16",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "54.0",
+"累計": 82,
+"manDaysTotal": 6.75
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.16",
+"kind": "item",
+"fields": {
+"date": "2025-10-16",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 70,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.17",
+"kind": "item",
+"fields": {
+"date": "2025-10-17",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮配線",
+"persons": 6,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.17",
+"kind": "total",
+"fields": {
+"date": "2025-10-17",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.17",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-17",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 88,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.17",
+"kind": "item",
+"fields": {
+"date": "2025-10-17",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 75,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.18",
+"kind": "item",
+"fields": {
+"date": "2025-10-18",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮配線",
+"persons": 6,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.18",
+"kind": "total",
+"fields": {
+"date": "2025-10-18",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.18",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-18",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 94,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.18",
+"kind": "item",
+"fields": {
+"date": "2025-10-18",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 80,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.20",
+"kind": "item",
+"fields": {
+"date": "2025-10-20",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮配線",
+"persons": 5,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.20",
+"kind": "total",
+"fields": {
+"date": "2025-10-20",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "10.20",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-20",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 99,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.20",
+"kind": "item",
+"fields": {
+"date": "2025-10-20",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 85,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.21",
+"kind": "item",
+"fields": {
+"date": "2025-10-21",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮配線",
+"persons": 6,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.21",
+"kind": "total",
+"fields": {
+"date": "2025-10-21",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.21",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-21",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 105,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.21",
+"kind": "item",
+"fields": {
+"date": "2025-10-21",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 90,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.22",
+"kind": "item",
+"fields": {
+"date": "2025-10-22",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮配線",
+"persons": 5,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.22",
+"kind": "total",
+"fields": {
+"date": "2025-10-22",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "10.22",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-22",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 110,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.22",
+"kind": "item",
+"fields": {
+"date": "2025-10-22",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 95,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "10.23",
+"kind": "item",
+"fields": {
+"date": "2025-10-23",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 仮設盤 設置・切替準備：仮配線",
+"persons": 6,
+"hours": 6.0,
+"no": "K-01",
+"manDays": 4.5,
+"manDaysText": "36.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-01"
+]
+},
+{
+"sheet": "10.23",
+"kind": "total",
+"fields": {
+"date": "2025-10-23",
+"persons": 6,
+"manDaysText": "36.0",
+"manDaysTotal": 4.5
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "10.23",
+"kind": "subtotal",
+"fields": {
+"date": "2025-10-23",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "36.0",
+"累計": 116,
+"manDaysTotal": 4.5
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "10.23",
+"kind": "item",
+"fields": {
+"date": "2025-10-23",
+"no": "K-01",
+"name": "共通 DCS 仮設盤 設置・切替準備",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "11.10",
+"kind": "item",
+"fields": {
+"date": "2025-11-10",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 切替：既設盤 撤去（タービン制御盤、オペレータステーション No.1）",
+"persons": 6,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-02"
+]
+},
+{
+"sheet": "11.10",
+"kind": "item",
+"fields": {
+"date": "2025-11-10",
+"team": "改良工事班",
+"text": "タービン 調速装置・主塞止弁・加減弁 更新：調速装置 撤去（タービン主塞止弁）",
+"persons": 12,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"改良工事班",
+"K-03"
+]
+},
+{
+"sheet": "11.10",
+"kind": "total",
+"fields": {
+"date": "2025-11-10",
+"persons": 18,
+"manDaysText": "144.0",
+"manDaysTotal": 18.0
+},
+"r": 16,
+"_check": [
+"18名"
+]
+},
+{
+"sheet": "11.10",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-10",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 12,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.10",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-10",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 122,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.10",
+"kind": "item",
+"fields": {
+"date": "2025-11-10",
+"no": "K-02",
+"name": "共通 DCS 切替（全炉停止中）",
+"進捗": 10,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "11.10",
+"kind": "item",
+"fields": {
+"date": "2025-11-10",
+"no": "K-03",
+"name": "タービン 調速装置・主塞止弁・加減弁 更新",
+"進捗": 10,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "11.11",
+"kind": "item",
+"fields": {
+"date": "2025-11-11",
+"team": "改良工事班",
+"text": "タービン 調速装置・主塞止弁・加減弁 更新：調速装置 撤去",
+"persons": 12,
+"hours": 7.0,
+"no": "K-03",
+"manDays": 10.5,
+"manDaysText": "84.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-03"
+]
+},
+{
+"sheet": "11.11",
+"kind": "total",
+"fields": {
+"date": "2025-11-11",
+"persons": 12,
+"manDaysText": "84.0",
+"manDaysTotal": 10.5
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "11.11",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-11",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "84.0",
+"累計": 24,
+"manDaysTotal": 10.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.11",
+"kind": "item",
+"fields": {
+"date": "2025-11-11",
+"no": "K-03",
+"name": "タービン 調速装置・主塞止弁・加減弁 更新",
+"進捗": 20,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "11.12",
+"kind": "item",
+"fields": {
+"date": "2025-11-12",
+"team": "改良工事班",
+"text": "タービン 調速装置・主塞止弁・加減弁 更新：調速装置 撤去（蒸気加減弁）",
+"persons": 12,
+"hours": 9.0,
+"no": "K-03",
+"manDays": 13.5,
+"manDaysText": "108.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-03"
+]
+},
+{
+"sheet": "11.12",
+"kind": "total",
+"fields": {
+"date": "2025-11-12",
+"persons": 12,
+"manDaysText": "108.0",
+"manDaysTotal": 13.5
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "11.12",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-12",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "108.0",
+"累計": 36,
+"manDaysTotal": 13.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.12",
+"kind": "item",
+"fields": {
+"date": "2025-11-12",
+"no": "K-03",
+"name": "タービン 調速装置・主塞止弁・加減弁 更新",
+"進捗": 30,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2025-11-13",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 切替：既設盤 撤去（オペレータステーション No.2、オペレータステーション No.3）",
+"persons": 6,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-02"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2025-11-13",
+"team": "改良工事班",
+"text": "タービン 調速装置・主塞止弁・加減弁 更新：新調速装置 据付",
+"persons": 12,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"改良工事班",
+"K-03"
+]
+},
+{
+"sheet": "11.13",
+"kind": "total",
+"fields": {
+"date": "2025-11-13",
+"persons": 18,
+"manDaysText": "144.0",
+"manDaysTotal": 18.0
+},
+"r": 16,
+"_check": [
+"18名"
+]
+},
+{
+"sheet": "11.13",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-13",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 48,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.13",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-13",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 128,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2025-11-13",
+"no": "K-02",
+"name": "共通 DCS 切替（全炉停止中）",
+"進捗": 20,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "11.13",
+"kind": "item",
+"fields": {
+"date": "2025-11-13",
+"no": "K-03",
+"name": "タービン 調速装置・主塞止弁・加減弁 更新",
+"進捗": 40,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "11.14",
+"kind": "item",
+"fields": {
+"date": "2025-11-14",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 切替：既設盤 撤去（オペレータステーション No.4、オペレータステーション No.5）",
+"persons": 6,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-02"
+]
+},
+{
+"sheet": "11.14",
+"kind": "item",
+"fields": {
+"date": "2025-11-14",
+"team": "改良工事班",
+"text": "タービン 調速装置・主塞止弁・加減弁 更新：新調速装置 据付",
+"persons": 12,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"改良工事班",
+"K-03"
+]
+},
+{
+"sheet": "11.14",
+"kind": "total",
+"fields": {
+"date": "2025-11-14",
+"persons": 18,
+"manDaysText": "144.0",
+"manDaysTotal": 18.0
+},
+"r": 16,
+"_check": [
+"18名"
+]
+},
+{
+"sheet": "11.14",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-14",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 60,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.14",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-14",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 134,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.14",
+"kind": "item",
+"fields": {
+"date": "2025-11-14",
+"no": "K-02",
+"name": "共通 DCS 切替（全炉停止中）",
+"進捗": 30,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "11.14",
+"kind": "item",
+"fields": {
+"date": "2025-11-14",
+"no": "K-03",
+"name": "タービン 調速装置・主塞止弁・加減弁 更新",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "11.15",
+"kind": "item",
+"fields": {
+"date": "2025-11-15",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 切替：新盤 据付（エンジニアリングステーション）",
+"persons": 6,
+"hours": 9.0,
+"no": "K-02",
+"manDays": 6.75,
+"manDaysText": "54.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-02"
+]
+},
+{
+"sheet": "11.15",
+"kind": "item",
+"fields": {
+"date": "2025-11-15",
+"team": "改良工事班",
+"text": "タービン 調速装置・主塞止弁・加減弁 更新：主塞止弁・加減弁 取替（調速装置）",
+"persons": 11,
+"hours": 9.0,
+"no": "K-03",
+"manDays": 12.38,
+"manDaysText": "99.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"改良工事班",
+"K-03"
+]
+},
+{
+"sheet": "11.15",
+"kind": "total",
+"fields": {
+"date": "2025-11-15",
+"persons": 17,
+"manDaysText": "153.0",
+"manDaysTotal": 19.12
+},
+"r": 16,
+"_check": [
+"17名"
+]
+},
+{
+"sheet": "11.15",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-15",
+"会社": "汐見重工環境",
+"persons": 11,
+"manDaysText": "99.0",
+"累計": 71,
+"manDaysTotal": 12.38
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.15",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-15",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "54.0",
+"累計": 140,
+"manDaysTotal": 6.75
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.15",
+"kind": "item",
+"fields": {
+"date": "2025-11-15",
+"no": "K-02",
+"name": "共通 DCS 切替（全炉停止中）",
+"進捗": 40,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "11.15",
+"kind": "item",
+"fields": {
+"date": "2025-11-15",
+"no": "K-03",
+"name": "タービン 調速装置・主塞止弁・加減弁 更新",
+"進捗": 60,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "11.17",
+"kind": "item",
+"fields": {
+"date": "2025-11-17",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 切替：新盤 据付（データロガー、データロガー（2））",
+"persons": 6,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-02"
+]
+},
+{
+"sheet": "11.17",
+"kind": "item",
+"fields": {
+"date": "2025-11-17",
+"team": "改良工事班",
+"text": "タービン 調速装置・主塞止弁・加減弁 更新：主塞止弁・加減弁 取替",
+"persons": 11,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 11.0,
+"manDaysText": "88.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"改良工事班",
+"K-03"
+]
+},
+{
+"sheet": "11.17",
+"kind": "total",
+"fields": {
+"date": "2025-11-17",
+"persons": 17,
+"manDaysText": "136.0",
+"manDaysTotal": 17.0
+},
+"r": 16,
+"_check": [
+"17名"
+]
+},
+{
+"sheet": "11.17",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-17",
+"会社": "汐見重工環境",
+"persons": 11,
+"manDaysText": "88.0",
+"累計": 82,
+"manDaysTotal": 11.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.17",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-17",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 146,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.17",
+"kind": "item",
+"fields": {
+"date": "2025-11-17",
+"no": "K-02",
+"name": "共通 DCS 切替（全炉停止中）",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "11.17",
+"kind": "item",
+"fields": {
+"date": "2025-11-17",
+"no": "K-03",
+"name": "タービン 調速装置・主塞止弁・加減弁 更新",
+"進捗": 70,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "11.18",
+"kind": "item",
+"fields": {
+"date": "2025-11-18",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 切替：配線替え（共通コントローラ CTL-C1（燃焼・給水共通）、共通コントローラ CTL-C2（タービン・受変電））",
+"persons": 5,
+"hours": 9.0,
+"no": "K-02",
+"manDays": 5.62,
+"manDaysText": "45.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-02"
+]
+},
+{
+"sheet": "11.18",
+"kind": "item",
+"fields": {
+"date": "2025-11-18",
+"team": "改良工事班",
+"text": "タービン 調速装置・主塞止弁・加減弁 更新：主塞止弁・加減弁 取替（タービン制御油ユニット）",
+"persons": 12,
+"hours": 7.0,
+"no": "K-03",
+"manDays": 10.5,
+"manDaysText": "84.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"改良工事班",
+"K-03"
+]
+},
+{
+"sheet": "11.18",
+"kind": "total",
+"fields": {
+"date": "2025-11-18",
+"persons": 17,
+"manDaysText": "129.0",
+"manDaysTotal": 16.12
+},
+"r": 16,
+"_check": [
+"17名"
+]
+},
+{
+"sheet": "11.18",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-18",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "84.0",
+"累計": 94,
+"manDaysTotal": 10.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.18",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-18",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "45.0",
+"累計": 151,
+"manDaysTotal": 5.62
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.18",
+"kind": "item",
+"fields": {
+"date": "2025-11-18",
+"no": "K-02",
+"name": "共通 DCS 切替（全炉停止中）",
+"進捗": 60,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "11.18",
+"kind": "item",
+"fields": {
+"date": "2025-11-18",
+"no": "K-03",
+"name": "タービン 調速装置・主塞止弁・加減弁 更新",
+"進捗": 80,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "11.19",
+"kind": "item",
+"fields": {
+"date": "2025-11-19",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 切替：配線替え（共通コントローラ CTL-C3（ユーティリティ））",
+"persons": 6,
+"hours": 9.0,
+"no": "K-02",
+"manDays": 6.75,
+"manDaysText": "54.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-02"
+]
+},
+{
+"sheet": "11.19",
+"kind": "item",
+"fields": {
+"date": "2025-11-19",
+"team": "改良工事班",
+"text": "タービン 調速装置・主塞止弁・加減弁 更新：調整",
+"persons": 11,
+"hours": 7.0,
+"no": "K-03",
+"manDays": 9.62,
+"manDaysText": "77.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"改良工事班",
+"K-03"
+]
+},
+{
+"sheet": "11.19",
+"kind": "total",
+"fields": {
+"date": "2025-11-19",
+"persons": 17,
+"manDaysText": "131.0",
+"manDaysTotal": 16.38
+},
+"r": 16,
+"_check": [
+"17名"
+]
+},
+{
+"sheet": "11.19",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-19",
+"会社": "汐見重工環境",
+"persons": 11,
+"manDaysText": "77.0",
+"累計": 105,
+"manDaysTotal": 9.62
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.19",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-19",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "54.0",
+"累計": 157,
+"manDaysTotal": 6.75
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.19",
+"kind": "item",
+"fields": {
+"date": "2025-11-19",
+"no": "K-02",
+"name": "共通 DCS 切替（全炉停止中）",
+"進捗": 70,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "11.19",
+"kind": "item",
+"fields": {
+"date": "2025-11-19",
+"no": "K-03",
+"name": "タービン 調速装置・主塞止弁・加減弁 更新",
+"進捗": 90,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "11.20",
+"kind": "item",
+"fields": {
+"date": "2025-11-20",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 切替：配線替え（オペレータステーション No.6、大型表示装置）",
+"persons": 6,
+"hours": 7.0,
+"no": "K-02",
+"manDays": 5.25,
+"manDaysText": "42.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-02"
+]
+},
+{
+"sheet": "11.20",
+"kind": "item",
+"fields": {
+"date": "2025-11-20",
+"team": "改良工事班",
+"text": "タービン 調速装置・主塞止弁・加減弁 更新：調整",
+"persons": 12,
+"hours": 7.0,
+"no": "K-03",
+"manDays": 10.5,
+"manDaysText": "84.0",
+"予定比": "完了"
+},
+"r": 9,
+"_check": [
+"改良工事班",
+"K-03"
+]
+},
+{
+"sheet": "11.20",
+"kind": "total",
+"fields": {
+"date": "2025-11-20",
+"persons": 18,
+"manDaysText": "126.0",
+"manDaysTotal": 15.75
+},
+"r": 16,
+"_check": [
+"18名"
+]
+},
+{
+"sheet": "11.20",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-20",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "84.0",
+"累計": 117,
+"manDaysTotal": 10.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.20",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-20",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "42.0",
+"累計": 163,
+"manDaysTotal": 5.25
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.20",
+"kind": "item",
+"fields": {
+"date": "2025-11-20",
+"no": "K-02",
+"name": "共通 DCS 切替（全炉停止中）",
+"進捗": 80,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "11.20",
+"kind": "item",
+"fields": {
+"date": "2025-11-20",
+"no": "K-03",
+"name": "タービン 調速装置・主塞止弁・加減弁 更新",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 24,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "11.21",
+"kind": "item",
+"fields": {
+"date": "2025-11-21",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 切替：I/O チェック（運転データ管理サーバ、運転データ管理サーバ（待機））",
+"persons": 6,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-02"
+]
+},
+{
+"sheet": "11.21",
+"kind": "item",
+"fields": {
+"date": "2025-11-21",
+"team": "電気計装班",
+"text": "ループ試験・総合試運転：ループ試験",
+"persons": 4,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気計装班",
+"K-04"
+]
+},
+{
+"sheet": "11.21",
+"kind": "total",
+"fields": {
+"date": "2025-11-21",
+"persons": 10,
+"manDaysText": "80.0",
+"manDaysTotal": 10.0
+},
+"r": 16,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "11.21",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-21",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"累計": 121,
+"manDaysTotal": 4.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.21",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-21",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 169,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.21",
+"kind": "item",
+"fields": {
+"date": "2025-11-21",
+"no": "K-02",
+"name": "共通 DCS 切替（全炉停止中）",
+"進捗": 90,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "11.21",
+"kind": "item",
+"fields": {
+"date": "2025-11-21",
+"no": "K-04",
+"name": "ループ試験・総合試運転",
+"進捗": 12,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "11.22",
+"kind": "item",
+"fields": {
+"date": "2025-11-22",
+"team": "電気工事 湾岸電工",
+"text": "共通 DCS 切替：I/O チェック（セキュリティゲートウェイ）",
+"persons": 6,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-02"
+]
+},
+{
+"sheet": "11.22",
+"kind": "item",
+"fields": {
+"date": "2025-11-22",
+"team": "電気計装班",
+"text": "ループ試験・総合試運転：ループ試験",
+"persons": 4,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気計装班",
+"K-04"
+]
+},
+{
+"sheet": "11.22",
+"kind": "total",
+"fields": {
+"date": "2025-11-22",
+"persons": 10,
+"manDaysText": "80.0",
+"manDaysTotal": 10.0
+},
+"r": 16,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "11.22",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-22",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"累計": 125,
+"manDaysTotal": 4.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.22",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-22",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 175,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "11.22",
+"kind": "item",
+"fields": {
+"date": "2025-11-22",
+"no": "K-02",
+"name": "共通 DCS 切替（全炉停止中）",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 23,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "11.22",
+"kind": "item",
+"fields": {
+"date": "2025-11-22",
+"no": "K-04",
+"name": "ループ試験・総合試運転",
+"進捗": 25,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "11.24",
+"kind": "item",
+"fields": {
+"date": "2025-11-24",
+"team": "電気計装班",
+"text": "ループ試験・総合試運転：ループ試験",
+"persons": 4,
+"hours": 7.0,
+"no": "K-04",
+"manDays": 3.5,
+"manDaysText": "28.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気計装班",
+"K-04"
+]
+},
+{
+"sheet": "11.24",
+"kind": "total",
+"fields": {
+"date": "2025-11-24",
+"persons": 4,
+"manDaysText": "28.0",
+"manDaysTotal": 3.5
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.24",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-24",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "28.0",
+"累計": 129,
+"manDaysTotal": 3.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.24",
+"kind": "item",
+"fields": {
+"date": "2025-11-24",
+"no": "K-04",
+"name": "ループ試験・総合試運転",
+"進捗": 38,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "11.25",
+"kind": "item",
+"fields": {
+"date": "2025-11-25",
+"team": "電気計装班",
+"text": "ループ試験・総合試運転：ループ試験",
+"persons": 4,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気計装班",
+"K-04"
+]
+},
+{
+"sheet": "11.25",
+"kind": "total",
+"fields": {
+"date": "2025-11-25",
+"persons": 4,
+"manDaysText": "32.0",
+"manDaysTotal": 4.0
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.25",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-25",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"累計": 133,
+"manDaysTotal": 4.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.25",
+"kind": "item",
+"fields": {
+"date": "2025-11-25",
+"no": "K-04",
+"name": "ループ試験・総合試運転",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "11.26",
+"kind": "item",
+"fields": {
+"date": "2025-11-26",
+"team": "電気計装班",
+"text": "ループ試験・総合試運転：インターロック試験",
+"persons": 4,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気計装班",
+"K-04"
+]
+},
+{
+"sheet": "11.26",
+"kind": "total",
+"fields": {
+"date": "2025-11-26",
+"persons": 4,
+"manDaysText": "32.0",
+"manDaysTotal": 4.0
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.26",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-26",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"累計": 137,
+"manDaysTotal": 4.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.26",
+"kind": "item",
+"fields": {
+"date": "2025-11-26",
+"no": "K-04",
+"name": "ループ試験・総合試運転",
+"進捗": 62,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "11.27",
+"kind": "item",
+"fields": {
+"date": "2025-11-27",
+"team": "電気計装班",
+"text": "ループ試験・総合試運転：インターロック試験",
+"persons": 4,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気計装班",
+"K-04"
+]
+},
+{
+"sheet": "11.27",
+"kind": "total",
+"fields": {
+"date": "2025-11-27",
+"persons": 4,
+"manDaysText": "32.0",
+"manDaysTotal": 4.0
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.27",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-27",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"累計": 141,
+"manDaysTotal": 4.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.27",
+"kind": "item",
+"fields": {
+"date": "2025-11-27",
+"no": "K-04",
+"name": "ループ試験・総合試運転",
+"進捗": 75,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "11.28",
+"kind": "item",
+"fields": {
+"date": "2025-11-28",
+"team": "電気計装班",
+"text": "ループ試験・総合試運転：インターロック試験",
+"persons": 4,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気計装班",
+"K-04"
+]
+},
+{
+"sheet": "11.28",
+"kind": "total",
+"fields": {
+"date": "2025-11-28",
+"persons": 4,
+"manDaysText": "32.0",
+"manDaysTotal": 4.0
+},
+"r": 16,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.28",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-28",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"累計": 145,
+"manDaysTotal": 4.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.28",
+"kind": "item",
+"fields": {
+"date": "2025-11-28",
+"no": "K-04",
+"name": "ループ試験・総合試運転",
+"進捗": 88,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "11.29",
+"kind": "item",
+"fields": {
+"date": "2025-11-29",
+"team": "電気計装班",
+"text": "ループ試験・総合試運転：インターロック試験",
+"persons": 3,
+"hours": 6.0,
+"no": "K-04",
+"manDays": 2.25,
+"manDaysText": "18.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"電気計装班",
+"K-04"
+]
+},
+{
+"sheet": "11.29",
+"kind": "total",
+"fields": {
+"date": "2025-11-29",
+"persons": 3,
+"manDaysText": "18.0",
+"manDaysTotal": 2.25
+},
+"r": 16,
+"_check": [
+"3名"
+]
+},
+{
+"sheet": "11.29",
+"kind": "subtotal",
+"fields": {
+"date": "2025-11-29",
+"会社": "汐見重工環境",
+"persons": 3,
+"manDaysText": "18.0",
+"累計": 148,
+"manDaysTotal": 2.25
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "11.29",
+"kind": "item",
+"fields": {
+"date": "2025-11-29",
+"no": "K-04",
+"name": "ループ試験・総合試運転",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "12.1",
+"kind": "item",
+"fields": {
+"date": "2025-12-01",
+"team": "電気工事 湾岸電工",
+"text": "旧盤 撤去・片付け：仮設撤去",
+"persons": 6,
+"hours": 9.0,
+"no": "K-05",
+"manDays": 6.75,
+"manDaysText": "54.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-05"
+]
+},
+{
+"sheet": "12.1",
+"kind": "total",
+"fields": {
+"date": "2025-12-01",
+"persons": 6,
+"manDaysText": "54.0",
+"manDaysTotal": 6.75
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "12.1",
+"kind": "subtotal",
+"fields": {
+"date": "2025-12-01",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "54.0",
+"累計": 181,
+"manDaysTotal": 6.75
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "12.1",
+"kind": "item",
+"fields": {
+"date": "2025-12-01",
+"no": "K-05",
+"name": "旧盤 撤去・片付け",
+"進捗": 17,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-05"
+]
+},
+{
+"sheet": "12.2",
+"kind": "item",
+"fields": {
+"date": "2025-12-02",
+"team": "電気工事 湾岸電工",
+"text": "旧盤 撤去・片付け：仮設撤去",
+"persons": 6,
+"hours": 8.0,
+"no": "K-05",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-05"
+]
+},
+{
+"sheet": "12.2",
+"kind": "total",
+"fields": {
+"date": "2025-12-02",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "12.2",
+"kind": "subtotal",
+"fields": {
+"date": "2025-12-02",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 187,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "12.2",
+"kind": "item",
+"fields": {
+"date": "2025-12-02",
+"no": "K-05",
+"name": "旧盤 撤去・片付け",
+"進捗": 33,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-05"
+]
+},
+{
+"sheet": "12.3",
+"kind": "item",
+"fields": {
+"date": "2025-12-03",
+"team": "電気工事 湾岸電工",
+"text": "旧盤 撤去・片付け：仮設撤去",
+"persons": 6,
+"hours": 8.0,
+"no": "K-05",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-05"
+]
+},
+{
+"sheet": "12.3",
+"kind": "total",
+"fields": {
+"date": "2025-12-03",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "12.3",
+"kind": "subtotal",
+"fields": {
+"date": "2025-12-03",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 193,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "12.3",
+"kind": "item",
+"fields": {
+"date": "2025-12-03",
+"no": "K-05",
+"name": "旧盤 撤去・片付け",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-05"
+]
+},
+{
+"sheet": "12.4",
+"kind": "item",
+"fields": {
+"date": "2025-12-04",
+"team": "電気工事 湾岸電工",
+"text": "旧盤 撤去・片付け：復旧・清掃",
+"persons": 6,
+"hours": 8.0,
+"no": "K-05",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-05"
+]
+},
+{
+"sheet": "12.4",
+"kind": "total",
+"fields": {
+"date": "2025-12-04",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "12.4",
+"kind": "subtotal",
+"fields": {
+"date": "2025-12-04",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 199,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "12.4",
+"kind": "item",
+"fields": {
+"date": "2025-12-04",
+"no": "K-05",
+"name": "旧盤 撤去・片付け",
+"進捗": 67,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-05"
+]
+},
+{
+"sheet": "12.5",
+"kind": "item",
+"fields": {
+"date": "2025-12-05",
+"team": "電気工事 湾岸電工",
+"text": "旧盤 撤去・片付け：復旧・清掃",
+"persons": 6,
+"hours": 8.0,
+"no": "K-05",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-05"
+]
+},
+{
+"sheet": "12.5",
+"kind": "total",
+"fields": {
+"date": "2025-12-05",
+"persons": 6,
+"manDaysText": "48.0",
+"manDaysTotal": 6.0
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "12.5",
+"kind": "subtotal",
+"fields": {
+"date": "2025-12-05",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 205,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "12.5",
+"kind": "item",
+"fields": {
+"date": "2025-12-05",
+"no": "K-05",
+"name": "旧盤 撤去・片付け",
+"進捗": 83,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-05"
+]
+},
+{
+"sheet": "12.6",
+"kind": "item",
+"fields": {
+"date": "2025-12-06",
+"team": "電気工事 湾岸電工",
+"text": "旧盤 撤去・片付け：復旧・清掃",
+"persons": 6,
+"hours": 7.0,
+"no": "K-05",
+"manDays": 5.25,
+"manDaysText": "42.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"電気工事 湾岸電工",
+"K-05"
+]
+},
+{
+"sheet": "12.6",
+"kind": "total",
+"fields": {
+"date": "2025-12-06",
+"persons": 6,
+"manDaysText": "42.0",
+"manDaysTotal": 5.25
+},
+"r": 16,
+"_check": [
+"6名"
+]
+},
+{
+"sheet": "12.6",
+"kind": "subtotal",
+"fields": {
+"date": "2025-12-06",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "42.0",
+"累計": 211,
+"manDaysTotal": 5.25
+},
+"r": 19,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "12.6",
+"kind": "item",
+"fields": {
+"date": "2025-12-06",
+"no": "K-05",
+"name": "旧盤 撤去・片付け",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"K-05"
+]
+}
+]
+}

@@ -1,0 +1,399 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_平成20年度_定期整備業務委託全炉停止_工程班表様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "11-10",
+"kind": "item",
+"fields": {
+"date": "2008-11-10",
+"no": "Z-01",
+"name": "全炉停止 立会・隔離（主蒸気母管・給水）",
+"text": "全炉停止 立会",
+"team": "機械班C",
+"persons": 5,
+"hours": 6.0,
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-01"
+]
+},
+{
+"sheet": "11-10",
+"kind": "total",
+"fields": {
+"date": "2008-11-10",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "11-11",
+"kind": "item",
+"fields": {
+"date": "2008-11-11",
+"no": "Z-02",
+"name": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験",
+"text": "主蒸気母管止弁・高圧蒸気だめ安全弁・低圧蒸気だめ安全",
+"team": "機械班C",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-02"
+]
+},
+{
+"sheet": "11-11",
+"kind": "item",
+"fields": {
+"date": "2008-11-11",
+"no": "Z-04",
+"name": "特高受変電・高圧配電盤 停電点検",
+"text": "受電停止・66kV 受電 GIS・高圧配電盤 No.",
+"team": "電気工事 湾岸電工",
+"persons": 6,
+"hours": 8.0,
+"manDays": 6.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"Z-04"
+]
+},
+{
+"sheet": "11-11",
+"kind": "total",
+"fields": {
+"date": "2008-11-11",
+"persons": 11
+},
+"r": 7,
+"_check": [
+"11"
+]
+},
+{
+"sheet": "11-12",
+"kind": "item",
+"fields": {
+"date": "2008-11-12",
+"no": "Z-02",
+"name": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験",
+"text": "脱気器安全弁・高圧蒸気だめ出口弁（バイパス） 閉鎖・",
+"team": "機械班C",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-02"
+]
+},
+{
+"sheet": "11-12",
+"kind": "item",
+"fields": {
+"date": "2008-11-12",
+"no": "Z-04",
+"name": "特高受変電・高圧配電盤 停電点検",
+"text": "復電・高圧配電盤 No.11・無停電電源装置A・無停",
+"team": "電気工事 湾岸電工",
+"persons": 6,
+"hours": 7.0,
+"manDays": 5.25,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"Z-04"
+]
+},
+{
+"sheet": "11-12",
+"kind": "item",
+"fields": {
+"date": "2008-11-12",
+"no": "Z-05",
+"name": "煙突・内筒 点検",
+"text": "煙突内筒（3号炉） 点検（内筒 外観）",
+"team": "みなと足場",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"Z-05"
+]
+},
+{
+"sheet": "11-12",
+"kind": "item",
+"fields": {
+"date": "2008-11-12",
+"no": "Z-08",
+"name": "中央制御装置（DCS）点検",
+"text": "共通制御ステーション FCS-C1・共通制御ステーシ",
+"team": "電気計装班",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 8,
+"_check": [
+"Z-08"
+]
+},
+{
+"sheet": "11-12",
+"kind": "total",
+"fields": {
+"date": "2008-11-12",
+"persons": 19
+},
+"r": 9,
+"_check": [
+"19"
+]
+},
+{
+"sheet": "11-13",
+"kind": "item",
+"fields": {
+"date": "2008-11-13",
+"no": "Z-03",
+"name": "脱気器・給水系統 開放点検",
+"text": "脱気器・脱気器圧力調節弁 開放",
+"team": "機械班C",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-03"
+]
+},
+{
+"sheet": "11-13",
+"kind": "item",
+"fields": {
+"date": "2008-11-13",
+"no": "Z-08",
+"name": "中央制御装置（DCS）点検",
+"text": "オペレータステーション No.1・オペレータステーシ",
+"team": "電気計装班",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"Z-08"
+]
+},
+{
+"sheet": "11-13",
+"kind": "total",
+"fields": {
+"date": "2008-11-13",
+"persons": 9
+},
+"r": 7,
+"_check": [
+"9"
+]
+},
+{
+"sheet": "11-14",
+"kind": "item",
+"fields": {
+"date": "2008-11-14",
+"no": "Z-03",
+"name": "脱気器・給水系統 開放点検",
+"text": "タービンバイパス減圧減温弁 閉鎖",
+"team": "機械班C",
+"persons": 5,
+"hours": 6.0,
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-03"
+]
+},
+{
+"sheet": "11-14",
+"kind": "item",
+"fields": {
+"date": "2008-11-14",
+"no": "Z-08",
+"name": "中央制御装置（DCS）点検",
+"text": "オペレータステーション No.5・エンジニアリングス",
+"team": "電気計装班",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"Z-08"
+]
+},
+{
+"sheet": "11-14",
+"kind": "total",
+"fields": {
+"date": "2008-11-14",
+"persons": 9
+},
+"r": 7,
+"_check": [
+"9"
+]
+},
+{
+"sheet": "11-15",
+"kind": "item",
+"fields": {
+"date": "2008-11-15",
+"no": "Z-06",
+"name": "空冷復水器 点検",
+"text": "空冷復水器 点検（フィンチューブ 外観）",
+"team": "機械班C",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-06"
+]
+},
+{
+"sheet": "11-15",
+"kind": "total",
+"fields": {
+"date": "2008-11-15",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "11-16",
+"kind": "item",
+"fields": {
+"date": "2008-11-16",
+"no": "Z-07",
+"name": "蒸気タービン 補機 点検（タービン停止中）",
+"text": "非常用油ポンプ・潤滑油冷却器A・ターニング装置 点検",
+"team": "機械班C",
+"persons": 5,
+"hours": 9.0,
+"manDays": 5.62,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-07"
+]
+},
+{
+"sheet": "11-16",
+"kind": "total",
+"fields": {
+"date": "2008-11-16",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "11-17",
+"kind": "item",
+"fields": {
+"date": "2008-11-17",
+"no": "Z-07",
+"name": "蒸気タービン 補機 点検（タービン停止中）",
+"text": "調速装置・タービン振動監視装置・グランド蒸気復水器 ",
+"team": "機械班C",
+"persons": 4,
+"hours": 7.0,
+"manDays": 3.5,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-07"
+]
+},
+{
+"sheet": "11-17",
+"kind": "total",
+"fields": {
+"date": "2008-11-17",
+"persons": 4
+},
+"r": 6,
+"_check": [
+"4"
+]
+},
+{
+"sheet": "11-18",
+"kind": "item",
+"fields": {
+"date": "2008-11-18",
+"no": "Z-09",
+"name": "復旧・各炉立上げ立会",
+"text": "隔離解除・復旧・各炉 立上げ立会",
+"team": "機械班C",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"Z-09"
+]
+},
+{
+"sheet": "11-18",
+"kind": "total",
+"fields": {
+"date": "2008-11-18",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+}
+]
+}

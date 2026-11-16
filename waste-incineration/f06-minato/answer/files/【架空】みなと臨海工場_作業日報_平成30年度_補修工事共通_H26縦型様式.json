@@ -1,0 +1,180 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_平成30年度_補修工事共通_H26縦型様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "11.21",
+"kind": "item",
+"fields": {
+"date": "2018-11-21",
+"team": "溶接班",
+"text": "準備・既設撤去　仮設・養生",
+"persons": 4,
+"hours": 9.0,
+"manDays": 4.5,
+"manDaysText": "4名×9.0h"
+},
+"r": 8,
+"_check": [
+"準備・既設撤去　仮設・養"
+]
+},
+{
+"sheet": "11.21",
+"kind": "total",
+"fields": {
+"date": "2018-11-21",
+"persons": 4
+},
+"r": 22,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.22",
+"kind": "item",
+"fields": {
+"date": "2018-11-22",
+"team": "溶接班",
+"text": "準備・既設撤去　撤去・搬出",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": "4名×8.0h"
+},
+"r": 8,
+"_check": [
+"準備・既設撤去　撤去・搬"
+]
+},
+{
+"sheet": "11.22",
+"kind": "total",
+"fields": {
+"date": "2018-11-22",
+"persons": 4
+},
+"r": 22,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.23",
+"kind": "item",
+"fields": {
+"date": "2018-11-23",
+"team": "溶接班",
+"text": "取替・肉盛溶接・非破壊検査　ボイラ給水ポンプ No.2 据付・芯出し",
+"persons": 3,
+"hours": 8.0,
+"manDays": 3.0,
+"manDaysText": "3名×8.0h"
+},
+"r": 8,
+"_check": [
+"取替・肉盛溶接・非破壊検"
+]
+},
+{
+"sheet": "11.23",
+"kind": "total",
+"fields": {
+"date": "2018-11-23",
+"persons": 3
+},
+"r": 22,
+"_check": [
+"3名"
+]
+},
+{
+"sheet": "11.24",
+"kind": "item",
+"fields": {
+"date": "2018-11-24",
+"team": "溶接班",
+"text": "取替・肉盛溶接・非破壊検査　取替・肉盛溶接・非破壊検査 据付",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": "4名×8.0h"
+},
+"r": 8,
+"_check": [
+"取替・肉盛溶接・非破壊検"
+]
+},
+{
+"sheet": "11.24",
+"kind": "total",
+"fields": {
+"date": "2018-11-24",
+"persons": 4
+},
+"r": 22,
+"_check": [
+"4名"
+]
+},
+{
+"sheet": "11.26",
+"kind": "item",
+"fields": {
+"date": "2018-11-26",
+"team": "溶接班",
+"text": "取替・肉盛溶接・非破壊検査　取替・肉盛溶接・非破壊検査 調整・試運転",
+"persons": 3,
+"hours": 6.0,
+"manDays": 2.25,
+"manDaysText": "3名×6.0h"
+},
+"r": 8,
+"_check": [
+"取替・肉盛溶接・非破壊検"
+]
+},
+{
+"sheet": "11.26",
+"kind": "total",
+"fields": {
+"date": "2018-11-26",
+"persons": 3
+},
+"r": 22,
+"_check": [
+"3名"
+]
+},
+{
+"sheet": "11.27",
+"kind": "item",
+"fields": {
+"date": "2018-11-27",
+"team": "溶接班",
+"text": "検査・片付け　検査・片付け（市 監督員 確認）",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": "4名×8.0h"
+},
+"r": 8,
+"_check": [
+"検査・片付け　検査・片付"
+]
+},
+{
+"sheet": "11.27",
+"kind": "total",
+"fields": {
+"date": "2018-11-27",
+"persons": 4
+},
+"r": 22,
+"_check": [
+"4名"
+]
+}
+]
+}

@@ -1,0 +1,7650 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_令和6年度_基幹的設備改良工事_R3縦型拡張様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "6.10",
+"kind": "item",
+"fields": {
+"date": "2024-06-10",
+"team": "改良工事班",
+"text": "3号炉 立下げ・冷却・養生：立下げ・冷却",
+"persons": 11,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 11.0,
+"manDaysText": "88.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-01"
+]
+},
+{
+"sheet": "6.10",
+"kind": "total",
+"fields": {
+"date": "2024-06-10",
+"persons": 11,
+"manDaysText": "88.0",
+"manDaysTotal": 11.0
+},
+"r": 16,
+"_check": [
+"11名"
+]
+},
+{
+"sheet": "6.10",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-10",
+"会社": "汐見重工環境",
+"persons": 11,
+"manDaysText": "88.0",
+"累計": 11,
+"manDaysTotal": 11.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "6.10",
+"kind": "item",
+"fields": {
+"date": "2024-06-10",
+"no": "K-01",
+"name": "3号炉 立下げ・冷却・養生",
+"進捗": 25,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "6.11",
+"kind": "item",
+"fields": {
+"date": "2024-06-11",
+"team": "改良工事班",
+"text": "3号炉 立下げ・冷却・養生：冷却・養生",
+"persons": 12,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-01"
+]
+},
+{
+"sheet": "6.11",
+"kind": "total",
+"fields": {
+"date": "2024-06-11",
+"persons": 12,
+"manDaysText": "96.0",
+"manDaysTotal": 12.0
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "6.11",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-11",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 23,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "6.11",
+"kind": "item",
+"fields": {
+"date": "2024-06-11",
+"no": "K-01",
+"name": "3号炉 立下げ・冷却・養生",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "6.12",
+"kind": "item",
+"fields": {
+"date": "2024-06-12",
+"team": "改良工事班",
+"text": "3号炉 立下げ・冷却・養生：揚重計画 確認、養生",
+"persons": 12,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-01"
+]
+},
+{
+"sheet": "6.12",
+"kind": "total",
+"fields": {
+"date": "2024-06-12",
+"persons": 12,
+"manDaysText": "96.0",
+"manDaysTotal": 12.0
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "6.12",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-12",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 35,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "6.12",
+"kind": "item",
+"fields": {
+"date": "2024-06-12",
+"no": "K-01",
+"name": "3号炉 立下げ・冷却・養生",
+"進捗": 75,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2024-06-13",
+"team": "改良工事班",
+"text": "3号炉 立下げ・冷却・養生：仮設電源 設置",
+"persons": 12,
+"hours": 8.0,
+"no": "K-01",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-01"
+]
+},
+{
+"sheet": "6.13",
+"kind": "total",
+"fields": {
+"date": "2024-06-13",
+"persons": 12,
+"manDaysText": "96.0",
+"manDaysTotal": 12.0
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "6.13",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-13",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 47,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "6.13",
+"kind": "item",
+"fields": {
+"date": "2024-06-13",
+"no": "K-01",
+"name": "3号炉 立下げ・冷却・養生",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"K-01"
+]
+},
+{
+"sheet": "6.14",
+"kind": "item",
+"fields": {
+"date": "2024-06-14",
+"team": "みなと足場",
+"text": "仮設足場・揚重設備 設置：仮設足場 組立",
+"persons": 5,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-02"
+]
+},
+{
+"sheet": "6.14",
+"kind": "total",
+"fields": {
+"date": "2024-06-14",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "6.14",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-14",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 5,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "6.14",
+"kind": "item",
+"fields": {
+"date": "2024-06-14",
+"no": "K-02",
+"name": "仮設足場・揚重設備 設置",
+"進捗": 12,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "6.15",
+"kind": "item",
+"fields": {
+"date": "2024-06-15",
+"team": "みなと足場",
+"text": "仮設足場・揚重設備 設置：仮設足場 組立",
+"persons": 5,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-02"
+]
+},
+{
+"sheet": "6.15",
+"kind": "total",
+"fields": {
+"date": "2024-06-15",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "6.15",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-15",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 10,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "6.15",
+"kind": "item",
+"fields": {
+"date": "2024-06-15",
+"no": "K-02",
+"name": "仮設足場・揚重設備 設置",
+"進捗": 25,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "6.17",
+"kind": "item",
+"fields": {
+"date": "2024-06-17",
+"team": "みなと足場",
+"text": "仮設足場・揚重設備 設置：揚重設備 設置",
+"persons": 5,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-02"
+]
+},
+{
+"sheet": "6.17",
+"kind": "total",
+"fields": {
+"date": "2024-06-17",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "6.17",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-17",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 15,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "6.17",
+"kind": "item",
+"fields": {
+"date": "2024-06-17",
+"no": "K-02",
+"name": "仮設足場・揚重設備 設置",
+"進捗": 38,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2024-06-18",
+"team": "みなと足場",
+"text": "仮設足場・揚重設備 設置：揚重設備 設置",
+"persons": 5,
+"hours": 9.0,
+"no": "K-02",
+"manDays": 5.62,
+"manDaysText": "45.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-02"
+]
+},
+{
+"sheet": "6.18",
+"kind": "total",
+"fields": {
+"date": "2024-06-18",
+"persons": 5,
+"manDaysText": "45.0",
+"manDaysTotal": 5.62
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "6.18",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-18",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "45.0",
+"累計": 20,
+"manDaysTotal": 5.62
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "6.18",
+"kind": "item",
+"fields": {
+"date": "2024-06-18",
+"no": "K-02",
+"name": "仮設足場・揚重設備 設置",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "6.19",
+"kind": "item",
+"fields": {
+"date": "2024-06-19",
+"team": "みなと足場",
+"text": "仮設足場・揚重設備 設置：足場 組立",
+"persons": 5,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-02"
+]
+},
+{
+"sheet": "6.19",
+"kind": "total",
+"fields": {
+"date": "2024-06-19",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "6.19",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-19",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 25,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "6.19",
+"kind": "item",
+"fields": {
+"date": "2024-06-19",
+"no": "K-02",
+"name": "仮設足場・揚重設備 設置",
+"進捗": 62,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "6.20",
+"kind": "item",
+"fields": {
+"date": "2024-06-20",
+"team": "みなと足場",
+"text": "仮設足場・揚重設備 設置：足場 組立",
+"persons": 5,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-02"
+]
+},
+{
+"sheet": "6.20",
+"kind": "total",
+"fields": {
+"date": "2024-06-20",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "6.20",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-20",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 30,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "6.20",
+"kind": "item",
+"fields": {
+"date": "2024-06-20",
+"no": "K-02",
+"name": "仮設足場・揚重設備 設置",
+"進捗": 75,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2024-06-21",
+"team": "みなと足場",
+"text": "仮設足場・揚重設備 設置：足場 完成検査",
+"persons": 5,
+"hours": 8.0,
+"no": "K-02",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-02"
+]
+},
+{
+"sheet": "6.21",
+"kind": "total",
+"fields": {
+"date": "2024-06-21",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "6.21",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-21",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 35,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "6.21",
+"kind": "item",
+"fields": {
+"date": "2024-06-21",
+"no": "K-02",
+"name": "仮設足場・揚重設備 設置",
+"進捗": 88,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2024-06-22",
+"team": "みなと足場",
+"text": "仮設足場・揚重設備 設置：足場 完成検査",
+"persons": 4,
+"hours": 6.0,
+"no": "K-02",
+"manDays": 3.0,
+"manDaysText": "24.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-02"
+]
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2024-06-22",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 管 切断",
+"persons": 10,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "6.22",
+"kind": "total",
+"fields": {
+"date": "2024-06-22",
+"persons": 14,
+"manDaysText": "104.0",
+"manDaysTotal": 13.0
+},
+"r": 16,
+"_check": [
+"14名"
+]
+},
+{
+"sheet": "6.22",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-22",
+"会社": "みなと足場工業",
+"persons": 4,
+"manDaysText": "24.0",
+"累計": 39,
+"manDaysTotal": 3.0
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "6.22",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-22",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 10,
+"manDaysTotal": 10.0
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2024-06-22",
+"no": "K-02",
+"name": "仮設足場・揚重設備 設置",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 23,
+"_check": [
+"K-02"
+]
+},
+{
+"sheet": "6.22",
+"kind": "item",
+"fields": {
+"date": "2024-06-22",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 8,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2024-06-24",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 管 切断",
+"persons": 10,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "6.24",
+"kind": "total",
+"fields": {
+"date": "2024-06-24",
+"persons": 10,
+"manDaysText": "80.0",
+"manDaysTotal": 10.0
+},
+"r": 16,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "6.24",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-24",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 20,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "6.24",
+"kind": "item",
+"fields": {
+"date": "2024-06-24",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 17,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "6.25",
+"kind": "item",
+"fields": {
+"date": "2024-06-25",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 管 切断",
+"persons": 10,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "6.25",
+"kind": "total",
+"fields": {
+"date": "2024-06-25",
+"persons": 10,
+"manDaysText": "80.0",
+"manDaysTotal": 10.0
+},
+"r": 16,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "6.25",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-25",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 30,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "6.25",
+"kind": "item",
+"fields": {
+"date": "2024-06-25",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 25,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "6.26",
+"kind": "item",
+"fields": {
+"date": "2024-06-26",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 管 切断",
+"persons": 10,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "6.26",
+"kind": "item",
+"fields": {
+"date": "2024-06-26",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：既設盤 撤去（炉別制御ステーション（DCS））",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "6.26",
+"kind": "total",
+"fields": {
+"date": "2024-06-26",
+"persons": 16,
+"manDaysText": "128.0",
+"manDaysTotal": 16.0
+},
+"r": 16,
+"_check": [
+"16名"
+]
+},
+{
+"sheet": "6.26",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-26",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 40,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "6.26",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-26",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 6,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "6.26",
+"kind": "item",
+"fields": {
+"date": "2024-06-26",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 33,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "6.26",
+"kind": "item",
+"fields": {
+"date": "2024-06-26",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 3,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "6.27",
+"kind": "item",
+"fields": {
+"date": "2024-06-27",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 吊下ろし・搬出",
+"persons": 10,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "6.27",
+"kind": "item",
+"fields": {
+"date": "2024-06-27",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：既設盤 撤去",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "6.27",
+"kind": "total",
+"fields": {
+"date": "2024-06-27",
+"persons": 16,
+"manDaysText": "128.0",
+"manDaysTotal": 16.0
+},
+"r": 16,
+"_check": [
+"16名"
+]
+},
+{
+"sheet": "6.27",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-27",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 50,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "6.27",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-27",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 12,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "6.27",
+"kind": "item",
+"fields": {
+"date": "2024-06-27",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 42,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "6.27",
+"kind": "item",
+"fields": {
+"date": "2024-06-27",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 7,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2024-06-28",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 吊下ろし・搬出",
+"persons": 9,
+"hours": 7.0,
+"no": "K-03",
+"manDays": 7.88,
+"manDaysText": "63.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2024-06-28",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：既設盤 撤去",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "6.28",
+"kind": "total",
+"fields": {
+"date": "2024-06-28",
+"persons": 15,
+"manDaysText": "111.0",
+"manDaysTotal": 13.88
+},
+"r": 16,
+"_check": [
+"15名"
+]
+},
+{
+"sheet": "6.28",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-28",
+"会社": "浜町機工",
+"persons": 9,
+"manDaysText": "63.0",
+"累計": 59,
+"manDaysTotal": 7.88
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "6.28",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-28",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 18,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2024-06-28",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "6.28",
+"kind": "item",
+"fields": {
+"date": "2024-06-28",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 10,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "6.29",
+"kind": "item",
+"fields": {
+"date": "2024-06-29",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 吊下ろし・搬出",
+"persons": 10,
+"hours": 7.0,
+"no": "K-03",
+"manDays": 8.75,
+"manDaysText": "70.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "6.29",
+"kind": "item",
+"fields": {
+"date": "2024-06-29",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：既設盤 撤去",
+"persons": 5,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "6.29",
+"kind": "total",
+"fields": {
+"date": "2024-06-29",
+"persons": 15,
+"manDaysText": "110.0",
+"manDaysTotal": 13.75
+},
+"r": 16,
+"_check": [
+"15名"
+]
+},
+{
+"sheet": "6.29",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-29",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "70.0",
+"累計": 69,
+"manDaysTotal": 8.75
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "6.29",
+"kind": "subtotal",
+"fields": {
+"date": "2024-06-29",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 23,
+"manDaysTotal": 5.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "6.29",
+"kind": "item",
+"fields": {
+"date": "2024-06-29",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 58,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "6.29",
+"kind": "item",
+"fields": {
+"date": "2024-06-29",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 13,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.1",
+"kind": "item",
+"fields": {
+"date": "2024-07-01",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 吊下ろし・搬出",
+"persons": 10,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "7.1",
+"kind": "item",
+"fields": {
+"date": "2024-07-01",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：既設盤 撤去",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.1",
+"kind": "total",
+"fields": {
+"date": "2024-07-01",
+"persons": 16,
+"manDaysText": "128.0",
+"manDaysTotal": 16.0
+},
+"r": 16,
+"_check": [
+"16名"
+]
+},
+{
+"sheet": "7.1",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-01",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 79,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.1",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-01",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 29,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.1",
+"kind": "item",
+"fields": {
+"date": "2024-07-01",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 67,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "7.1",
+"kind": "item",
+"fields": {
+"date": "2024-07-01",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 17,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.2",
+"kind": "item",
+"fields": {
+"date": "2024-07-02",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 撤去",
+"persons": 10,
+"hours": 9.0,
+"no": "K-03",
+"manDays": 11.25,
+"manDaysText": "90.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "7.2",
+"kind": "item",
+"fields": {
+"date": "2024-07-02",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：既設盤 撤去",
+"persons": 6,
+"hours": 7.0,
+"no": "K-07",
+"manDays": 5.25,
+"manDaysText": "42.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.2",
+"kind": "total",
+"fields": {
+"date": "2024-07-02",
+"persons": 16,
+"manDaysText": "132.0",
+"manDaysTotal": 16.5
+},
+"r": 16,
+"_check": [
+"16名"
+]
+},
+{
+"sheet": "7.2",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-02",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "90.0",
+"累計": 89,
+"manDaysTotal": 11.25
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.2",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-02",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "42.0",
+"累計": 35,
+"manDaysTotal": 5.25
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.2",
+"kind": "item",
+"fields": {
+"date": "2024-07-02",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 75,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "7.2",
+"kind": "item",
+"fields": {
+"date": "2024-07-02",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 20,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.3",
+"kind": "item",
+"fields": {
+"date": "2024-07-03",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 撤去",
+"persons": 10,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "7.3",
+"kind": "item",
+"fields": {
+"date": "2024-07-03",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：既設盤 撤去",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.3",
+"kind": "total",
+"fields": {
+"date": "2024-07-03",
+"persons": 16,
+"manDaysText": "128.0",
+"manDaysTotal": 16.0
+},
+"r": 16,
+"_check": [
+"16名"
+]
+},
+{
+"sheet": "7.3",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-03",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 99,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.3",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-03",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 41,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.3",
+"kind": "item",
+"fields": {
+"date": "2024-07-03",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 83,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "7.3",
+"kind": "item",
+"fields": {
+"date": "2024-07-03",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 23,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.4",
+"kind": "item",
+"fields": {
+"date": "2024-07-04",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 撤去",
+"persons": 9,
+"hours": 7.0,
+"no": "K-03",
+"manDays": 7.88,
+"manDaysText": "63.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "7.4",
+"kind": "item",
+"fields": {
+"date": "2024-07-04",
+"team": "改良工事班",
+"text": "過熱器：新過熱器 吊込み（1次過熱器）",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.4",
+"kind": "item",
+"fields": {
+"date": "2024-07-04",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：既設盤 撤去（炉別計装電源盤）",
+"persons": 5,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.4",
+"kind": "total",
+"fields": {
+"date": "2024-07-04",
+"persons": 26,
+"manDaysText": "199.0",
+"manDaysTotal": 24.88
+},
+"r": 16,
+"_check": [
+"26名"
+]
+},
+{
+"sheet": "7.4",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-04",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 59,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.4",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-04",
+"会社": "浜町機工",
+"persons": 9,
+"manDaysText": "63.0",
+"累計": 108,
+"manDaysTotal": 7.88
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.4",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-04",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 46,
+"manDaysTotal": 5.0
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.4",
+"kind": "item",
+"fields": {
+"date": "2024-07-04",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 92,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "7.4",
+"kind": "item",
+"fields": {
+"date": "2024-07-04",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 5,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.4",
+"kind": "item",
+"fields": {
+"date": "2024-07-04",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 27,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.5",
+"kind": "item",
+"fields": {
+"date": "2024-07-05",
+"team": "据付協力 浜町機工",
+"text": "過熱器：既設過熱器 撤去",
+"persons": 9,
+"hours": 8.0,
+"no": "K-03",
+"manDays": 9.0,
+"manDaysText": "72.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-03"
+]
+},
+{
+"sheet": "7.5",
+"kind": "item",
+"fields": {
+"date": "2024-07-05",
+"team": "改良工事班",
+"text": "過熱器：新過熱器 吊込み",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.5",
+"kind": "item",
+"fields": {
+"date": "2024-07-05",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：新盤 据付",
+"persons": 5,
+"hours": 9.0,
+"no": "K-07",
+"manDays": 5.62,
+"manDaysText": "45.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.5",
+"kind": "total",
+"fields": {
+"date": "2024-07-05",
+"persons": 26,
+"manDaysText": "213.0",
+"manDaysTotal": 26.62
+},
+"r": 16,
+"_check": [
+"26名"
+]
+},
+{
+"sheet": "7.5",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-05",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 71,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.5",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-05",
+"会社": "浜町機工",
+"persons": 9,
+"manDaysText": "72.0",
+"累計": 117,
+"manDaysTotal": 9.0
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.5",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-05",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "45.0",
+"累計": 51,
+"manDaysTotal": 5.62
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.5",
+"kind": "item",
+"fields": {
+"date": "2024-07-05",
+"no": "K-03",
+"name": "過熱器（1〜3次）撤去",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 24,
+"_check": [
+"K-03"
+]
+},
+{
+"sheet": "7.5",
+"kind": "item",
+"fields": {
+"date": "2024-07-05",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 9,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.5",
+"kind": "item",
+"fields": {
+"date": "2024-07-05",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 30,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.6",
+"kind": "item",
+"fields": {
+"date": "2024-07-06",
+"team": "改良工事班",
+"text": "過熱器：新過熱器 吊込み",
+"persons": 11,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 11.0,
+"manDaysText": "88.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.6",
+"kind": "item",
+"fields": {
+"date": "2024-07-06",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：既設誘引通風機 撤去（誘引通風機）",
+"persons": 10,
+"hours": 7.0,
+"no": "K-06",
+"manDays": 8.75,
+"manDaysText": "70.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.6",
+"kind": "item",
+"fields": {
+"date": "2024-07-06",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：新盤 据付",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.6",
+"kind": "total",
+"fields": {
+"date": "2024-07-06",
+"persons": 27,
+"manDaysText": "206.0",
+"manDaysTotal": 25.75
+},
+"r": 16,
+"_check": [
+"27名"
+]
+},
+{
+"sheet": "7.6",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-06",
+"会社": "汐見重工環境",
+"persons": 11,
+"manDaysText": "88.0",
+"累計": 82,
+"manDaysTotal": 11.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.6",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-06",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "70.0",
+"累計": 127,
+"manDaysTotal": 8.75
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.6",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-06",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 57,
+"manDaysTotal": 6.0
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.6",
+"kind": "item",
+"fields": {
+"date": "2024-07-06",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 14,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.6",
+"kind": "item",
+"fields": {
+"date": "2024-07-06",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 5,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.6",
+"kind": "item",
+"fields": {
+"date": "2024-07-06",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 33,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.8",
+"kind": "item",
+"fields": {
+"date": "2024-07-08",
+"team": "改良工事班",
+"text": "過熱器：新過熱器 吊込み",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.8",
+"kind": "item",
+"fields": {
+"date": "2024-07-08",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：既設誘引通風機 撤去",
+"persons": 10,
+"hours": 9.0,
+"no": "K-06",
+"manDays": 11.25,
+"manDaysText": "90.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.8",
+"kind": "item",
+"fields": {
+"date": "2024-07-08",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：新盤 据付",
+"persons": 5,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.8",
+"kind": "total",
+"fields": {
+"date": "2024-07-08",
+"persons": 27,
+"manDaysText": "226.0",
+"manDaysTotal": 28.25
+},
+"r": 16,
+"_check": [
+"27名"
+]
+},
+{
+"sheet": "7.8",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-08",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 94,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.8",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-08",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "90.0",
+"累計": 137,
+"manDaysTotal": 11.25
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.8",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-08",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 62,
+"manDaysTotal": 5.0
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.8",
+"kind": "item",
+"fields": {
+"date": "2024-07-08",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 18,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.8",
+"kind": "item",
+"fields": {
+"date": "2024-07-08",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 10,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.8",
+"kind": "item",
+"fields": {
+"date": "2024-07-08",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 37,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.9",
+"kind": "item",
+"fields": {
+"date": "2024-07-09",
+"team": "改良工事班",
+"text": "過熱器：新過熱器 吊込み",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.9",
+"kind": "item",
+"fields": {
+"date": "2024-07-09",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：既設誘引通風機 撤去",
+"persons": 10,
+"hours": 7.0,
+"no": "K-06",
+"manDays": 8.75,
+"manDaysText": "70.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.9",
+"kind": "item",
+"fields": {
+"date": "2024-07-09",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：新盤 据付",
+"persons": 5,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.9",
+"kind": "total",
+"fields": {
+"date": "2024-07-09",
+"persons": 27,
+"manDaysText": "206.0",
+"manDaysTotal": 25.75
+},
+"r": 16,
+"_check": [
+"27名"
+]
+},
+{
+"sheet": "7.9",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-09",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 106,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.9",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-09",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "70.0",
+"累計": 147,
+"manDaysTotal": 8.75
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.9",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-09",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 67,
+"manDaysTotal": 5.0
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.9",
+"kind": "item",
+"fields": {
+"date": "2024-07-09",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 23,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.9",
+"kind": "item",
+"fields": {
+"date": "2024-07-09",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 15,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.9",
+"kind": "item",
+"fields": {
+"date": "2024-07-09",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 40,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.10",
+"kind": "item",
+"fields": {
+"date": "2024-07-10",
+"team": "改良工事班",
+"text": "過熱器：新過熱器 吊込み",
+"persons": 12,
+"hours": 9.0,
+"no": "K-04",
+"manDays": 13.5,
+"manDaysText": "108.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.10",
+"kind": "item",
+"fields": {
+"date": "2024-07-10",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：新盤 据付",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.10",
+"kind": "total",
+"fields": {
+"date": "2024-07-10",
+"persons": 18,
+"manDaysText": "156.0",
+"manDaysTotal": 19.5
+},
+"r": 16,
+"_check": [
+"18名"
+]
+},
+{
+"sheet": "7.10",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-10",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "108.0",
+"累計": 118,
+"manDaysTotal": 13.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.10",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-10",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 73,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.10",
+"kind": "item",
+"fields": {
+"date": "2024-07-10",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 27,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.10",
+"kind": "item",
+"fields": {
+"date": "2024-07-10",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 43,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.11",
+"kind": "item",
+"fields": {
+"date": "2024-07-11",
+"team": "改良工事班",
+"text": "過熱器：新過熱器 据付・芯出し",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.11",
+"kind": "item",
+"fields": {
+"date": "2024-07-11",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：新盤 据付",
+"persons": 6,
+"hours": 7.0,
+"no": "K-07",
+"manDays": 5.25,
+"manDaysText": "42.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.11",
+"kind": "total",
+"fields": {
+"date": "2024-07-11",
+"persons": 18,
+"manDaysText": "138.0",
+"manDaysTotal": 17.25
+},
+"r": 16,
+"_check": [
+"18名"
+]
+},
+{
+"sheet": "7.11",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-11",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 130,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.11",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-11",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "42.0",
+"累計": 79,
+"manDaysTotal": 5.25
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.11",
+"kind": "item",
+"fields": {
+"date": "2024-07-11",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 32,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.11",
+"kind": "item",
+"fields": {
+"date": "2024-07-11",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 47,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.12",
+"kind": "item",
+"fields": {
+"date": "2024-07-12",
+"team": "改良工事班",
+"text": "過熱器：新過熱器 据付・芯出し（2次過熱器）",
+"persons": 12,
+"hours": 9.0,
+"no": "K-04",
+"manDays": 13.5,
+"manDaysText": "108.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.12",
+"kind": "item",
+"fields": {
+"date": "2024-07-12",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：新盤 据付",
+"persons": 6,
+"hours": 9.0,
+"no": "K-07",
+"manDays": 6.75,
+"manDaysText": "54.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.12",
+"kind": "total",
+"fields": {
+"date": "2024-07-12",
+"persons": 18,
+"manDaysText": "162.0",
+"manDaysTotal": 20.25
+},
+"r": 16,
+"_check": [
+"18名"
+]
+},
+{
+"sheet": "7.12",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-12",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "108.0",
+"累計": 142,
+"manDaysTotal": 13.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.12",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-12",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "54.0",
+"累計": 85,
+"manDaysTotal": 6.75
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.12",
+"kind": "item",
+"fields": {
+"date": "2024-07-12",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 36,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.12",
+"kind": "item",
+"fields": {
+"date": "2024-07-12",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.13",
+"kind": "item",
+"fields": {
+"date": "2024-07-13",
+"team": "改良工事班",
+"text": "過熱器：新過熱器 据付・芯出し",
+"persons": 11,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 11.0,
+"manDaysText": "88.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.13",
+"kind": "item",
+"fields": {
+"date": "2024-07-13",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：配線替え（火格子自動燃焼制御盤）",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.13",
+"kind": "total",
+"fields": {
+"date": "2024-07-13",
+"persons": 17,
+"manDaysText": "136.0",
+"manDaysTotal": 17.0
+},
+"r": 16,
+"_check": [
+"17名"
+]
+},
+{
+"sheet": "7.13",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-13",
+"会社": "汐見重工環境",
+"persons": 11,
+"manDaysText": "88.0",
+"累計": 153,
+"manDaysTotal": 11.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.13",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-13",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 91,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.13",
+"kind": "item",
+"fields": {
+"date": "2024-07-13",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 41,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.13",
+"kind": "item",
+"fields": {
+"date": "2024-07-13",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 53,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.15",
+"kind": "item",
+"fields": {
+"date": "2024-07-15",
+"team": "改良工事班",
+"text": "過熱器：新過熱器 据付・芯出し",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.15",
+"kind": "item",
+"fields": {
+"date": "2024-07-15",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：配線替え",
+"persons": 5,
+"hours": 7.0,
+"no": "K-07",
+"manDays": 4.38,
+"manDaysText": "35.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.15",
+"kind": "total",
+"fields": {
+"date": "2024-07-15",
+"persons": 17,
+"manDaysText": "131.0",
+"manDaysTotal": 16.38
+},
+"r": 16,
+"_check": [
+"17名"
+]
+},
+{
+"sheet": "7.15",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-15",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 165,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.15",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-15",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "35.0",
+"累計": 96,
+"manDaysTotal": 4.38
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.15",
+"kind": "item",
+"fields": {
+"date": "2024-07-15",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 45,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.15",
+"kind": "item",
+"fields": {
+"date": "2024-07-15",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 57,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.16",
+"kind": "item",
+"fields": {
+"date": "2024-07-16",
+"team": "改良工事班",
+"text": "過熱器：新過熱器 据付・芯出し",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.16",
+"kind": "item",
+"fields": {
+"date": "2024-07-16",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：配線替え",
+"persons": 6,
+"hours": 9.0,
+"no": "K-07",
+"manDays": 6.75,
+"manDaysText": "54.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.16",
+"kind": "total",
+"fields": {
+"date": "2024-07-16",
+"persons": 18,
+"manDaysText": "150.0",
+"manDaysTotal": 18.75
+},
+"r": 16,
+"_check": [
+"18名"
+]
+},
+{
+"sheet": "7.16",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-16",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 177,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.16",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-16",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "54.0",
+"累計": 102,
+"manDaysTotal": 6.75
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.16",
+"kind": "item",
+"fields": {
+"date": "2024-07-16",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.16",
+"kind": "item",
+"fields": {
+"date": "2024-07-16",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 60,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.17",
+"kind": "item",
+"fields": {
+"date": "2024-07-17",
+"team": "改良工事班",
+"text": "過熱器：管 溶接",
+"persons": 12,
+"hours": 7.0,
+"no": "K-04",
+"manDays": 10.5,
+"manDaysText": "84.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.17",
+"kind": "item",
+"fields": {
+"date": "2024-07-17",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：配線替え",
+"persons": 6,
+"hours": 7.0,
+"no": "K-07",
+"manDays": 5.25,
+"manDaysText": "42.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.17",
+"kind": "total",
+"fields": {
+"date": "2024-07-17",
+"persons": 18,
+"manDaysText": "126.0",
+"manDaysTotal": 15.75
+},
+"r": 16,
+"_check": [
+"18名"
+]
+},
+{
+"sheet": "7.17",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-17",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "84.0",
+"累計": 189,
+"manDaysTotal": 10.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.17",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-17",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "42.0",
+"累計": 108,
+"manDaysTotal": 5.25
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.17",
+"kind": "item",
+"fields": {
+"date": "2024-07-17",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 55,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.17",
+"kind": "item",
+"fields": {
+"date": "2024-07-17",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 63,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.18",
+"kind": "item",
+"fields": {
+"date": "2024-07-18",
+"team": "改良工事班",
+"text": "過熱器：管 溶接",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.18",
+"kind": "item",
+"fields": {
+"date": "2024-07-18",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：配線替え",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.18",
+"kind": "total",
+"fields": {
+"date": "2024-07-18",
+"persons": 18,
+"manDaysText": "144.0",
+"manDaysTotal": 18.0
+},
+"r": 16,
+"_check": [
+"18名"
+]
+},
+{
+"sheet": "7.18",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-18",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 201,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.18",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-18",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 114,
+"manDaysTotal": 6.0
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.18",
+"kind": "item",
+"fields": {
+"date": "2024-07-18",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 59,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.18",
+"kind": "item",
+"fields": {
+"date": "2024-07-18",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 67,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.19",
+"kind": "item",
+"fields": {
+"date": "2024-07-19",
+"team": "改良工事班",
+"text": "過熱器：管 溶接",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.19",
+"kind": "item",
+"fields": {
+"date": "2024-07-19",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：配線替え",
+"persons": 6,
+"hours": 7.0,
+"no": "K-07",
+"manDays": 5.25,
+"manDaysText": "42.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.19",
+"kind": "total",
+"fields": {
+"date": "2024-07-19",
+"persons": 18,
+"manDaysText": "138.0",
+"manDaysTotal": 17.25
+},
+"r": 16,
+"_check": [
+"18名"
+]
+},
+{
+"sheet": "7.19",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-19",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 213,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.19",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-19",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "42.0",
+"累計": 120,
+"manDaysTotal": 5.25
+},
+"r": 20,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.19",
+"kind": "item",
+"fields": {
+"date": "2024-07-19",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 64,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.19",
+"kind": "item",
+"fields": {
+"date": "2024-07-19",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 70,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.20",
+"kind": "item",
+"fields": {
+"date": "2024-07-20",
+"team": "改良工事班",
+"text": "過熱器：管 溶接（3次過熱器）",
+"persons": 11,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 11.0,
+"manDaysText": "88.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.20",
+"kind": "item",
+"fields": {
+"date": "2024-07-20",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：既設誘引通風機 撤去",
+"persons": 10,
+"hours": 7.0,
+"no": "K-06",
+"manDays": 8.75,
+"manDaysText": "70.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.20",
+"kind": "item",
+"fields": {
+"date": "2024-07-20",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：配線替え",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.20",
+"kind": "total",
+"fields": {
+"date": "2024-07-20",
+"persons": 27,
+"manDaysText": "206.0",
+"manDaysTotal": 25.75
+},
+"r": 16,
+"_check": [
+"27名"
+]
+},
+{
+"sheet": "7.20",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-20",
+"会社": "汐見重工環境",
+"persons": 11,
+"manDaysText": "88.0",
+"累計": 224,
+"manDaysTotal": 11.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.20",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-20",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "70.0",
+"累計": 157,
+"manDaysTotal": 8.75
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.20",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-20",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 126,
+"manDaysTotal": 6.0
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.20",
+"kind": "item",
+"fields": {
+"date": "2024-07-20",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 68,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.20",
+"kind": "item",
+"fields": {
+"date": "2024-07-20",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 20,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.20",
+"kind": "item",
+"fields": {
+"date": "2024-07-20",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 73,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.22",
+"kind": "item",
+"fields": {
+"date": "2024-07-22",
+"team": "改良工事班",
+"text": "過熱器：管 溶接",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.22",
+"kind": "item",
+"fields": {
+"date": "2024-07-22",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：基礎 手直し",
+"persons": 10,
+"hours": 8.0,
+"no": "K-06",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.22",
+"kind": "item",
+"fields": {
+"date": "2024-07-22",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：配線替え（炉別リモート I/O 盤）",
+"persons": 5,
+"hours": 9.0,
+"no": "K-07",
+"manDays": 5.62,
+"manDaysText": "45.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.22",
+"kind": "total",
+"fields": {
+"date": "2024-07-22",
+"persons": 27,
+"manDaysText": "221.0",
+"manDaysTotal": 27.62
+},
+"r": 16,
+"_check": [
+"27名"
+]
+},
+{
+"sheet": "7.22",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-22",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 236,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.22",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-22",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 167,
+"manDaysTotal": 10.0
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.22",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-22",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "45.0",
+"累計": 131,
+"manDaysTotal": 5.62
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.22",
+"kind": "item",
+"fields": {
+"date": "2024-07-22",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 73,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.22",
+"kind": "item",
+"fields": {
+"date": "2024-07-22",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 25,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.22",
+"kind": "item",
+"fields": {
+"date": "2024-07-22",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 77,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.23",
+"kind": "item",
+"fields": {
+"date": "2024-07-23",
+"team": "改良工事班",
+"text": "過熱器：管 溶接",
+"persons": 12,
+"hours": 9.0,
+"no": "K-04",
+"manDays": 13.5,
+"manDaysText": "108.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.23",
+"kind": "item",
+"fields": {
+"date": "2024-07-23",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：基礎 手直し",
+"persons": 9,
+"hours": 8.0,
+"no": "K-06",
+"manDays": 9.0,
+"manDaysText": "72.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.23",
+"kind": "item",
+"fields": {
+"date": "2024-07-23",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：I/O チェック",
+"persons": 6,
+"hours": 7.0,
+"no": "K-07",
+"manDays": 5.25,
+"manDaysText": "42.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.23",
+"kind": "total",
+"fields": {
+"date": "2024-07-23",
+"persons": 27,
+"manDaysText": "222.0",
+"manDaysTotal": 27.75
+},
+"r": 16,
+"_check": [
+"27名"
+]
+},
+{
+"sheet": "7.23",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-23",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "108.0",
+"累計": 248,
+"manDaysTotal": 13.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.23",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-23",
+"会社": "浜町機工",
+"persons": 9,
+"manDaysText": "72.0",
+"累計": 176,
+"manDaysTotal": 9.0
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.23",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-23",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "42.0",
+"累計": 137,
+"manDaysTotal": 5.25
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.23",
+"kind": "item",
+"fields": {
+"date": "2024-07-23",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 77,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.23",
+"kind": "item",
+"fields": {
+"date": "2024-07-23",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 30,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.23",
+"kind": "item",
+"fields": {
+"date": "2024-07-23",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 80,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.24",
+"kind": "item",
+"fields": {
+"date": "2024-07-24",
+"team": "改良工事班",
+"text": "過熱器：管 溶接・RT",
+"persons": 12,
+"hours": 9.0,
+"no": "K-04",
+"manDays": 13.5,
+"manDaysText": "108.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.24",
+"kind": "item",
+"fields": {
+"date": "2024-07-24",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：基礎 手直し",
+"persons": 10,
+"hours": 8.0,
+"no": "K-06",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.24",
+"kind": "item",
+"fields": {
+"date": "2024-07-24",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：I/O チェック",
+"persons": 6,
+"hours": 9.0,
+"no": "K-07",
+"manDays": 6.75,
+"manDaysText": "54.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.24",
+"kind": "total",
+"fields": {
+"date": "2024-07-24",
+"persons": 28,
+"manDaysText": "242.0",
+"manDaysTotal": 30.25
+},
+"r": 16,
+"_check": [
+"28名"
+]
+},
+{
+"sheet": "7.24",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-24",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "108.0",
+"累計": 260,
+"manDaysTotal": 13.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.24",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-24",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 186,
+"manDaysTotal": 10.0
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.24",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-24",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "54.0",
+"累計": 143,
+"manDaysTotal": 6.75
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.24",
+"kind": "item",
+"fields": {
+"date": "2024-07-24",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 82,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.24",
+"kind": "item",
+"fields": {
+"date": "2024-07-24",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 35,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.24",
+"kind": "item",
+"fields": {
+"date": "2024-07-24",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 83,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.25",
+"kind": "item",
+"fields": {
+"date": "2024-07-25",
+"team": "改良工事班",
+"text": "過熱器：管 溶接・RT",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.25",
+"kind": "item",
+"fields": {
+"date": "2024-07-25",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：基礎 手直し",
+"persons": 10,
+"hours": 8.0,
+"no": "K-06",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.25",
+"kind": "item",
+"fields": {
+"date": "2024-07-25",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：I/O チェック",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.25",
+"kind": "total",
+"fields": {
+"date": "2024-07-25",
+"persons": 28,
+"manDaysText": "224.0",
+"manDaysTotal": 28.0
+},
+"r": 16,
+"_check": [
+"28名"
+]
+},
+{
+"sheet": "7.25",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-25",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 272,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.25",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-25",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 196,
+"manDaysTotal": 10.0
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.25",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-25",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 149,
+"manDaysTotal": 6.0
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.25",
+"kind": "item",
+"fields": {
+"date": "2024-07-25",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 86,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.25",
+"kind": "item",
+"fields": {
+"date": "2024-07-25",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 40,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.25",
+"kind": "item",
+"fields": {
+"date": "2024-07-25",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 87,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.26",
+"kind": "item",
+"fields": {
+"date": "2024-07-26",
+"team": "改良工事班",
+"text": "過熱器：管 溶接・RT",
+"persons": 12,
+"hours": 9.0,
+"no": "K-04",
+"manDays": 13.5,
+"manDaysText": "108.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.26",
+"kind": "item",
+"fields": {
+"date": "2024-07-26",
+"team": "検査課",
+"text": "溶接部 非破壊検査・水圧試験：溶接部 RT・PT",
+"persons": 2,
+"hours": 9.0,
+"no": "K-05",
+"manDays": 2.25,
+"manDaysText": "18.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"検査課",
+"K-05"
+]
+},
+{
+"sheet": "7.26",
+"kind": "item",
+"fields": {
+"date": "2024-07-26",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：新誘引通風機 据付",
+"persons": 10,
+"hours": 7.0,
+"no": "K-06",
+"manDays": 8.75,
+"manDaysText": "70.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.26",
+"kind": "item",
+"fields": {
+"date": "2024-07-26",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：I/O チェック",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 11,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.26",
+"kind": "total",
+"fields": {
+"date": "2024-07-26",
+"persons": 30,
+"manDaysText": "244.0",
+"manDaysTotal": 30.5
+},
+"r": 16,
+"_check": [
+"30名"
+]
+},
+{
+"sheet": "7.26",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-26",
+"会社": "汐見重工環境",
+"persons": 14,
+"manDaysText": "126.0",
+"累計": 286,
+"manDaysTotal": 15.75
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.26",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-26",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "70.0",
+"累計": 206,
+"manDaysTotal": 8.75
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.26",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-26",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 155,
+"manDaysTotal": 6.0
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.26",
+"kind": "item",
+"fields": {
+"date": "2024-07-26",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 91,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.26",
+"kind": "item",
+"fields": {
+"date": "2024-07-26",
+"no": "K-05",
+"name": "溶接部 非破壊検査・水圧試験",
+"進捗": 17,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-05"
+]
+},
+{
+"sheet": "7.26",
+"kind": "item",
+"fields": {
+"date": "2024-07-26",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 45,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.26",
+"kind": "item",
+"fields": {
+"date": "2024-07-26",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 90,
+"予定比": "予定どおり"
+},
+"r": 27,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.27",
+"kind": "item",
+"fields": {
+"date": "2024-07-27",
+"team": "改良工事班",
+"text": "過熱器：管 溶接・RT",
+"persons": 12,
+"hours": 8.0,
+"no": "K-04",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.27",
+"kind": "item",
+"fields": {
+"date": "2024-07-27",
+"team": "検査課",
+"text": "溶接部 非破壊検査・水圧試験：溶接部 RT・PT",
+"persons": 1,
+"hours": 8.0,
+"no": "K-05",
+"manDays": 1.0,
+"manDaysText": "8.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"検査課",
+"K-05"
+]
+},
+{
+"sheet": "7.27",
+"kind": "item",
+"fields": {
+"date": "2024-07-27",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：新誘引通風機 据付",
+"persons": 9,
+"hours": 8.0,
+"no": "K-06",
+"manDays": 9.0,
+"manDaysText": "72.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.27",
+"kind": "item",
+"fields": {
+"date": "2024-07-27",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：I/O チェック",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 11,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.27",
+"kind": "total",
+"fields": {
+"date": "2024-07-27",
+"persons": 28,
+"manDaysText": "224.0",
+"manDaysTotal": 28.0
+},
+"r": 16,
+"_check": [
+"28名"
+]
+},
+{
+"sheet": "7.27",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-27",
+"会社": "汐見重工環境",
+"persons": 13,
+"manDaysText": "104.0",
+"累計": 299,
+"manDaysTotal": 13.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.27",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-27",
+"会社": "浜町機工",
+"persons": 9,
+"manDaysText": "72.0",
+"累計": 215,
+"manDaysTotal": 9.0
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.27",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-27",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 161,
+"manDaysTotal": 6.0
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.27",
+"kind": "item",
+"fields": {
+"date": "2024-07-27",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 95,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.27",
+"kind": "item",
+"fields": {
+"date": "2024-07-27",
+"no": "K-05",
+"name": "溶接部 非破壊検査・水圧試験",
+"進捗": 33,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-05"
+]
+},
+{
+"sheet": "7.27",
+"kind": "item",
+"fields": {
+"date": "2024-07-27",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.27",
+"kind": "item",
+"fields": {
+"date": "2024-07-27",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 93,
+"予定比": "予定どおり"
+},
+"r": 27,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.29",
+"kind": "item",
+"fields": {
+"date": "2024-07-29",
+"team": "改良工事班",
+"text": "過熱器：管 溶接・RT",
+"persons": 12,
+"hours": 6.0,
+"no": "K-04",
+"manDays": 9.0,
+"manDaysText": "72.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-04"
+]
+},
+{
+"sheet": "7.29",
+"kind": "item",
+"fields": {
+"date": "2024-07-29",
+"team": "検査課",
+"text": "溶接部 非破壊検査・水圧試験：溶接部 RT・PT",
+"persons": 1,
+"hours": 8.0,
+"no": "K-05",
+"manDays": 1.0,
+"manDaysText": "8.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"検査課",
+"K-05"
+]
+},
+{
+"sheet": "7.29",
+"kind": "item",
+"fields": {
+"date": "2024-07-29",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：新誘引通風機 据付",
+"persons": 10,
+"hours": 8.0,
+"no": "K-06",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.29",
+"kind": "item",
+"fields": {
+"date": "2024-07-29",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：I/O チェック",
+"persons": 6,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 6.0,
+"manDaysText": "48.0",
+"予定比": "予定どおり"
+},
+"r": 11,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.29",
+"kind": "total",
+"fields": {
+"date": "2024-07-29",
+"persons": 29,
+"manDaysText": "208.0",
+"manDaysTotal": 26.0
+},
+"r": 16,
+"_check": [
+"29名"
+]
+},
+{
+"sheet": "7.29",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-29",
+"会社": "汐見重工環境",
+"persons": 13,
+"manDaysText": "80.0",
+"累計": 312,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.29",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-29",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 225,
+"manDaysTotal": 10.0
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.29",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-29",
+"会社": "湾岸電工",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 167,
+"manDaysTotal": 6.0
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.29",
+"kind": "item",
+"fields": {
+"date": "2024-07-29",
+"no": "K-04",
+"name": "過熱器（1〜3次）据付・溶接",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 24,
+"_check": [
+"K-04"
+]
+},
+{
+"sheet": "7.29",
+"kind": "item",
+"fields": {
+"date": "2024-07-29",
+"no": "K-05",
+"name": "溶接部 非破壊検査・水圧試験",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-05"
+]
+},
+{
+"sheet": "7.29",
+"kind": "item",
+"fields": {
+"date": "2024-07-29",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 55,
+"予定比": "予定どおり"
+},
+"r": 26,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.29",
+"kind": "item",
+"fields": {
+"date": "2024-07-29",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 97,
+"予定比": "予定どおり"
+},
+"r": 27,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.30",
+"kind": "item",
+"fields": {
+"date": "2024-07-30",
+"team": "検査課",
+"text": "溶接部 非破壊検査・水圧試験：水圧試験",
+"persons": 2,
+"hours": 8.0,
+"no": "K-05",
+"manDays": 2.0,
+"manDaysText": "16.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"検査課",
+"K-05"
+]
+},
+{
+"sheet": "7.30",
+"kind": "item",
+"fields": {
+"date": "2024-07-30",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：新誘引通風機 据付",
+"persons": 10,
+"hours": 9.0,
+"no": "K-06",
+"manDays": 11.25,
+"manDaysText": "90.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.30",
+"kind": "item",
+"fields": {
+"date": "2024-07-30",
+"team": "電気工事 湾岸電工",
+"text": "DCS 炉別盤 撤去・据付・配線替え：I/O チェック",
+"persons": 5,
+"hours": 8.0,
+"no": "K-07",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "完了"
+},
+"r": 10,
+"_check": [
+"電気工事 湾岸電工",
+"K-07"
+]
+},
+{
+"sheet": "7.30",
+"kind": "item",
+"fields": {
+"date": "2024-07-30",
+"team": "電気計装班",
+"text": "計装ループ試験・インターロック試験：ループ試験",
+"persons": 4,
+"hours": 7.0,
+"no": "K-08",
+"manDays": 3.5,
+"manDaysText": "28.0",
+"予定比": "予定どおり"
+},
+"r": 11,
+"_check": [
+"電気計装班",
+"K-08"
+]
+},
+{
+"sheet": "7.30",
+"kind": "total",
+"fields": {
+"date": "2024-07-30",
+"persons": 21,
+"manDaysText": "174.0",
+"manDaysTotal": 21.75
+},
+"r": 16,
+"_check": [
+"21名"
+]
+},
+{
+"sheet": "7.30",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-30",
+"会社": "汐見重工環境",
+"persons": 6,
+"manDaysText": "44.0",
+"累計": 318,
+"manDaysTotal": 5.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.30",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-30",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "90.0",
+"累計": 235,
+"manDaysTotal": 11.25
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.30",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-30",
+"会社": "湾岸電工",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 172,
+"manDaysTotal": 5.0
+},
+"r": 21,
+"_check": [
+"湾岸電工"
+]
+},
+{
+"sheet": "7.30",
+"kind": "item",
+"fields": {
+"date": "2024-07-30",
+"no": "K-05",
+"name": "溶接部 非破壊検査・水圧試験",
+"進捗": 67,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-05"
+]
+},
+{
+"sheet": "7.30",
+"kind": "item",
+"fields": {
+"date": "2024-07-30",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 60,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.30",
+"kind": "item",
+"fields": {
+"date": "2024-07-30",
+"no": "K-07",
+"name": "DCS 炉別盤 撤去・据付・配線替え",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 26,
+"_check": [
+"K-07"
+]
+},
+{
+"sheet": "7.30",
+"kind": "item",
+"fields": {
+"date": "2024-07-30",
+"no": "K-08",
+"name": "計装ループ試験・インターロック試験",
+"進捗": 10,
+"予定比": "予定どおり"
+},
+"r": 27,
+"_check": [
+"K-08"
+]
+},
+{
+"sheet": "7.31",
+"kind": "item",
+"fields": {
+"date": "2024-07-31",
+"team": "検査課",
+"text": "溶接部 非破壊検査・水圧試験：水圧試験",
+"persons": 2,
+"hours": 8.0,
+"no": "K-05",
+"manDays": 2.0,
+"manDaysText": "16.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"検査課",
+"K-05"
+]
+},
+{
+"sheet": "7.31",
+"kind": "item",
+"fields": {
+"date": "2024-07-31",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：インバータ盤 据付・配線",
+"persons": 9,
+"hours": 9.0,
+"no": "K-06",
+"manDays": 10.12,
+"manDaysText": "81.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "7.31",
+"kind": "item",
+"fields": {
+"date": "2024-07-31",
+"team": "電気計装班",
+"text": "計装ループ試験・インターロック試験：ループ試験",
+"persons": 4,
+"hours": 8.0,
+"no": "K-08",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気計装班",
+"K-08"
+]
+},
+{
+"sheet": "7.31",
+"kind": "total",
+"fields": {
+"date": "2024-07-31",
+"persons": 15,
+"manDaysText": "129.0",
+"manDaysTotal": 16.12
+},
+"r": 16,
+"_check": [
+"15名"
+]
+},
+{
+"sheet": "7.31",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-31",
+"会社": "汐見重工環境",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 324,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "7.31",
+"kind": "subtotal",
+"fields": {
+"date": "2024-07-31",
+"会社": "浜町機工",
+"persons": 9,
+"manDaysText": "81.0",
+"累計": 244,
+"manDaysTotal": 10.12
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "7.31",
+"kind": "item",
+"fields": {
+"date": "2024-07-31",
+"no": "K-05",
+"name": "溶接部 非破壊検査・水圧試験",
+"進捗": 83,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-05"
+]
+},
+{
+"sheet": "7.31",
+"kind": "item",
+"fields": {
+"date": "2024-07-31",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 65,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "7.31",
+"kind": "item",
+"fields": {
+"date": "2024-07-31",
+"no": "K-08",
+"name": "計装ループ試験・インターロック試験",
+"進捗": 20,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-08"
+]
+},
+{
+"sheet": "8.1",
+"kind": "item",
+"fields": {
+"date": "2024-08-01",
+"team": "検査課",
+"text": "溶接部 非破壊検査・水圧試験：水圧試験",
+"persons": 2,
+"hours": 8.0,
+"no": "K-05",
+"manDays": 2.0,
+"manDaysText": "16.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"検査課",
+"K-05"
+]
+},
+{
+"sheet": "8.1",
+"kind": "item",
+"fields": {
+"date": "2024-08-01",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：インバータ盤 据付・配線",
+"persons": 10,
+"hours": 8.0,
+"no": "K-06",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "8.1",
+"kind": "item",
+"fields": {
+"date": "2024-08-01",
+"team": "電気計装班",
+"text": "計装ループ試験・インターロック試験：ループ試験",
+"persons": 4,
+"hours": 8.0,
+"no": "K-08",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 10,
+"_check": [
+"電気計装班",
+"K-08"
+]
+},
+{
+"sheet": "8.1",
+"kind": "total",
+"fields": {
+"date": "2024-08-01",
+"persons": 16,
+"manDaysText": "128.0",
+"manDaysTotal": 16.0
+},
+"r": 16,
+"_check": [
+"16名"
+]
+},
+{
+"sheet": "8.1",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-01",
+"会社": "汐見重工環境",
+"persons": 6,
+"manDaysText": "48.0",
+"累計": 330,
+"manDaysTotal": 6.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "8.1",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-01",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 254,
+"manDaysTotal": 10.0
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "8.1",
+"kind": "item",
+"fields": {
+"date": "2024-08-01",
+"no": "K-05",
+"name": "溶接部 非破壊検査・水圧試験",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 23,
+"_check": [
+"K-05"
+]
+},
+{
+"sheet": "8.1",
+"kind": "item",
+"fields": {
+"date": "2024-08-01",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 70,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "8.1",
+"kind": "item",
+"fields": {
+"date": "2024-08-01",
+"no": "K-08",
+"name": "計装ループ試験・インターロック試験",
+"進捗": 30,
+"予定比": "予定どおり"
+},
+"r": 25,
+"_check": [
+"K-08"
+]
+},
+{
+"sheet": "8.2",
+"kind": "item",
+"fields": {
+"date": "2024-08-02",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：インバータ盤 据付・配線",
+"persons": 10,
+"hours": 9.0,
+"no": "K-06",
+"manDays": 11.25,
+"manDaysText": "90.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "8.2",
+"kind": "item",
+"fields": {
+"date": "2024-08-02",
+"team": "電気計装班",
+"text": "計装ループ試験・インターロック試験：ループ試験",
+"persons": 4,
+"hours": 8.0,
+"no": "K-08",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気計装班",
+"K-08"
+]
+},
+{
+"sheet": "8.2",
+"kind": "total",
+"fields": {
+"date": "2024-08-02",
+"persons": 14,
+"manDaysText": "122.0",
+"manDaysTotal": 15.25
+},
+"r": 16,
+"_check": [
+"14名"
+]
+},
+{
+"sheet": "8.2",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-02",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"累計": 334,
+"manDaysTotal": 4.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "8.2",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-02",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "90.0",
+"累計": 264,
+"manDaysTotal": 11.25
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "8.2",
+"kind": "item",
+"fields": {
+"date": "2024-08-02",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 75,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "8.2",
+"kind": "item",
+"fields": {
+"date": "2024-08-02",
+"no": "K-08",
+"name": "計装ループ試験・インターロック試験",
+"進捗": 40,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-08"
+]
+},
+{
+"sheet": "8.3",
+"kind": "item",
+"fields": {
+"date": "2024-08-03",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：インバータ盤 据付・配線",
+"persons": 10,
+"hours": 8.0,
+"no": "K-06",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "8.3",
+"kind": "item",
+"fields": {
+"date": "2024-08-03",
+"team": "電気計装班",
+"text": "計装ループ試験・インターロック試験：ループ試験",
+"persons": 3,
+"hours": 8.0,
+"no": "K-08",
+"manDays": 3.0,
+"manDaysText": "24.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気計装班",
+"K-08"
+]
+},
+{
+"sheet": "8.3",
+"kind": "total",
+"fields": {
+"date": "2024-08-03",
+"persons": 13,
+"manDaysText": "104.0",
+"manDaysTotal": 13.0
+},
+"r": 16,
+"_check": [
+"13名"
+]
+},
+{
+"sheet": "8.3",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-03",
+"会社": "汐見重工環境",
+"persons": 3,
+"manDaysText": "24.0",
+"累計": 337,
+"manDaysTotal": 3.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "8.3",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-03",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 274,
+"manDaysTotal": 10.0
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "8.3",
+"kind": "item",
+"fields": {
+"date": "2024-08-03",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 80,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "8.3",
+"kind": "item",
+"fields": {
+"date": "2024-08-03",
+"no": "K-08",
+"name": "計装ループ試験・インターロック試験",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-08"
+]
+},
+{
+"sheet": "8.5",
+"kind": "item",
+"fields": {
+"date": "2024-08-05",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：芯出し・単体試運転",
+"persons": 10,
+"hours": 7.0,
+"no": "K-06",
+"manDays": 8.75,
+"manDaysText": "70.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "8.5",
+"kind": "item",
+"fields": {
+"date": "2024-08-05",
+"team": "電気計装班",
+"text": "計装ループ試験・インターロック試験：インターロック試験",
+"persons": 4,
+"hours": 9.0,
+"no": "K-08",
+"manDays": 4.5,
+"manDaysText": "36.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気計装班",
+"K-08"
+]
+},
+{
+"sheet": "8.5",
+"kind": "total",
+"fields": {
+"date": "2024-08-05",
+"persons": 14,
+"manDaysText": "106.0",
+"manDaysTotal": 13.25
+},
+"r": 16,
+"_check": [
+"14名"
+]
+},
+{
+"sheet": "8.5",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-05",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "36.0",
+"累計": 341,
+"manDaysTotal": 4.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "8.5",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-05",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "70.0",
+"累計": 284,
+"manDaysTotal": 8.75
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "8.5",
+"kind": "item",
+"fields": {
+"date": "2024-08-05",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 85,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "8.5",
+"kind": "item",
+"fields": {
+"date": "2024-08-05",
+"no": "K-08",
+"name": "計装ループ試験・インターロック試験",
+"進捗": 60,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-08"
+]
+},
+{
+"sheet": "8.6",
+"kind": "item",
+"fields": {
+"date": "2024-08-06",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：芯出し・単体試運転",
+"persons": 10,
+"hours": 9.0,
+"no": "K-06",
+"manDays": 11.25,
+"manDaysText": "90.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "8.6",
+"kind": "item",
+"fields": {
+"date": "2024-08-06",
+"team": "電気計装班",
+"text": "計装ループ試験・インターロック試験：インターロック試験",
+"persons": 4,
+"hours": 8.0,
+"no": "K-08",
+"manDays": 4.0,
+"manDaysText": "32.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気計装班",
+"K-08"
+]
+},
+{
+"sheet": "8.6",
+"kind": "total",
+"fields": {
+"date": "2024-08-06",
+"persons": 14,
+"manDaysText": "122.0",
+"manDaysTotal": 15.25
+},
+"r": 16,
+"_check": [
+"14名"
+]
+},
+{
+"sheet": "8.6",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-06",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "32.0",
+"累計": 345,
+"manDaysTotal": 4.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "8.6",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-06",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "90.0",
+"累計": 294,
+"manDaysTotal": 11.25
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "8.6",
+"kind": "item",
+"fields": {
+"date": "2024-08-06",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 90,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "8.6",
+"kind": "item",
+"fields": {
+"date": "2024-08-06",
+"no": "K-08",
+"name": "計装ループ試験・インターロック試験",
+"進捗": 70,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-08"
+]
+},
+{
+"sheet": "8.7",
+"kind": "item",
+"fields": {
+"date": "2024-08-07",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：芯出し・単体試運転",
+"persons": 10,
+"hours": 7.0,
+"no": "K-06",
+"manDays": 8.75,
+"manDaysText": "70.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "8.7",
+"kind": "item",
+"fields": {
+"date": "2024-08-07",
+"team": "電気計装班",
+"text": "計装ループ試験・インターロック試験：インターロック試験",
+"persons": 3,
+"hours": 9.0,
+"no": "K-08",
+"manDays": 3.38,
+"manDaysText": "27.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気計装班",
+"K-08"
+]
+},
+{
+"sheet": "8.7",
+"kind": "total",
+"fields": {
+"date": "2024-08-07",
+"persons": 13,
+"manDaysText": "97.0",
+"manDaysTotal": 12.12
+},
+"r": 16,
+"_check": [
+"13名"
+]
+},
+{
+"sheet": "8.7",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-07",
+"会社": "汐見重工環境",
+"persons": 3,
+"manDaysText": "27.0",
+"累計": 348,
+"manDaysTotal": 3.38
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "8.7",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-07",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "70.0",
+"累計": 304,
+"manDaysTotal": 8.75
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "8.7",
+"kind": "item",
+"fields": {
+"date": "2024-08-07",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 95,
+"予定比": "予定どおり"
+},
+"r": 23,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "8.7",
+"kind": "item",
+"fields": {
+"date": "2024-08-07",
+"no": "K-08",
+"name": "計装ループ試験・インターロック試験",
+"進捗": 80,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-08"
+]
+},
+{
+"sheet": "8.8",
+"kind": "item",
+"fields": {
+"date": "2024-08-08",
+"team": "据付協力 浜町機工",
+"text": "誘引通風機 撤去・据付：芯出し・単体試運転",
+"persons": 10,
+"hours": 6.0,
+"no": "K-06",
+"manDays": 7.5,
+"manDaysText": "60.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"K-06"
+]
+},
+{
+"sheet": "8.8",
+"kind": "item",
+"fields": {
+"date": "2024-08-08",
+"team": "電気計装班",
+"text": "計装ループ試験・インターロック試験：インターロック試験",
+"persons": 3,
+"hours": 9.0,
+"no": "K-08",
+"manDays": 3.38,
+"manDaysText": "27.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"電気計装班",
+"K-08"
+]
+},
+{
+"sheet": "8.8",
+"kind": "total",
+"fields": {
+"date": "2024-08-08",
+"persons": 13,
+"manDaysText": "87.0",
+"manDaysTotal": 10.88
+},
+"r": 16,
+"_check": [
+"13名"
+]
+},
+{
+"sheet": "8.8",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-08",
+"会社": "汐見重工環境",
+"persons": 3,
+"manDaysText": "27.0",
+"累計": 351,
+"manDaysTotal": 3.38
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "8.8",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-08",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "60.0",
+"累計": 314,
+"manDaysTotal": 7.5
+},
+"r": 20,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "8.8",
+"kind": "item",
+"fields": {
+"date": "2024-08-08",
+"no": "K-06",
+"name": "誘引通風機 撤去・据付（インバータ化）",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 23,
+"_check": [
+"K-06"
+]
+},
+{
+"sheet": "8.8",
+"kind": "item",
+"fields": {
+"date": "2024-08-08",
+"no": "K-08",
+"name": "計装ループ試験・インターロック試験",
+"進捗": 90,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-08"
+]
+},
+{
+"sheet": "8.9",
+"kind": "item",
+"fields": {
+"date": "2024-08-09",
+"team": "電気計装班",
+"text": "計装ループ試験・インターロック試験：インターロック試験",
+"persons": 4,
+"hours": 7.0,
+"no": "K-08",
+"manDays": 3.5,
+"manDaysText": "28.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"電気計装班",
+"K-08"
+]
+},
+{
+"sheet": "8.9",
+"kind": "item",
+"fields": {
+"date": "2024-08-09",
+"team": "みなと足場",
+"text": "仮設撤去・復旧：仮設撤去",
+"persons": 5,
+"hours": 7.0,
+"no": "K-09",
+"manDays": 4.38,
+"manDaysText": "35.0",
+"予定比": "予定どおり"
+},
+"r": 9,
+"_check": [
+"みなと足場",
+"K-09"
+]
+},
+{
+"sheet": "8.9",
+"kind": "total",
+"fields": {
+"date": "2024-08-09",
+"persons": 9,
+"manDaysText": "63.0",
+"manDaysTotal": 7.88
+},
+"r": 16,
+"_check": [
+"9名"
+]
+},
+{
+"sheet": "8.9",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-09",
+"会社": "汐見重工環境",
+"persons": 4,
+"manDaysText": "28.0",
+"累計": 355,
+"manDaysTotal": 3.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "8.9",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-09",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "35.0",
+"累計": 44,
+"manDaysTotal": 4.38
+},
+"r": 20,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "8.9",
+"kind": "item",
+"fields": {
+"date": "2024-08-09",
+"no": "K-08",
+"name": "計装ループ試験・インターロック試験",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 23,
+"_check": [
+"K-08"
+]
+},
+{
+"sheet": "8.9",
+"kind": "item",
+"fields": {
+"date": "2024-08-09",
+"no": "K-09",
+"name": "仮設撤去・復旧",
+"進捗": 12,
+"予定比": "予定どおり"
+},
+"r": 24,
+"_check": [
+"K-09"
+]
+},
+{
+"sheet": "8.10",
+"kind": "item",
+"fields": {
+"date": "2024-08-10",
+"team": "みなと足場",
+"text": "仮設撤去・復旧：仮設撤去",
+"persons": 5,
+"hours": 9.0,
+"no": "K-09",
+"manDays": 5.62,
+"manDaysText": "45.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-09"
+]
+},
+{
+"sheet": "8.10",
+"kind": "total",
+"fields": {
+"date": "2024-08-10",
+"persons": 5,
+"manDaysText": "45.0",
+"manDaysTotal": 5.62
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "8.10",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-10",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "45.0",
+"累計": 49,
+"manDaysTotal": 5.62
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "8.10",
+"kind": "item",
+"fields": {
+"date": "2024-08-10",
+"no": "K-09",
+"name": "仮設撤去・復旧",
+"進捗": 25,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-09"
+]
+},
+{
+"sheet": "8.12",
+"kind": "item",
+"fields": {
+"date": "2024-08-12",
+"team": "みなと足場",
+"text": "仮設撤去・復旧：仮設撤去",
+"persons": 5,
+"hours": 9.0,
+"no": "K-09",
+"manDays": 5.62,
+"manDaysText": "45.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-09"
+]
+},
+{
+"sheet": "8.12",
+"kind": "total",
+"fields": {
+"date": "2024-08-12",
+"persons": 5,
+"manDaysText": "45.0",
+"manDaysTotal": 5.62
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "8.12",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-12",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "45.0",
+"累計": 54,
+"manDaysTotal": 5.62
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "8.12",
+"kind": "item",
+"fields": {
+"date": "2024-08-12",
+"no": "K-09",
+"name": "仮設撤去・復旧",
+"進捗": 38,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-09"
+]
+},
+{
+"sheet": "8.13",
+"kind": "item",
+"fields": {
+"date": "2024-08-13",
+"team": "みなと足場",
+"text": "仮設撤去・復旧：仮設撤去",
+"persons": 5,
+"hours": 8.0,
+"no": "K-09",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-09"
+]
+},
+{
+"sheet": "8.13",
+"kind": "total",
+"fields": {
+"date": "2024-08-13",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "8.13",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-13",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 59,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "8.13",
+"kind": "item",
+"fields": {
+"date": "2024-08-13",
+"no": "K-09",
+"name": "仮設撤去・復旧",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-09"
+]
+},
+{
+"sheet": "8.14",
+"kind": "item",
+"fields": {
+"date": "2024-08-14",
+"team": "みなと足場",
+"text": "仮設撤去・復旧：復旧・清掃",
+"persons": 5,
+"hours": 8.0,
+"no": "K-09",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-09"
+]
+},
+{
+"sheet": "8.14",
+"kind": "total",
+"fields": {
+"date": "2024-08-14",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "8.14",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-14",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 64,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "8.14",
+"kind": "item",
+"fields": {
+"date": "2024-08-14",
+"no": "K-09",
+"name": "仮設撤去・復旧",
+"進捗": 62,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-09"
+]
+},
+{
+"sheet": "8.15",
+"kind": "item",
+"fields": {
+"date": "2024-08-15",
+"team": "みなと足場",
+"text": "仮設撤去・復旧：復旧・清掃",
+"persons": 5,
+"hours": 8.0,
+"no": "K-09",
+"manDays": 5.0,
+"manDaysText": "40.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-09"
+]
+},
+{
+"sheet": "8.15",
+"kind": "total",
+"fields": {
+"date": "2024-08-15",
+"persons": 5,
+"manDaysText": "40.0",
+"manDaysTotal": 5.0
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "8.15",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-15",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "40.0",
+"累計": 69,
+"manDaysTotal": 5.0
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "8.15",
+"kind": "item",
+"fields": {
+"date": "2024-08-15",
+"no": "K-09",
+"name": "仮設撤去・復旧",
+"進捗": 75,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-09"
+]
+},
+{
+"sheet": "8.16",
+"kind": "item",
+"fields": {
+"date": "2024-08-16",
+"team": "みなと足場",
+"text": "仮設撤去・復旧：復旧・清掃",
+"persons": 5,
+"hours": 7.0,
+"no": "K-09",
+"manDays": 4.38,
+"manDaysText": "35.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-09"
+]
+},
+{
+"sheet": "8.16",
+"kind": "total",
+"fields": {
+"date": "2024-08-16",
+"persons": 5,
+"manDaysText": "35.0",
+"manDaysTotal": 4.38
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "8.16",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-16",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "35.0",
+"累計": 74,
+"manDaysTotal": 4.38
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "8.16",
+"kind": "item",
+"fields": {
+"date": "2024-08-16",
+"no": "K-09",
+"name": "仮設撤去・復旧",
+"進捗": 88,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-09"
+]
+},
+{
+"sheet": "8.17",
+"kind": "item",
+"fields": {
+"date": "2024-08-17",
+"team": "みなと足場",
+"text": "仮設撤去・復旧：復旧・清掃",
+"persons": 5,
+"hours": 6.0,
+"no": "K-09",
+"manDays": 3.75,
+"manDaysText": "30.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"みなと足場",
+"K-09"
+]
+},
+{
+"sheet": "8.17",
+"kind": "total",
+"fields": {
+"date": "2024-08-17",
+"persons": 5,
+"manDaysText": "30.0",
+"manDaysTotal": 3.75
+},
+"r": 16,
+"_check": [
+"5名"
+]
+},
+{
+"sheet": "8.17",
+"kind": "subtotal",
+"fields": {
+"date": "2024-08-17",
+"会社": "みなと足場工業",
+"persons": 5,
+"manDaysText": "30.0",
+"累計": 79,
+"manDaysTotal": 3.75
+},
+"r": 19,
+"_check": [
+"みなと足場工業"
+]
+},
+{
+"sheet": "8.17",
+"kind": "item",
+"fields": {
+"date": "2024-08-17",
+"no": "K-09",
+"name": "仮設撤去・復旧",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"K-09"
+]
+},
+{
+"sheet": "9.16",
+"kind": "item",
+"fields": {
+"date": "2024-09-16",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：試運転（昇温）",
+"persons": 12,
+"hours": 7.0,
+"no": "K-10",
+"manDays": 10.5,
+"manDaysText": "84.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.16",
+"kind": "total",
+"fields": {
+"date": "2024-09-16",
+"persons": 12,
+"manDaysText": "84.0",
+"manDaysTotal": 10.5
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "9.16",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-16",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "84.0",
+"累計": 367,
+"manDaysTotal": 10.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.16",
+"kind": "item",
+"fields": {
+"date": "2024-09-16",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 8,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+},
+{
+"sheet": "9.17",
+"kind": "item",
+"fields": {
+"date": "2024-09-17",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：試運転（昇温）",
+"persons": 12,
+"hours": 8.0,
+"no": "K-10",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.17",
+"kind": "total",
+"fields": {
+"date": "2024-09-17",
+"persons": 12,
+"manDaysText": "96.0",
+"manDaysTotal": 12.0
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "9.17",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-17",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 379,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.17",
+"kind": "item",
+"fields": {
+"date": "2024-09-17",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 17,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+},
+{
+"sheet": "9.18",
+"kind": "item",
+"fields": {
+"date": "2024-09-18",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：試運転（昇温）",
+"persons": 12,
+"hours": 8.0,
+"no": "K-10",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.18",
+"kind": "total",
+"fields": {
+"date": "2024-09-18",
+"persons": 12,
+"manDaysText": "96.0",
+"manDaysTotal": 12.0
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "9.18",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-18",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 391,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.18",
+"kind": "item",
+"fields": {
+"date": "2024-09-18",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 25,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+},
+{
+"sheet": "9.19",
+"kind": "item",
+"fields": {
+"date": "2024-09-19",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：試運転（昇温）",
+"persons": 12,
+"hours": 8.0,
+"no": "K-10",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.19",
+"kind": "total",
+"fields": {
+"date": "2024-09-19",
+"persons": 12,
+"manDaysText": "96.0",
+"manDaysTotal": 12.0
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "9.19",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-19",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 403,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.19",
+"kind": "item",
+"fields": {
+"date": "2024-09-19",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 33,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+},
+{
+"sheet": "9.20",
+"kind": "item",
+"fields": {
+"date": "2024-09-20",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：負荷試験",
+"persons": 12,
+"hours": 7.0,
+"no": "K-10",
+"manDays": 10.5,
+"manDaysText": "84.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.20",
+"kind": "total",
+"fields": {
+"date": "2024-09-20",
+"persons": 12,
+"manDaysText": "84.0",
+"manDaysTotal": 10.5
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "9.20",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-20",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "84.0",
+"累計": 415,
+"manDaysTotal": 10.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.20",
+"kind": "item",
+"fields": {
+"date": "2024-09-20",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 42,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+},
+{
+"sheet": "9.21",
+"kind": "item",
+"fields": {
+"date": "2024-09-21",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：負荷試験",
+"persons": 12,
+"hours": 8.0,
+"no": "K-10",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.21",
+"kind": "total",
+"fields": {
+"date": "2024-09-21",
+"persons": 12,
+"manDaysText": "96.0",
+"manDaysTotal": 12.0
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "9.21",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-21",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 427,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.21",
+"kind": "item",
+"fields": {
+"date": "2024-09-21",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+},
+{
+"sheet": "9.23",
+"kind": "item",
+"fields": {
+"date": "2024-09-23",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：負荷試験",
+"persons": 12,
+"hours": 8.0,
+"no": "K-10",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.23",
+"kind": "total",
+"fields": {
+"date": "2024-09-23",
+"persons": 12,
+"manDaysText": "96.0",
+"manDaysTotal": 12.0
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "9.23",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-23",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 439,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.23",
+"kind": "item",
+"fields": {
+"date": "2024-09-23",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 58,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+},
+{
+"sheet": "9.24",
+"kind": "item",
+"fields": {
+"date": "2024-09-24",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：負荷試験",
+"persons": 11,
+"hours": 8.0,
+"no": "K-10",
+"manDays": 11.0,
+"manDaysText": "88.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.24",
+"kind": "total",
+"fields": {
+"date": "2024-09-24",
+"persons": 11,
+"manDaysText": "88.0",
+"manDaysTotal": 11.0
+},
+"r": 16,
+"_check": [
+"11名"
+]
+},
+{
+"sheet": "9.24",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-24",
+"会社": "汐見重工環境",
+"persons": 11,
+"manDaysText": "88.0",
+"累計": 450,
+"manDaysTotal": 11.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.24",
+"kind": "item",
+"fields": {
+"date": "2024-09-24",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 67,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+},
+{
+"sheet": "9.25",
+"kind": "item",
+"fields": {
+"date": "2024-09-25",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：性能確認試験",
+"persons": 12,
+"hours": 8.0,
+"no": "K-10",
+"manDays": 12.0,
+"manDaysText": "96.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.25",
+"kind": "total",
+"fields": {
+"date": "2024-09-25",
+"persons": 12,
+"manDaysText": "96.0",
+"manDaysTotal": 12.0
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "9.25",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-25",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "96.0",
+"累計": 462,
+"manDaysTotal": 12.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.25",
+"kind": "item",
+"fields": {
+"date": "2024-09-25",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 75,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+},
+{
+"sheet": "9.26",
+"kind": "item",
+"fields": {
+"date": "2024-09-26",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：性能確認試験",
+"persons": 12,
+"hours": 7.0,
+"no": "K-10",
+"manDays": 10.5,
+"manDaysText": "84.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.26",
+"kind": "total",
+"fields": {
+"date": "2024-09-26",
+"persons": 12,
+"manDaysText": "84.0",
+"manDaysTotal": 10.5
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "9.26",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-26",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "84.0",
+"累計": 474,
+"manDaysTotal": 10.5
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.26",
+"kind": "item",
+"fields": {
+"date": "2024-09-26",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 83,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+},
+{
+"sheet": "9.27",
+"kind": "item",
+"fields": {
+"date": "2024-09-27",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：性能確認試験",
+"persons": 11,
+"hours": 8.0,
+"no": "K-10",
+"manDays": 11.0,
+"manDaysText": "88.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.27",
+"kind": "total",
+"fields": {
+"date": "2024-09-27",
+"persons": 11,
+"manDaysText": "88.0",
+"manDaysTotal": 11.0
+},
+"r": 16,
+"_check": [
+"11名"
+]
+},
+{
+"sheet": "9.27",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-27",
+"会社": "汐見重工環境",
+"persons": 11,
+"manDaysText": "88.0",
+"累計": 485,
+"manDaysTotal": 11.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.27",
+"kind": "item",
+"fields": {
+"date": "2024-09-27",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 92,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+},
+{
+"sheet": "9.28",
+"kind": "item",
+"fields": {
+"date": "2024-09-28",
+"team": "改良工事班",
+"text": "3号炉 試運転・性能確認：性能確認試験",
+"persons": 12,
+"hours": 6.0,
+"no": "K-10",
+"manDays": 9.0,
+"manDaysText": "72.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"改良工事班",
+"K-10"
+]
+},
+{
+"sheet": "9.28",
+"kind": "total",
+"fields": {
+"date": "2024-09-28",
+"persons": 12,
+"manDaysText": "72.0",
+"manDaysTotal": 9.0
+},
+"r": 16,
+"_check": [
+"12名"
+]
+},
+{
+"sheet": "9.28",
+"kind": "subtotal",
+"fields": {
+"date": "2024-09-28",
+"会社": "汐見重工環境",
+"persons": 12,
+"manDaysText": "72.0",
+"累計": 497,
+"manDaysTotal": 9.0
+},
+"r": 19,
+"_check": [
+"汐見重工環境"
+]
+},
+{
+"sheet": "9.28",
+"kind": "item",
+"fields": {
+"date": "2024-09-28",
+"no": "K-10",
+"name": "3号炉 試運転・性能確認",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"K-10"
+]
+}
+]
+}

@@ -1,0 +1,186 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_平成17年度_定期整備業務委託全炉停止_班別1枚様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "1114機C",
+"kind": "item",
+"fields": {
+"date": "2005-11-14",
+"team": "機械班C",
+"foreman": "k6",
+"text": "全炉停止 立会・隔離　全炉停止 立会",
+"persons": 5,
+"time": "8:00-16:00",
+"manDays": 4.38,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"全炉停止 立会"
+]
+},
+{
+"sheet": "1115機C",
+"kind": "item",
+"fields": {
+"date": "2005-11-15",
+"team": "機械班C",
+"foreman": "k6",
+"text": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験　高圧蒸気だめ・低圧蒸気だめ・高圧蒸気だめ安全弁 開放",
+"persons": 4,
+"time": "8:00-17:00",
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"高圧蒸気だめ・低圧蒸"
+]
+},
+{
+"sheet": "1115電工",
+"kind": "item",
+"fields": {
+"date": "2005-11-15",
+"team": "電気工事 湾岸電工",
+"foreman": "k22",
+"text": "特高受変電・高圧配電盤 停電点検　受電停止・高圧配電盤 No.4・高圧配電盤 No.1",
+"persons": 6,
+"time": "8:00-16:00",
+"manDays": 5.25,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"受電停止・高圧配電盤"
+]
+},
+{
+"sheet": "1116機C",
+"kind": "item",
+"fields": {
+"date": "2005-11-16",
+"team": "機械班C",
+"foreman": "k6",
+"text": "蒸気だめ・主蒸気系統 弁 開放点検・安全弁 試験　低圧蒸気だめ安全弁・脱気器安全弁 復旧・試験",
+"persons": 5,
+"time": "8:00-17:00",
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"低圧蒸気だめ安全弁・"
+]
+},
+{
+"sheet": "1116電計",
+"kind": "item",
+"fields": {
+"date": "2005-11-16",
+"team": "電気計装班",
+"foreman": "k3",
+"text": "中央制御装置　共通制御ステーション FCS-C1・共通制御ステーシ",
+"persons": 4,
+"time": "8:00-17:00",
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"共通制御ステーション"
+]
+},
+{
+"sheet": "1117機C",
+"kind": "item",
+"fields": {
+"date": "2005-11-17",
+"team": "機械班C",
+"foreman": "k6",
+"text": "脱気器・給水系統 開放点検　脱気器・タービンバイパス減圧減温弁 点検",
+"persons": 5,
+"time": "8:00-16:00",
+"manDays": 4.38,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"脱気器・タービンバイ"
+]
+},
+{
+"sheet": "1117電計",
+"kind": "item",
+"fields": {
+"date": "2005-11-17",
+"team": "電気計装班",
+"foreman": "k3",
+"text": "中央制御装置　オペレータステーション No.1・オペレータステーシ",
+"persons": 4,
+"time": "8:00-17:00",
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"オペレータステーショ"
+]
+},
+{
+"sheet": "1118機C",
+"kind": "item",
+"fields": {
+"date": "2005-11-18",
+"team": "機械班C",
+"foreman": "k6",
+"text": "蒸気タービン 補機 点検　調速装置・タービン振動監視装置・タービン制御油ユニッ",
+"persons": 5,
+"time": "8:00-15:00",
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"調速装置・タービン振"
+]
+},
+{
+"sheet": "1118電計",
+"kind": "item",
+"fields": {
+"date": "2005-11-18",
+"team": "電気計装班",
+"foreman": "k3",
+"text": "中央制御装置　オペレータステーション No.5・エンジニアリングス",
+"persons": 4,
+"time": "8:00-16:00",
+"manDays": 3.5,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"オペレータステーショ"
+]
+},
+{
+"sheet": "1120機C",
+"kind": "item",
+"fields": {
+"date": "2005-11-20",
+"team": "機械班C",
+"foreman": "k6",
+"text": "復旧・各炉立上げ立会　隔離解除・復旧・各炉 立上げ立会",
+"persons": 5,
+"time": "8:00-15:00",
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"隔離解除・復旧・各炉"
+]
+}
+]
+}

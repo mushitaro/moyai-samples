@@ -1,0 +1,591 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_令和6年度_更新工事共通_R3縦型拡張様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "11.23",
+"kind": "item",
+"fields": {
+"date": "2024-11-23",
+"team": "据付協力 浜町機工",
+"text": "準備・既設撤去：仮設・養生",
+"persons": 10,
+"hours": 8.0,
+"no": "H-01",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"H-01"
+]
+},
+{
+"sheet": "11.23",
+"kind": "total",
+"fields": {
+"date": "2024-11-23",
+"persons": 10,
+"manDaysText": "80.0",
+"manDaysTotal": 10.0
+},
+"r": 16,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "11.23",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-23",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 10,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "11.23",
+"kind": "item",
+"fields": {
+"date": "2024-11-23",
+"no": "H-01",
+"name": "準備・既設撤去",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"H-01"
+]
+},
+{
+"sheet": "11.25",
+"kind": "item",
+"fields": {
+"date": "2024-11-25",
+"team": "据付協力 浜町機工",
+"text": "準備・既設撤去：既設 撤去 完了",
+"persons": 10,
+"hours": 6.0,
+"no": "H-01",
+"manDays": 7.5,
+"manDaysText": "60.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"H-01"
+]
+},
+{
+"sheet": "11.25",
+"kind": "total",
+"fields": {
+"date": "2024-11-25",
+"persons": 10,
+"manDaysText": "60.0",
+"manDaysTotal": 7.5
+},
+"r": 16,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "11.25",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-25",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "60.0",
+"累計": 20,
+"manDaysTotal": 7.5
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "11.25",
+"kind": "item",
+"fields": {
+"date": "2024-11-25",
+"no": "H-01",
+"name": "準備・既設撤去",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"H-01"
+]
+},
+{
+"sheet": "11.26",
+"kind": "item",
+"fields": {
+"date": "2024-11-26",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整：無停電電源装置A 取替・溶接",
+"persons": 10,
+"hours": 8.0,
+"no": "H-02",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"H-02"
+]
+},
+{
+"sheet": "11.26",
+"kind": "total",
+"fields": {
+"date": "2024-11-26",
+"persons": 10,
+"manDaysText": "80.0",
+"manDaysTotal": 10.0
+},
+"r": 16,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "11.26",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-26",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 30,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "11.26",
+"kind": "item",
+"fields": {
+"date": "2024-11-26",
+"no": "H-02",
+"name": "新設据付・調整",
+"進捗": 17,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"H-02"
+]
+},
+{
+"sheet": "11.27",
+"kind": "item",
+"fields": {
+"date": "2024-11-27",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整：新設据付・調整 溶接・非破壊検査",
+"persons": 9,
+"hours": 8.0,
+"no": "H-02",
+"manDays": 9.0,
+"manDaysText": "72.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"H-02"
+]
+},
+{
+"sheet": "11.27",
+"kind": "total",
+"fields": {
+"date": "2024-11-27",
+"persons": 9,
+"manDaysText": "72.0",
+"manDaysTotal": 9.0
+},
+"r": 16,
+"_check": [
+"9名"
+]
+},
+{
+"sheet": "11.27",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-27",
+"会社": "浜町機工",
+"persons": 9,
+"manDaysText": "72.0",
+"累計": 39,
+"manDaysTotal": 9.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "11.27",
+"kind": "item",
+"fields": {
+"date": "2024-11-27",
+"no": "H-02",
+"name": "新設据付・調整",
+"進捗": 33,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"H-02"
+]
+},
+{
+"sheet": "11.28",
+"kind": "item",
+"fields": {
+"date": "2024-11-28",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整：新設据付・調整 溶接・非破壊検査",
+"persons": 10,
+"hours": 8.0,
+"no": "H-02",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"H-02"
+]
+},
+{
+"sheet": "11.28",
+"kind": "total",
+"fields": {
+"date": "2024-11-28",
+"persons": 10,
+"manDaysText": "80.0",
+"manDaysTotal": 10.0
+},
+"r": 16,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "11.28",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-28",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 49,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "11.28",
+"kind": "item",
+"fields": {
+"date": "2024-11-28",
+"no": "H-02",
+"name": "新設据付・調整",
+"進捗": 50,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"H-02"
+]
+},
+{
+"sheet": "11.29",
+"kind": "item",
+"fields": {
+"date": "2024-11-29",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整：無停電電源装置B 溶接・非破壊検査",
+"persons": 10,
+"hours": 7.0,
+"no": "H-02",
+"manDays": 8.75,
+"manDaysText": "70.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"H-02"
+]
+},
+{
+"sheet": "11.29",
+"kind": "total",
+"fields": {
+"date": "2024-11-29",
+"persons": 10,
+"manDaysText": "70.0",
+"manDaysTotal": 8.75
+},
+"r": 16,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "11.29",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-29",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "70.0",
+"累計": 59,
+"manDaysTotal": 8.75
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "11.29",
+"kind": "item",
+"fields": {
+"date": "2024-11-29",
+"no": "H-02",
+"name": "新設据付・調整",
+"進捗": 67,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"H-02"
+]
+},
+{
+"sheet": "11.30",
+"kind": "item",
+"fields": {
+"date": "2024-11-30",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整：新設据付・調整 溶接・非破壊検査",
+"persons": 10,
+"hours": 8.0,
+"no": "H-02",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "予定どおり"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"H-02"
+]
+},
+{
+"sheet": "11.30",
+"kind": "total",
+"fields": {
+"date": "2024-11-30",
+"persons": 10,
+"manDaysText": "80.0",
+"manDaysTotal": 10.0
+},
+"r": 16,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "11.30",
+"kind": "subtotal",
+"fields": {
+"date": "2024-11-30",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 69,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "11.30",
+"kind": "item",
+"fields": {
+"date": "2024-11-30",
+"no": "H-02",
+"name": "新設据付・調整",
+"進捗": 83,
+"予定比": "予定どおり"
+},
+"r": 22,
+"_check": [
+"H-02"
+]
+},
+{
+"sheet": "12.2",
+"kind": "item",
+"fields": {
+"date": "2024-12-02",
+"team": "据付協力 浜町機工",
+"text": "新設据付・調整：新設据付・調整 調整・試運転",
+"persons": 9,
+"hours": 7.0,
+"no": "H-02",
+"manDays": 7.88,
+"manDaysText": "63.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"H-02"
+]
+},
+{
+"sheet": "12.2",
+"kind": "total",
+"fields": {
+"date": "2024-12-02",
+"persons": 9,
+"manDaysText": "63.0",
+"manDaysTotal": 7.88
+},
+"r": 16,
+"_check": [
+"9名"
+]
+},
+{
+"sheet": "12.2",
+"kind": "subtotal",
+"fields": {
+"date": "2024-12-02",
+"会社": "浜町機工",
+"persons": 9,
+"manDaysText": "63.0",
+"累計": 78,
+"manDaysTotal": 7.88
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "12.2",
+"kind": "item",
+"fields": {
+"date": "2024-12-02",
+"no": "H-02",
+"name": "新設据付・調整",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"H-02"
+]
+},
+{
+"sheet": "12.3",
+"kind": "item",
+"fields": {
+"date": "2024-12-03",
+"team": "据付協力 浜町機工",
+"text": "検査・片付け：検査・片付け（市 監督員 確認）",
+"persons": 10,
+"hours": 8.0,
+"no": "H-03",
+"manDays": 10.0,
+"manDaysText": "80.0",
+"予定比": "完了"
+},
+"r": 8,
+"_check": [
+"据付協力 浜町機工",
+"H-03"
+]
+},
+{
+"sheet": "12.3",
+"kind": "total",
+"fields": {
+"date": "2024-12-03",
+"persons": 10,
+"manDaysText": "80.0",
+"manDaysTotal": 10.0
+},
+"r": 16,
+"_check": [
+"10名"
+]
+},
+{
+"sheet": "12.3",
+"kind": "subtotal",
+"fields": {
+"date": "2024-12-03",
+"会社": "浜町機工",
+"persons": 10,
+"manDaysText": "80.0",
+"累計": 88,
+"manDaysTotal": 10.0
+},
+"r": 19,
+"_check": [
+"浜町機工"
+]
+},
+{
+"sheet": "12.3",
+"kind": "item",
+"fields": {
+"date": "2024-12-03",
+"no": "H-03",
+"name": "検査・片付け",
+"進捗": 100,
+"予定比": "完了"
+},
+"r": 22,
+"_check": [
+"H-03"
+]
+}
+]
+}

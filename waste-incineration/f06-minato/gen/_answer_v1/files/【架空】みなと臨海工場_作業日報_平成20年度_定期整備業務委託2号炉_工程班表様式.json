@@ -1,0 +1,1449 @@
+{
+"file": "【架空】みなと臨海工場_作業日報_平成20年度_定期整備業務委託2号炉_工程班表様式.xlsx",
+"plan": false,
+"records": [
+{
+"sheet": "9-1",
+"kind": "item",
+"fields": {
+"date": "2008-09-01",
+"no": "2-01",
+"name": "立下げ立会・資機材搬入・養生",
+"text": "立下げ（運転会社）立会・養生シート 敷設",
+"team": "機械班A",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-01"
+]
+},
+{
+"sheet": "9-1",
+"kind": "total",
+"fields": {
+"date": "2008-09-01",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "9-2",
+"kind": "item",
+"fields": {
+"date": "2008-09-02",
+"no": "2-01",
+"name": "立下げ立会・資機材搬入・養生",
+"text": "工具 搬入・作業区画 設定",
+"team": "機械班A",
+"persons": 3,
+"hours": 7.0,
+"manDays": 2.62,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-01"
+]
+},
+{
+"sheet": "9-2",
+"kind": "total",
+"fields": {
+"date": "2008-09-02",
+"persons": 3
+},
+"r": 6,
+"_check": [
+"3"
+]
+},
+{
+"sheet": "9-3",
+"kind": "item",
+"fields": {
+"date": "2008-09-03",
+"no": "2-02",
+"name": "炉内・ボイラ 灰落とし・清掃",
+"text": "炉内 灰落とし・クリンカ 搬出",
+"team": "港南工業",
+"persons": 8,
+"hours": 9.0,
+"manDays": 9.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-02"
+]
+},
+{
+"sheet": "9-3",
+"kind": "total",
+"fields": {
+"date": "2008-09-03",
+"persons": 8
+},
+"r": 6,
+"_check": [
+"8"
+]
+},
+{
+"sheet": "9-4",
+"kind": "item",
+"fields": {
+"date": "2008-09-04",
+"no": "2-02",
+"name": "炉内・ボイラ 灰落とし・清掃",
+"text": "ボイラ 放射室 灰落とし（エアランス）",
+"team": "港南工業",
+"persons": 8,
+"hours": 8.0,
+"manDays": 8.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-02"
+]
+},
+{
+"sheet": "9-4",
+"kind": "item",
+"fields": {
+"date": "2008-09-04",
+"no": "2-03",
+"name": "足場設置（炉内・ボイラ・集じん器）",
+"text": "炉内足場 組立",
+"team": "みなと足場",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-03"
+]
+},
+{
+"sheet": "9-4",
+"kind": "total",
+"fields": {
+"date": "2008-09-04",
+"persons": 13
+},
+"r": 7,
+"_check": [
+"13"
+]
+},
+{
+"sheet": "9-5",
+"kind": "item",
+"fields": {
+"date": "2008-09-05",
+"no": "2-02",
+"name": "炉内・ボイラ 灰落とし・清掃",
+"text": "清掃 完了・灰 約 3.8t 搬出",
+"team": "港南工業",
+"persons": 8,
+"hours": 6.0,
+"manDays": 6.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-02"
+]
+},
+{
+"sheet": "9-5",
+"kind": "item",
+"fields": {
+"date": "2008-09-05",
+"no": "2-03",
+"name": "足場設置（炉内・ボイラ・集じん器）",
+"text": "ボイラ 放射室 足場 組立",
+"team": "みなと足場",
+"persons": 5,
+"hours": 9.0,
+"manDays": 5.62,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-03"
+]
+},
+{
+"sheet": "9-5",
+"kind": "total",
+"fields": {
+"date": "2008-09-05",
+"persons": 13
+},
+"r": 7,
+"_check": [
+"13"
+]
+},
+{
+"sheet": "9-6",
+"kind": "item",
+"fields": {
+"date": "2008-09-06",
+"no": "2-03",
+"name": "足場設置（炉内・ボイラ・集じん器）",
+"text": "足場 完成検査（職長・代理人）",
+"team": "みなと足場",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-03"
+]
+},
+{
+"sheet": "9-6",
+"kind": "total",
+"fields": {
+"date": "2008-09-06",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "9-8",
+"kind": "item",
+"fields": {
+"date": "2008-09-08",
+"no": "2-04",
+"name": "ボイラ水管・過熱器 肉厚測定・点検",
+"text": "ボイラ本体・1次過熱器・2次過熱器 UT 測定 12",
+"team": "検査課",
+"persons": 2,
+"hours": 9.0,
+"manDays": 2.25,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-04"
+]
+},
+{
+"sheet": "9-8",
+"kind": "item",
+"fields": {
+"date": "2008-09-08",
+"no": "2-07",
+"name": "集じん器 点検整備（ダンパ・ロータリバルブ・コンベヤ）",
+"text": "ろ過式集じん器・集じん器 1 室入口ダンパ・集じん器",
+"team": "機械班B",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-07"
+]
+},
+{
+"sheet": "9-8",
+"kind": "total",
+"fields": {
+"date": "2008-09-08",
+"persons": 7
+},
+"r": 7,
+"_check": [
+"7"
+]
+},
+{
+"sheet": "9-9",
+"kind": "item",
+"fields": {
+"date": "2008-09-09",
+"no": "2-04",
+"name": "ボイラ水管・過熱器 肉厚測定・点検",
+"text": "3次過熱器・過熱器減温器・エコノマイザ 測定 完了・",
+"team": "検査課",
+"persons": 1,
+"hours": 8.0,
+"manDays": 1.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-04"
+]
+},
+{
+"sheet": "9-9",
+"kind": "item",
+"fields": {
+"date": "2008-09-09",
+"no": "2-05",
+"name": "火格子 点検・補修",
+"text": "乾燥火格子・燃焼火格子 点検・摩耗片 マーキング（1",
+"team": "機械班A",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-05"
+]
+},
+{
+"sheet": "9-9",
+"kind": "item",
+"fields": {
+"date": "2008-09-09",
+"no": "2-07",
+"name": "集じん器 点検整備（ダンパ・ロータリバルブ・コンベヤ）",
+"text": "集じん器飛灰スクリューコンベヤ No.3・集じん器 ",
+"team": "機械班B",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"2-07"
+]
+},
+{
+"sheet": "9-9",
+"kind": "item",
+"fields": {
+"date": "2008-09-09",
+"no": "2-20",
+"name": "ごみクレーン・灰クレーン 年次点検整備",
+"text": "3号ごみクレーン（予備） 年次点検",
+"team": "機械班C",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 8,
+"_check": [
+"2-20"
+]
+},
+{
+"sheet": "9-9",
+"kind": "total",
+"fields": {
+"date": "2008-09-09",
+"persons": 15
+},
+"r": 9,
+"_check": [
+"15"
+]
+},
+{
+"sheet": "9-10",
+"kind": "item",
+"fields": {
+"date": "2008-09-10",
+"no": "2-05",
+"name": "火格子 点検・補修",
+"text": "後燃焼火格子 冷却水 通水確認・手動寸動",
+"team": "機械班A",
+"persons": 6,
+"hours": 8.0,
+"manDays": 6.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-05"
+]
+},
+{
+"sheet": "9-10",
+"kind": "item",
+"fields": {
+"date": "2008-09-10",
+"no": "2-06",
+"name": "耐火物 点検・補修",
+"text": "側壁 耐火物 打診点検・損傷部 マーキング",
+"team": "臨海築炉",
+"persons": 4,
+"hours": 7.0,
+"manDays": 3.5,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-06"
+]
+},
+{
+"sheet": "9-10",
+"kind": "item",
+"fields": {
+"date": "2008-09-10",
+"no": "2-08",
+"name": "洗煙塔 内部点検・循環ポンプ 整備",
+"text": "洗煙塔 マンホール開放・換気・酸素濃度確認後 入槽",
+"team": "機械班B",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"2-08"
+]
+},
+{
+"sheet": "9-10",
+"kind": "item",
+"fields": {
+"date": "2008-09-10",
+"no": "2-20",
+"name": "ごみクレーン・灰クレーン 年次点検整備",
+"text": "灰クレーン 整備",
+"team": "機械班C",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 8,
+"_check": [
+"2-20"
+]
+},
+{
+"sheet": "9-10",
+"kind": "total",
+"fields": {
+"date": "2008-09-10",
+"persons": 18
+},
+"r": 9,
+"_check": [
+"18"
+]
+},
+{
+"sheet": "9-11",
+"kind": "item",
+"fields": {
+"date": "2008-09-11",
+"no": "2-06",
+"name": "耐火物 点検・補修",
+"text": "損傷部 はつり・アンカー点検",
+"team": "臨海築炉",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-06"
+]
+},
+{
+"sheet": "9-11",
+"kind": "item",
+"fields": {
+"date": "2008-09-11",
+"no": "2-08",
+"name": "洗煙塔 内部点検・循環ポンプ 整備",
+"text": "洗煙塔入口急冷ポンプB・再加熱器ドレンポンプB 復旧",
+"team": "機械班B",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-08"
+]
+},
+{
+"sheet": "9-11",
+"kind": "item",
+"fields": {
+"date": "2008-09-11",
+"no": "2-11",
+"name": "給じん装置・油圧ユニット 点検整備",
+"text": "給じん装置・給じん装置 油圧 点検・作動油 分析",
+"team": "機械班A",
+"persons": 6,
+"hours": 8.0,
+"manDays": 6.0,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"2-11"
+]
+},
+{
+"sheet": "9-11",
+"kind": "item",
+"fields": {
+"date": "2008-09-11",
+"no": "2-20",
+"name": "ごみクレーン・灰クレーン 年次点検整備",
+"text": "タービン室天井クレーン 荷重試験・作動確認",
+"team": "機械班C",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 8,
+"_check": [
+"2-20"
+]
+},
+{
+"sheet": "9-11",
+"kind": "total",
+"fields": {
+"date": "2008-09-11",
+"persons": 19
+},
+"r": 9,
+"_check": [
+"19"
+]
+},
+{
+"sheet": "9-12",
+"kind": "item",
+"fields": {
+"date": "2008-09-12",
+"no": "2-06",
+"name": "耐火物 点検・補修",
+"text": "キャスタブル 施工 約 3.2m2",
+"team": "臨海築炉",
+"persons": 4,
+"hours": 9.0,
+"manDays": 4.5,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-06"
+]
+},
+{
+"sheet": "9-12",
+"kind": "item",
+"fields": {
+"date": "2008-09-12",
+"no": "2-09",
+"name": "脱硝反応塔 点検・触媒サンプリング",
+"text": "反応塔入口ダンパ・反応塔バイパスダンパ 入口整流板・",
+"team": "機械班B",
+"persons": 5,
+"hours": 6.0,
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-09"
+]
+},
+{
+"sheet": "9-12",
+"kind": "item",
+"fields": {
+"date": "2008-09-12",
+"no": "2-21",
+"name": "共通設備 機器点検整備（ポンプ・圧縮機・コンベヤほか）",
+"text": "清缶剤注入ポンプA・純水装置A系・真空ポンプA 分解",
+"team": "機械班C",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"2-21"
+]
+},
+{
+"sheet": "9-12",
+"kind": "total",
+"fields": {
+"date": "2008-09-12",
+"persons": 14
+},
+"r": 8,
+"_check": [
+"14"
+]
+},
+{
+"sheet": "9-13",
+"kind": "item",
+"fields": {
+"date": "2008-09-13",
+"no": "2-06",
+"name": "耐火物 点検・補修",
+"text": "補修部 乾燥・仕上げ",
+"team": "臨海築炉",
+"persons": 4,
+"hours": 6.0,
+"manDays": 3.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-06"
+]
+},
+{
+"sheet": "9-13",
+"kind": "item",
+"fields": {
+"date": "2008-09-13",
+"no": "2-10",
+"name": "減温塔・薬剤供給装置 点検整備",
+"text": "減温塔本体・活性炭輸送ブロワ 開放点検",
+"team": "機械班B",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-10"
+]
+},
+{
+"sheet": "9-13",
+"kind": "item",
+"fields": {
+"date": "2008-09-13",
+"no": "2-13",
+"name": "ボイラ 補修・安全弁 吹出し試験",
+"text": "ボイラ本体・過熱器出口安全弁 開放・弁座 点検",
+"team": "機械班A",
+"persons": 6,
+"hours": 7.0,
+"manDays": 5.25,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"2-13"
+]
+},
+{
+"sheet": "9-13",
+"kind": "item",
+"fields": {
+"date": "2008-09-13",
+"no": "2-21",
+"name": "共通設備 機器点検整備（ポンプ・圧縮機・コンベヤほか）",
+"text": "補機冷却塔B・補機冷却水ポンプC（予備）・プラント用",
+"team": "機械班C",
+"persons": 4,
+"hours": 7.0,
+"manDays": 3.5,
+"manDaysText": null
+},
+"r": 8,
+"_check": [
+"2-21"
+]
+},
+{
+"sheet": "9-13",
+"kind": "total",
+"fields": {
+"date": "2008-09-13",
+"persons": 19
+},
+"r": 9,
+"_check": [
+"19"
+]
+},
+{
+"sheet": "9-15",
+"kind": "item",
+"fields": {
+"date": "2008-09-15",
+"no": "2-13",
+"name": "ボイラ 補修・安全弁 吹出し試験",
+"text": "ドラム安全弁A・ドラム安全弁B 組立・吹出し試験 合",
+"team": "機械班A",
+"persons": 6,
+"hours": 7.0,
+"manDays": 5.25,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-13"
+]
+},
+{
+"sheet": "9-15",
+"kind": "item",
+"fields": {
+"date": "2008-09-15",
+"no": "2-17",
+"name": "主要計装 校正・ループ試験",
+"text": "炉内温度計（乾燥域）・炉内温度計（乾燥域）・炉内温度",
+"team": "電気計装班",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-17"
+]
+},
+{
+"sheet": "9-15",
+"kind": "item",
+"fields": {
+"date": "2008-09-15",
+"no": "2-21",
+"name": "共通設備 機器点検整備（ポンプ・圧縮機・コンベヤほか）",
+"text": "飛灰貯留槽 A系（常用）・主灰搬送コンベヤ No.2",
+"team": "機械班C",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"2-21"
+]
+},
+{
+"sheet": "9-15",
+"kind": "total",
+"fields": {
+"date": "2008-09-15",
+"persons": 15
+},
+"r": 8,
+"_check": [
+"15"
+]
+},
+{
+"sheet": "9-16",
+"kind": "item",
+"fields": {
+"date": "2008-09-16",
+"no": "2-12",
+"name": "再加熱器 気密試験・点検",
+"text": "排ガス再加熱器 気密試験・外観点検",
+"team": "機械班B",
+"persons": 5,
+"hours": 6.0,
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-12"
+]
+},
+{
+"sheet": "9-16",
+"kind": "item",
+"fields": {
+"date": "2008-09-16",
+"no": "2-14",
+"name": "スートブロワ 整備",
+"text": "長抜差式スートブロワ L3（過熱器）・長抜差式スート",
+"team": "機械班A",
+"persons": 6,
+"hours": 7.0,
+"manDays": 5.25,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-14"
+]
+},
+{
+"sheet": "9-16",
+"kind": "item",
+"fields": {
+"date": "2008-09-16",
+"no": "2-17",
+"name": "主要計装 校正・ループ試験",
+"text": "炉出口温度計B・二次燃焼室温度計・炉内圧力計 ほか ",
+"team": "電気計装班",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"2-17"
+]
+},
+{
+"sheet": "9-16",
+"kind": "total",
+"fields": {
+"date": "2008-09-16",
+"persons": 15
+},
+"r": 8,
+"_check": [
+"15"
+]
+},
+{
+"sheet": "9-17",
+"kind": "item",
+"fields": {
+"date": "2008-09-17",
+"no": "2-15",
+"name": "電動弁・調節弁・手動弁 分解整備",
+"text": "空気予熱器蒸気調節弁・減温器スプレー調節弁・起動用放",
+"team": "機械班B",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-15"
+]
+},
+{
+"sheet": "9-17",
+"kind": "item",
+"fields": {
+"date": "2008-09-17",
+"no": "2-16",
+"name": "送風機・通風機・ダンパ 点検整備",
+"text": "火格子冷却水ポンプA・火格子冷却水冷却器・押込送風機",
+"team": "機械班A",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-16"
+]
+},
+{
+"sheet": "9-17",
+"kind": "item",
+"fields": {
+"date": "2008-09-17",
+"no": "2-17",
+"name": "主要計装 校正・ループ試験",
+"text": "ボイラ給水流量計・ボイラ水 pH 計・ボイラ水 pH",
+"team": "電気計装班",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"2-17"
+]
+},
+{
+"sheet": "9-17",
+"kind": "total",
+"fields": {
+"date": "2008-09-17",
+"persons": 14
+},
+"r": 8,
+"_check": [
+"14"
+]
+},
+{
+"sheet": "9-18",
+"kind": "item",
+"fields": {
+"date": "2008-09-18",
+"no": "2-15",
+"name": "電動弁・調節弁・手動弁 分解整備",
+"text": "ボイラ給水入口弁・アンモニア遮断弁・再燃バーナ燃料遮",
+"team": "機械班B",
+"persons": 5,
+"hours": 6.0,
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-15"
+]
+},
+{
+"sheet": "9-18",
+"kind": "item",
+"fields": {
+"date": "2008-09-18",
+"no": "2-16",
+"name": "送風機・通風機・ダンパ 点検整備",
+"text": "押込送風機・蒸気式空気予熱器・乾燥用一次空気調節ダン",
+"team": "機械班A",
+"persons": 6,
+"hours": 7.0,
+"manDays": 5.25,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-16"
+]
+},
+{
+"sheet": "9-18",
+"kind": "item",
+"fields": {
+"date": "2008-09-18",
+"no": "2-17",
+"name": "主要計装 校正・ループ試験",
+"text": "集じん器出口ばいじん計・洗煙液 pH 計A・洗煙液 ",
+"team": "電気計装班",
+"persons": 4,
+"hours": 7.0,
+"manDays": 3.5,
+"manDaysText": null
+},
+"r": 7,
+"_check": [
+"2-17"
+]
+},
+{
+"sheet": "9-18",
+"kind": "total",
+"fields": {
+"date": "2008-09-18",
+"persons": 15
+},
+"r": 8,
+"_check": [
+"15"
+]
+},
+{
+"sheet": "9-19",
+"kind": "item",
+"fields": {
+"date": "2008-09-19",
+"no": "2-16",
+"name": "送風機・通風機・ダンパ 点検整備",
+"text": "助燃バーナ・再燃バーナ・誘引通風機 芯出し確認・手回",
+"team": "機械班A",
+"persons": 5,
+"hours": 6.0,
+"manDays": 3.75,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-16"
+]
+},
+{
+"sheet": "9-19",
+"kind": "item",
+"fields": {
+"date": "2008-09-19",
+"no": "2-17",
+"name": "主要計装 校正・ループ試験",
+"text": "反応塔入口温度計・誘引通風機軸受振動計・排ガス NO",
+"team": "電気計装班",
+"persons": 4,
+"hours": 9.0,
+"manDays": 4.5,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-17"
+]
+},
+{
+"sheet": "9-19",
+"kind": "total",
+"fields": {
+"date": "2008-09-19",
+"persons": 9
+},
+"r": 7,
+"_check": [
+"9"
+]
+},
+{
+"sheet": "9-20",
+"kind": "item",
+"fields": {
+"date": "2008-09-20",
+"no": "2-17",
+"name": "主要計装 校正・ループ試験",
+"text": "排ガスばいじん計・排ガス流量計・助燃バーナ火炎検出器",
+"team": "電気計装班",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-17"
+]
+},
+{
+"sheet": "9-20",
+"kind": "item",
+"fields": {
+"date": "2008-09-20",
+"no": "2-19",
+"name": "灰出し設備 点検整備",
+"text": "灰押出装置・灰押出装置・炉別主灰コンベヤ 開放点検",
+"team": "機械班A",
+"persons": 6,
+"hours": 6.0,
+"manDays": 4.5,
+"manDaysText": null
+},
+"r": 6,
+"_check": [
+"2-19"
+]
+},
+{
+"sheet": "9-20",
+"kind": "total",
+"fields": {
+"date": "2008-09-20",
+"persons": 10
+},
+"r": 7,
+"_check": [
+"10"
+]
+},
+{
+"sheet": "9-22",
+"kind": "item",
+"fields": {
+"date": "2008-09-22",
+"no": "2-17",
+"name": "主要計装 校正・ループ試験",
+"text": "ループ試験 完了",
+"team": "電気計装班",
+"persons": 4,
+"hours": 6.0,
+"manDays": 3.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-17"
+]
+},
+{
+"sheet": "9-22",
+"kind": "total",
+"fields": {
+"date": "2008-09-22",
+"persons": 4
+},
+"r": 6,
+"_check": [
+"4"
+]
+},
+{
+"sheet": "9-23",
+"kind": "item",
+"fields": {
+"date": "2008-09-23",
+"no": "2-18",
+"name": "電気設備 点検（MCC・現場盤・制御盤）",
+"text": "炉別動力制御盤 MCC-1・炉別制御ステーション（D",
+"team": "電気計装班",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-18"
+]
+},
+{
+"sheet": "9-23",
+"kind": "total",
+"fields": {
+"date": "2008-09-23",
+"persons": 4
+},
+"r": 6,
+"_check": [
+"4"
+]
+},
+{
+"sheet": "9-24",
+"kind": "item",
+"fields": {
+"date": "2008-09-24",
+"no": "2-22",
+"name": "共通設備 計装 校正",
+"text": "ごみピット火災検知器 No.2・アンモニア漏えい検知",
+"team": "電気計装班",
+"persons": 4,
+"hours": 7.0,
+"manDays": 3.5,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-22"
+]
+},
+{
+"sheet": "9-24",
+"kind": "total",
+"fields": {
+"date": "2008-09-24",
+"persons": 4
+},
+"r": 6,
+"_check": [
+"4"
+]
+},
+{
+"sheet": "9-25",
+"kind": "item",
+"fields": {
+"date": "2008-09-25",
+"no": "2-23",
+"name": "共通設備 電気・制御盤 点検",
+"text": "計器用変成器盤・共通動力制御盤 MCC-C1・共通動",
+"team": "電気計装班",
+"persons": 4,
+"hours": 6.0,
+"manDays": 3.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-23"
+]
+},
+{
+"sheet": "9-25",
+"kind": "total",
+"fields": {
+"date": "2008-09-25",
+"persons": 4
+},
+"r": 6,
+"_check": [
+"4"
+]
+},
+{
+"sheet": "9-27",
+"kind": "item",
+"fields": {
+"date": "2008-09-27",
+"no": "2-24",
+"name": "足場解体・復旧・マンホール閉鎖",
+"text": "足場解体（集じん器側）",
+"team": "みなと足場",
+"persons": 5,
+"hours": 9.0,
+"manDays": 5.62,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-24"
+]
+},
+{
+"sheet": "9-27",
+"kind": "total",
+"fields": {
+"date": "2008-09-27",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "9-29",
+"kind": "item",
+"fields": {
+"date": "2008-09-29",
+"no": "2-24",
+"name": "足場解体・復旧・マンホール閉鎖",
+"text": "ボイラ 吊足場 解体",
+"team": "みなと足場",
+"persons": 5,
+"hours": 8.0,
+"manDays": 5.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-24"
+]
+},
+{
+"sheet": "9-29",
+"kind": "total",
+"fields": {
+"date": "2008-09-29",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "9-30",
+"kind": "item",
+"fields": {
+"date": "2008-09-30",
+"no": "2-24",
+"name": "足場解体・復旧・マンホール閉鎖",
+"text": "炉内足場 解体・搬出・マンホール閉鎖",
+"team": "みなと足場",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-24"
+]
+},
+{
+"sheet": "9-30",
+"kind": "total",
+"fields": {
+"date": "2008-09-30",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "10-1",
+"kind": "item",
+"fields": {
+"date": "2008-10-01",
+"no": "2-25",
+"name": "ボイラ水圧試験",
+"text": "ボイラ水圧試験 異常なし",
+"team": "機械班A",
+"persons": 5,
+"hours": 7.0,
+"manDays": 4.38,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-25"
+]
+},
+{
+"sheet": "10-1",
+"kind": "total",
+"fields": {
+"date": "2008-10-01",
+"persons": 5
+},
+"r": 6,
+"_check": [
+"5"
+]
+},
+{
+"sheet": "10-2",
+"kind": "item",
+"fields": {
+"date": "2008-10-02",
+"no": "2-26",
+"name": "通風試験・各機器試運転",
+"text": "押込送風機・誘引通風機 単体試運転",
+"team": "機械班A",
+"persons": 4,
+"hours": 7.0,
+"manDays": 3.5,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-26"
+]
+},
+{
+"sheet": "10-2",
+"kind": "total",
+"fields": {
+"date": "2008-10-02",
+"persons": 4
+},
+"r": 6,
+"_check": [
+"4"
+]
+},
+{
+"sheet": "10-3",
+"kind": "item",
+"fields": {
+"date": "2008-10-03",
+"no": "2-26",
+"name": "通風試験・各機器試運転",
+"text": "通風試験・ダンパ連動・インターロック試験",
+"team": "機械班A",
+"persons": 3,
+"hours": 6.0,
+"manDays": 2.25,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-26"
+]
+},
+{
+"sheet": "10-3",
+"kind": "total",
+"fields": {
+"date": "2008-10-03",
+"persons": 3
+},
+"r": 6,
+"_check": [
+"3"
+]
+},
+{
+"sheet": "10-4",
+"kind": "item",
+"fields": {
+"date": "2008-10-04",
+"no": "2-27",
+"name": "立上げ立会・片付け",
+"text": "立上げ立会・燃焼状態 確認",
+"team": "機械班A",
+"persons": 3,
+"hours": 8.0,
+"manDays": 3.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-27"
+]
+},
+{
+"sheet": "10-4",
+"kind": "total",
+"fields": {
+"date": "2008-10-04",
+"persons": 3
+},
+"r": 6,
+"_check": [
+"3"
+]
+},
+{
+"sheet": "10-5",
+"kind": "item",
+"fields": {
+"date": "2008-10-05",
+"no": "2-27",
+"name": "立上げ立会・片付け",
+"text": "片付け・定期整備 完了",
+"team": "機械班A",
+"persons": 4,
+"hours": 8.0,
+"manDays": 4.0,
+"manDaysText": null
+},
+"r": 5,
+"_check": [
+"2-27"
+]
+},
+{
+"sheet": "10-5",
+"kind": "total",
+"fields": {
+"date": "2008-10-05",
+"persons": 4
+},
+"r": 6,
+"_check": [
+"4"
+]
+}
+]
+}
