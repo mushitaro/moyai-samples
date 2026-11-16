@@ -14,17 +14,17 @@ Test samples for evaluating the reader of [MOYAI](https://github.com/mushitaro/m
 
 | Folder | Facility (fictional) | Furnace type | Capacity | Fiscal years | Documents |
 |---|---|---|---|---|---|
-| `waste-incineration/f01-asagi` | Asagi City Incineration Plant | Stoker, continuous | 110 t × 2 | 1997–2026 | 908 |
-| `waste-incineration/f02-hibarino` | Hibarino Clean Center | Stoker, continuous | 105 t × 2 | 2016–2026 | 105 |
-| `waste-incineration/f03-kunugidai` | Kunugidai Environment Center | Stoker, continuous | 100 t × 3 | 2001–2026 | 375 |
-| `waste-incineration/f04-shiosai` | Shiosai Town Waste Plant | Stoker, semi-continuous | 20 t/16 h × 2 | 2012–2026 | 204 |
-| `waste-incineration/f05-yamabuki` | Yamabuki Regional Union, Plant No. 2 | Stoker, semi-continuous | 30 t/16 h × 2 | 2021–2025 | 32 |
-| `waste-incineration/f06-minato` | Minato Waterfront Plant | Stoker, continuous | 200 t × 3 | 2004–2026 | 267 |
-| `waste-incineration/f07-kazahaya` | Kazahaya Eco Plaza | Stoker, continuous | 150 t × 2 | 2015–2026 | 151 |
-| `waste-incineration/f08-izumigawa` | Izumigawa Cleaning Center | Fluidized bed (shut down FY2024) | 75 t × 2 | 2005–2024 | 110 |
-| `waste-incineration/f09-tokiwa` | Tokiwa North Clean Center | Fluidized-bed gasification & melting | 95 t × 2 | 2009–2026 | 158 |
-| `waste-incineration/f10-akanedai` | Akanedai Resource Center | Shaft-furnace gasification & melting | 120 t × 2 | 2011–2026 | 193 |
-| `waste-incineration/f11-sakurazaka` | Sakurazaka Incinerator | Stoker, continuous | 60 t × 2 | 2019–2026 | 62 |
+| `waste-incineration-v4/f01-asagi` | Asagi City Incineration Plant | Stoker, continuous | 110 t × 2 | 1997–2026 | 908 |
+| `waste-incineration-v4/f02-hibarino` | Hibarino Clean Center | Stoker, continuous | 105 t × 2 | 2016–2026 | 105 |
+| `waste-incineration-v4/f03-kunugidai` | Kunugidai Environment Center | Stoker, continuous | 100 t × 3 | 2001–2026 | 375 |
+| `waste-incineration-v4/f04-shiosai` | Shiosai Town Waste Plant | Stoker, semi-continuous | 20 t/16 h × 2 | 2012–2026 | 204 |
+| `waste-incineration-v4/f05-yamabuki` | Yamabuki Regional Union, Plant No. 2 | Stoker, semi-continuous | 30 t/16 h × 2 | 2021–2025 | 32 |
+| `waste-incineration-v4/f06-minato` | Minato Waterfront Plant | Stoker, continuous | 200 t × 3 | 2004–2026 | 267 |
+| `waste-incineration-v4/f07-kazahaya` | Kazahaya Eco Plaza | Stoker, continuous | 150 t × 2 | 2015–2026 | 151 |
+| `waste-incineration-v4/f08-izumigawa` | Izumigawa Cleaning Center | Fluidized bed (shut down FY2024) | 75 t × 2 | 2005–2024 | 110 |
+| `waste-incineration-v4/f09-tokiwa` | Tokiwa North Clean Center | Fluidized-bed gasification & melting | 95 t × 2 | 2009–2026 | 158 |
+| `waste-incineration-v4/f10-akanedai` | Akanedai Resource Center | Shaft-furnace gasification & melting | 120 t × 2 | 2011–2026 | 193 |
+| `waste-incineration-v4/f11-sakurazaka` | Sakurazaka Incinerator | Stoker, continuous | 60 t × 2 | 2019–2026 | 62 |
 
 Total: 2,565 documents. Each facility has six kinds of documents: long-term maintenance plan, construction schedule, daily work report, completion report, purchase ledger and equipment ledger. Every facility has at least 250 managed pieces of equipment.
 
@@ -59,17 +59,17 @@ Each facility's `gen/` folder rebuilds that facility. To regenerate the answer f
 
 | フォルダ | 施設名（架空） | 炉形式 | 能力 | 対象年度 | 資料の数 |
 |---|---|---|---|---|---|
-| `waste-incineration/f01-asagi` | あさぎ市清掃工場 | ストーカ・全連続 | 110t×2 | 1997–2026 | 908 |
-| `waste-incineration/f02-hibarino` | ひばり野クリーンセンター | ストーカ・全連続 | 105t×2 | 2016–2026 | 105 |
-| `waste-incineration/f03-kunugidai` | くぬぎ台環境センター | ストーカ・全連続 | 100t×3 | 2001–2026 | 375 |
-| `waste-incineration/f04-shiosai` | しおさい町ごみ処理場 | ストーカ・准連続 | 20t/16h×2 | 2012–2026 | 204 |
-| `waste-incineration/f05-yamabuki` | やまぶき広域処理組合 第二工場 | ストーカ・准連続 | 30t/16h×2 | 2021–2025 | 32 |
-| `waste-incineration/f06-minato` | みなと臨海工場 | ストーカ・全連続 | 200t×3 | 2004–2026 | 267 |
-| `waste-incineration/f07-kazahaya` | かざはやエコプラザ | ストーカ・全連続 | 150t×2 | 2015–2026 | 151 |
-| `waste-incineration/f08-izumigawa` | いずみ川清掃センター | 流動床（2024 年度で停止） | 75t×2 | 2005–2024 | 110 |
-| `waste-incineration/f09-tokiwa` | ときわ北部クリーンセンター | 流動床式ガス化溶融 | 95t×2 | 2009–2026 | 158 |
-| `waste-incineration/f10-akanedai` | あかね台資源化センター | シャフト炉式ガス化溶融 | 120t×2 | 2011–2026 | 193 |
-| `waste-incineration/f11-sakurazaka` | さくら坂焼却場 | ストーカ・全連続 | 60t×2 | 2019–2026 | 62 |
+| `waste-incineration-v4/f01-asagi` | あさぎ市清掃工場 | ストーカ・全連続 | 110t×2 | 1997–2026 | 908 |
+| `waste-incineration-v4/f02-hibarino` | ひばり野クリーンセンター | ストーカ・全連続 | 105t×2 | 2016–2026 | 105 |
+| `waste-incineration-v4/f03-kunugidai` | くぬぎ台環境センター | ストーカ・全連続 | 100t×3 | 2001–2026 | 375 |
+| `waste-incineration-v4/f04-shiosai` | しおさい町ごみ処理場 | ストーカ・准連続 | 20t/16h×2 | 2012–2026 | 204 |
+| `waste-incineration-v4/f05-yamabuki` | やまぶき広域処理組合 第二工場 | ストーカ・准連続 | 30t/16h×2 | 2021–2025 | 32 |
+| `waste-incineration-v4/f06-minato` | みなと臨海工場 | ストーカ・全連続 | 200t×3 | 2004–2026 | 267 |
+| `waste-incineration-v4/f07-kazahaya` | かざはやエコプラザ | ストーカ・全連続 | 150t×2 | 2015–2026 | 151 |
+| `waste-incineration-v4/f08-izumigawa` | いずみ川清掃センター | 流動床（2024 年度で停止） | 75t×2 | 2005–2024 | 110 |
+| `waste-incineration-v4/f09-tokiwa` | ときわ北部クリーンセンター | 流動床式ガス化溶融 | 95t×2 | 2009–2026 | 158 |
+| `waste-incineration-v4/f10-akanedai` | あかね台資源化センター | シャフト炉式ガス化溶融 | 120t×2 | 2011–2026 | 193 |
+| `waste-incineration-v4/f11-sakurazaka` | さくら坂焼却場 | ストーカ・全連続 | 60t×2 | 2019–2026 | 62 |
 
 資料は合計 2,565 です。どの施設にも 6 種の資料（中長期整備計画・工程表・作業日報・工事報告書・発注台帳・機器台帳）があり、管理対象の機器は 250 台以上です。
 
