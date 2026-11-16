@@ -1,0 +1,74 @@
+{
+ "file": "【架空】いずみ川清掃センター_工程表_平成26年度1号炉ボイラ水管補修工事_m1様式（メーカー・区域別日単位）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "1号炉",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "no": 1,
+    "name": "水管切断・撤去（第2パス 6 本）",
+    "team": "製缶",
+    "crew": 4,
+    "planStart": "2014-09-30",
+    "planEnd": "2014-10-01",
+    "actualStart": "2014-09-30",
+    "actualEnd": "2014-10-01",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "no": 2,
+    "name": "新管 取付・溶接",
+    "team": "製缶",
+    "crew": 4,
+    "planStart": "2014-10-02",
+    "planEnd": "2014-10-04",
+    "actualStart": "2014-10-02",
+    "actualEnd": "2014-10-04",
+    "area": "1号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "no": 3,
+    "name": "放射線透過試験",
+    "team": "製缶",
+    "crew": 4,
+    "planStart": "2014-10-06",
+    "planEnd": "2014-10-06",
+    "actualStart": "2014-10-06",
+    "actualEnd": "2014-10-06",
+    "area": "1号炉",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "no": 4,
+    "name": "水圧試験",
+    "team": "製缶",
+    "crew": 4,
+    "planStart": "2014-10-07",
+    "planEnd": "2014-10-07",
+    "actualStart": "2014-10-07",
+    "actualEnd": "2014-10-07",
+    "area": "1号炉",
+    "days": 1
+   }
+  }
+ ]
+}

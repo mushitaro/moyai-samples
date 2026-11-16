@@ -1,0 +1,6015 @@
+{
+ "profile": {
+  "id": "f08",
+  "name": "【架空】いずみ川清掃センター",
+  "city": "【架空】いずみ川市",
+  "furnace": "流動床式焼却炉・全連続",
+  "capacity": "75t/24h×2=150t/日",
+  "completed": "1990-03",
+  "stopped": "2025-03（2024年度末）",
+  "boiler": "廃熱ボイラ 1.0MPa 飽和 6t/h（発電なし）",
+  "idf": "24,000m3N/h",
+  "period": [
+   2005,
+   2024
+  ],
+  "equipmentCount": {
+   "perLine": 95,
+   "common": 128,
+   "total": 318
+  },
+  "people": {
+   "i1": "市 2005–2013",
+   "i2": "市 2014–（2023年度以降も i2）",
+   "m1": "メーカー現場代理人 2005–2018",
+   "g1": "地元業者 職長 2019–2024"
+  }
+ },
+ "equipment": [
+  {
+   "id": "1A-001",
+   "ledgerName": "ごみホッパ",
+   "line": 1,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-101",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ごみホッパ",
+    "m1報告書": "ごみホッパ"
+   }
+  },
+  {
+   "id": "1A-002",
+   "ledgerName": "ホッパブリッジ解除装置",
+   "line": 1,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-102",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ホッパブリッジ解除装置",
+    "m1報告書": "ホッパブリッジ解除装置"
+   }
+  },
+  {
+   "id": "1A-003",
+   "ledgerName": "ホッパ遮断ゲート",
+   "line": 1,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-103",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ホッパ遮断ゲート",
+    "m1報告書": "ホッパ遮断ゲート"
+   }
+  },
+  {
+   "id": "1A-004",
+   "ledgerName": "定量給じん機 No.1",
+   "line": 1,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-104",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "定量給じん機 No.1",
+    "m1報告書": "給塵スクリュー No.1"
+   }
+  },
+  {
+   "id": "1A-005",
+   "ledgerName": "定量給じん機 No.2",
+   "line": 1,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-105",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "定量給じん機 No.2",
+    "m1報告書": "給塵スクリュー No.2"
+   }
+  },
+  {
+   "id": "1A-006",
+   "ledgerName": "給じんシュートダンパ No.1",
+   "line": 1,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-106",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "給じんシュートダンパ No.1",
+    "m1報告書": "給じんシュートダンパ No.1"
+   }
+  },
+  {
+   "id": "1A-007",
+   "ledgerName": "給じんシュートダンパ No.2",
+   "line": 1,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-107",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "給じんシュートダンパ No.2",
+    "m1報告書": "給じんシュートダンパ No.2"
+   }
+  },
+  {
+   "id": "1B-001",
+   "ledgerName": "流動床炉本体",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 1989,
+   "drawingNo": "F-101",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "流動床炉本体",
+    "m1報告書": "焼却炉本体"
+   }
+  },
+  {
+   "id": "1B-002",
+   "ledgerName": "散気装置",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 2008,
+   "drawingNo": "KR-101",
+   "oldDrawingNo": "F-102",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "散気装置",
+    "m1報告書": "散気管"
+   }
+  },
+  {
+   "id": "1B-003",
+   "ledgerName": "不燃物抜出装置 No.1",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 2008,
+   "drawingNo": "KR-102",
+   "oldDrawingNo": "F-103",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物抜出装置 No.1",
+    "m1報告書": "不燃物抜出装置 No.1"
+   }
+  },
+  {
+   "id": "1B-004",
+   "ledgerName": "不燃物抜出装置 No.2",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 2008,
+   "drawingNo": "KR-103",
+   "oldDrawingNo": "F-104",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物抜出装置 No.2",
+    "m1報告書": "不燃物抜出装置 No.2"
+   }
+  },
+  {
+   "id": "1B-005",
+   "ledgerName": "熱風発生炉",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "バーナ",
+   "installedFY": 1989,
+   "drawingNo": "F-105",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "熱風発生炉",
+    "m1報告書": "熱風発生炉"
+   }
+  },
+  {
+   "id": "1B-006",
+   "ledgerName": "熱風発生炉用燃焼空気ファン",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "バーナ",
+   "installedFY": 1989,
+   "drawingNo": "F-106",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "熱風発生炉用燃焼空気ファン",
+    "m1報告書": "熱風発生炉用燃焼空気ファン"
+   }
+  },
+  {
+   "id": "1B-007",
+   "ledgerName": "助燃バーナ",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "バーナ",
+   "installedFY": 1989,
+   "drawingNo": "F-107",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "助燃バーナ",
+    "m1報告書": "助燃バーナ"
+   }
+  },
+  {
+   "id": "1B-008",
+   "ledgerName": "炉内水噴霧装置",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "炉温調整",
+   "installedFY": 1989,
+   "drawingNo": "F-108",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉内水噴霧装置",
+    "m1報告書": "炉内水噴霧装置"
+   }
+  },
+  {
+   "id": "1B-009",
+   "ledgerName": "炉内噴霧水ポンプ No.1",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "炉温調整",
+   "installedFY": 1989,
+   "drawingNo": "F-109",
+   "oldDrawingNo": null,
+   "duty": "常用",
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉内噴霧水ポンプ No.1",
+    "m1報告書": "炉内噴霧水ポンプ No.1"
+   }
+  },
+  {
+   "id": "1B-010",
+   "ledgerName": "炉内噴霧水ポンプ No.2",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "炉温調整",
+   "installedFY": 1989,
+   "drawingNo": "F-110",
+   "oldDrawingNo": null,
+   "duty": "予備",
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉内噴霧水ポンプ No.2",
+    "m1報告書": "炉内噴霧水ポンプ No.2"
+   }
+  },
+  {
+   "id": "1B-011",
+   "ledgerName": "炉壁冷却空気ファン",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 1989,
+   "drawingNo": "F-111",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉壁冷却空気ファン",
+    "m1報告書": "炉壁冷却空気ファン"
+   }
+  },
+  {
+   "id": "1B-012",
+   "ledgerName": "炉内監視カメラ装置",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 2006,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉内監視カメラ装置",
+    "m1報告書": "炉内監視カメラ装置"
+   }
+  },
+  {
+   "id": "1B-013",
+   "ledgerName": "灯油サービスタンク",
+   "line": 1,
+   "setsubi": "燃焼設備",
+   "keitou": "燃料",
+   "installedFY": 1989,
+   "drawingNo": "F-112",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "灯油サービスタンク",
+    "m1報告書": "灯油サービスタンク"
+   }
+  },
+  {
+   "id": "1C-001",
+   "ledgerName": "不燃物冷却スクリュー",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2008,
+   "drawingNo": "KR-104",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物冷却スクリュー",
+    "m1報告書": "不燃物冷却スクリュー"
+   }
+  },
+  {
+   "id": "1C-002",
+   "ledgerName": "不燃物排出コンベヤ No.1",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2008,
+   "drawingNo": "KR-105",
+   "oldDrawingNo": "S-101",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物排出コンベヤ No.1",
+    "m1報告書": "不燃物排出コンベヤ No.1"
+   }
+  },
+  {
+   "id": "1C-003",
+   "ledgerName": "不燃物排出コンベヤ No.2",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2008,
+   "drawingNo": "KR-106",
+   "oldDrawingNo": "S-102",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物排出コンベヤ No.2",
+    "m1報告書": "不燃物排出コンベヤ No.2"
+   }
+  },
+  {
+   "id": "1C-004",
+   "ledgerName": "振動ふるい",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2008,
+   "drawingNo": "KR-107",
+   "oldDrawingNo": "S-103",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "振動ふるい",
+    "m1報告書": "振動ふるい"
+   }
+  },
+  {
+   "id": "1C-005",
+   "ledgerName": "砂循環エレベータ",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2008,
+   "drawingNo": "KR-108",
+   "oldDrawingNo": "S-104",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂循環エレベータ",
+    "m1報告書": "砂循環エレベータ"
+   }
+  },
+  {
+   "id": "1C-006",
+   "ledgerName": "砂貯留ホッパ",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 1989,
+   "drawingNo": "S-105",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂貯留ホッパ",
+    "m1報告書": "砂貯留ホッパ"
+   }
+  },
+  {
+   "id": "1C-007",
+   "ledgerName": "砂切出装置",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2008,
+   "drawingNo": "KR-109",
+   "oldDrawingNo": "S-106",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂切出装置",
+    "m1報告書": "砂切出装置"
+   }
+  },
+  {
+   "id": "1C-008",
+   "ledgerName": "砂再投入コンベヤ",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2008,
+   "drawingNo": "KR-110",
+   "oldDrawingNo": "S-107",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂再投入コンベヤ",
+    "m1報告書": "砂再投入コンベヤ"
+   }
+  },
+  {
+   "id": "1C-009",
+   "ledgerName": "新砂供給フィーダ",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 1989,
+   "drawingNo": "S-108",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "新砂供給フィーダ",
+    "m1報告書": "新砂供給フィーダ"
+   }
+  },
+  {
+   "id": "1C-010",
+   "ledgerName": "不燃物磁選機",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 1989,
+   "drawingNo": "S-109",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物磁選機",
+    "m1報告書": "不燃物磁選機"
+   }
+  },
+  {
+   "id": "1C-011",
+   "ledgerName": "不燃物搬出コンベヤ",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 1989,
+   "drawingNo": "S-110",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物搬出コンベヤ",
+    "m1報告書": "不燃物搬出コンベヤ"
+   }
+  },
+  {
+   "id": "1C-012",
+   "ledgerName": "砂循環集じん機",
+   "line": 1,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 1989,
+   "drawingNo": "S-111",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂循環集じん機",
+    "m1報告書": "砂循環集じん機"
+   }
+  },
+  {
+   "id": "1D-001",
+   "ledgerName": "廃熱ボイラ",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-101",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "廃熱ボイラ",
+    "m1報告書": "ボイラ"
+   }
+  },
+  {
+   "id": "1D-002",
+   "ledgerName": "エコノマイザ",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-102",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "エコノマイザ",
+    "m1報告書": "エコノマイザ"
+   }
+  },
+  {
+   "id": "1D-003",
+   "ledgerName": "ボイラ給水ポンプ No.1",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-103",
+   "oldDrawingNo": null,
+   "duty": "常用",
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラ給水ポンプ No.1",
+    "m1報告書": "ボイラ給水ポンプ No.1"
+   }
+  },
+  {
+   "id": "1D-004",
+   "ledgerName": "ボイラ給水ポンプ No.2",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-104",
+   "oldDrawingNo": null,
+   "duty": "予備",
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラ給水ポンプ No.2",
+    "m1報告書": "ボイラ給水ポンプ No.2"
+   }
+  },
+  {
+   "id": "1D-005",
+   "ledgerName": "スートブロワ No.1",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-105",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.1",
+    "m1報告書": "スートブロワ No.1"
+   }
+  },
+  {
+   "id": "1D-006",
+   "ledgerName": "スートブロワ No.2",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-106",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.2",
+    "m1報告書": "スートブロワ No.2"
+   }
+  },
+  {
+   "id": "1D-007",
+   "ledgerName": "スートブロワ No.3",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-107",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.3",
+    "m1報告書": "スートブロワ No.3"
+   }
+  },
+  {
+   "id": "1D-008",
+   "ledgerName": "スートブロワ No.4",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-108",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.4",
+    "m1報告書": "スートブロワ No.4"
+   }
+  },
+  {
+   "id": "1D-009",
+   "ledgerName": "スートブロワ No.5",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-109",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.5",
+    "m1報告書": "スートブロワ No.5"
+   }
+  },
+  {
+   "id": "1D-010",
+   "ledgerName": "スートブロワ No.6",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-110",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.6",
+    "m1報告書": "スートブロワ No.6"
+   }
+  },
+  {
+   "id": "1D-011",
+   "ledgerName": "ボイラダスト排出装置 No.1",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-111",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラダスト排出装置 No.1",
+    "m1報告書": "ボイラダスト排出装置 No.1"
+   }
+  },
+  {
+   "id": "1D-012",
+   "ledgerName": "ボイラダスト排出装置 No.2",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-112",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラダスト排出装置 No.2",
+    "m1報告書": "ボイラダスト排出装置 No.2"
+   }
+  },
+  {
+   "id": "1D-013",
+   "ledgerName": "ボイラダストコンベヤ",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-113",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラダストコンベヤ",
+    "m1報告書": "ボイラダストコンベヤ"
+   }
+  },
+  {
+   "id": "1D-014",
+   "ledgerName": "ブロータンク",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-114",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ブロータンク",
+    "m1報告書": "ブロータンク"
+   }
+  },
+  {
+   "id": "1D-015",
+   "ledgerName": "清缶剤注入ポンプ",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-115",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "清缶剤注入ポンプ",
+    "m1報告書": "清缶剤注入ポンプ"
+   }
+  },
+  {
+   "id": "1D-016",
+   "ledgerName": "ボイラ水サンプリングクーラ",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-116",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラ水サンプリングクーラ",
+    "m1報告書": "ボイラ水サンプリングクーラ"
+   }
+  },
+  {
+   "id": "1D-017",
+   "ledgerName": "減温塔",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-117",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔",
+    "m1報告書": "減温塔"
+   }
+  },
+  {
+   "id": "1D-018",
+   "ledgerName": "減温塔噴射水ポンプ No.1",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-118",
+   "oldDrawingNo": null,
+   "duty": "常用",
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔噴射水ポンプ No.1",
+    "m1報告書": "減温塔噴射水ポンプ No.1"
+   }
+  },
+  {
+   "id": "1D-019",
+   "ledgerName": "減温塔噴射水ポンプ No.2",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-119",
+   "oldDrawingNo": null,
+   "duty": "予備",
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔噴射水ポンプ No.2",
+    "m1報告書": "減温塔噴射水ポンプ No.2"
+   }
+  },
+  {
+   "id": "1D-020",
+   "ledgerName": "減温塔噴射水槽",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-120",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔噴射水槽",
+    "m1報告書": "減温塔噴射水槽"
+   }
+  },
+  {
+   "id": "1D-021",
+   "ledgerName": "減温塔噴霧用空気圧縮機",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1999,
+   "drawingNo": "DX-101",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔噴霧用空気圧縮機",
+    "m1報告書": "減温塔噴霧用空気圧縮機"
+   }
+  },
+  {
+   "id": "1D-022",
+   "ledgerName": "減温塔ダスト排出装置",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-121",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔ダスト排出装置",
+    "m1報告書": "減温塔ダスト排出装置"
+   }
+  },
+  {
+   "id": "1D-023",
+   "ledgerName": "減温塔ダストコンベヤ",
+   "line": 1,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-122",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔ダストコンベヤ",
+    "m1報告書": "減温塔ダストコンベヤ"
+   }
+  },
+  {
+   "id": "1E-001",
+   "ledgerName": "消石灰小出しホッパ",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1989,
+   "drawingNo": "G-101",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "消石灰小出しホッパ",
+    "m1報告書": "消石灰小出しホッパ"
+   }
+  },
+  {
+   "id": "1E-002",
+   "ledgerName": "消石灰定量供給機",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1989,
+   "drawingNo": "G-102",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "消石灰定量供給機",
+    "m1報告書": "消石灰定量供給機"
+   }
+  },
+  {
+   "id": "1E-003",
+   "ledgerName": "消石灰供給ブロワ",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1989,
+   "drawingNo": "G-103",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "消石灰供給ブロワ",
+    "m1報告書": "消石灰供給ブロワ"
+   }
+  },
+  {
+   "id": "1E-004",
+   "ledgerName": "活性炭小出しホッパ",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1999,
+   "drawingNo": "DX-102",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "活性炭小出しホッパ",
+    "m1報告書": "活性炭小出しホッパ"
+   }
+  },
+  {
+   "id": "1E-005",
+   "ledgerName": "活性炭定量供給機",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1999,
+   "drawingNo": "DX-103",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "活性炭定量供給機",
+    "m1報告書": "活性炭定量供給機"
+   }
+  },
+  {
+   "id": "1E-006",
+   "ledgerName": "活性炭供給ブロワ",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1999,
+   "drawingNo": "DX-104",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "活性炭供給ブロワ",
+    "m1報告書": "活性炭供給ブロワ"
+   }
+  },
+  {
+   "id": "1E-007",
+   "ledgerName": "バグフィルタ",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-105",
+   "oldDrawingNo": "G-104",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "バグフィルタ",
+    "m1報告書": "バグフィルター"
+   }
+  },
+  {
+   "id": "1E-008",
+   "ledgerName": "ろ布逆洗装置",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-106",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ろ布逆洗装置",
+    "m1報告書": "ろ布逆洗装置"
+   }
+  },
+  {
+   "id": "1E-009",
+   "ledgerName": "BF逆洗用空気槽",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-107",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF逆洗用空気槽",
+    "m1報告書": "BF逆洗用空気槽"
+   }
+  },
+  {
+   "id": "1E-010",
+   "ledgerName": "BF飛灰排出装置 No.1",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-108",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰排出装置 No.1",
+    "m1報告書": "BF飛灰排出装置 No.1"
+   }
+  },
+  {
+   "id": "1E-011",
+   "ledgerName": "BF飛灰排出装置 No.2",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-109",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰排出装置 No.2",
+    "m1報告書": "BF飛灰排出装置 No.2"
+   }
+  },
+  {
+   "id": "1E-012",
+   "ledgerName": "BF飛灰排出装置 No.3",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-110",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰排出装置 No.3",
+    "m1報告書": "BF飛灰排出装置 No.3"
+   }
+  },
+  {
+   "id": "1E-013",
+   "ledgerName": "BF飛灰排出装置 No.4",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-111",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰排出装置 No.4",
+    "m1報告書": "BF飛灰排出装置 No.4"
+   }
+  },
+  {
+   "id": "1E-014",
+   "ledgerName": "BF飛灰スクリューコンベヤ",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-112",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰スクリューコンベヤ",
+    "m1報告書": "BF飛灰スクリューコンベヤ"
+   }
+  },
+  {
+   "id": "1E-015",
+   "ledgerName": "BF飛灰チェーンコンベヤ",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-113",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰チェーンコンベヤ",
+    "m1報告書": "BF飛灰チェーンコンベヤ"
+   }
+  },
+  {
+   "id": "1E-016",
+   "ledgerName": "BFホッパヒータ",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-114",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BFホッパヒータ",
+    "m1報告書": "BFホッパヒータ"
+   }
+  },
+  {
+   "id": "1E-017",
+   "ledgerName": "BF保温循環ファン",
+   "line": 1,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-115",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF保温循環ファン",
+    "m1報告書": "BF保温循環ファン"
+   }
+  },
+  {
+   "id": "1F-001",
+   "ledgerName": "押込送風機",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "送風",
+   "installedFY": 1989,
+   "drawingNo": "V-101",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "押込送風機",
+    "m1報告書": "押込送風機"
+   }
+  },
+  {
+   "id": "1F-002",
+   "ledgerName": "二次空気送風機",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "送風",
+   "installedFY": 1989,
+   "drawingNo": "V-102",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "二次空気送風機",
+    "m1報告書": "二次空気送風機"
+   }
+  },
+  {
+   "id": "1F-003",
+   "ledgerName": "空気予熱器",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "送風",
+   "installedFY": 1989,
+   "drawingNo": "V-103",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "空気予熱器",
+    "m1報告書": "空気予熱器"
+   }
+  },
+  {
+   "id": "1F-004",
+   "ledgerName": "二次空気予熱器",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "送風",
+   "installedFY": 1989,
+   "drawingNo": "V-104",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "二次空気予熱器",
+    "m1報告書": "二次空気予熱器"
+   }
+  },
+  {
+   "id": "1F-005",
+   "ledgerName": "誘引通風機",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "誘引",
+   "installedFY": 1999,
+   "drawingNo": "DX-116",
+   "oldDrawingNo": "V-105",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "誘引通風機",
+    "m1報告書": "誘引送風機"
+   }
+  },
+  {
+   "id": "1F-006",
+   "ledgerName": "誘引通風機速度制御装置",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "誘引",
+   "installedFY": 1999,
+   "drawingNo": "DX-117",
+   "oldDrawingNo": "V-106",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "誘引通風機速度制御装置",
+    "m1報告書": "誘引送風機速度制御装置"
+   }
+  },
+  {
+   "id": "1F-007",
+   "ledgerName": "誘引通風機潤滑油ユニット",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "誘引",
+   "installedFY": 1999,
+   "drawingNo": "DX-118",
+   "oldDrawingNo": "V-107",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "誘引通風機潤滑油ユニット",
+    "m1報告書": "誘引送風機潤滑油ユニット"
+   }
+  },
+  {
+   "id": "1F-008",
+   "ledgerName": "誘引通風機軸受冷却ファン",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "誘引",
+   "installedFY": 1999,
+   "drawingNo": "DX-119",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "誘引通風機軸受冷却ファン",
+    "m1報告書": "誘引送風機軸受冷却ファン"
+   }
+  },
+  {
+   "id": "1F-009",
+   "ledgerName": "押込送風機入口ダンパ",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1989,
+   "drawingNo": "V-108",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "押込送風機入口ダンパ",
+    "m1報告書": "押込送風機入口ダンパ"
+   }
+  },
+  {
+   "id": "1F-010",
+   "ledgerName": "二次空気ダンパ",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1989,
+   "drawingNo": "V-109",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "二次空気ダンパ",
+    "m1報告書": "二次空気ダンパ"
+   }
+  },
+  {
+   "id": "1F-011",
+   "ledgerName": "空気予熱器バイパスダンパ",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1989,
+   "drawingNo": "V-110",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "空気予熱器バイパスダンパ",
+    "m1報告書": "空気予熱器バイパスダンパ"
+   }
+  },
+  {
+   "id": "1F-012",
+   "ledgerName": "減温塔入口ダンパ",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1989,
+   "drawingNo": "V-111",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔入口ダンパ",
+    "m1報告書": "減温塔入口ダンパ"
+   }
+  },
+  {
+   "id": "1F-013",
+   "ledgerName": "BF入口ダンパ",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1999,
+   "drawingNo": "DX-120",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF入口ダンパ",
+    "m1報告書": "BF入口ダンパ"
+   }
+  },
+  {
+   "id": "1F-014",
+   "ledgerName": "BF出口ダンパ",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1999,
+   "drawingNo": "DX-121",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF出口ダンパ",
+    "m1報告書": "BF出口ダンパ"
+   }
+  },
+  {
+   "id": "1F-015",
+   "ledgerName": "BFバイパスダンパ",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1999,
+   "drawingNo": "DX-122",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BFバイパスダンパ",
+    "m1報告書": "BFバイパスダンパ"
+   }
+  },
+  {
+   "id": "1F-016",
+   "ledgerName": "誘引通風機入口ダンパ",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1999,
+   "drawingNo": "DX-123",
+   "oldDrawingNo": "V-112",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "誘引通風機入口ダンパ",
+    "m1報告書": "誘引送風機入口ダンパ"
+   }
+  },
+  {
+   "id": "1F-017",
+   "ledgerName": "煙道切替ダンパ",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1999,
+   "drawingNo": "DX-124",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "煙道切替ダンパ",
+    "m1報告書": "煙道切替ダンパ"
+   }
+  },
+  {
+   "id": "1F-018",
+   "ledgerName": "煙突内筒",
+   "line": 1,
+   "setsubi": "通風設備",
+   "keitou": "煙突",
+   "installedFY": 1989,
+   "drawingNo": "V-113",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "煙突内筒",
+    "m1報告書": "煙突内筒"
+   }
+  },
+  {
+   "id": "1L-001",
+   "ledgerName": "炉別動力制御盤",
+   "line": 1,
+   "setsubi": "電気設備",
+   "keitou": "炉別電気",
+   "installedFY": 1989,
+   "drawingNo": "E-101",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉別動力制御盤",
+    "m1報告書": "炉別動力制御盤"
+   }
+  },
+  {
+   "id": "1L-002",
+   "ledgerName": "燃焼設備現場盤",
+   "line": 1,
+   "setsubi": "電気設備",
+   "keitou": "炉別電気",
+   "installedFY": 1989,
+   "drawingNo": "E-102",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "燃焼設備現場盤",
+    "m1報告書": "燃焼設備現場盤"
+   }
+  },
+  {
+   "id": "1L-003",
+   "ledgerName": "砂循環設備現場盤",
+   "line": 1,
+   "setsubi": "電気設備",
+   "keitou": "炉別電気",
+   "installedFY": 2008,
+   "drawingNo": "KR-111",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂循環設備現場盤",
+    "m1報告書": "砂循環設備現場盤"
+   }
+  },
+  {
+   "id": "1L-004",
+   "ledgerName": "ボイラ現場盤",
+   "line": 1,
+   "setsubi": "電気設備",
+   "keitou": "炉別電気",
+   "installedFY": 1989,
+   "drawingNo": "E-103",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラ現場盤",
+    "m1報告書": "ボイラ現場盤"
+   }
+  },
+  {
+   "id": "1L-005",
+   "ledgerName": "排ガス処理設備現場盤",
+   "line": 1,
+   "setsubi": "電気設備",
+   "keitou": "炉別電気",
+   "installedFY": 1999,
+   "drawingNo": "DX-125",
+   "oldDrawingNo": "E-104",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "排ガス処理設備現場盤",
+    "m1報告書": "排ガス処理設備現場盤"
+   }
+  },
+  {
+   "id": "2A-001",
+   "ledgerName": "ごみホッパ",
+   "line": 2,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-201",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ごみホッパ",
+    "m1報告書": "ごみホッパ"
+   }
+  },
+  {
+   "id": "2A-002",
+   "ledgerName": "ホッパブリッジ解除装置",
+   "line": 2,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-202",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ホッパブリッジ解除装置",
+    "m1報告書": "ホッパブリッジ解除装置"
+   }
+  },
+  {
+   "id": "2A-003",
+   "ledgerName": "ホッパ遮断ゲート",
+   "line": 2,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-203",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ホッパ遮断ゲート",
+    "m1報告書": "ホッパ遮断ゲート"
+   }
+  },
+  {
+   "id": "2A-004",
+   "ledgerName": "定量給じん機 No.1",
+   "line": 2,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-204",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "定量給じん機 No.1",
+    "m1報告書": "給塵スクリュー No.1"
+   }
+  },
+  {
+   "id": "2A-005",
+   "ledgerName": "定量給じん機 No.2",
+   "line": 2,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-205",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "定量給じん機 No.2",
+    "m1報告書": "給塵スクリュー No.2"
+   }
+  },
+  {
+   "id": "2A-006",
+   "ledgerName": "給じんシュートダンパ No.1",
+   "line": 2,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-206",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "給じんシュートダンパ No.1",
+    "m1報告書": "給じんシュートダンパ No.1"
+   }
+  },
+  {
+   "id": "2A-007",
+   "ledgerName": "給じんシュートダンパ No.2",
+   "line": 2,
+   "setsubi": "受入供給設備",
+   "keitou": "給じん",
+   "installedFY": 1989,
+   "drawingNo": "R-207",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "給じんシュートダンパ No.2",
+    "m1報告書": "給じんシュートダンパ No.2"
+   }
+  },
+  {
+   "id": "2B-001",
+   "ledgerName": "流動床炉本体",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 1989,
+   "drawingNo": "F-201",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "流動床炉本体",
+    "m1報告書": "焼却炉本体"
+   }
+  },
+  {
+   "id": "2B-002",
+   "ledgerName": "散気装置",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 2009,
+   "drawingNo": "KR-201",
+   "oldDrawingNo": "F-202",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "散気装置",
+    "m1報告書": "散気管"
+   }
+  },
+  {
+   "id": "2B-003",
+   "ledgerName": "不燃物抜出装置 No.1",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 2009,
+   "drawingNo": "KR-202",
+   "oldDrawingNo": "F-203",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物抜出装置 No.1",
+    "m1報告書": "不燃物抜出装置 No.1"
+   }
+  },
+  {
+   "id": "2B-004",
+   "ledgerName": "不燃物抜出装置 No.2",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 2009,
+   "drawingNo": "KR-203",
+   "oldDrawingNo": "F-204",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物抜出装置 No.2",
+    "m1報告書": "不燃物抜出装置 No.2"
+   }
+  },
+  {
+   "id": "2B-005",
+   "ledgerName": "熱風発生炉",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "バーナ",
+   "installedFY": 1989,
+   "drawingNo": "F-205",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "熱風発生炉",
+    "m1報告書": "熱風発生炉"
+   }
+  },
+  {
+   "id": "2B-006",
+   "ledgerName": "熱風発生炉用燃焼空気ファン",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "バーナ",
+   "installedFY": 1989,
+   "drawingNo": "F-206",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "熱風発生炉用燃焼空気ファン",
+    "m1報告書": "熱風発生炉用燃焼空気ファン"
+   }
+  },
+  {
+   "id": "2B-007",
+   "ledgerName": "助燃バーナ",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "バーナ",
+   "installedFY": 1989,
+   "drawingNo": "F-207",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "助燃バーナ",
+    "m1報告書": "助燃バーナ"
+   }
+  },
+  {
+   "id": "2B-008",
+   "ledgerName": "炉内水噴霧装置",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "炉温調整",
+   "installedFY": 1989,
+   "drawingNo": "F-208",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉内水噴霧装置",
+    "m1報告書": "炉内水噴霧装置"
+   }
+  },
+  {
+   "id": "2B-009",
+   "ledgerName": "炉内噴霧水ポンプ No.1",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "炉温調整",
+   "installedFY": 1989,
+   "drawingNo": "F-209",
+   "oldDrawingNo": null,
+   "duty": "常用",
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉内噴霧水ポンプ No.1",
+    "m1報告書": "炉内噴霧水ポンプ No.1"
+   }
+  },
+  {
+   "id": "2B-010",
+   "ledgerName": "炉内噴霧水ポンプ No.2",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "炉温調整",
+   "installedFY": 1989,
+   "drawingNo": "F-210",
+   "oldDrawingNo": null,
+   "duty": "予備",
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉内噴霧水ポンプ No.2",
+    "m1報告書": "炉内噴霧水ポンプ No.2"
+   }
+  },
+  {
+   "id": "2B-011",
+   "ledgerName": "炉壁冷却空気ファン",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 1989,
+   "drawingNo": "F-211",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉壁冷却空気ファン",
+    "m1報告書": "炉壁冷却空気ファン"
+   }
+  },
+  {
+   "id": "2B-012",
+   "ledgerName": "炉内監視カメラ装置",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "流動床炉",
+   "installedFY": 2006,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉内監視カメラ装置",
+    "m1報告書": "炉内監視カメラ装置"
+   }
+  },
+  {
+   "id": "2B-013",
+   "ledgerName": "灯油サービスタンク",
+   "line": 2,
+   "setsubi": "燃焼設備",
+   "keitou": "燃料",
+   "installedFY": 1989,
+   "drawingNo": "F-212",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "灯油サービスタンク",
+    "m1報告書": "灯油サービスタンク"
+   }
+  },
+  {
+   "id": "2C-001",
+   "ledgerName": "不燃物冷却スクリュー",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2009,
+   "drawingNo": "KR-204",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物冷却スクリュー",
+    "m1報告書": "不燃物冷却スクリュー"
+   }
+  },
+  {
+   "id": "2C-002",
+   "ledgerName": "不燃物排出コンベヤ No.1",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2009,
+   "drawingNo": "KR-205",
+   "oldDrawingNo": "S-201",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物排出コンベヤ No.1",
+    "m1報告書": "不燃物排出コンベヤ No.1"
+   }
+  },
+  {
+   "id": "2C-003",
+   "ledgerName": "不燃物排出コンベヤ No.2",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2009,
+   "drawingNo": "KR-206",
+   "oldDrawingNo": "S-202",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物排出コンベヤ No.2",
+    "m1報告書": "不燃物排出コンベヤ No.2"
+   }
+  },
+  {
+   "id": "2C-004",
+   "ledgerName": "振動ふるい",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2009,
+   "drawingNo": "KR-207",
+   "oldDrawingNo": "S-203",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "振動ふるい",
+    "m1報告書": "振動ふるい"
+   }
+  },
+  {
+   "id": "2C-005",
+   "ledgerName": "砂循環エレベータ",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2009,
+   "drawingNo": "KR-208",
+   "oldDrawingNo": "S-204",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂循環エレベータ",
+    "m1報告書": "砂循環エレベータ"
+   }
+  },
+  {
+   "id": "2C-006",
+   "ledgerName": "砂貯留ホッパ",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 1989,
+   "drawingNo": "S-205",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂貯留ホッパ",
+    "m1報告書": "砂貯留ホッパ"
+   }
+  },
+  {
+   "id": "2C-007",
+   "ledgerName": "砂切出装置",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2009,
+   "drawingNo": "KR-209",
+   "oldDrawingNo": "S-206",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂切出装置",
+    "m1報告書": "砂切出装置"
+   }
+  },
+  {
+   "id": "2C-008",
+   "ledgerName": "砂再投入コンベヤ",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 2009,
+   "drawingNo": "KR-210",
+   "oldDrawingNo": "S-207",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂再投入コンベヤ",
+    "m1報告書": "砂再投入コンベヤ"
+   }
+  },
+  {
+   "id": "2C-009",
+   "ledgerName": "新砂供給フィーダ",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 1989,
+   "drawingNo": "S-208",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "新砂供給フィーダ",
+    "m1報告書": "新砂供給フィーダ"
+   }
+  },
+  {
+   "id": "2C-010",
+   "ledgerName": "不燃物磁選機",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 1989,
+   "drawingNo": "S-209",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物磁選機",
+    "m1報告書": "不燃物磁選機"
+   }
+  },
+  {
+   "id": "2C-011",
+   "ledgerName": "不燃物搬出コンベヤ",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 1989,
+   "drawingNo": "S-210",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物搬出コンベヤ",
+    "m1報告書": "不燃物搬出コンベヤ"
+   }
+  },
+  {
+   "id": "2C-012",
+   "ledgerName": "砂循環集じん機",
+   "line": 2,
+   "setsubi": "砂循環設備",
+   "keitou": "砂循環",
+   "installedFY": 1989,
+   "drawingNo": "S-211",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂循環集じん機",
+    "m1報告書": "砂循環集じん機"
+   }
+  },
+  {
+   "id": "2D-001",
+   "ledgerName": "廃熱ボイラ",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-201",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "廃熱ボイラ",
+    "m1報告書": "ボイラ"
+   }
+  },
+  {
+   "id": "2D-002",
+   "ledgerName": "エコノマイザ",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-202",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "エコノマイザ",
+    "m1報告書": "エコノマイザ"
+   }
+  },
+  {
+   "id": "2D-003",
+   "ledgerName": "ボイラ給水ポンプ No.1",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-203",
+   "oldDrawingNo": null,
+   "duty": "常用",
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラ給水ポンプ No.1",
+    "m1報告書": "ボイラ給水ポンプ No.1"
+   }
+  },
+  {
+   "id": "2D-004",
+   "ledgerName": "ボイラ給水ポンプ No.2",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-204",
+   "oldDrawingNo": null,
+   "duty": "予備",
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラ給水ポンプ No.2",
+    "m1報告書": "ボイラ給水ポンプ No.2"
+   }
+  },
+  {
+   "id": "2D-005",
+   "ledgerName": "スートブロワ No.1",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-205",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.1",
+    "m1報告書": "スートブロワ No.1"
+   }
+  },
+  {
+   "id": "2D-006",
+   "ledgerName": "スートブロワ No.2",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-206",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.2",
+    "m1報告書": "スートブロワ No.2"
+   }
+  },
+  {
+   "id": "2D-007",
+   "ledgerName": "スートブロワ No.3",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-207",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.3",
+    "m1報告書": "スートブロワ No.3"
+   }
+  },
+  {
+   "id": "2D-008",
+   "ledgerName": "スートブロワ No.4",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-208",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.4",
+    "m1報告書": "スートブロワ No.4"
+   }
+  },
+  {
+   "id": "2D-009",
+   "ledgerName": "スートブロワ No.5",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-209",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.5",
+    "m1報告書": "スートブロワ No.5"
+   }
+  },
+  {
+   "id": "2D-010",
+   "ledgerName": "スートブロワ No.6",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-210",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "スートブロワ No.6",
+    "m1報告書": "スートブロワ No.6"
+   }
+  },
+  {
+   "id": "2D-011",
+   "ledgerName": "ボイラダスト排出装置 No.1",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-211",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラダスト排出装置 No.1",
+    "m1報告書": "ボイラダスト排出装置 No.1"
+   }
+  },
+  {
+   "id": "2D-012",
+   "ledgerName": "ボイラダスト排出装置 No.2",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-212",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラダスト排出装置 No.2",
+    "m1報告書": "ボイラダスト排出装置 No.2"
+   }
+  },
+  {
+   "id": "2D-013",
+   "ledgerName": "ボイラダストコンベヤ",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-213",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラダストコンベヤ",
+    "m1報告書": "ボイラダストコンベヤ"
+   }
+  },
+  {
+   "id": "2D-014",
+   "ledgerName": "ブロータンク",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-214",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ブロータンク",
+    "m1報告書": "ブロータンク"
+   }
+  },
+  {
+   "id": "2D-015",
+   "ledgerName": "清缶剤注入ポンプ",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-215",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "清缶剤注入ポンプ",
+    "m1報告書": "清缶剤注入ポンプ"
+   }
+  },
+  {
+   "id": "2D-016",
+   "ledgerName": "ボイラ水サンプリングクーラ",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "廃熱ボイラ",
+   "installedFY": 1989,
+   "drawingNo": "B-216",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラ水サンプリングクーラ",
+    "m1報告書": "ボイラ水サンプリングクーラ"
+   }
+  },
+  {
+   "id": "2D-017",
+   "ledgerName": "減温塔",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-217",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔",
+    "m1報告書": "減温塔"
+   }
+  },
+  {
+   "id": "2D-018",
+   "ledgerName": "減温塔噴射水ポンプ No.1",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-218",
+   "oldDrawingNo": null,
+   "duty": "常用",
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔噴射水ポンプ No.1",
+    "m1報告書": "減温塔噴射水ポンプ No.1"
+   }
+  },
+  {
+   "id": "2D-019",
+   "ledgerName": "減温塔噴射水ポンプ No.2",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-219",
+   "oldDrawingNo": null,
+   "duty": "予備",
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔噴射水ポンプ No.2",
+    "m1報告書": "減温塔噴射水ポンプ No.2"
+   }
+  },
+  {
+   "id": "2D-020",
+   "ledgerName": "減温塔噴射水槽",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-220",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔噴射水槽",
+    "m1報告書": "減温塔噴射水槽"
+   }
+  },
+  {
+   "id": "2D-021",
+   "ledgerName": "減温塔噴霧用空気圧縮機",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1999,
+   "drawingNo": "DX-201",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔噴霧用空気圧縮機",
+    "m1報告書": "減温塔噴霧用空気圧縮機"
+   }
+  },
+  {
+   "id": "2D-022",
+   "ledgerName": "減温塔ダスト排出装置",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-221",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔ダスト排出装置",
+    "m1報告書": "減温塔ダスト排出装置"
+   }
+  },
+  {
+   "id": "2D-023",
+   "ledgerName": "減温塔ダストコンベヤ",
+   "line": 2,
+   "setsubi": "燃焼ガス冷却設備",
+   "keitou": "減温塔",
+   "installedFY": 1989,
+   "drawingNo": "B-222",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔ダストコンベヤ",
+    "m1報告書": "減温塔ダストコンベヤ"
+   }
+  },
+  {
+   "id": "2E-001",
+   "ledgerName": "消石灰小出しホッパ",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1989,
+   "drawingNo": "G-201",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "消石灰小出しホッパ",
+    "m1報告書": "消石灰小出しホッパ"
+   }
+  },
+  {
+   "id": "2E-002",
+   "ledgerName": "消石灰定量供給機",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1989,
+   "drawingNo": "G-202",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "消石灰定量供給機",
+    "m1報告書": "消石灰定量供給機"
+   }
+  },
+  {
+   "id": "2E-003",
+   "ledgerName": "消石灰供給ブロワ",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1989,
+   "drawingNo": "G-203",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "消石灰供給ブロワ",
+    "m1報告書": "消石灰供給ブロワ"
+   }
+  },
+  {
+   "id": "2E-004",
+   "ledgerName": "活性炭小出しホッパ",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1999,
+   "drawingNo": "DX-202",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "活性炭小出しホッパ",
+    "m1報告書": "活性炭小出しホッパ"
+   }
+  },
+  {
+   "id": "2E-005",
+   "ledgerName": "活性炭定量供給機",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1999,
+   "drawingNo": "DX-203",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "活性炭定量供給機",
+    "m1報告書": "活性炭定量供給機"
+   }
+  },
+  {
+   "id": "2E-006",
+   "ledgerName": "活性炭供給ブロワ",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤供給",
+   "installedFY": 1999,
+   "drawingNo": "DX-204",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "活性炭供給ブロワ",
+    "m1報告書": "活性炭供給ブロワ"
+   }
+  },
+  {
+   "id": "2E-007",
+   "ledgerName": "バグフィルタ",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-205",
+   "oldDrawingNo": "G-204",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "バグフィルタ",
+    "m1報告書": "バグフィルター"
+   }
+  },
+  {
+   "id": "2E-008",
+   "ledgerName": "ろ布逆洗装置",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-206",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ろ布逆洗装置",
+    "m1報告書": "ろ布逆洗装置"
+   }
+  },
+  {
+   "id": "2E-009",
+   "ledgerName": "BF逆洗用空気槽",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-207",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF逆洗用空気槽",
+    "m1報告書": "BF逆洗用空気槽"
+   }
+  },
+  {
+   "id": "2E-010",
+   "ledgerName": "BF飛灰排出装置 No.1",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-208",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰排出装置 No.1",
+    "m1報告書": "BF飛灰排出装置 No.1"
+   }
+  },
+  {
+   "id": "2E-011",
+   "ledgerName": "BF飛灰排出装置 No.2",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-209",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰排出装置 No.2",
+    "m1報告書": "BF飛灰排出装置 No.2"
+   }
+  },
+  {
+   "id": "2E-012",
+   "ledgerName": "BF飛灰排出装置 No.3",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-210",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰排出装置 No.3",
+    "m1報告書": "BF飛灰排出装置 No.3"
+   }
+  },
+  {
+   "id": "2E-013",
+   "ledgerName": "BF飛灰排出装置 No.4",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-211",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰排出装置 No.4",
+    "m1報告書": "BF飛灰排出装置 No.4"
+   }
+  },
+  {
+   "id": "2E-014",
+   "ledgerName": "BF飛灰スクリューコンベヤ",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-212",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰スクリューコンベヤ",
+    "m1報告書": "BF飛灰スクリューコンベヤ"
+   }
+  },
+  {
+   "id": "2E-015",
+   "ledgerName": "BF飛灰チェーンコンベヤ",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-213",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF飛灰チェーンコンベヤ",
+    "m1報告書": "BF飛灰チェーンコンベヤ"
+   }
+  },
+  {
+   "id": "2E-016",
+   "ledgerName": "BFホッパヒータ",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-214",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BFホッパヒータ",
+    "m1報告書": "BFホッパヒータ"
+   }
+  },
+  {
+   "id": "2E-017",
+   "ledgerName": "BF保温循環ファン",
+   "line": 2,
+   "setsubi": "排ガス処理設備",
+   "keitou": "集じん",
+   "installedFY": 1999,
+   "drawingNo": "DX-215",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF保温循環ファン",
+    "m1報告書": "BF保温循環ファン"
+   }
+  },
+  {
+   "id": "2F-001",
+   "ledgerName": "押込送風機",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "送風",
+   "installedFY": 1989,
+   "drawingNo": "V-201",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "押込送風機",
+    "m1報告書": "押込送風機"
+   }
+  },
+  {
+   "id": "2F-002",
+   "ledgerName": "二次空気送風機",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "送風",
+   "installedFY": 1989,
+   "drawingNo": "V-202",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "二次空気送風機",
+    "m1報告書": "二次空気送風機"
+   }
+  },
+  {
+   "id": "2F-003",
+   "ledgerName": "空気予熱器",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "送風",
+   "installedFY": 1989,
+   "drawingNo": "V-203",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "空気予熱器",
+    "m1報告書": "空気予熱器"
+   }
+  },
+  {
+   "id": "2F-004",
+   "ledgerName": "二次空気予熱器",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "送風",
+   "installedFY": 1989,
+   "drawingNo": "V-204",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "二次空気予熱器",
+    "m1報告書": "二次空気予熱器"
+   }
+  },
+  {
+   "id": "2F-005",
+   "ledgerName": "誘引通風機",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "誘引",
+   "installedFY": 1999,
+   "drawingNo": "DX-216",
+   "oldDrawingNo": "V-205",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "誘引通風機",
+    "m1報告書": "誘引送風機"
+   }
+  },
+  {
+   "id": "2F-006",
+   "ledgerName": "誘引通風機速度制御装置",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "誘引",
+   "installedFY": 1999,
+   "drawingNo": "DX-217",
+   "oldDrawingNo": "V-206",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "誘引通風機速度制御装置",
+    "m1報告書": "誘引送風機速度制御装置"
+   }
+  },
+  {
+   "id": "2F-007",
+   "ledgerName": "誘引通風機潤滑油ユニット",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "誘引",
+   "installedFY": 1999,
+   "drawingNo": "DX-218",
+   "oldDrawingNo": "V-207",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "誘引通風機潤滑油ユニット",
+    "m1報告書": "誘引送風機潤滑油ユニット"
+   }
+  },
+  {
+   "id": "2F-008",
+   "ledgerName": "誘引通風機軸受冷却ファン",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "誘引",
+   "installedFY": 1999,
+   "drawingNo": "DX-219",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "誘引通風機軸受冷却ファン",
+    "m1報告書": "誘引送風機軸受冷却ファン"
+   }
+  },
+  {
+   "id": "2F-009",
+   "ledgerName": "押込送風機入口ダンパ",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1989,
+   "drawingNo": "V-208",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "押込送風機入口ダンパ",
+    "m1報告書": "押込送風機入口ダンパ"
+   }
+  },
+  {
+   "id": "2F-010",
+   "ledgerName": "二次空気ダンパ",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1989,
+   "drawingNo": "V-209",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "二次空気ダンパ",
+    "m1報告書": "二次空気ダンパ"
+   }
+  },
+  {
+   "id": "2F-011",
+   "ledgerName": "空気予熱器バイパスダンパ",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1989,
+   "drawingNo": "V-210",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "空気予熱器バイパスダンパ",
+    "m1報告書": "空気予熱器バイパスダンパ"
+   }
+  },
+  {
+   "id": "2F-012",
+   "ledgerName": "減温塔入口ダンパ",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1989,
+   "drawingNo": "V-211",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "減温塔入口ダンパ",
+    "m1報告書": "減温塔入口ダンパ"
+   }
+  },
+  {
+   "id": "2F-013",
+   "ledgerName": "BF入口ダンパ",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1999,
+   "drawingNo": "DX-220",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF入口ダンパ",
+    "m1報告書": "BF入口ダンパ"
+   }
+  },
+  {
+   "id": "2F-014",
+   "ledgerName": "BF出口ダンパ",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1999,
+   "drawingNo": "DX-221",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BF出口ダンパ",
+    "m1報告書": "BF出口ダンパ"
+   }
+  },
+  {
+   "id": "2F-015",
+   "ledgerName": "BFバイパスダンパ",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1999,
+   "drawingNo": "DX-222",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "BFバイパスダンパ",
+    "m1報告書": "BFバイパスダンパ"
+   }
+  },
+  {
+   "id": "2F-016",
+   "ledgerName": "誘引通風機入口ダンパ",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1999,
+   "drawingNo": "DX-223",
+   "oldDrawingNo": "V-212",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "誘引通風機入口ダンパ",
+    "m1報告書": "誘引送風機入口ダンパ"
+   }
+  },
+  {
+   "id": "2F-017",
+   "ledgerName": "煙道切替ダンパ",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "ダンパ",
+   "installedFY": 1999,
+   "drawingNo": "DX-224",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "煙道切替ダンパ",
+    "m1報告書": "煙道切替ダンパ"
+   }
+  },
+  {
+   "id": "2F-018",
+   "ledgerName": "煙突内筒",
+   "line": 2,
+   "setsubi": "通風設備",
+   "keitou": "煙突",
+   "installedFY": 1989,
+   "drawingNo": "V-213",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "煙突内筒",
+    "m1報告書": "煙突内筒"
+   }
+  },
+  {
+   "id": "2L-001",
+   "ledgerName": "炉別動力制御盤",
+   "line": 2,
+   "setsubi": "電気設備",
+   "keitou": "炉別電気",
+   "installedFY": 1989,
+   "drawingNo": "E-201",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉別動力制御盤",
+    "m1報告書": "炉別動力制御盤"
+   }
+  },
+  {
+   "id": "2L-002",
+   "ledgerName": "燃焼設備現場盤",
+   "line": 2,
+   "setsubi": "電気設備",
+   "keitou": "炉別電気",
+   "installedFY": 1989,
+   "drawingNo": "E-202",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "燃焼設備現場盤",
+    "m1報告書": "燃焼設備現場盤"
+   }
+  },
+  {
+   "id": "2L-003",
+   "ledgerName": "砂循環設備現場盤",
+   "line": 2,
+   "setsubi": "電気設備",
+   "keitou": "炉別電気",
+   "installedFY": 2009,
+   "drawingNo": "KR-211",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "砂循環設備現場盤",
+    "m1報告書": "砂循環設備現場盤"
+   }
+  },
+  {
+   "id": "2L-004",
+   "ledgerName": "ボイラ現場盤",
+   "line": 2,
+   "setsubi": "電気設備",
+   "keitou": "炉別電気",
+   "installedFY": 1989,
+   "drawingNo": "E-203",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ボイラ現場盤",
+    "m1報告書": "ボイラ現場盤"
+   }
+  },
+  {
+   "id": "2L-005",
+   "ledgerName": "排ガス処理設備現場盤",
+   "line": 2,
+   "setsubi": "電気設備",
+   "keitou": "炉別電気",
+   "installedFY": 1999,
+   "drawingNo": "DX-225",
+   "oldDrawingNo": "E-204",
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "排ガス処理設備現場盤",
+    "m1報告書": "排ガス処理設備現場盤"
+   }
+  },
+  {
+   "id": "0A-001",
+   "ledgerName": "計量機 No.1",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-001",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "計量機 No.1",
+    "m1報告書": "計量機 No.1"
+   }
+  },
+  {
+   "id": "0A-002",
+   "ledgerName": "計量機 No.2",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-002",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "計量機 No.2",
+    "m1報告書": "計量機 No.2"
+   }
+  },
+  {
+   "id": "0A-003",
+   "ledgerName": "計量制御盤",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 2005,
+   "drawingNo": null,
+   "oldDrawingNo": "R-003",
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "計量制御盤",
+    "m1報告書": "計量制御盤"
+   }
+  },
+  {
+   "id": "0A-004",
+   "ledgerName": "プラットホーム出入口扉 No.1",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-004",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "プラットホーム出入口扉 No.1",
+    "m1報告書": "プラットホーム出入口扉 No.1"
+   }
+  },
+  {
+   "id": "0A-005",
+   "ledgerName": "プラットホーム出入口扉 No.2",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-005",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "プラットホーム出入口扉 No.2",
+    "m1報告書": "プラットホーム出入口扉 No.2"
+   }
+  },
+  {
+   "id": "0A-006",
+   "ledgerName": "エアカーテン No.1",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-006",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "エアカーテン No.1",
+    "m1報告書": "エアカーテン No.1"
+   }
+  },
+  {
+   "id": "0A-007",
+   "ledgerName": "エアカーテン No.2",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-007",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "エアカーテン No.2",
+    "m1報告書": "エアカーテン No.2"
+   }
+  },
+  {
+   "id": "0A-008",
+   "ledgerName": "ごみ投入扉 No.1",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-008",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ごみ投入扉 No.1",
+    "m1報告書": "ごみ投入扉 No.1"
+   }
+  },
+  {
+   "id": "0A-009",
+   "ledgerName": "ごみ投入扉 No.2",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-009",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ごみ投入扉 No.2",
+    "m1報告書": "ごみ投入扉 No.2"
+   }
+  },
+  {
+   "id": "0A-010",
+   "ledgerName": "ごみ投入扉 No.3",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-010",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ごみ投入扉 No.3",
+    "m1報告書": "ごみ投入扉 No.3"
+   }
+  },
+  {
+   "id": "0A-011",
+   "ledgerName": "ごみ投入扉 No.4",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-011",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ごみ投入扉 No.4",
+    "m1報告書": "ごみ投入扉 No.4"
+   }
+  },
+  {
+   "id": "0A-012",
+   "ledgerName": "ごみ投入扉 No.5",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-012",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ごみ投入扉 No.5",
+    "m1報告書": "ごみ投入扉 No.5"
+   }
+  },
+  {
+   "id": "0A-013",
+   "ledgerName": "ごみ投入扉 No.6",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-013",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ごみ投入扉 No.6",
+    "m1報告書": "ごみ投入扉 No.6"
+   }
+  },
+  {
+   "id": "0A-014",
+   "ledgerName": "ダンピングボックス",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "受入",
+   "installedFY": 1989,
+   "drawingNo": "R-014",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ダンピングボックス",
+    "m1報告書": "ダンピングボックス"
+   }
+  },
+  {
+   "id": "0A-015",
+   "ledgerName": "ごみクレーン No.1",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "ごみクレーン",
+   "installedFY": 1989,
+   "drawingNo": "R-015",
+   "oldDrawingNo": null,
+   "duty": "常用",
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ごみクレーン No.1",
+    "m1報告書": "ごみクレーン No.1"
+   }
+  },
+  {
+   "id": "0A-016",
+   "ledgerName": "ごみクレーン No.2",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "ごみクレーン",
+   "installedFY": 1989,
+   "drawingNo": "R-016",
+   "oldDrawingNo": null,
+   "duty": "予備",
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ごみクレーン No.2",
+    "m1報告書": "ごみクレーン No.2"
+   }
+  },
+  {
+   "id": "0A-017",
+   "ledgerName": "ごみクレーン制御盤",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "ごみクレーン",
+   "installedFY": 2013,
+   "drawingNo": null,
+   "oldDrawingNo": "R-017",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "ごみクレーン制御盤",
+    "m1報告書": "ごみクレーン制御盤"
+   }
+  },
+  {
+   "id": "0A-018",
+   "ledgerName": "前処理破砕機 No.1",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "前処理破砕",
+   "installedFY": 1989,
+   "drawingNo": "R-018",
+   "oldDrawingNo": null,
+   "duty": "常用",
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "前処理破砕機 No.1",
+    "m1報告書": "前処理破砕機 No.1"
+   }
+  },
+  {
+   "id": "0A-019",
+   "ledgerName": "前処理破砕機 No.2",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "前処理破砕",
+   "installedFY": 1989,
+   "drawingNo": "R-019",
+   "oldDrawingNo": null,
+   "duty": "予備",
+   "importance": "A",
+   "policy2016": "部品取り（R3〜）",
+   "names": {
+    "機器台帳・計画": "前処理破砕機 No.2",
+    "m1報告書": "前処理破砕機 No.2"
+   }
+  },
+  {
+   "id": "0A-020",
+   "ledgerName": "破砕機油圧ユニット No.1",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "前処理破砕",
+   "installedFY": 1989,
+   "drawingNo": "R-020",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "破砕機油圧ユニット No.1",
+    "m1報告書": "破砕機油圧ユニット No.1"
+   }
+  },
+  {
+   "id": "0A-021",
+   "ledgerName": "破砕機油圧ユニット No.2",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "前処理破砕",
+   "installedFY": 1989,
+   "drawingNo": "R-021",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "破砕機油圧ユニット No.2",
+    "m1報告書": "破砕機油圧ユニット No.2"
+   }
+  },
+  {
+   "id": "0A-022",
+   "ledgerName": "破砕物排出コンベヤ No.1",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "前処理破砕",
+   "installedFY": 1989,
+   "drawingNo": "R-022",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "破砕物排出コンベヤ No.1",
+    "m1報告書": "破砕物排出コンベヤ No.1"
+   }
+  },
+  {
+   "id": "0A-023",
+   "ledgerName": "破砕物排出コンベヤ No.2",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "前処理破砕",
+   "installedFY": 1989,
+   "drawingNo": "R-023",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "破砕物排出コンベヤ No.2",
+    "m1報告書": "破砕物排出コンベヤ No.2"
+   }
+  },
+  {
+   "id": "0A-024",
+   "ledgerName": "破砕機制御盤",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "前処理破砕",
+   "installedFY": 1989,
+   "drawingNo": "R-024",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "破砕機制御盤",
+    "m1報告書": "破砕機制御盤"
+   }
+  },
+  {
+   "id": "0A-025",
+   "ledgerName": "脱臭装置",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "ピット",
+   "installedFY": 1989,
+   "drawingNo": "R-025",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "脱臭装置",
+    "m1報告書": "脱臭装置"
+   }
+  },
+  {
+   "id": "0A-026",
+   "ledgerName": "脱臭用送風機",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "ピット",
+   "installedFY": 1989,
+   "drawingNo": "R-026",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "脱臭用送風機",
+    "m1報告書": "脱臭用送風機"
+   }
+  },
+  {
+   "id": "0A-027",
+   "ledgerName": "ピット薬剤噴霧装置",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "ピット",
+   "installedFY": 1989,
+   "drawingNo": "R-027",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ピット薬剤噴霧装置",
+    "m1報告書": "ピット薬剤噴霧装置"
+   }
+  },
+  {
+   "id": "0A-028",
+   "ledgerName": "ピット放水銃 No.1",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "ピット",
+   "installedFY": 1989,
+   "drawingNo": "R-028",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ピット放水銃 No.1",
+    "m1報告書": "ピット放水銃 No.1"
+   }
+  },
+  {
+   "id": "0A-029",
+   "ledgerName": "ピット放水銃 No.2",
+   "line": "共通",
+   "setsubi": "受入供給設備",
+   "keitou": "ピット",
+   "installedFY": 1989,
+   "drawingNo": "R-029",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ピット放水銃 No.2",
+    "m1報告書": "ピット放水銃 No.2"
+   }
+  },
+  {
+   "id": "0B-001",
+   "ledgerName": "灯油貯留タンク",
+   "line": "共通",
+   "setsubi": "燃焼設備",
+   "keitou": "燃料",
+   "installedFY": 1989,
+   "drawingNo": "F-001",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "灯油貯留タンク",
+    "m1報告書": "灯油貯留タンク"
+   }
+  },
+  {
+   "id": "0B-002",
+   "ledgerName": "灯油移送ポンプ No.1",
+   "line": "共通",
+   "setsubi": "燃焼設備",
+   "keitou": "燃料",
+   "installedFY": 1989,
+   "drawingNo": "F-002",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "灯油移送ポンプ No.1",
+    "m1報告書": "灯油移送ポンプ No.1"
+   }
+  },
+  {
+   "id": "0B-003",
+   "ledgerName": "灯油移送ポンプ No.2",
+   "line": "共通",
+   "setsubi": "燃焼設備",
+   "keitou": "燃料",
+   "installedFY": 1989,
+   "drawingNo": "F-003",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "灯油移送ポンプ No.2",
+    "m1報告書": "灯油移送ポンプ No.2"
+   }
+  },
+  {
+   "id": "0C-001",
+   "ledgerName": "新砂貯留槽",
+   "line": "共通",
+   "setsubi": "砂循環設備",
+   "keitou": "新砂",
+   "installedFY": 1989,
+   "drawingNo": "S-001",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "新砂貯留槽",
+    "m1報告書": "新砂貯留槽"
+   }
+  },
+  {
+   "id": "0C-002",
+   "ledgerName": "新砂移送ブロワ",
+   "line": "共通",
+   "setsubi": "砂循環設備",
+   "keitou": "新砂",
+   "installedFY": 1989,
+   "drawingNo": "S-002",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "新砂移送ブロワ",
+    "m1報告書": "新砂移送ブロワ"
+   }
+  },
+  {
+   "id": "0E-001",
+   "ledgerName": "消石灰貯留槽",
+   "line": "共通",
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤貯留",
+   "installedFY": 1989,
+   "drawingNo": "G-001",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "消石灰貯留槽",
+    "m1報告書": "消石灰貯留槽"
+   }
+  },
+  {
+   "id": "0E-002",
+   "ledgerName": "消石灰槽集じん機",
+   "line": "共通",
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤貯留",
+   "installedFY": 1989,
+   "drawingNo": "G-002",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "消石灰槽集じん機",
+    "m1報告書": "消石灰槽集じん機"
+   }
+  },
+  {
+   "id": "0E-003",
+   "ledgerName": "消石灰切出装置",
+   "line": "共通",
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤貯留",
+   "installedFY": 1989,
+   "drawingNo": "G-003",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "消石灰切出装置",
+    "m1報告書": "消石灰切出装置"
+   }
+  },
+  {
+   "id": "0E-004",
+   "ledgerName": "活性炭貯留槽",
+   "line": "共通",
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤貯留",
+   "installedFY": 1999,
+   "drawingNo": "DX-001",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "活性炭貯留槽",
+    "m1報告書": "活性炭貯留槽"
+   }
+  },
+  {
+   "id": "0E-005",
+   "ledgerName": "活性炭槽集じん機",
+   "line": "共通",
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤貯留",
+   "installedFY": 1999,
+   "drawingNo": "DX-002",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "活性炭槽集じん機",
+    "m1報告書": "活性炭槽集じん機"
+   }
+  },
+  {
+   "id": "0E-006",
+   "ledgerName": "活性炭切出装置",
+   "line": "共通",
+   "setsubi": "排ガス処理設備",
+   "keitou": "薬剤貯留",
+   "installedFY": 1999,
+   "drawingNo": "DX-003",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "活性炭切出装置",
+    "m1報告書": "活性炭切出装置"
+   }
+  },
+  {
+   "id": "0G-001",
+   "ledgerName": "軟水装置 No.1",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "ボイラ給水",
+   "installedFY": 1989,
+   "drawingNo": "H-001",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "軟水装置 No.1",
+    "m1報告書": "軟水装置 No.1"
+   }
+  },
+  {
+   "id": "0G-002",
+   "ledgerName": "軟水装置 No.2",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "ボイラ給水",
+   "installedFY": 1989,
+   "drawingNo": "H-002",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "軟水装置 No.2",
+    "m1報告書": "軟水装置 No.2"
+   }
+  },
+  {
+   "id": "0G-003",
+   "ledgerName": "脱気器",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "ボイラ給水",
+   "installedFY": 1989,
+   "drawingNo": "H-003",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "脱気器",
+    "m1報告書": "脱気器"
+   }
+  },
+  {
+   "id": "0G-004",
+   "ledgerName": "脱気器給水ポンプ No.1",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "ボイラ給水",
+   "installedFY": 1989,
+   "drawingNo": "H-004",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "脱気器給水ポンプ No.1",
+    "m1報告書": "脱気器給水ポンプ No.1"
+   }
+  },
+  {
+   "id": "0G-005",
+   "ledgerName": "脱気器給水ポンプ No.2",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "ボイラ給水",
+   "installedFY": 1989,
+   "drawingNo": "H-005",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "脱気器給水ポンプ No.2",
+    "m1報告書": "脱気器給水ポンプ No.2"
+   }
+  },
+  {
+   "id": "0G-006",
+   "ledgerName": "高圧蒸気だめ",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "蒸気",
+   "installedFY": 1989,
+   "drawingNo": "H-006",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "高圧蒸気だめ",
+    "m1報告書": "高圧蒸気だめ"
+   }
+  },
+  {
+   "id": "0G-007",
+   "ledgerName": "低圧蒸気だめ",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "蒸気",
+   "installedFY": 1989,
+   "drawingNo": "H-007",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "低圧蒸気だめ",
+    "m1報告書": "低圧蒸気だめ"
+   }
+  },
+  {
+   "id": "0G-008",
+   "ledgerName": "場内暖房用熱交換器",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "熱利用",
+   "installedFY": 1989,
+   "drawingNo": "H-008",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "場内暖房用熱交換器",
+    "m1報告書": "場内暖房用熱交換器"
+   }
+  },
+  {
+   "id": "0G-009",
+   "ledgerName": "給湯用熱交換器",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "熱利用",
+   "installedFY": 1989,
+   "drawingNo": "H-009",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "給湯用熱交換器",
+    "m1報告書": "給湯用熱交換器"
+   }
+  },
+  {
+   "id": "0G-010",
+   "ledgerName": "余熱利用施設温水熱交換器",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "熱利用",
+   "installedFY": 1997,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "余熱利用施設温水熱交換器",
+    "m1報告書": "余熱利用施設温水熱交換器"
+   }
+  },
+  {
+   "id": "0G-011",
+   "ledgerName": "温水循環ポンプ No.1",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "熱利用",
+   "installedFY": 1989,
+   "drawingNo": "H-010",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "温水循環ポンプ No.1",
+    "m1報告書": "温水循環ポンプ No.1"
+   }
+  },
+  {
+   "id": "0G-012",
+   "ledgerName": "温水循環ポンプ No.2",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "熱利用",
+   "installedFY": 1989,
+   "drawingNo": "H-011",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "温水循環ポンプ No.2",
+    "m1報告書": "温水循環ポンプ No.2"
+   }
+  },
+  {
+   "id": "0G-013",
+   "ledgerName": "余熱利用施設送水ポンプ No.1",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "熱利用",
+   "installedFY": 1997,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "余熱利用施設送水ポンプ No.1",
+    "m1報告書": "余熱利用施設送水ポンプ No.1"
+   }
+  },
+  {
+   "id": "0G-014",
+   "ledgerName": "余熱利用施設送水ポンプ No.2",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "熱利用",
+   "installedFY": 1997,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "余熱利用施設送水ポンプ No.2",
+    "m1報告書": "余熱利用施設送水ポンプ No.2"
+   }
+  },
+  {
+   "id": "0G-015",
+   "ledgerName": "余剰蒸気復水器",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "復水",
+   "installedFY": 1989,
+   "drawingNo": "H-012",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "余剰蒸気復水器",
+    "m1報告書": "余剰蒸気復水器"
+   }
+  },
+  {
+   "id": "0G-016",
+   "ledgerName": "復水器ファン No.1",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "復水",
+   "installedFY": 1989,
+   "drawingNo": "H-013",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "復水器ファン No.1",
+    "m1報告書": "復水器ファン No.1"
+   }
+  },
+  {
+   "id": "0G-017",
+   "ledgerName": "復水器ファン No.2",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "復水",
+   "installedFY": 1989,
+   "drawingNo": "H-014",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "復水器ファン No.2",
+    "m1報告書": "復水器ファン No.2"
+   }
+  },
+  {
+   "id": "0G-018",
+   "ledgerName": "復水器ファン No.3",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "復水",
+   "installedFY": 1989,
+   "drawingNo": "H-015",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "復水器ファン No.3",
+    "m1報告書": "復水器ファン No.3"
+   }
+  },
+  {
+   "id": "0G-019",
+   "ledgerName": "復水タンク",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "復水",
+   "installedFY": 1989,
+   "drawingNo": "H-016",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "復水タンク",
+    "m1報告書": "復水タンク"
+   }
+  },
+  {
+   "id": "0G-020",
+   "ledgerName": "復水ポンプ No.1",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "復水",
+   "installedFY": 1989,
+   "drawingNo": "H-017",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "復水ポンプ No.1",
+    "m1報告書": "復水ポンプ No.1"
+   }
+  },
+  {
+   "id": "0G-021",
+   "ledgerName": "復水ポンプ No.2",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "復水",
+   "installedFY": 1989,
+   "drawingNo": "H-018",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "復水ポンプ No.2",
+    "m1報告書": "復水ポンプ No.2"
+   }
+  },
+  {
+   "id": "0G-022",
+   "ledgerName": "ブロー水冷却槽",
+   "line": "共通",
+   "setsubi": "余熱利用設備",
+   "keitou": "復水",
+   "installedFY": 1989,
+   "drawingNo": "H-019",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ブロー水冷却槽",
+    "m1報告書": "ブロー水冷却槽"
+   }
+  },
+  {
+   "id": "0H-001",
+   "ledgerName": "上水受水槽",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "給水",
+   "installedFY": 1989,
+   "drawingNo": "W-001",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "上水受水槽",
+    "m1報告書": "上水受水槽"
+   }
+  },
+  {
+   "id": "0H-002",
+   "ledgerName": "上水揚水ポンプ No.1",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "給水",
+   "installedFY": 1989,
+   "drawingNo": "W-002",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "上水揚水ポンプ No.1",
+    "m1報告書": "上水揚水ポンプ No.1"
+   }
+  },
+  {
+   "id": "0H-003",
+   "ledgerName": "上水揚水ポンプ No.2",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "給水",
+   "installedFY": 1989,
+   "drawingNo": "W-003",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "上水揚水ポンプ No.2",
+    "m1報告書": "上水揚水ポンプ No.2"
+   }
+  },
+  {
+   "id": "0H-004",
+   "ledgerName": "井水揚水ポンプ No.1",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "給水",
+   "installedFY": 1989,
+   "drawingNo": "W-004",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "井水揚水ポンプ No.1",
+    "m1報告書": "井水揚水ポンプ No.1"
+   }
+  },
+  {
+   "id": "0H-005",
+   "ledgerName": "井水揚水ポンプ No.2",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "給水",
+   "installedFY": 1989,
+   "drawingNo": "W-005",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "井水揚水ポンプ No.2",
+    "m1報告書": "井水揚水ポンプ No.2"
+   }
+  },
+  {
+   "id": "0H-006",
+   "ledgerName": "プラント用水ポンプ No.1",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "給水",
+   "installedFY": 1989,
+   "drawingNo": "W-006",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "プラント用水ポンプ No.1",
+    "m1報告書": "プラント用水ポンプ No.1"
+   }
+  },
+  {
+   "id": "0H-007",
+   "ledgerName": "プラント用水ポンプ No.2",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "給水",
+   "installedFY": 1989,
+   "drawingNo": "W-007",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "プラント用水ポンプ No.2",
+    "m1報告書": "プラント用水ポンプ No.2"
+   }
+  },
+  {
+   "id": "0H-008",
+   "ledgerName": "機器冷却水ポンプ No.1",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "冷却水",
+   "installedFY": 1989,
+   "drawingNo": "W-008",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "機器冷却水ポンプ No.1",
+    "m1報告書": "機器冷却水ポンプ No.1"
+   }
+  },
+  {
+   "id": "0H-009",
+   "ledgerName": "機器冷却水ポンプ No.2",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "冷却水",
+   "installedFY": 1989,
+   "drawingNo": "W-009",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "機器冷却水ポンプ No.2",
+    "m1報告書": "機器冷却水ポンプ No.2"
+   }
+  },
+  {
+   "id": "0H-010",
+   "ledgerName": "冷却塔 No.1",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "冷却水",
+   "installedFY": 1989,
+   "drawingNo": "W-010",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "冷却塔 No.1",
+    "m1報告書": "冷却塔 No.1"
+   }
+  },
+  {
+   "id": "0H-011",
+   "ledgerName": "冷却塔 No.2",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "冷却水",
+   "installedFY": 1989,
+   "drawingNo": "W-011",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "冷却塔 No.2",
+    "m1報告書": "冷却塔 No.2"
+   }
+  },
+  {
+   "id": "0H-012",
+   "ledgerName": "再利用水ポンプ No.1",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "給水",
+   "installedFY": 1989,
+   "drawingNo": "W-012",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "再利用水ポンプ No.1",
+    "m1報告書": "再利用水ポンプ No.1"
+   }
+  },
+  {
+   "id": "0H-013",
+   "ledgerName": "再利用水ポンプ No.2",
+   "line": "共通",
+   "setsubi": "給水設備",
+   "keitou": "給水",
+   "installedFY": 1989,
+   "drawingNo": "W-013",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "再利用水ポンプ No.2",
+    "m1報告書": "再利用水ポンプ No.2"
+   }
+  },
+  {
+   "id": "0J-001",
+   "ledgerName": "ピット汚水ポンプ No.1",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "汚水",
+   "installedFY": 1989,
+   "drawingNo": "D-001",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ピット汚水ポンプ No.1",
+    "m1報告書": "ピット汚水ポンプ No.1"
+   }
+  },
+  {
+   "id": "0J-002",
+   "ledgerName": "ピット汚水ポンプ No.2",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "汚水",
+   "installedFY": 1989,
+   "drawingNo": "D-002",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "ピット汚水ポンプ No.2",
+    "m1報告書": "ピット汚水ポンプ No.2"
+   }
+  },
+  {
+   "id": "0J-003",
+   "ledgerName": "汚水ろ過器",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "汚水",
+   "installedFY": 1989,
+   "drawingNo": "D-003",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "汚水ろ過器",
+    "m1報告書": "汚水ろ過器"
+   }
+  },
+  {
+   "id": "0J-004",
+   "ledgerName": "排水原水ポンプ No.1",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-004",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "排水原水ポンプ No.1",
+    "m1報告書": "排水原水ポンプ No.1"
+   }
+  },
+  {
+   "id": "0J-005",
+   "ledgerName": "排水原水ポンプ No.2",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-005",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "排水原水ポンプ No.2",
+    "m1報告書": "排水原水ポンプ No.2"
+   }
+  },
+  {
+   "id": "0J-006",
+   "ledgerName": "反応槽撹拌機 No.1",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-006",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "反応槽撹拌機 No.1",
+    "m1報告書": "反応槽撹拌機 No.1"
+   }
+  },
+  {
+   "id": "0J-007",
+   "ledgerName": "反応槽撹拌機 No.2",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-007",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "反応槽撹拌機 No.2",
+    "m1報告書": "反応槽撹拌機 No.2"
+   }
+  },
+  {
+   "id": "0J-008",
+   "ledgerName": "汚泥掻寄機",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-008",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "汚泥掻寄機",
+    "m1報告書": "汚泥掻寄機"
+   }
+  },
+  {
+   "id": "0J-009",
+   "ledgerName": "汚泥脱水機",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-009",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "汚泥脱水機",
+    "m1報告書": "汚泥脱水機"
+   }
+  },
+  {
+   "id": "0J-010",
+   "ledgerName": "処理水ポンプ No.1",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-010",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "処理水ポンプ No.1",
+    "m1報告書": "処理水ポンプ No.1"
+   }
+  },
+  {
+   "id": "0J-011",
+   "ledgerName": "処理水ポンプ No.2",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-011",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "処理水ポンプ No.2",
+    "m1報告書": "処理水ポンプ No.2"
+   }
+  },
+  {
+   "id": "0J-012",
+   "ledgerName": "薬品注入ポンプ No.1",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-012",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "薬品注入ポンプ No.1",
+    "m1報告書": "薬品注入ポンプ No.1"
+   }
+  },
+  {
+   "id": "0J-013",
+   "ledgerName": "薬品注入ポンプ No.2",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-013",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "薬品注入ポンプ No.2",
+    "m1報告書": "薬品注入ポンプ No.2"
+   }
+  },
+  {
+   "id": "0J-014",
+   "ledgerName": "薬品注入ポンプ No.3",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-014",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "薬品注入ポンプ No.3",
+    "m1報告書": "薬品注入ポンプ No.3"
+   }
+  },
+  {
+   "id": "0J-015",
+   "ledgerName": "排水処理制御盤",
+   "line": "共通",
+   "setsubi": "排水処理設備",
+   "keitou": "排水処理",
+   "installedFY": 1989,
+   "drawingNo": "D-015",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "排水処理制御盤",
+    "m1報告書": "排水処理制御盤"
+   }
+  },
+  {
+   "id": "0K-001",
+   "ledgerName": "飛灰搬送コンベヤ",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "飛灰処理",
+   "installedFY": 1989,
+   "drawingNo": "A-001",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "飛灰搬送コンベヤ",
+    "m1報告書": "飛灰搬送コンベヤ"
+   }
+  },
+  {
+   "id": "0K-002",
+   "ledgerName": "飛灰貯留槽",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "飛灰処理",
+   "installedFY": 1989,
+   "drawingNo": "A-002",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "飛灰貯留槽",
+    "m1報告書": "飛灰貯留槽"
+   }
+  },
+  {
+   "id": "0K-003",
+   "ledgerName": "飛灰貯留槽集じん機",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "飛灰処理",
+   "installedFY": 1989,
+   "drawingNo": "A-003",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "飛灰貯留槽集じん機",
+    "m1報告書": "飛灰貯留槽集じん機"
+   }
+  },
+  {
+   "id": "0K-004",
+   "ledgerName": "飛灰定量供給機",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "飛灰処理",
+   "installedFY": 1993,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "飛灰定量供給機",
+    "m1報告書": "飛灰定量供給機"
+   }
+  },
+  {
+   "id": "0K-005",
+   "ledgerName": "混練機 No.1",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "飛灰処理",
+   "installedFY": 1993,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": "常用",
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "混練機 No.1",
+    "m1報告書": "混練機 No.1"
+   }
+  },
+  {
+   "id": "0K-006",
+   "ledgerName": "混練機 No.2",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "飛灰処理",
+   "installedFY": 1993,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": "予備",
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "混練機 No.2",
+    "m1報告書": "混練機 No.2"
+   }
+  },
+  {
+   "id": "0K-007",
+   "ledgerName": "キレート薬剤タンク",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "飛灰処理",
+   "installedFY": 1993,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "キレート薬剤タンク",
+    "m1報告書": "キレート薬剤タンク"
+   }
+  },
+  {
+   "id": "0K-008",
+   "ledgerName": "キレート薬剤ポンプ No.1",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "飛灰処理",
+   "installedFY": 1993,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "キレート薬剤ポンプ No.1",
+    "m1報告書": "キレート薬剤ポンプ No.1"
+   }
+  },
+  {
+   "id": "0K-009",
+   "ledgerName": "キレート薬剤ポンプ No.2",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "飛灰処理",
+   "installedFY": 1993,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "キレート薬剤ポンプ No.2",
+    "m1報告書": "キレート薬剤ポンプ No.2"
+   }
+  },
+  {
+   "id": "0K-010",
+   "ledgerName": "処理灰搬出コンベヤ",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "飛灰処理",
+   "installedFY": 1993,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "処理灰搬出コンベヤ",
+    "m1報告書": "処理灰搬出コンベヤ"
+   }
+  },
+  {
+   "id": "0K-011",
+   "ledgerName": "処理灰バンカ",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "飛灰処理",
+   "installedFY": 1993,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "処理灰バンカ",
+    "m1報告書": "処理灰バンカ"
+   }
+  },
+  {
+   "id": "0K-012",
+   "ledgerName": "不燃物搬送コンベヤ",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "不燃物",
+   "installedFY": 1989,
+   "drawingNo": "A-004",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物搬送コンベヤ",
+    "m1報告書": "不燃物搬送コンベヤ"
+   }
+  },
+  {
+   "id": "0K-013",
+   "ledgerName": "不燃物バンカ",
+   "line": "共通",
+   "setsubi": "灰出し設備",
+   "keitou": "不燃物",
+   "installedFY": 1989,
+   "drawingNo": "A-005",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "不燃物バンカ",
+    "m1報告書": "不燃物バンカ"
+   }
+  },
+  {
+   "id": "0M-001",
+   "ledgerName": "計装用空気圧縮機 No.1",
+   "line": "共通",
+   "setsubi": "計装制御設備",
+   "keitou": "空気",
+   "installedFY": 1989,
+   "drawingNo": "I-001",
+   "oldDrawingNo": null,
+   "duty": "常用",
+   "importance": "A",
+   "policy2016": "停止まで使用（R2更新）",
+   "names": {
+    "機器台帳・計画": "計装用空気圧縮機 No.1",
+    "m1報告書": "計装用空気圧縮機 No.1"
+   }
+  },
+  {
+   "id": "0M-002",
+   "ledgerName": "計装用空気圧縮機 No.2",
+   "line": "共通",
+   "setsubi": "計装制御設備",
+   "keitou": "空気",
+   "installedFY": 1989,
+   "drawingNo": "I-002",
+   "oldDrawingNo": null,
+   "duty": "予備",
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "計装用空気圧縮機 No.2",
+    "m1報告書": "計装用空気圧縮機 No.2"
+   }
+  },
+  {
+   "id": "0M-003",
+   "ledgerName": "雑用空気圧縮機",
+   "line": "共通",
+   "setsubi": "計装制御設備",
+   "keitou": "空気",
+   "installedFY": 1989,
+   "drawingNo": "I-003",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "雑用空気圧縮機",
+    "m1報告書": "雑用空気圧縮機"
+   }
+  },
+  {
+   "id": "0M-004",
+   "ledgerName": "除湿装置",
+   "line": "共通",
+   "setsubi": "計装制御設備",
+   "keitou": "空気",
+   "installedFY": 1989,
+   "drawingNo": "I-004",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "除湿装置",
+    "m1報告書": "除湿装置"
+   }
+  },
+  {
+   "id": "0M-005",
+   "ledgerName": "計装用空気槽",
+   "line": "共通",
+   "setsubi": "計装制御設備",
+   "keitou": "空気",
+   "installedFY": 1989,
+   "drawingNo": "I-005",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "計装用空気槽",
+    "m1報告書": "計装用空気槽"
+   }
+  },
+  {
+   "id": "0L-001",
+   "ledgerName": "高圧受電盤",
+   "line": "共通",
+   "setsubi": "電気設備",
+   "keitou": "受変電",
+   "installedFY": 1989,
+   "drawingNo": "E-001",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "高圧受電盤",
+    "m1報告書": "高圧受電盤"
+   }
+  },
+  {
+   "id": "0L-002",
+   "ledgerName": "高圧配電盤",
+   "line": "共通",
+   "setsubi": "電気設備",
+   "keitou": "受変電",
+   "installedFY": 1989,
+   "drawingNo": "E-002",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "高圧配電盤",
+    "m1報告書": "高圧配電盤"
+   }
+  },
+  {
+   "id": "0L-003",
+   "ledgerName": "動力用変圧器 No.1",
+   "line": "共通",
+   "setsubi": "電気設備",
+   "keitou": "受変電",
+   "installedFY": 1989,
+   "drawingNo": "E-003",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "動力用変圧器 No.1",
+    "m1報告書": "動力用変圧器 No.1"
+   }
+  },
+  {
+   "id": "0L-004",
+   "ledgerName": "動力用変圧器 No.2",
+   "line": "共通",
+   "setsubi": "電気設備",
+   "keitou": "受変電",
+   "installedFY": 1989,
+   "drawingNo": "E-004",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "動力用変圧器 No.2",
+    "m1報告書": "動力用変圧器 No.2"
+   }
+  },
+  {
+   "id": "0L-005",
+   "ledgerName": "照明用変圧器",
+   "line": "共通",
+   "setsubi": "電気設備",
+   "keitou": "受変電",
+   "installedFY": 1989,
+   "drawingNo": "E-005",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "照明用変圧器",
+    "m1報告書": "照明用変圧器"
+   }
+  },
+  {
+   "id": "0L-006",
+   "ledgerName": "進相コンデンサ",
+   "line": "共通",
+   "setsubi": "電気設備",
+   "keitou": "受変電",
+   "installedFY": 1989,
+   "drawingNo": "E-006",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "進相コンデンサ",
+    "m1報告書": "進相コンデンサ"
+   }
+  },
+  {
+   "id": "0L-007",
+   "ledgerName": "低圧主配電盤",
+   "line": "共通",
+   "setsubi": "電気設備",
+   "keitou": "低圧",
+   "installedFY": 1989,
+   "drawingNo": "E-007",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "低圧主配電盤",
+    "m1報告書": "低圧主配電盤"
+   }
+  },
+  {
+   "id": "0L-008",
+   "ledgerName": "共通動力制御盤",
+   "line": "共通",
+   "setsubi": "電気設備",
+   "keitou": "低圧",
+   "installedFY": 1989,
+   "drawingNo": "E-008",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "共通動力制御盤",
+    "m1報告書": "共通動力制御盤"
+   }
+  },
+  {
+   "id": "0L-009",
+   "ledgerName": "直流電源装置",
+   "line": "共通",
+   "setsubi": "電気設備",
+   "keitou": "直流・非常用",
+   "installedFY": 2004,
+   "drawingNo": null,
+   "oldDrawingNo": "E-009",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "直流電源装置",
+    "m1報告書": "直流電源装置"
+   }
+  },
+  {
+   "id": "0L-010",
+   "ledgerName": "無停電電源装置",
+   "line": "共通",
+   "setsubi": "電気設備",
+   "keitou": "直流・非常用",
+   "installedFY": 2004,
+   "drawingNo": null,
+   "oldDrawingNo": "E-010",
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "無停電電源装置",
+    "m1報告書": "無停電電源装置"
+   }
+  },
+  {
+   "id": "0L-011",
+   "ledgerName": "非常用発電機",
+   "line": "共通",
+   "setsubi": "電気設備",
+   "keitou": "直流・非常用",
+   "installedFY": 1989,
+   "drawingNo": "E-011",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "非常用発電機",
+    "m1報告書": "非常用発電機"
+   }
+  },
+  {
+   "id": "0M-006",
+   "ledgerName": "中央監視制御盤",
+   "line": "共通",
+   "setsubi": "計装制御設備",
+   "keitou": "中央制御",
+   "installedFY": 1989,
+   "drawingNo": "I-006",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "A",
+   "policy2016": "予備品で延命",
+   "names": {
+    "機器台帳・計画": "中央監視制御盤",
+    "m1報告書": "中央監視制御盤"
+   }
+  },
+  {
+   "id": "0M-007",
+   "ledgerName": "データ処理装置",
+   "line": "共通",
+   "setsubi": "計装制御設備",
+   "keitou": "中央制御",
+   "installedFY": 2005,
+   "drawingNo": null,
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "データ処理装置",
+    "m1報告書": "データ処理装置"
+   }
+  },
+  {
+   "id": "0N-001",
+   "ledgerName": "炉室電動ホイスト No.1",
+   "line": "共通",
+   "setsubi": "雑設備",
+   "keitou": "揚重",
+   "installedFY": 1989,
+   "drawingNo": "M-001",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉室電動ホイスト No.1",
+    "m1報告書": "炉室電動ホイスト No.1"
+   }
+  },
+  {
+   "id": "0N-002",
+   "ledgerName": "炉室電動ホイスト No.2",
+   "line": "共通",
+   "setsubi": "雑設備",
+   "keitou": "揚重",
+   "installedFY": 1989,
+   "drawingNo": "M-002",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉室電動ホイスト No.2",
+    "m1報告書": "炉室電動ホイスト No.2"
+   }
+  },
+  {
+   "id": "0N-003",
+   "ledgerName": "誘引通風機室電動ホイスト",
+   "line": "共通",
+   "setsubi": "雑設備",
+   "keitou": "揚重",
+   "installedFY": 1999,
+   "drawingNo": "DX-004",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "誘引通風機室電動ホイスト",
+    "m1報告書": "誘引送風機室電動ホイスト"
+   }
+  },
+  {
+   "id": "0N-004",
+   "ledgerName": "炉室換気ファン No.1",
+   "line": "共通",
+   "setsubi": "雑設備",
+   "keitou": "換気",
+   "installedFY": 1989,
+   "drawingNo": "M-003",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉室換気ファン No.1",
+    "m1報告書": "炉室換気ファン No.1"
+   }
+  },
+  {
+   "id": "0N-005",
+   "ledgerName": "炉室換気ファン No.2",
+   "line": "共通",
+   "setsubi": "雑設備",
+   "keitou": "換気",
+   "installedFY": 1989,
+   "drawingNo": "M-004",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "炉室換気ファン No.2",
+    "m1報告書": "炉室換気ファン No.2"
+   }
+  },
+  {
+   "id": "0N-006",
+   "ledgerName": "洗車装置",
+   "line": "共通",
+   "setsubi": "雑設備",
+   "keitou": "雑",
+   "installedFY": 1989,
+   "drawingNo": "M-005",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "C",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "洗車装置",
+    "m1報告書": "洗車装置"
+   }
+  },
+  {
+   "id": "0N-007",
+   "ledgerName": "煙突外筒",
+   "line": "共通",
+   "setsubi": "雑設備",
+   "keitou": "雑",
+   "installedFY": 1989,
+   "drawingNo": "M-006",
+   "oldDrawingNo": null,
+   "duty": null,
+   "importance": "B",
+   "policy2016": "停止まで使用",
+   "names": {
+    "機器台帳・計画": "煙突外筒",
+    "m1報告書": "煙突外筒"
+   }
+  }
+ ],
+ "removedEquipment": [
+  {
+   "drawingNo": "F-102",
+   "name": "散気装置",
+   "line": 1,
+   "removedFY": 2008,
+   "replacedBy": "1B-002",
+   "managed": false
+  },
+  {
+   "drawingNo": "F-103",
+   "name": "不燃物抜出装置 No.1",
+   "line": 1,
+   "removedFY": 2008,
+   "replacedBy": "1B-003",
+   "managed": false
+  },
+  {
+   "drawingNo": "F-104",
+   "name": "不燃物抜出装置 No.2",
+   "line": 1,
+   "removedFY": 2008,
+   "replacedBy": "1B-004",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-101",
+   "name": "不燃物排出コンベヤ No.1",
+   "line": 1,
+   "removedFY": 2008,
+   "replacedBy": "1C-002",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-102",
+   "name": "不燃物排出コンベヤ No.2",
+   "line": 1,
+   "removedFY": 2008,
+   "replacedBy": "1C-003",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-103",
+   "name": "振動ふるい",
+   "line": 1,
+   "removedFY": 2008,
+   "replacedBy": "1C-004",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-104",
+   "name": "砂循環エレベータ",
+   "line": 1,
+   "removedFY": 2008,
+   "replacedBy": "1C-005",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-106",
+   "name": "砂切出装置",
+   "line": 1,
+   "removedFY": 2008,
+   "replacedBy": "1C-007",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-107",
+   "name": "砂再投入コンベヤ",
+   "line": 1,
+   "removedFY": 2008,
+   "replacedBy": "1C-008",
+   "managed": false
+  },
+  {
+   "drawingNo": "G-104",
+   "name": "電気集じん器",
+   "line": 1,
+   "removedFY": 1999,
+   "replacedBy": "1E-007",
+   "managed": false
+  },
+  {
+   "drawingNo": "V-105",
+   "name": "誘引通風機",
+   "line": 1,
+   "removedFY": 1999,
+   "replacedBy": "1F-005",
+   "managed": false
+  },
+  {
+   "drawingNo": "V-106",
+   "name": "誘引通風機液体抵抗器",
+   "line": 1,
+   "removedFY": 1999,
+   "replacedBy": "1F-006",
+   "managed": false
+  },
+  {
+   "drawingNo": "V-107",
+   "name": "誘引通風機潤滑油ユニット",
+   "line": 1,
+   "removedFY": 1999,
+   "replacedBy": "1F-007",
+   "managed": false
+  },
+  {
+   "drawingNo": "V-112",
+   "name": "誘引通風機入口ダンパ",
+   "line": 1,
+   "removedFY": 1999,
+   "replacedBy": "1F-016",
+   "managed": false
+  },
+  {
+   "drawingNo": "E-104",
+   "name": "電気集じん器制御盤",
+   "line": 1,
+   "removedFY": 1999,
+   "replacedBy": "1L-005",
+   "managed": false
+  },
+  {
+   "drawingNo": "F-202",
+   "name": "散気装置",
+   "line": 2,
+   "removedFY": 2009,
+   "replacedBy": "2B-002",
+   "managed": false
+  },
+  {
+   "drawingNo": "F-203",
+   "name": "不燃物抜出装置 No.1",
+   "line": 2,
+   "removedFY": 2009,
+   "replacedBy": "2B-003",
+   "managed": false
+  },
+  {
+   "drawingNo": "F-204",
+   "name": "不燃物抜出装置 No.2",
+   "line": 2,
+   "removedFY": 2009,
+   "replacedBy": "2B-004",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-201",
+   "name": "不燃物排出コンベヤ No.1",
+   "line": 2,
+   "removedFY": 2009,
+   "replacedBy": "2C-002",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-202",
+   "name": "不燃物排出コンベヤ No.2",
+   "line": 2,
+   "removedFY": 2009,
+   "replacedBy": "2C-003",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-203",
+   "name": "振動ふるい",
+   "line": 2,
+   "removedFY": 2009,
+   "replacedBy": "2C-004",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-204",
+   "name": "砂循環エレベータ",
+   "line": 2,
+   "removedFY": 2009,
+   "replacedBy": "2C-005",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-206",
+   "name": "砂切出装置",
+   "line": 2,
+   "removedFY": 2009,
+   "replacedBy": "2C-007",
+   "managed": false
+  },
+  {
+   "drawingNo": "S-207",
+   "name": "砂再投入コンベヤ",
+   "line": 2,
+   "removedFY": 2009,
+   "replacedBy": "2C-008",
+   "managed": false
+  },
+  {
+   "drawingNo": "G-204",
+   "name": "電気集じん器",
+   "line": 2,
+   "removedFY": 1999,
+   "replacedBy": "2E-007",
+   "managed": false
+  },
+  {
+   "drawingNo": "V-205",
+   "name": "誘引通風機",
+   "line": 2,
+   "removedFY": 1999,
+   "replacedBy": "2F-005",
+   "managed": false
+  },
+  {
+   "drawingNo": "V-206",
+   "name": "誘引通風機液体抵抗器",
+   "line": 2,
+   "removedFY": 1999,
+   "replacedBy": "2F-006",
+   "managed": false
+  },
+  {
+   "drawingNo": "V-207",
+   "name": "誘引通風機潤滑油ユニット",
+   "line": 2,
+   "removedFY": 1999,
+   "replacedBy": "2F-007",
+   "managed": false
+  },
+  {
+   "drawingNo": "V-212",
+   "name": "誘引通風機入口ダンパ",
+   "line": 2,
+   "removedFY": 1999,
+   "replacedBy": "2F-016",
+   "managed": false
+  },
+  {
+   "drawingNo": "E-204",
+   "name": "電気集じん器制御盤",
+   "line": 2,
+   "removedFY": 1999,
+   "replacedBy": "2L-005",
+   "managed": false
+  },
+  {
+   "drawingNo": "R-003",
+   "name": "計量装置制御盤",
+   "line": "共通",
+   "removedFY": 2005,
+   "replacedBy": "0A-003",
+   "managed": false
+  },
+  {
+   "drawingNo": "R-017",
+   "name": "ごみクレーン制御盤",
+   "line": "共通",
+   "removedFY": 2013,
+   "replacedBy": "0A-017",
+   "managed": false
+  },
+  {
+   "drawingNo": "E-009",
+   "name": "直流電源装置",
+   "line": "共通",
+   "removedFY": 2004,
+   "replacedBy": "0L-009",
+   "managed": false
+  },
+  {
+   "drawingNo": "E-010",
+   "name": "無停電電源装置",
+   "line": "共通",
+   "removedFY": 2004,
+   "replacedBy": "0L-010",
+   "managed": false
+  }
+ ],
+ "contracts": {
+  "T2005": {
+   "fy": 2005,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成17年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2006": {
+   "fy": 2006,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成18年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2007": {
+   "fy": 2007,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成19年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2008": {
+   "fy": 2008,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成20年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2009": {
+   "fy": 2009,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成21年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2010": {
+   "fy": 2010,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成22年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2011": {
+   "fy": 2011,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成23年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2012": {
+   "fy": 2012,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成24年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2013": {
+   "fy": 2013,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成25年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2014": {
+   "fy": 2014,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成26年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2015": {
+   "fy": 2015,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成27年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2016": {
+   "fy": 2016,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成28年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2017": {
+   "fy": 2017,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成29年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "T2018": {
+   "fy": 2018,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "定期整備業務委託",
+   "name": "平成30年度 いずみ川清掃センター 定期整備業務委託"
+  },
+  "P2008": {
+   "fy": 2008,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "改良工事（請負・2 か年）",
+   "name": "いずみ川清掃センター 部分改良工事（平成20〜21年度）"
+  },
+  "R2014": {
+   "fy": 2014,
+   "vendor": "鷹羽エンジニアリング株式会社",
+   "kind": "補修工事（請負）",
+   "name": "平成26年度 いずみ川清掃センター 1号炉ボイラ水管補修工事"
+  },
+  "K2019": {
+   "fy": 2019,
+   "vendor": "黒潮クレーン株式会社",
+   "kind": "点検委託",
+   "name": "令和元年度 ごみクレーン年次自主検査業務委託"
+  },
+  "K2020": {
+   "fy": 2020,
+   "vendor": "黒潮クレーン株式会社",
+   "kind": "点検委託",
+   "name": "令和2年度 ごみクレーン年次自主検査業務委託"
+  },
+  "K2021": {
+   "fy": 2021,
+   "vendor": "黒潮クレーン株式会社",
+   "kind": "点検委託",
+   "name": "令和3年度 ごみクレーン年次自主検査業務委託"
+  },
+  "K2022": {
+   "fy": 2022,
+   "vendor": "黒潮クレーン株式会社",
+   "kind": "点検委託",
+   "name": "令和4年度 ごみクレーン年次自主検査業務委託"
+  },
+  "K2023": {
+   "fy": 2023,
+   "vendor": "黒潮クレーン株式会社",
+   "kind": "点検委託",
+   "name": "令和5年度 ごみクレーン年次自主検査業務委託"
+  },
+  "K2024": {
+   "fy": 2024,
+   "vendor": "黒潮クレーン株式会社",
+   "kind": "点検委託",
+   "name": "令和6年度 ごみクレーン年次自主検査業務委託"
+  },
+  "S2020a": {
+   "fy": 2020,
+   "vendor": "紫雲電機株式会社",
+   "kind": "修繕（需用費）",
+   "name": "中央監視制御盤修繕"
+  },
+  "S2020b": {
+   "fy": 2020,
+   "vendor": "紫雲電機株式会社",
+   "kind": "工事請負",
+   "name": "計装用空気圧縮機更新工事"
+  },
+  "L20190": {
+   "fy": 2019,
+   "vendor": "いずみ川設備工業株式会社",
+   "kind": "補修工事（請負）",
+   "name": "令和元年度 いずみ川清掃センター 1号炉ボイラ水管補修工事"
+  },
+  "L20200": {
+   "fy": 2020,
+   "vendor": "いずみ川設備工業株式会社",
+   "kind": "補修工事（請負）",
+   "name": "令和2年度 いずみ川清掃センター 1号炉誘引通風機補修工事"
+  },
+  "L20201": {
+   "fy": 2020,
+   "vendor": "いずみ川設備工業株式会社",
+   "kind": "補修工事（請負）",
+   "name": "令和2年度 いずみ川清掃センター ボイラ性能検査整備工事"
+  },
+  "L20210": {
+   "fy": 2021,
+   "vendor": "いずみ川設備工業株式会社",
+   "kind": "補修工事（請負）",
+   "name": "令和3年度 いずみ川清掃センター 前処理破砕機補修工事"
+  },
+  "L20211": {
+   "fy": 2021,
+   "vendor": "いずみ川設備工業株式会社",
+   "kind": "補修工事（請負）",
+   "name": "令和3年度 いずみ川清掃センター ボイラ性能検査整備工事"
+  },
+  "L20220": {
+   "fy": 2022,
+   "vendor": "いずみ川設備工業株式会社",
+   "kind": "補修工事（請負）",
+   "name": "令和4年度 いずみ川清掃センター 1号炉バグフィルタろ布部分交換工事"
+  },
+  "L20221": {
+   "fy": 2022,
+   "vendor": "いずみ川設備工業株式会社",
+   "kind": "補修工事（請負）",
+   "name": "令和4年度 いずみ川清掃センター ボイラ性能検査整備工事"
+  },
+  "L20230": {
+   "fy": 2023,
+   "vendor": "いずみ川設備工業株式会社",
+   "kind": "補修工事（請負）",
+   "name": "令和5年度 いずみ川清掃センター 2号炉散気ノズル補修工事"
+  },
+  "L20231": {
+   "fy": 2023,
+   "vendor": "いずみ川設備工業株式会社",
+   "kind": "補修工事（請負）",
+   "name": "令和5年度 いずみ川清掃センター ボイラ性能検査整備工事"
+  },
+  "L20240": {
+   "fy": 2024,
+   "vendor": "いずみ川設備工業株式会社",
+   "kind": "補修工事（請負）",
+   "name": "令和6年度 いずみ川清掃センター ボイラ性能検査整備補修工事"
+  }
+ },
+ "worksWithoutDocs": [
+  {
+   "work": "W1277",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  },
+  {
+   "work": "W1278",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  },
+  {
+   "work": "W1284",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  },
+  {
+   "work": "W1285",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  },
+  {
+   "work": "W1288",
+   "reason": "紫雲電機の修繕・更新（補修工事の外）。工程表・日報・報告書は無く、CSV・台帳・計画にだけある"
+  },
+  {
+   "work": "W1289",
+   "reason": "紫雲電機の修繕・更新（補修工事の外）。工程表・日報・報告書は無く、CSV・台帳・計画にだけある"
+  },
+  {
+   "work": "W1293",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  },
+  {
+   "work": "W1294",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  },
+  {
+   "work": "W1303",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  },
+  {
+   "work": "W1304",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  },
+  {
+   "work": "W1310",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  },
+  {
+   "work": "W1311",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  },
+  {
+   "work": "W1317",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  },
+  {
+   "work": "W1318",
+   "reason": "市の直接の点検委託（黒潮クレーン）。工程表・日報・報告書の見本は作っていない。計画の実績欄と CSV にだけある"
+  }
+ ],
+ "planGaps": [
+  {
+   "file": "中長期整備計画 旧様式（H21・H24・H27）",
+   "what": "法定点検に作業環境測定（ダイオキシン類）と第二種圧力容器定期自主検査の行が無い",
+   "truth": "毎年実施（発注台帳に委託あり）"
+  },
+  {
+   "file": "中長期整備計画 新様式 R4改訂",
+   "what": "ごみクレーン性能検査の R6 が空き",
+   "truth": "R6 に受検"
+  },
+  {
+   "file": "中長期整備計画 旧様式 H27改訂 費用シート",
+   "what": "燃焼設備の小計 H27 が機器行の和より 600 千円少ない",
+   "truth": "小計の直し忘れ"
+  },
+  {
+   "file": "中長期整備計画 新様式 R4改訂",
+   "what": "R4〜R6 の実績が空き（R5 以降は更新なし）",
+   "truth": "R4・R5・R6 にも作業あり（world の works）"
+  }
+ ],
+ "unlinkedWorks": [],
+ "note": "v1 の world.json のうち新しい形に無い欄。equipment は v1 の機器（各資料での名前・図書番号・2016 区分）、removedEquipment は撤去した竣工時の機器（管理対象外）、planGaps は errata に入れなかった計画の欠け、worksWithoutDocs は資料に工程表・日報・報告書の無い作業",
+ "planGapsNotInErrata": [
+  {
+   "file": "中長期整備計画 旧様式（H21・H24・H27）",
+   "what": "法定点検に作業環境測定（ダイオキシン類）と第二種圧力容器定期自主検査の行が無い",
+   "truth": "毎年実施（発注台帳に委託あり）"
+  },
+  {
+   "file": "中長期整備計画 旧様式 H27改訂 費用シート",
+   "what": "燃焼設備の小計 H27 が機器行の和より 600 千円少ない",
+   "truth": "小計の直し忘れ"
+  },
+  {
+   "file": "中長期整備計画 新様式 R4改訂",
+   "what": "R4〜R6 の実績が空き（R5 以降は更新なし）",
+   "truth": "R4・R5・R6 にも作業あり（world の works）"
+  }
+ ]
+}

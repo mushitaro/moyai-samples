@@ -1,0 +1,2022 @@
+{
+ "file": "【架空】いずみ川清掃センター_作業日報_平成21年度定期整備業務委託_m1様式A（メーカー・H17〜H21・横型）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "09.9.14",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-14",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "安全措置：電源断・弁閉止・札掛け確認、KY。足場材搬入・組立",
+    "company": "かえで足場",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.14",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-14",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "炉開放：マンホール開放、炉内温度確認（62℃）、換気。流動砂抜出開始",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.15",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-15",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "安全措置：足場組立 完了、手すり・昇降設備確認",
+    "company": "かえで足場",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.15",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-15",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "炉開放：流動砂抜出（累計 約 16t）、炉床清掃",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.15",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-15",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "廃熱ボイラ：ボイラ開放（マンホール 6 箇所）、ダスト払い",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.16",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-16",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "炉開放：流動砂抜出 完了（計 22t、ふるい分けて再使用分を保管）",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.16",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-16",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "廃熱ボイラ：高圧水洗浄（第1〜第3パス）、排水処理",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.16",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-16",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "流動床炉本体 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.17",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-17",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "廃熱ボイラ：水管肉厚測定 開始（84 点、超音波）",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.17",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-17",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "流動床炉本体：散気装置 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.17",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-17",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "バグフィルタ 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.18",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-18",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "廃熱ボイラ：エコノマイザ外観点検、ダスト付着状況確認",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.18",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-18",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "バグフィルタ 分解部品 清掃・寸法計測",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.19",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-19",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "廃熱ボイラ：肉厚測定 完了（最小 3.7mm／管理値 3.2mm）、スートブロワ点検",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 1.5,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.19",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-19",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "バグフィルタ 消耗品交換・組立",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 2.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.19",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-19",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "助燃バーナ 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 2.5,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.19",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-19",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "誘引通風機 分解整備",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 3.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.19",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-19",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "炉別動力制御盤 点検、燃焼設備現場盤 点検、排ガス処理設備現場盤 点検",
+    "company": "あさひ電設",
+    "people": 2,
+    "manDays": 1.0,
+    "manDaysText": "2名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.24",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-24",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物抜出装置 No.1 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.24",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-24",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "消石灰定量供給機 点検、消石灰供給ブロワ 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.24",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-24",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "誘引通風機速度制御装置 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.25",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-25",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物抜出装置 No.2 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.25",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-25",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "消石灰定量供給機：活性炭定量供給機 点検、活性炭供給ブロワ 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.25",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-25",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "誘引通風機 分解部品 清掃・寸法計測",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.26",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-26",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "不燃物抜出装置 No.1 部品 洗浄・摩耗測定",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 1.5,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.26",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-26",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "消石灰定量供給機：BF逆洗用空気槽 点検、BF飛灰排出装置 No.3 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 2.5,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.26",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-26",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "押込送風機 点検、二次空気送風機 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 2.5,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.28",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-28",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "不燃物抜出装置 No.2 組立・芯出し",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.28",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-28",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "振動ふるい 分解整備",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.28",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-28",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "消石灰定量供給機 部品 洗浄・摩耗測定",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.28",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-28",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "減温塔 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.28",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-28",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "押込送風機：空気予熱器 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.29",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-29",
+    "weather": "晴のち曇",
+    "area": "1号炉",
+    "work": "振動ふるい：砂循環エレベータ 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.29",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-29",
+    "weather": "晴のち曇",
+    "area": "1号炉",
+    "work": "減温塔 部品 洗浄・摩耗測定",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.30",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-30",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "振動ふるい 部品 洗浄・摩耗測定",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.30",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-30",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "減温塔 消耗品交換・組立",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.9.30",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-09-30",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "ごみホッパ 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.1",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-01",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "振動ふるい：砂循環エレベータ 締付け確認・給油",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.1",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-01",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "ごみホッパ：定量給じん機 No.1 点検",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.2",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-02",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "ごみホッパ：定量給じん機 No.2 組立・試運転",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.3",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-03",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "ボイラ性能検査：性能検査準備（内部清掃・付属品点検）",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 1.5,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.5",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-05",
+    "weather": "雨",
+    "area": "1号炉",
+    "work": "ボイラ性能検査 受検 合格、指摘なし",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.6",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-06",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "復旧：マンホール閉止、流動砂張込",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.7",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-07",
+    "weather": "雨",
+    "area": "1号炉",
+    "work": "復旧：保温復旧、足場解体、片付け",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.8",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-08",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "通風試験・試運転（運転業者立会）、異常なし",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.19",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-19",
+    "weather": "晴",
+    "area": "共通",
+    "work": "ごみ投入扉 No.2 点検、ごみ投入扉 No.3 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.20",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-20",
+    "weather": "晴のち曇",
+    "area": "共通",
+    "work": "ごみ投入扉 No.6 点検、前処理破砕機 No.1 分解整備",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.21",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-21",
+    "weather": "曇時々雨",
+    "area": "共通",
+    "work": "ごみ投入扉：前処理破砕機 No.2 分解整備、破砕機油圧ユニット No.2 点検",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.22",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-22",
+    "weather": "晴",
+    "area": "共通",
+    "work": "ごみ投入扉：破砕物排出コンベヤ No.1 点検、ピット放水銃 No.1 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.23",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-23",
+    "weather": "曇時々雨",
+    "area": "共通",
+    "work": "ごみ投入扉：ピット放水銃 No.2 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.24",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-24",
+    "weather": "晴",
+    "area": "共通",
+    "work": "ごみクレーン No.1 点検",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 1.5,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.24",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-24",
+    "weather": "晴",
+    "area": "共通",
+    "work": "消石灰貯留槽 点検",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 1.5,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.26",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-26",
+    "weather": "晴",
+    "area": "共通",
+    "work": "ごみクレーン No.1 ワイヤロープ・ブレーキ点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.26",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-26",
+    "weather": "晴",
+    "area": "共通",
+    "work": "消石灰貯留槽：活性炭切出装置 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.27",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-27",
+    "weather": "晴のち曇",
+    "area": "共通",
+    "work": "ごみクレーン No.1 走行・横行装置 点検、給油",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.27",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-27",
+    "weather": "晴のち曇",
+    "area": "共通",
+    "work": "消石灰貯留槽：飛灰搬送コンベヤ 点検",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.28",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-28",
+    "weather": "雨",
+    "area": "共通",
+    "work": "ごみクレーン：性能検査 準備（荷重試験用 おもり手配）",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.28",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-28",
+    "weather": "雨",
+    "area": "共通",
+    "work": "消石灰貯留槽：キレート薬剤ポンプ No.1 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.10.29",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-10-29",
+    "weather": "晴のち曇",
+    "area": "共通",
+    "work": "消石灰貯留槽 部品 洗浄・摩耗測定",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.9",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-09",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "安全措置：電源断・弁閉止・札掛け確認、KY。足場材搬入・組立",
+    "company": "かえで足場",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.9",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-09",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "炉開放：マンホール開放、炉内温度確認（52℃）、換気。流動砂抜出開始",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.10",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-10",
+    "weather": "雨",
+    "area": "2号炉",
+    "work": "安全措置：足場組立 完了、手すり・昇降設備確認",
+    "company": "かえで足場",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.10",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-10",
+    "weather": "雨",
+    "area": "2号炉",
+    "work": "炉開放：流動砂抜出（累計 約 15t）、炉床清掃",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.10",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-10",
+    "weather": "雨",
+    "area": "2号炉",
+    "work": "廃熱ボイラ：ボイラ開放（マンホール 6 箇所）、ダスト払い",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.11",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-11",
+    "weather": "曇時々雨",
+    "area": "2号炉",
+    "work": "炉開放：流動砂抜出 完了（計 21t、ふるい分けて再使用分を保管）",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.11",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-11",
+    "weather": "曇時々雨",
+    "area": "2号炉",
+    "work": "廃熱ボイラ：ボイラ水洗、スケール・ダスト除去",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.11",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-11",
+    "weather": "曇時々雨",
+    "area": "2号炉",
+    "work": "流動床炉本体 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.12",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-12",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "廃熱ボイラ：水管肉厚測定 開始（84 点、超音波）",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.12",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-12",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "流動床炉本体：散気装置 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.12",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-12",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "バグフィルタ 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.13",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-13",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "廃熱ボイラ：エコノマイザ外観点検、ダスト付着状況確認",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.13",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-13",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "流動床炉本体 部品 洗浄・摩耗測定",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.13",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-13",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "バグフィルタ 分解部品 清掃・寸法計測",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.14",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-14",
+    "weather": "雨",
+    "area": "2号炉",
+    "work": "廃熱ボイラ：エコノマイザ外観点検、ダスト付着状況確認",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 2.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.14",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-14",
+    "weather": "雨",
+    "area": "2号炉",
+    "work": "バグフィルタ 消耗品交換・組立",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 1.5,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.14",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-14",
+    "weather": "雨",
+    "area": "2号炉",
+    "work": "炉内水噴霧装置 点検、炉内噴霧水ポンプ No.1 点検、炉内噴霧水ポンプ No.2 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 2.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.14",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-14",
+    "weather": "雨",
+    "area": "2号炉",
+    "work": "誘引通風機 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 2.5,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.16",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-16",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "廃熱ボイラ：肉厚測定 完了（最小 4.0mm／管理値 3.2mm）、スートブロワ点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.16",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-16",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "不燃物抜出装置 No.1 分解整備",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.16",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-16",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "ボイラ給水ポンプ No.1 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.16",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-16",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "誘引通風機速度制御装置 点検",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.16",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-16",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "BF飛灰チェーンコンベヤ 不具合部 分解・補修",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.16",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-16",
+    "weather": "晴",
+    "area": "共通",
+    "work": "脱気器給水ポンプ No.2 点検、低圧蒸気だめ 点検、場内暖房用熱交換器 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.16",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-16",
+    "weather": "晴",
+    "area": "共通",
+    "work": "高圧蒸気だめ 点検",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.16",
+   "r": 12,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-16",
+    "weather": "晴",
+    "area": "共通",
+    "work": "高圧配電盤 分解整備、照明用変圧器 点検、進相コンデンサ 点検",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.16",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-16",
+    "weather": "晴",
+    "area": "共通",
+    "work": "計装用空気圧縮機 No.1 分解整備",
+    "company": "あさひ電設",
+    "people": 2,
+    "manDays": 2.0,
+    "manDaysText": "2名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.17",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-17",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "不燃物抜出装置 No.1 分解部品 清掃・寸法計測",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.17",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-17",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "ボイラ給水ポンプ No.2 分解整備",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.17",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-17",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "誘引通風機潤滑油ユニット 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.17",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-17",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "押込送風機 点検、BF入口ダンパ 点検",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.17",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-17",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "BF飛灰チェーンコンベヤ 補修 完了、試運転",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.17",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-17",
+    "weather": "晴のち曇",
+    "area": "共通",
+    "work": "脱気器給水ポンプ：余熱利用施設温水熱交換器 点検、余熱利用施設送水ポンプ No.2 点検、復水器ファン No.2 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.17",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-17",
+    "weather": "晴のち曇",
+    "area": "共通",
+    "work": "高圧蒸気だめ 摺動部 点検・計測",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.17",
+   "r": 12,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-17",
+    "weather": "晴のち曇",
+    "area": "共通",
+    "work": "高圧配電盤：低圧主配電盤 組立・試運転、非常用発電機 組立・試運転",
+    "company": "あさひ電設",
+    "people": 2,
+    "manDays": 2.0,
+    "manDaysText": "2名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.17",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-17",
+    "weather": "晴のち曇",
+    "area": "共通",
+    "work": "計装用空気圧縮機：データ処理装置 点検",
+    "company": "あさひ電設",
+    "people": 2,
+    "manDays": 2.0,
+    "manDaysText": "2名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.18",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-18",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "不燃物抜出装置 No.1 消耗品交換・組立",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.18",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-18",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "ボイラ給水ポンプ No.1 摺動部 点検・計測",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.18",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-18",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "押込送風機：BFバイパスダンパ 点検、煙突内筒 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.18",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-18",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "BF飛灰チェーンコンベヤ 補修 完了、試運転",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.18",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-18",
+    "weather": "曇",
+    "area": "共通",
+    "work": "脱気器給水ポンプ：復水ポンプ No.2 点検、井水揚水ポンプ No.1 点検、井水揚水ポンプ No.2 点検",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.18",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-18",
+    "weather": "曇",
+    "area": "共通",
+    "work": "高圧蒸気だめ 締付け確認・給油",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.18",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-18",
+    "weather": "曇",
+    "area": "共通",
+    "work": "計装用空気圧縮機 No.1 摺動部 点検・計測",
+    "company": "あさひ電設",
+    "people": 2,
+    "manDays": 2.0,
+    "manDaysText": "2名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.19",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-19",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "不燃物抜出装置 No.1 調整・試運転",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.19",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-19",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "消石灰供給ブロワ 点検、BF飛灰排出装置 No.2 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.19",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-19",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "押込送風機 部品 洗浄・摩耗測定",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.19",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-19",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "助燃バーナ 不具合部 分解・補修",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.19",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-19",
+    "weather": "晴",
+    "area": "共通",
+    "work": "脱気器給水ポンプ：プラント用水ポンプ No.1 点検、機器冷却水ポンプ No.1 点検、冷却塔 No.1 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.19",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-19",
+    "weather": "晴",
+    "area": "共通",
+    "work": "高圧蒸気だめ 単体試運転",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.20",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-20",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "砂循環エレベータ 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.20",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-20",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "消石灰供給ブロワ：BF飛灰排出装置 No.4 点検",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.20",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-20",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "助燃バーナ 補修 完了、試運転",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.21",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-21",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "砂循環エレベータ 摺動部 点検・計測",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 1.5,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.21",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-21",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "減温塔 点検、減温塔噴射水ポンプ No.1 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 2.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.21",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-21",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "助燃バーナ 補修 完了、試運転",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 3.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.21",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-21",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "炉別動力制御盤 分解整備、燃焼設備現場盤 点検",
+    "company": "あさひ電設",
+    "people": 2,
+    "manDays": 1.0,
+    "manDaysText": "2名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.24",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-24",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "砂循環エレベータ 消耗品交換・組立",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.24",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-24",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "減温塔噴霧用空気圧縮機 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.24",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-24",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "炉別動力制御盤：排ガス処理設備現場盤 点検",
+    "company": "あさひ電設",
+    "people": 2,
+    "manDays": 2.0,
+    "manDaysText": "2名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.25",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-25",
+    "weather": "曇時々雨",
+    "area": "2号炉",
+    "work": "ごみホッパ 点検",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.26",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-26",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "ごみホッパ：定量給じん機 No.1 分解整備",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.27",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-27",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "ごみホッパ：定量給じん機 No.2 点検",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.28",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-28",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "ボイラ性能検査：性能検査準備（安全弁整備・水面計点検）",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 2.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.11.30",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-11-30",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "ボイラ性能検査 受検（合格）",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.12.1",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-12-01",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "復旧：マンホール閉止、流動砂張込",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.12.2",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-12-02",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "復旧：保温復旧、足場解体、片付け",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.12.3",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-12-03",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "通風試験・試運転（運転業者立会）、異常なし",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  }
+ ]
+}

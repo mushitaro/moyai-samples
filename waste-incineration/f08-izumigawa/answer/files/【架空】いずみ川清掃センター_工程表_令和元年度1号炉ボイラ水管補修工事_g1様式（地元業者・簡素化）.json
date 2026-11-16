@@ -1,0 +1,227 @@
+{
+ "file": "【架空】いずみ川清掃センター_工程表_令和元年度1号炉ボイラ水管補修工事_g1様式（地元業者・簡素化）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "1号炉",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "no": 1,
+    "name": "立下げ・冷却（運転業者）",
+    "planStart": "2019-11-08",
+    "planEnd": "2019-11-10",
+    "actualText": "済 11/8〜11/10",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "no": 2,
+    "name": "養生・仮設（照明・換気・足場）",
+    "planStart": "2019-11-11",
+    "planEnd": "2019-11-11",
+    "actualText": "済 11/11",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "no": 3,
+    "name": "ボイラ開放・水洗",
+    "planStart": "2019-11-12",
+    "planEnd": "2019-11-13",
+    "actualText": "済 11/12〜11/13",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "no": 4,
+    "name": "漏えい箇所確認・肉厚測定",
+    "planStart": "2019-11-14",
+    "planEnd": "2019-11-14",
+    "actualText": "済 11/14",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "no": 5,
+    "name": "水管部分取替（2本）",
+    "planStart": "2019-11-15",
+    "planEnd": "2019-11-19",
+    "actualText": "済 11/15〜11/20",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 12,
+   "kind": "item",
+   "fields": {
+    "no": 6,
+    "name": "放射線透過試験・水圧試験",
+    "planStart": "2019-11-20",
+    "planEnd": "2019-11-21",
+    "actualText": "済 11/21〜11/22",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "no": 7,
+    "name": "性能検査準備・受検",
+    "planStart": "2019-11-22",
+    "planEnd": "2019-11-25",
+    "actualText": "済 11/25〜11/26",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 14,
+   "kind": "item",
+   "fields": {
+    "no": 8,
+    "name": "復旧・片付け",
+    "planStart": "2019-11-26",
+    "planEnd": "2019-11-26",
+    "actualText": "済 11/27",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 15,
+   "kind": "item",
+   "fields": {
+    "no": 9,
+    "name": "立上げ（運転業者）",
+    "planStart": "2019-11-27",
+    "planEnd": "2019-11-28",
+    "actualText": "済 11/28〜11/29",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "no": 1,
+    "name": "立下げ・冷却（運転業者）",
+    "planStart": "2020-01-17",
+    "planEnd": "2020-01-19",
+    "actualText": "済 1/17〜1/19",
+    "area": "2号炉"
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "no": 2,
+    "name": "養生・仮設（照明・換気）",
+    "planStart": "2020-01-20",
+    "planEnd": "2020-01-20",
+    "actualText": "済 1/20",
+    "area": "2号炉"
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "no": 3,
+    "name": "ボイラ開放・水洗・ダスト除去",
+    "planStart": "2020-01-21",
+    "planEnd": "2020-01-22",
+    "actualText": "済 1/21〜1/22",
+    "area": "2号炉"
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "no": 4,
+    "name": "水管肉厚測定",
+    "planStart": "2020-01-23",
+    "planEnd": "2020-01-23",
+    "actualText": "済 1/23",
+    "area": "2号炉"
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "no": 5,
+    "name": "脱気器・高圧蒸気だめ 開放点検（バイパス運転）",
+    "planStart": "2020-01-24",
+    "planEnd": "2020-01-25",
+    "actualText": "済 1/24〜1/25",
+    "area": "2号炉"
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 12,
+   "kind": "item",
+   "fields": {
+    "no": 6,
+    "name": "性能検査準備・受検",
+    "planStart": "2020-01-27",
+    "planEnd": "2020-01-28",
+    "actualText": "済 1/27〜1/28",
+    "area": "2号炉"
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "no": 7,
+    "name": "復旧・片付け",
+    "planStart": "2020-01-29",
+    "planEnd": "2020-01-29",
+    "actualText": "済 1/29",
+    "area": "2号炉"
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 14,
+   "kind": "item",
+   "fields": {
+    "no": 8,
+    "name": "立上げ（運転業者）",
+    "planStart": "2020-01-30",
+    "planEnd": "2020-01-31",
+    "actualText": "済 1/30〜1/31",
+    "area": "2号炉"
+   }
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "file": "【架空】いずみ川清掃センター_作業日報_令和3年度前処理破砕機補修工事_g1様式（地元業者・1週1枚）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "6.14-6.18",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-14",
+    "weather": "晴",
+    "work": "養生、No.1 減速機 取外し（ギヤ破損確認）",
+    "place": "破砕機室",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5,
+    "manDaysText": "5名"
+   }
+  },
+  {
+   "sheet": "6.14-6.18",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-15",
+    "weather": "曇",
+    "work": "予備機 No.2 から減速機 取外し、点検",
+    "place": "〃",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4,
+    "manDaysText": "4名"
+   }
+  },
+  {
+   "sheet": "6.14-6.18",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-16",
+    "weather": "曇",
+    "work": "No.2 の減速機を No.1 に据付",
+    "place": "〃",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4,
+    "manDaysText": "4名"
+   }
+  },
+  {
+   "sheet": "6.14-6.18",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-17",
+    "weather": "雨",
+    "work": "芯出し、カップリング締結",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6,
+    "manDaysText": "6名"
+   }
+  },
+  {
+   "sheet": "6.14-6.18",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2021-06-18",
+    "weather": "晴",
+    "work": "無負荷・負荷運転、異音・温度確認 良好",
+    "place": "〃",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5,
+    "manDaysText": "5名"
+   }
+  },
+  {
+   "sheet": "6.14-6.18",
+   "r": 11,
+   "kind": "subtotal",
+   "fields": {
+    "manDays": 24,
+    "manDaysText": "24人日",
+    "manHours": 192.0
+   }
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "file": "【架空】いずみ川清掃センター_作業日報_平成26年度1号炉ボイラ水管補修工事_m1様式B（メーカー・H22〜・縦型）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "14.9.30",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2014-09-30",
+    "weather": "曇時々雨",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "廃熱ボイラ 分解整備",
+    "crewText": "製缶4・作業員1",
+    "progress": "50%",
+    "manDays": 5.0,
+    "manDaysText": "製缶4・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "14.10.1",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2014-10-01",
+    "weather": "曇",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "廃熱ボイラ 分解部品 清掃・寸法計測",
+    "crewText": "製缶3・作業員1",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "製缶3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "14.10.2",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2014-10-02",
+    "weather": "晴",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "新管",
+    "work": "新管 取付・溶接",
+    "crewText": "製缶3・作業員1",
+    "progress": "30%",
+    "manDays": 4.0,
+    "manDaysText": "製缶3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "14.10.3",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2014-10-03",
+    "weather": "晴",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "新管",
+    "work": "新管 取付・溶接",
+    "crewText": "製缶3・作業員1",
+    "progress": "60%",
+    "manDays": 4.0,
+    "manDaysText": "製缶3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "14.10.4",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2014-10-04",
+    "weather": "曇時々雨",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "新管",
+    "work": "新管 取付・溶接",
+    "crewText": "製缶3・作業員1",
+    "progress": "完",
+    "manDays": 2.0,
+    "manDaysText": "製缶3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "14.10.6",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2014-10-06",
+    "weather": "晴のち曇",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "放射線透過試験",
+    "work": "放射線透過試験",
+    "crewText": "製缶2・作業員1",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "製缶2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "14.10.7",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2014-10-07",
+    "weather": "晴",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "水圧試験",
+    "work": "水圧試験",
+    "crewText": "製缶2・作業員1",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "製缶2・作業員1",
+    "days": 1
+   }
+  }
+ ]
+}

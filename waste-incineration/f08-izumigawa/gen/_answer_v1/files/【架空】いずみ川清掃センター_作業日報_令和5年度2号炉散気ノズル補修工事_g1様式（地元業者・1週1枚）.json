@@ -1,0 +1,224 @@
+{
+ "file": "【架空】いずみ川清掃センター_作業日報_令和5年度2号炉散気ノズル補修工事_g1様式（地元業者・1週1枚）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "10.16-10.21",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2023-10-16",
+    "weather": "晴",
+    "work": "養生・照明・換気ファン設置。マンホール開放、流動砂抜出開始",
+    "place": "2号炉 炉内",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6,
+    "manDaysText": "6名",
+    "count": 0,
+    "cumulative": 0
+   }
+  },
+  {
+   "sheet": "10.16-10.21",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2023-10-17",
+    "weather": "晴",
+    "work": "流動砂抜出 完了（約 22t、ふるい分けて 16t 再使用分を保管）。炉床清掃",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6,
+    "manDaysText": "6名",
+    "count": 0,
+    "cumulative": 0
+   }
+  },
+  {
+   "sheet": "10.16-10.21",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2023-10-18",
+    "weather": "曇",
+    "work": "風箱開放。散気ノズル全数点検（120本）。取替 96本 マーキング。風箱内に砂たまり有",
+    "place": "2号炉 風箱",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5,
+    "manDaysText": "5名",
+    "count": 0,
+    "cumulative": 0
+   }
+  },
+  {
+   "sheet": "10.16-10.21",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2023-10-19",
+    "weather": "曇",
+    "work": "散気ノズル取替（A・B列）。旧ノズル取外し、ねじ部清掃、新ノズル取付、回り止め溶接",
+    "place": "2号炉 炉床",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6,
+    "manDaysText": "6名",
+    "count": 18,
+    "cumulative": 18
+   }
+  },
+  {
+   "sheet": "10.16-10.21",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2023-10-20",
+    "weather": "晴",
+    "work": "散気ノズル取替（B・C列）",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6,
+    "manDaysText": "6名",
+    "count": 20,
+    "cumulative": 38
+   }
+  },
+  {
+   "sheet": "10.16-10.21",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2023-10-21",
+    "weather": "晴",
+    "work": "散気ノズル取替（C・D列）",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6,
+    "manDaysText": "6名",
+    "count": 20,
+    "cumulative": 58
+   }
+  },
+  {
+   "sheet": "10.16-10.21",
+   "r": 11,
+   "kind": "subtotal",
+   "fields": {
+    "manDays": 35,
+    "manDaysText": "35人日",
+    "manHours": 280.0
+   }
+  },
+  {
+   "sheet": "10.23-10.27",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2023-10-23",
+    "weather": "雨",
+    "work": "散気ノズル取替（D・E列）",
+    "place": "2号炉 炉床",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6,
+    "manDaysText": "6名",
+    "count": 22,
+    "cumulative": 80
+   }
+  },
+  {
+   "sheet": "10.23-10.27",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2023-10-24",
+    "weather": "曇",
+    "work": "散気ノズル取替（E列）完了 計96本。残業 1.5h",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~18:30",
+    "manHours": 57.0,
+    "manDays": 6,
+    "manDaysText": "6名",
+    "count": 16,
+    "cumulative": 96
+   }
+  },
+  {
+   "sheet": "10.23-10.27",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2023-10-25",
+    "weather": "晴",
+    "work": "風箱内清掃（砂たまり 約 0.3m³ 回収）。砂漏れ箇所 ヘッダ継手 2 箇所 パッキン交換",
+    "place": "2号炉 風箱",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5,
+    "manDaysText": "5名",
+    "count": 0,
+    "cumulative": 96
+   }
+  },
+  {
+   "sheet": "10.23-10.27",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2023-10-26",
+    "weather": "晴",
+    "work": "風箱閉止。流動砂張込（再使用 16t＋新砂 8t）",
+    "place": "2号炉 炉内",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6,
+    "manDaysText": "6名",
+    "count": 0,
+    "cumulative": 96
+   }
+  },
+  {
+   "sheet": "10.23-10.27",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2023-10-27",
+    "weather": "晴",
+    "work": "通風試験（風箱圧力・流動状態確認）。片付け、引渡し",
+    "place": "2号炉",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4,
+    "manDaysText": "4名",
+    "count": 0,
+    "cumulative": 96
+   }
+  },
+  {
+   "sheet": "10.23-10.27",
+   "r": 11,
+   "kind": "subtotal",
+   "fields": {
+    "manDays": 27,
+    "manDaysText": "27人日",
+    "manHours": 225.0
+   }
+  }
+ ]
+}

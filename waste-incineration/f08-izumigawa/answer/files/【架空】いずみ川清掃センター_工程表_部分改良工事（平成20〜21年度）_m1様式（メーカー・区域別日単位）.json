@@ -1,0 +1,342 @@
+{
+ "file": "【架空】いずみ川清掃センター_工程表_部分改良工事（平成20〜21年度）_m1様式（メーカー・区域別日単位）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "1号炉",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "no": 1,
+    "name": "立下げ・冷却（運転業者）",
+    "team": "運転",
+    "planStart": "2009-01-09",
+    "planEnd": "2009-01-11",
+    "actualStart": "2009-01-09",
+    "actualEnd": "2009-01-11",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "no": 2,
+    "name": "安全措置・足場仮設",
+    "team": "足場",
+    "crew": 4,
+    "planStart": "2009-01-13",
+    "planEnd": "2009-01-14",
+    "actualStart": "2009-01-13",
+    "actualEnd": "2009-01-14",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "no": 3,
+    "name": "流動砂抜出・既設散気装置 撤去",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2009-01-13",
+    "planEnd": "2009-01-17",
+    "actualStart": "2009-01-13",
+    "actualEnd": "2009-01-17",
+    "area": "1号炉",
+    "days": 5
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "no": 4,
+    "name": "散気装置 据付（ヘッダ・ノズル 120 本）",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2009-01-19",
+    "planEnd": "2009-01-27",
+    "actualStart": "2009-01-19",
+    "actualEnd": "2009-01-28",
+    "area": "1号炉",
+    "days": 9
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 15,
+   "kind": "item",
+   "fields": {
+    "no": 5,
+    "name": "不燃物抜出装置 撤去・据付",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2009-01-19",
+    "planEnd": "2009-01-26",
+    "actualStart": "2009-01-19",
+    "actualEnd": "2009-01-26",
+    "area": "1号炉",
+    "days": 7
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 17,
+   "kind": "item",
+   "fields": {
+    "no": 6,
+    "name": "砂循環設備 撤去・据付",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2009-01-15",
+    "planEnd": "2009-01-30",
+    "actualStart": "2009-01-15",
+    "actualEnd": "2009-01-31",
+    "area": "1号炉",
+    "days": 15
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 19,
+   "kind": "item",
+   "fields": {
+    "no": 7,
+    "name": "砂循環設備現場盤 新設・配線",
+    "team": "電気",
+    "crew": 2,
+    "planStart": "2009-01-26",
+    "planEnd": "2009-01-31",
+    "actualStart": "2009-01-26",
+    "actualEnd": "2009-01-31",
+    "area": "1号炉",
+    "days": 6
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 21,
+   "kind": "item",
+   "fields": {
+    "no": 8,
+    "name": "復旧・流動砂張込",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2009-02-02",
+    "planEnd": "2009-02-03",
+    "actualStart": "2009-02-02",
+    "actualEnd": "2009-02-03",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 23,
+   "kind": "item",
+   "fields": {
+    "no": 9,
+    "name": "試運転調整（散気均一性・砂循環量）",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2009-02-04",
+    "planEnd": "2009-02-06",
+    "actualStart": "2009-02-04",
+    "actualEnd": "2009-02-06",
+    "area": "1号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 25,
+   "kind": "item",
+   "fields": {
+    "no": 10,
+    "name": "立上げ（運転業者）",
+    "team": "運転",
+    "planStart": "2009-02-07",
+    "planEnd": "2009-02-08",
+    "actualStart": "2009-02-07",
+    "actualEnd": "2009-02-08",
+    "area": "1号炉",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "no": 1,
+    "name": "立下げ・冷却（運転業者）",
+    "team": "運転",
+    "planStart": "2010-01-08",
+    "planEnd": "2010-01-10",
+    "actualStart": "2010-01-08",
+    "actualEnd": "2010-01-10",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "no": 2,
+    "name": "安全措置・足場仮設",
+    "team": "足場",
+    "crew": 4,
+    "planStart": "2010-01-12",
+    "planEnd": "2010-01-13",
+    "actualStart": "2010-01-12",
+    "actualEnd": "2010-01-13",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "no": 3,
+    "name": "流動砂抜出・既設散気装置 撤去",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2010-01-12",
+    "planEnd": "2010-01-16",
+    "actualStart": "2010-01-12",
+    "actualEnd": "2010-01-16",
+    "area": "2号炉",
+    "days": 5
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "no": 4,
+    "name": "散気装置 据付（ヘッダ・ノズル 120 本）",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2010-01-18",
+    "planEnd": "2010-01-26",
+    "actualStart": "2010-01-18",
+    "actualEnd": "2010-01-26",
+    "area": "2号炉",
+    "days": 8
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 15,
+   "kind": "item",
+   "fields": {
+    "no": 5,
+    "name": "不燃物抜出装置 撤去・据付",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2010-01-18",
+    "planEnd": "2010-01-25",
+    "actualStart": "2010-01-18",
+    "actualEnd": "2010-01-25",
+    "area": "2号炉",
+    "days": 7
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 17,
+   "kind": "item",
+   "fields": {
+    "no": 6,
+    "name": "砂循環設備 撤去・据付",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2010-01-14",
+    "planEnd": "2010-01-29",
+    "actualStart": "2010-01-14",
+    "actualEnd": "2010-01-30",
+    "area": "2号炉",
+    "days": 15
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 19,
+   "kind": "item",
+   "fields": {
+    "no": 7,
+    "name": "砂循環設備現場盤 新設・配線",
+    "team": "電気",
+    "crew": 2,
+    "planStart": "2010-01-25",
+    "planEnd": "2010-01-30",
+    "actualStart": "2010-01-25",
+    "actualEnd": "2010-01-30",
+    "area": "2号炉",
+    "days": 6
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 21,
+   "kind": "item",
+   "fields": {
+    "no": 8,
+    "name": "復旧・流動砂張込",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2010-02-01",
+    "planEnd": "2010-02-02",
+    "actualStart": "2010-02-01",
+    "actualEnd": "2010-02-02",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 23,
+   "kind": "item",
+   "fields": {
+    "no": 9,
+    "name": "試運転調整（散気均一性・砂循環量）",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2010-02-03",
+    "planEnd": "2010-02-05",
+    "actualStart": "2010-02-03",
+    "actualEnd": "2010-02-05",
+    "area": "2号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 25,
+   "kind": "item",
+   "fields": {
+    "no": 10,
+    "name": "立上げ（運転業者）",
+    "team": "運転",
+    "planStart": "2010-02-06",
+    "planEnd": "2010-02-07",
+    "actualStart": "2010-02-06",
+    "actualEnd": "2010-02-07",
+    "area": "2号炉",
+    "days": 1
+   }
+  }
+ ]
+}

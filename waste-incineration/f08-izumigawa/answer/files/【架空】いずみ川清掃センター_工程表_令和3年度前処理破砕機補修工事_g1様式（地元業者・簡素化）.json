@@ -1,0 +1,58 @@
+{
+ "file": "【架空】いずみ川清掃センター_工程表_令和3年度前処理破砕機補修工事_g1様式（地元業者・簡素化）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "前処理破砕機",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "no": 1,
+    "name": "養生・No.1 減速機 取外し",
+    "planStart": "2021-06-14",
+    "planEnd": "2021-06-14",
+    "actualText": "済 6/14",
+    "area": "前処理破砕機"
+   }
+  },
+  {
+   "sheet": "前処理破砕機",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "no": 2,
+    "name": "No.2 減速機 取外し",
+    "planStart": "2021-06-15",
+    "planEnd": "2021-06-15",
+    "actualText": "済 6/15",
+    "area": "前処理破砕機"
+   }
+  },
+  {
+   "sheet": "前処理破砕機",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "no": 3,
+    "name": "No.1 へ据付・芯出し",
+    "planStart": "2021-06-16",
+    "planEnd": "2021-06-17",
+    "actualText": "済 6/16〜6/17",
+    "area": "前処理破砕機"
+   }
+  },
+  {
+   "sheet": "前処理破砕機",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "no": 4,
+    "name": "試運転・負荷運転",
+    "planStart": "2021-06-18",
+    "planEnd": "2021-06-18",
+    "actualText": "済 6/18",
+    "area": "前処理破砕機"
+   }
+  }
+ ]
+}

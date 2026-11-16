@@ -1,0 +1,97 @@
+{
+ "file": "【架空】いずみ川清掃センター_工程表_令和4年度1号炉バグフィルタろ布部分交換工事_g1様式（地元業者・簡素化）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "1号炉",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "no": 1,
+    "name": "立下げ・冷却（運転業者）",
+    "planStart": "2022-08-19",
+    "planEnd": "2022-08-21",
+    "actualText": "済 8/19〜8/21",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "no": 2,
+    "name": "養生・バグフィルタ 開放",
+    "planStart": "2022-08-22",
+    "planEnd": "2022-08-22",
+    "actualText": "済 8/22",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "no": 3,
+    "name": "ろ布点検・マーキング",
+    "planStart": "2022-08-23",
+    "planEnd": "2022-08-23",
+    "actualText": "済 8/23",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "no": 4,
+    "name": "ろ布取替（32本）",
+    "planStart": "2022-08-24",
+    "planEnd": "2022-08-25",
+    "actualText": "済 8/24〜8/25",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "no": 5,
+    "name": "リーク試験",
+    "planStart": "2022-08-26",
+    "planEnd": "2022-08-26",
+    "actualText": "済 8/26",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 12,
+   "kind": "item",
+   "fields": {
+    "no": 6,
+    "name": "復旧・片付け",
+    "planStart": "2022-08-27",
+    "planEnd": "2022-08-27",
+    "actualText": "済 8/27",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "no": 7,
+    "name": "立上げ（運転業者）",
+    "planStart": "2022-08-28",
+    "planEnd": "2022-08-29",
+    "actualText": "済 8/28〜8/29",
+    "area": "1号炉"
+   }
+  }
+ ]
+}

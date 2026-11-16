@@ -1,0 +1,118 @@
+{
+ "file": "【架空】いずみ川清掃センター_作業日報_令和4年度1号炉バグフィルタろ布部分交換工事_g1様式（地元業者・1週1枚）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "8.22-8.27",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2022-08-22",
+    "weather": "曇",
+    "work": "養生、BF 点検口開放、パージ",
+    "place": "1号炉 バグフィルタ",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "8.22-8.27",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2022-08-23",
+    "weather": "晴",
+    "work": "ろ布全数点検、破損・劣化 32 本マーキング（閉止板 8 本含む）",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "8.22-8.27",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2022-08-24",
+    "weather": "晴",
+    "work": "ろ布取替 16 本（3室・4室）",
+    "place": "〃",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "8.22-8.27",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2022-08-25",
+    "weather": "晴",
+    "work": "ろ布取替 16 本（5室・6室）、閉止板撤去",
+    "place": "〃",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "8.22-8.27",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2022-08-26",
+    "weather": "晴",
+    "work": "蛍光粉によるリーク試験、漏れなし",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "8.22-8.27",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2022-08-27",
+    "weather": "晴",
+    "work": "点検口閉止、片付け",
+    "place": "〃",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "8.22-8.27",
+   "r": 11,
+   "kind": "subtotal",
+   "fields": {
+    "manDays": 31.0,
+    "manDaysText": "31人日",
+    "manHours": 248.0
+   }
+  }
+ ]
+}

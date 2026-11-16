@@ -1,0 +1,2490 @@
+{
+ "file": "【架空】いずみ川清掃センター_作業日報_平成22年度定期整備業務委託_m1様式B（メーカー・H22〜・縦型）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "10.9.6",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-06",
+    "weather": "晴",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "共通",
+    "work": "安全措置（電源断・縁切り・札掛け）、KY",
+    "crewText": "電気1・作業員2",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "電気1・作業員2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.6",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-06",
+    "weather": "晴",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "流動床炉",
+    "work": "マンホール開放、炉内温度確認（58℃）、換気",
+    "crewText": "機械4",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.6",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-06",
+    "weather": "晴",
+    "no": 3,
+    "area": "1号炉",
+    "equipment": "流動床炉",
+    "work": "流動砂抜出開始（不燃物抜出装置経由・バキューム車併用）",
+    "crewText": "機械6・作業員2",
+    "progress": "30%",
+    "manDays": 8.0,
+    "manDaysText": "機械6・作業員2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.6",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-06",
+    "weather": "晴",
+    "no": 4,
+    "area": "1号炉",
+    "equipment": "足場",
+    "work": "ボイラ室・炉室 足場組立",
+    "crewText": "足場4",
+    "progress": "50%",
+    "manDays": 4.0,
+    "manDaysText": "足場4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.7",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-07",
+    "weather": "曇",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "流動床炉",
+    "work": "流動砂抜出（約 18t、うち再使用分 ふるい分け）",
+    "crewText": "機械6・作業員2",
+    "progress": "75%",
+    "manDays": 8.0,
+    "manDaysText": "機械6・作業員2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.7",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-07",
+    "weather": "曇",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "ボイラ開放（マンホール 6 箇所）、ダスト払い",
+    "crewText": "製缶4・作業員2",
+    "progress": "完",
+    "manDays": 6.0,
+    "manDaysText": "製缶4・作業員2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.7",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-07",
+    "weather": "曇",
+    "no": 3,
+    "area": "1号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "ボイラ水洗準備（養生・排水ホース）",
+    "crewText": "製缶2",
+    "progress": "完",
+    "manDays": 2.0,
+    "manDaysText": "製缶2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.7",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-07",
+    "weather": "曇",
+    "no": 4,
+    "area": "1号炉",
+    "equipment": "足場",
+    "work": "足場組立 完了、点検",
+    "crewText": "足場4",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "足場4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.8",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-08",
+    "weather": "雨",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "流動床炉",
+    "work": "流動砂抜出 完了（計 24t）",
+    "crewText": "機械6",
+    "progress": "完",
+    "manDays": 6.0,
+    "manDaysText": "機械6",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.8",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-08",
+    "weather": "雨",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "流動床炉",
+    "work": "炉内点検（耐火物・炉壁）",
+    "crewText": "築炉2・作業員1",
+    "progress": "50%",
+    "manDays": 3.0,
+    "manDaysText": "築炉2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.8",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-08",
+    "weather": "雨",
+    "no": 3,
+    "area": "1号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "ボイラ水洗（第1〜第3パス）",
+    "crewText": "製缶4",
+    "progress": "60%",
+    "manDays": 4.0,
+    "manDaysText": "製缶4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.8",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-08",
+    "weather": "雨",
+    "no": 4,
+    "area": "1号炉",
+    "equipment": "流動床炉",
+    "work": "フリーボード部 耐火物 剥離確認（築炉工 立会）",
+    "crewText": "築炉2",
+    "progress": "—",
+    "manDays": 2.0,
+    "manDaysText": "築炉2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.9",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-09",
+    "weather": "曇",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "散気装置",
+    "work": "散気ノズル点検（120 本、閉塞 2 本清掃）",
+    "crewText": "機械3",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "機械3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.9",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-09",
+    "weather": "曇",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "流動床炉",
+    "work": "炉内点検 完了。耐火物補修範囲 協議（市・築炉）",
+    "crewText": "築炉2",
+    "progress": "完",
+    "manDays": 2.0,
+    "manDaysText": "築炉2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.9",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-09",
+    "weather": "曇",
+    "no": 3,
+    "area": "1号炉",
+    "equipment": "不燃物抜出装置",
+    "work": "No.1・No.2 取外し、分解開始",
+    "crewText": "機械4",
+    "progress": "20%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.9",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-09",
+    "weather": "曇",
+    "no": 4,
+    "area": "1号炉",
+    "equipment": "砂循環設備",
+    "work": "振動ふるい・砂循環エレベータ 点検開始",
+    "crewText": "機械3",
+    "progress": "20%",
+    "manDays": 3.0,
+    "manDaysText": "機械3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.9",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-09",
+    "weather": "曇",
+    "no": 5,
+    "area": "1号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "ボイラ水洗 完了",
+    "crewText": "製缶4",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "製缶4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.10",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-10",
+    "weather": "晴",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "水管肉厚測定（超音波 84 点）",
+    "crewText": "製缶4",
+    "progress": "60%",
+    "manDays": 4.0,
+    "manDaysText": "製缶4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.10",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-10",
+    "weather": "晴",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "エコノマイザ",
+    "work": "外観点検、ダスト付着状況確認",
+    "crewText": "製缶2",
+    "progress": "完",
+    "manDays": 2.0,
+    "manDaysText": "製缶2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.10",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-10",
+    "weather": "晴",
+    "no": 3,
+    "area": "1号炉",
+    "equipment": "バグフィルタ",
+    "work": "BF 開放、ろ布外観点検（480 本）",
+    "crewText": "機械4",
+    "progress": "30%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.10",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-10",
+    "weather": "晴",
+    "no": 4,
+    "area": "1号炉",
+    "equipment": "不燃物抜出装置",
+    "work": "No.1 スクリュー羽根 摩耗測定、No.2 分解",
+    "crewText": "機械4",
+    "progress": "40%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.10",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-10",
+    "weather": "晴",
+    "no": 5,
+    "area": "1号炉",
+    "equipment": "砂循環設備",
+    "work": "砂循環エレベータ チェーン伸び測定",
+    "crewText": "機械2",
+    "progress": "50%",
+    "manDays": 2.0,
+    "manDaysText": "機械2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.11",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-11",
+    "weather": "晴",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "水管肉厚測定 完了（最小 3.6mm / 基準 3.2mm）",
+    "crewText": "製缶4",
+    "progress": "完",
+    "manDays": 2.0,
+    "manDaysText": "製缶4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.11",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-11",
+    "weather": "晴",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "スートブロワ",
+    "work": "No.5・No.6 ランス点検、ノズル清掃",
+    "crewText": "製缶2",
+    "progress": "完",
+    "manDays": 1.0,
+    "manDaysText": "製缶2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.11",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-11",
+    "weather": "晴",
+    "no": 3,
+    "area": "1号炉",
+    "equipment": "不燃物抜出装置",
+    "work": "No.1 スクリュー羽根 肉盛溶接",
+    "crewText": "機械3",
+    "progress": "60%",
+    "manDays": 1.5,
+    "manDaysText": "機械3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.11",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-11",
+    "weather": "晴",
+    "no": 4,
+    "area": "1号炉",
+    "equipment": "バグフィルタ",
+    "work": "ろ布抜取り 4 本（強度試験へ発送）",
+    "crewText": "機械2",
+    "progress": "60%",
+    "manDays": 1.0,
+    "manDaysText": "機械2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.13",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-13",
+    "weather": "晴",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "給じん設備",
+    "work": "給じん機 No.1・No.2 点検、ホッパ遮断ゲート作動確認",
+    "crewText": "機械4",
+    "progress": "40%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.13",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-13",
+    "weather": "晴",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "ボイラ給水ポンプ",
+    "work": "No.2 メカニカルシール漏れ 分解",
+    "crewText": "製缶2",
+    "progress": "50%",
+    "manDays": 2.0,
+    "manDaysText": "製缶2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.13",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-13",
+    "weather": "晴",
+    "no": 3,
+    "area": "1号炉",
+    "equipment": "減温塔",
+    "work": "塔内点検、噴霧ノズル 6 本交換",
+    "crewText": "機械3",
+    "progress": "50%",
+    "manDays": 3.0,
+    "manDaysText": "機械3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.13",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-13",
+    "weather": "晴",
+    "no": 4,
+    "area": "1号炉",
+    "equipment": "流動床炉",
+    "work": "耐火物補修 準備（はつり範囲 墨出し、足場盛替え）",
+    "crewText": "足場2・作業員2",
+    "progress": "—",
+    "manDays": 4.0,
+    "manDaysText": "足場2・作業員2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.13",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-13",
+    "weather": "晴",
+    "no": 5,
+    "area": "1号炉",
+    "equipment": "不燃物抜出装置",
+    "work": "No.1 肉盛 完了、No.2 軸受交換",
+    "crewText": "機械3",
+    "progress": "70%",
+    "manDays": 3.0,
+    "manDaysText": "機械3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.14",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-14",
+    "weather": "曇",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "流動床炉",
+    "work": "フリーボード部 耐火物はつり（1.2m²）",
+    "crewText": "築炉4・作業員2",
+    "progress": "30%",
+    "manDays": 6.0,
+    "manDaysText": "築炉4・作業員2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.14",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-14",
+    "weather": "曇",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "ボイラ給水ポンプ",
+    "work": "No.2 メカニカルシール交換、組立、試運転",
+    "crewText": "製缶2",
+    "progress": "完",
+    "manDays": 2.0,
+    "manDaysText": "製缶2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.14",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-14",
+    "weather": "曇",
+    "no": 3,
+    "area": "1号炉",
+    "equipment": "減温塔",
+    "work": "噴射水ポンプ No.2・噴霧用空気圧縮機 点検 完了",
+    "crewText": "機械2",
+    "progress": "完",
+    "manDays": 2.0,
+    "manDaysText": "機械2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.14",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-14",
+    "weather": "曇",
+    "no": 4,
+    "area": "1号炉",
+    "equipment": "砂循環設備",
+    "work": "砂切出装置・不燃物冷却スクリュー 点検 完了",
+    "crewText": "機械3",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "機械3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.14",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-14",
+    "weather": "曇",
+    "no": 5,
+    "area": "1号炉",
+    "equipment": "不燃物抜出装置",
+    "work": "No.2 組立",
+    "crewText": "機械3",
+    "progress": "85%",
+    "manDays": 3.0,
+    "manDaysText": "機械3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.15",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-15",
+    "weather": "曇",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "流動床炉本体",
+    "work": "流動床炉本体 補修 完了、試運転",
+    "crewText": "築炉3・作業員1",
+    "progress": "50%",
+    "manDays": 4.0,
+    "manDaysText": "築炉3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.15",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-15",
+    "weather": "曇",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "不燃物抜出装置",
+    "work": "不燃物抜出装置 分解整備（No.1・No.2） 記録整理・片付け",
+    "crewText": "機械5",
+    "progress": "80%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.15",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-15",
+    "weather": "曇",
+    "no": 3,
+    "area": "1号炉",
+    "equipment": "ホッパ遮断ゲート",
+    "work": "ホッパ遮断ゲート 部品 洗浄・摩耗測定",
+    "crewText": "機械4",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.15",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-15",
+    "weather": "曇",
+    "no": 4,
+    "area": "1号炉",
+    "equipment": "バグフィルタ",
+    "work": "バグフィルタ 部品 洗浄・摩耗測定",
+    "crewText": "機械4",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.15",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-15",
+    "weather": "曇",
+    "no": 5,
+    "area": "1号炉",
+    "equipment": "押込送風機",
+    "work": "押込送風機 点検",
+    "crewText": "機械3",
+    "progress": "20%",
+    "manDays": 3.0,
+    "manDaysText": "機械3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.16",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-16",
+    "weather": "曇",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "流動床炉本体",
+    "work": "流動床炉本体 補修 完了、試運転",
+    "crewText": "築炉3・作業員1",
+    "progress": "70%",
+    "manDays": 4.0,
+    "manDaysText": "築炉3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.16",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-16",
+    "weather": "曇",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "不燃物抜出装置",
+    "work": "不燃物抜出装置 No.1 分解部品 清掃・寸法計測",
+    "crewText": "機械6",
+    "progress": "完",
+    "manDays": 6.0,
+    "manDaysText": "機械6",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.16",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-16",
+    "weather": "曇",
+    "no": 3,
+    "area": "1号炉",
+    "equipment": "炉内水噴霧装置",
+    "work": "炉内水噴霧装置 点検、炉内噴霧水ポンプ No.1 点検、炉内噴霧水ポンプ No.2 点検",
+    "crewText": "機械3",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "機械3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.16",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-16",
+    "weather": "曇",
+    "no": 4,
+    "area": "1号炉",
+    "equipment": "押込送風機",
+    "work": "誘引通風機 点検",
+    "crewText": "機械4",
+    "progress": "50%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.16",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-16",
+    "weather": "曇",
+    "no": 5,
+    "area": "1号炉",
+    "equipment": "炉別動力制御盤",
+    "work": "炉別動力制御盤 分解整備",
+    "crewText": "電気2・作業員1",
+    "progress": "30%",
+    "manDays": 3.0,
+    "manDaysText": "電気2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.17",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-17",
+    "weather": "晴",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "流動床炉本体",
+    "work": "流動床炉本体 補修 完了、試運転",
+    "crewText": "築炉2・作業員1",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "築炉2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.17",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-17",
+    "weather": "晴",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "押込送風機",
+    "work": "誘引通風機潤滑油ユニット 点検",
+    "crewText": "機械4・作業員1",
+    "progress": "70%",
+    "manDays": 5.0,
+    "manDaysText": "機械4・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.17",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-17",
+    "weather": "晴",
+    "no": 3,
+    "area": "1号炉",
+    "equipment": "炉別動力制御盤",
+    "work": "排ガス処理設備現場盤 分解整備",
+    "crewText": "電気2・作業員1",
+    "progress": "60%",
+    "manDays": 3.0,
+    "manDaysText": "電気2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.18",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-18",
+    "weather": "晴",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "押込送風機",
+    "work": "BFバイパスダンパ 点検",
+    "crewText": "機械2・作業員1",
+    "progress": "完",
+    "manDays": 1.5,
+    "manDaysText": "機械2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.18",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-18",
+    "weather": "晴",
+    "no": 2,
+    "area": "1号炉",
+    "equipment": "炉別動力制御盤",
+    "work": "炉別動力制御盤 摺動部 点検・計測",
+    "crewText": "電気2・作業員1",
+    "progress": "完",
+    "manDays": 1.5,
+    "manDaysText": "電気2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.21",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-21",
+    "weather": "晴",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "ボイラ性能検査",
+    "work": "性能検査準備（安全弁整備・水面計点検）",
+    "crewText": "製缶2・作業員1",
+    "progress": "50%",
+    "manDays": 3.0,
+    "manDaysText": "製缶2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.22",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-22",
+    "weather": "曇",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "ボイラ性能検査",
+    "work": "ボイラ性能検査 受検（合格）",
+    "crewText": "製缶2・作業員1",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "製缶2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.24",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-24",
+    "weather": "曇",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "復旧",
+    "work": "流動砂張込（再使用分＋補充）、マンホール閉止",
+    "crewText": "機械3・作業員1",
+    "progress": "30%",
+    "manDays": 4.0,
+    "manDaysText": "機械3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.25",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-25",
+    "weather": "曇",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "復旧",
+    "work": "復旧 完了、保温・養生撤去",
+    "crewText": "機械2・作業員1",
+    "progress": "60%",
+    "manDays": 1.5,
+    "manDaysText": "機械2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.27",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-27",
+    "weather": "晴のち曇",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "復旧",
+    "work": "復旧 完了、保温・養生撤去",
+    "crewText": "機械3・作業員1",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "機械3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.9.28",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-09-28",
+    "weather": "晴",
+    "no": 1,
+    "area": "1号炉",
+    "equipment": "通風試験",
+    "work": "試運転（押込・誘引 連動）、異常なし",
+    "crewText": "機械2・作業員1",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "機械2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.10.18",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-10-18",
+    "weather": "曇時々雨",
+    "no": 1,
+    "area": "共通",
+    "equipment": "ごみクレーン",
+    "work": "ごみクレーン No.1 点検",
+    "crewText": "機械4・作業員1",
+    "progress": "20%",
+    "manDays": 5.0,
+    "manDaysText": "機械4・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.10.19",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-10-19",
+    "weather": "晴",
+    "no": 1,
+    "area": "共通",
+    "equipment": "ごみクレーン",
+    "work": "ごみクレーン No.2 点検",
+    "crewText": "機械3・作業員1",
+    "progress": "50%",
+    "manDays": 4.0,
+    "manDaysText": "機械3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.10.20",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-10-20",
+    "weather": "曇",
+    "no": 1,
+    "area": "共通",
+    "equipment": "ごみクレーン",
+    "work": "ごみクレーン制御盤 点検",
+    "crewText": "機械2・作業員1",
+    "progress": "70%",
+    "manDays": 3.0,
+    "manDaysText": "機械2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.10.21",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-10-21",
+    "weather": "晴",
+    "no": 1,
+    "area": "共通",
+    "equipment": "ごみクレーン",
+    "work": "ごみクレーン No.1 ワイヤロープ・ブレーキ点検",
+    "crewText": "機械3・作業員1",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "機械3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.10.25",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-10-25",
+    "weather": "晴",
+    "no": 1,
+    "area": "共通",
+    "equipment": "計量機",
+    "work": "計量機 No.1 点検、計量機 No.2 点検",
+    "crewText": "機械2・作業員1",
+    "progress": "20%",
+    "manDays": 3.0,
+    "manDaysText": "機械2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.10.26",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-10-26",
+    "weather": "晴",
+    "no": 1,
+    "area": "共通",
+    "equipment": "計量機",
+    "work": "ごみ投入扉 No.1 点検、ごみ投入扉 No.4 点検",
+    "crewText": "機械3・作業員1",
+    "progress": "40%",
+    "manDays": 4.0,
+    "manDaysText": "機械3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.10.27",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-10-27",
+    "weather": "晴",
+    "no": 1,
+    "area": "共通",
+    "equipment": "計量機",
+    "work": "ごみ投入扉 No.5 点検、前処理破砕機 No.1 点検",
+    "crewText": "機械4・作業員1",
+    "progress": "60%",
+    "manDays": 5.0,
+    "manDaysText": "機械4・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.10.28",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-10-28",
+    "weather": "晴",
+    "no": 1,
+    "area": "共通",
+    "equipment": "計量機",
+    "work": "前処理破砕機 No.2 点検、破砕機油圧ユニット No.1 点検",
+    "crewText": "機械3・作業員1",
+    "progress": "80%",
+    "manDays": 4.0,
+    "manDaysText": "機械3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.10.29",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-10-29",
+    "weather": "雨",
+    "no": 1,
+    "area": "共通",
+    "equipment": "計量機",
+    "work": "破砕物排出コンベヤ No.2 点検",
+    "crewText": "機械2・作業員1",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "機械2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.1",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-01",
+    "weather": "曇時々雨",
+    "no": 1,
+    "area": "共通",
+    "equipment": "消石灰切出装置",
+    "work": "消石灰切出装置 点検、活性炭貯留槽 点検",
+    "crewText": "機械4・作業員1",
+    "progress": "20%",
+    "manDays": 5.0,
+    "manDaysText": "機械4・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.2",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-02",
+    "weather": "曇",
+    "no": 1,
+    "area": "共通",
+    "equipment": "消石灰切出装置",
+    "work": "飛灰貯留槽 点検、飛灰定量供給機 分解整備",
+    "crewText": "機械4・作業員1",
+    "progress": "50%",
+    "manDays": 5.0,
+    "manDaysText": "機械4・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.4",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-04",
+    "weather": "晴のち曇",
+    "no": 1,
+    "area": "共通",
+    "equipment": "消石灰切出装置",
+    "work": "混練機 No.1 点検、混練機 No.2 点検",
+    "crewText": "機械5・作業員1",
+    "progress": "70%",
+    "manDays": 6.0,
+    "manDaysText": "機械5・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.5",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-05",
+    "weather": "曇",
+    "no": 1,
+    "area": "共通",
+    "equipment": "消石灰切出装置",
+    "work": "キレート薬剤ポンプ No.2 点検、処理灰搬出コンベヤ 点検",
+    "crewText": "機械3・作業員1",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "機械3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.8",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-08",
+    "weather": "晴",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "安全措置",
+    "work": "安全措置（電源断・縁切り・札掛け）、KY。足場組立開始",
+    "crewText": "足場3・作業員1",
+    "progress": "50%",
+    "manDays": 4.0,
+    "manDaysText": "足場3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.8",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-08",
+    "weather": "晴",
+    "no": 2,
+    "area": "2号炉",
+    "equipment": "炉開放",
+    "work": "マンホール開放、炉内温度確認（61℃）、換気。流動砂抜出開始",
+    "crewText": "機械4・作業員1",
+    "progress": "30%",
+    "manDays": 5.0,
+    "manDaysText": "機械4・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.9",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-09",
+    "weather": "曇時々雨",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "安全措置",
+    "work": "足場組立 完了、手すり・昇降設備確認",
+    "crewText": "足場2・作業員1",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "足場2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.9",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-09",
+    "weather": "曇時々雨",
+    "no": 2,
+    "area": "2号炉",
+    "equipment": "炉開放",
+    "work": "流動砂抜出（累計 約 17t）、炉床清掃",
+    "crewText": "機械3・作業員1",
+    "progress": "60%",
+    "manDays": 4.0,
+    "manDaysText": "機械3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.9",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-09",
+    "weather": "曇時々雨",
+    "no": 3,
+    "area": "2号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "ボイラ マンホール開放、炉内ダスト払い・搬出",
+    "crewText": "製缶3・作業員1",
+    "progress": "20%",
+    "manDays": 4.0,
+    "manDaysText": "製缶3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.10",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-10",
+    "weather": "晴",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "炉開放",
+    "work": "流動砂抜出 完了（計 25t、ふるい分けて再使用分を保管）",
+    "crewText": "機械5",
+    "progress": "完",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.10",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-10",
+    "weather": "晴",
+    "no": 2,
+    "area": "2号炉",
+    "equipment": "流動床炉本体",
+    "work": "流動床炉本体 点検",
+    "crewText": "機械3",
+    "progress": "30%",
+    "manDays": 3.0,
+    "manDaysText": "機械3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.10",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-10",
+    "weather": "晴",
+    "no": 3,
+    "area": "2号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "高圧水洗浄（第1〜第3パス）、排水処理",
+    "crewText": "製缶3・作業員1",
+    "progress": "40%",
+    "manDays": 4.0,
+    "manDaysText": "製缶3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.11",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-11",
+    "weather": "晴のち曇",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "流動床炉本体",
+    "work": "不燃物抜出装置 No.1 点検",
+    "crewText": "機械5",
+    "progress": "60%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.11",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-11",
+    "weather": "晴のち曇",
+    "no": 2,
+    "area": "2号炉",
+    "equipment": "定量給じん機",
+    "work": "定量給じん機 No.1 点検",
+    "crewText": "機械5",
+    "progress": "10%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.11",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-11",
+    "weather": "晴のち曇",
+    "no": 3,
+    "area": "2号炉",
+    "equipment": "不燃物排出コンベヤ",
+    "work": "不燃物排出コンベヤ No.1 点検",
+    "crewText": "機械4",
+    "progress": "20%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.11",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-11",
+    "weather": "晴のち曇",
+    "no": 4,
+    "area": "2号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "水管肉厚測定 開始（84 点、超音波）",
+    "crewText": "製缶3・作業員1",
+    "progress": "60%",
+    "manDays": 4.0,
+    "manDaysText": "製缶3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.12",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-12",
+    "weather": "雨",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "流動床炉本体",
+    "work": "不燃物抜出装置 No.2 点検",
+    "crewText": "機械5",
+    "progress": "完",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.12",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-12",
+    "weather": "雨",
+    "no": 2,
+    "area": "2号炉",
+    "equipment": "定量給じん機",
+    "work": "定量給じん機 No.2 分解整備",
+    "crewText": "機械5",
+    "progress": "30%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.12",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-12",
+    "weather": "雨",
+    "no": 3,
+    "area": "2号炉",
+    "equipment": "不燃物排出コンベヤ",
+    "work": "振動ふるい 点検",
+    "crewText": "機械4",
+    "progress": "40%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.12",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-12",
+    "weather": "雨",
+    "no": 4,
+    "area": "2号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "エコノマイザ外観点検、ダスト付着状況確認",
+    "crewText": "製缶3・作業員1",
+    "progress": "80%",
+    "manDays": 4.0,
+    "manDaysText": "製缶3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.12",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-12",
+    "weather": "雨",
+    "no": 5,
+    "area": "2号炉",
+    "equipment": "活性炭定量供給機",
+    "work": "活性炭定量供給機 点検",
+    "crewText": "機械6",
+    "progress": "10%",
+    "manDays": 6.0,
+    "manDaysText": "機械6",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.13",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-13",
+    "weather": "晴のち曇",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "定量給じん機",
+    "work": "給じんシュートダンパ No.2 点検",
+    "crewText": "機械6",
+    "progress": "50%",
+    "manDays": 3.0,
+    "manDaysText": "機械6",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.13",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-13",
+    "weather": "晴のち曇",
+    "no": 2,
+    "area": "2号炉",
+    "equipment": "不燃物排出コンベヤ",
+    "work": "砂循環エレベータ 点検",
+    "crewText": "機械4",
+    "progress": "60%",
+    "manDays": 2.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.13",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-13",
+    "weather": "晴のち曇",
+    "no": 3,
+    "area": "2号炉",
+    "equipment": "廃熱ボイラ",
+    "work": "肉厚測定 完了（最小 3.9mm／管理値 3.2mm）、スートブロワ点検",
+    "crewText": "製缶2・作業員1",
+    "progress": "完",
+    "manDays": 1.5,
+    "manDaysText": "製缶2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.13",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-13",
+    "weather": "晴のち曇",
+    "no": 4,
+    "area": "2号炉",
+    "equipment": "活性炭定量供給機",
+    "work": "活性炭供給ブロワ 点検",
+    "crewText": "機械4",
+    "progress": "30%",
+    "manDays": 2.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.15",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-15",
+    "weather": "晴のち曇",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "定量給じん機",
+    "work": "定量給じん機 No.1 分解部品 清掃・寸法計測",
+    "crewText": "機械5",
+    "progress": "60%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.15",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-15",
+    "weather": "晴のち曇",
+    "no": 2,
+    "area": "2号炉",
+    "equipment": "不燃物排出コンベヤ",
+    "work": "砂再投入コンベヤ 点検",
+    "crewText": "機械5",
+    "progress": "80%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.15",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-15",
+    "weather": "晴のち曇",
+    "no": 3,
+    "area": "2号炉",
+    "equipment": "ボイラ給水ポンプ",
+    "work": "ボイラ給水ポンプ No.1 分解整備",
+    "crewText": "機械6",
+    "progress": "30%",
+    "manDays": 6.0,
+    "manDaysText": "機械6",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.15",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-15",
+    "weather": "晴のち曇",
+    "no": 4,
+    "area": "2号炉",
+    "equipment": "減温塔",
+    "work": "減温塔 点検、減温塔噴射水ポンプ No.2 点検",
+    "crewText": "機械5",
+    "progress": "50%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.15",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-15",
+    "weather": "晴のち曇",
+    "no": 5,
+    "area": "2号炉",
+    "equipment": "活性炭定量供給機",
+    "work": "ろ布逆洗装置 点検",
+    "crewText": "機械5",
+    "progress": "50%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.15",
+   "r": 12,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-15",
+    "weather": "晴のち曇",
+    "no": 6,
+    "area": "2号炉",
+    "equipment": "誘引通風機",
+    "work": "誘引通風機 分解整備",
+    "crewText": "機械5",
+    "progress": "10%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.15",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-15",
+    "weather": "晴のち曇",
+    "no": 7,
+    "area": "共通",
+    "equipment": "脱気器",
+    "work": "脱気器 点検",
+    "crewText": "製缶2・作業員1",
+    "progress": "20%",
+    "manDays": 3.0,
+    "manDaysText": "製缶2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.15",
+   "r": 14,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-15",
+    "weather": "晴のち曇",
+    "no": 8,
+    "area": "共通",
+    "equipment": "軟水装置",
+    "work": "軟水装置 No.1 点検、軟水装置 No.2 点検、脱気器給水ポンプ No.1 点検",
+    "crewText": "機械5",
+    "progress": "20%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.15",
+   "r": 15,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-15",
+    "weather": "晴のち曇",
+    "no": 9,
+    "area": "共通",
+    "equipment": "機器冷却水ポンプ",
+    "work": "機器冷却水ポンプ No.1 分解整備",
+    "crewText": "機械4",
+    "progress": "30%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.16",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-16",
+    "weather": "晴",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "定量給じん機",
+    "work": "定量給じん機 No.2 締付け確認・給油",
+    "crewText": "機械5",
+    "progress": "80%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.16",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-16",
+    "weather": "晴",
+    "no": 2,
+    "area": "2号炉",
+    "equipment": "不燃物排出コンベヤ",
+    "work": "不燃物排出コンベヤ No.1 摺動部 点検・計測",
+    "crewText": "機械4",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.16",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-16",
+    "weather": "晴",
+    "no": 3,
+    "area": "2号炉",
+    "equipment": "ボイラ給水ポンプ",
+    "work": "ボイラ給水ポンプ No.1 部品 洗浄・摩耗測定",
+    "crewText": "機械5",
+    "progress": "60%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.16",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-16",
+    "weather": "晴",
+    "no": 4,
+    "area": "2号炉",
+    "equipment": "減温塔",
+    "work": "減温塔ダストコンベヤ 点検",
+    "crewText": "機械5",
+    "progress": "完",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.16",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-16",
+    "weather": "晴",
+    "no": 5,
+    "area": "2号炉",
+    "equipment": "活性炭定量供給機",
+    "work": "BF飛灰排出装置 No.4 分解整備",
+    "crewText": "機械4",
+    "progress": "60%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.16",
+   "r": 12,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-16",
+    "weather": "晴",
+    "no": 6,
+    "area": "2号炉",
+    "equipment": "誘引通風機",
+    "work": "誘引通風機速度制御装置 分解整備",
+    "crewText": "機械4",
+    "progress": "20%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.16",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-16",
+    "weather": "晴",
+    "no": 7,
+    "area": "共通",
+    "equipment": "高圧受電盤",
+    "work": "高圧受電盤 点検、動力用変圧器 No.1 点検、動力用変圧器 No.2 分解整備",
+    "crewText": "電気2・作業員1",
+    "progress": "50%",
+    "manDays": 3.0,
+    "manDaysText": "電気2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.16",
+   "r": 14,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-16",
+    "weather": "晴",
+    "no": 8,
+    "area": "共通",
+    "equipment": "脱気器",
+    "work": "高圧蒸気だめ 点検",
+    "crewText": "製缶3・作業員1",
+    "progress": "50%",
+    "manDays": 4.0,
+    "manDaysText": "製缶3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.16",
+   "r": 15,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-16",
+    "weather": "晴",
+    "no": 9,
+    "area": "共通",
+    "equipment": "軟水装置",
+    "work": "余熱利用施設送水ポンプ No.1 点検、余剰蒸気復水器 点検、復水器ファン No.3 点検",
+    "crewText": "機械4",
+    "progress": "50%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.16",
+   "r": 16,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-16",
+    "weather": "晴",
+    "no": 10,
+    "area": "共通",
+    "equipment": "機器冷却水ポンプ",
+    "work": "機器冷却水ポンプ No.1 摺動部 点検・計測",
+    "crewText": "機械4",
+    "progress": "60%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.16",
+   "r": 17,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-16",
+    "weather": "晴",
+    "no": 11,
+    "area": "共通",
+    "equipment": "計装用空気圧縮機",
+    "work": "計装用空気圧縮機 No.2 分解整備",
+    "crewText": "機械5",
+    "progress": "30%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.17",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-17",
+    "weather": "晴",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "定量給じん機",
+    "work": "給じんシュートダンパ No.2 調整・試運転",
+    "crewText": "機械6",
+    "progress": "完",
+    "manDays": 6.0,
+    "manDaysText": "機械6",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.17",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-17",
+    "weather": "晴",
+    "no": 2,
+    "area": "2号炉",
+    "equipment": "ボイラ給水ポンプ",
+    "work": "ボイラ給水ポンプ No.1 消耗品交換・組立",
+    "crewText": "機械4",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.17",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-17",
+    "weather": "晴",
+    "no": 3,
+    "area": "2号炉",
+    "equipment": "活性炭定量供給機",
+    "work": "BF飛灰スクリューコンベヤ 点検",
+    "crewText": "機械4",
+    "progress": "80%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.17",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-17",
+    "weather": "晴",
+    "no": 4,
+    "area": "2号炉",
+    "equipment": "誘引通風機",
+    "work": "誘引通風機入口ダンパ 点検",
+    "crewText": "機械6",
+    "progress": "40%",
+    "manDays": 6.0,
+    "manDaysText": "機械6",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.17",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-17",
+    "weather": "晴",
+    "no": 5,
+    "area": "共通",
+    "equipment": "高圧受電盤",
+    "work": "低圧主配電盤 点検、共通動力制御盤 点検",
+    "crewText": "電気3",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "電気3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.17",
+   "r": 12,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-17",
+    "weather": "晴",
+    "no": 6,
+    "area": "共通",
+    "equipment": "直流電源装置",
+    "work": "直流電源装置 点検、非常用発電機 点検",
+    "crewText": "電気2",
+    "progress": "完",
+    "manDays": 2.0,
+    "manDaysText": "電気2",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.17",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-17",
+    "weather": "晴",
+    "no": 7,
+    "area": "共通",
+    "equipment": "脱気器",
+    "work": "脱気器 部品 洗浄・摩耗測定",
+    "crewText": "製缶2・作業員1",
+    "progress": "70%",
+    "manDays": 3.0,
+    "manDaysText": "製缶2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.17",
+   "r": 14,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-17",
+    "weather": "晴",
+    "no": 8,
+    "area": "共通",
+    "equipment": "軟水装置",
+    "work": "復水ポンプ No.1 点検、プラント用水ポンプ No.2 点検、機器冷却水ポンプ No.2 点検",
+    "crewText": "機械4",
+    "progress": "70%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.17",
+   "r": 15,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-17",
+    "weather": "晴",
+    "no": 9,
+    "area": "共通",
+    "equipment": "機器冷却水ポンプ",
+    "work": "機器冷却水ポンプ No.1 組立・芯出し",
+    "crewText": "機械4",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.17",
+   "r": 16,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-17",
+    "weather": "晴",
+    "no": 10,
+    "area": "共通",
+    "equipment": "計装用空気圧縮機",
+    "work": "計装用空気圧縮機 No.2 分解部品 清掃・寸法計測",
+    "crewText": "機械4",
+    "progress": "60%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.18",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-18",
+    "weather": "雨",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "活性炭定量供給機",
+    "work": "BF飛灰チェーンコンベヤ 点検",
+    "crewText": "機械6",
+    "progress": "完",
+    "manDays": 6.0,
+    "manDaysText": "機械6",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.18",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-18",
+    "weather": "雨",
+    "no": 2,
+    "area": "2号炉",
+    "equipment": "誘引通風機",
+    "work": "誘引通風機 部品 洗浄・摩耗測定",
+    "crewText": "機械5",
+    "progress": "50%",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.18",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-18",
+    "weather": "雨",
+    "no": 3,
+    "area": "2号炉",
+    "equipment": "押込送風機",
+    "work": "押込送風機 点検",
+    "crewText": "機械3",
+    "progress": "50%",
+    "manDays": 3.0,
+    "manDaysText": "機械3",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.18",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-18",
+    "weather": "雨",
+    "no": 4,
+    "area": "共通",
+    "equipment": "中央監視制御盤",
+    "work": "中央監視制御盤 点検",
+    "crewText": "電気1",
+    "progress": "完",
+    "manDays": 1.0,
+    "manDaysText": "電気1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.18",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-18",
+    "weather": "雨",
+    "no": 5,
+    "area": "共通",
+    "equipment": "脱気器",
+    "work": "高圧蒸気だめ 締付け確認・給油",
+    "crewText": "製缶3・作業員1",
+    "progress": "完",
+    "manDays": 4.0,
+    "manDaysText": "製缶3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.18",
+   "r": 12,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-18",
+    "weather": "雨",
+    "no": 6,
+    "area": "共通",
+    "equipment": "軟水装置",
+    "work": "軟水装置 No.1 摺動部 点検・計測",
+    "crewText": "機械5",
+    "progress": "完",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.18",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-18",
+    "weather": "雨",
+    "no": 7,
+    "area": "共通",
+    "equipment": "計装用空気圧縮機",
+    "work": "計装用空気圧縮機 No.2 締付け確認・給油",
+    "crewText": "機械5",
+    "progress": "完",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.19",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-19",
+    "weather": "晴",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "誘引通風機",
+    "work": "誘引通風機速度制御装置 組立・芯出し",
+    "crewText": "機械4",
+    "progress": "70%",
+    "manDays": 4.0,
+    "manDaysText": "機械4",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.19",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-19",
+    "weather": "晴",
+    "no": 2,
+    "area": "2号炉",
+    "equipment": "押込送風機",
+    "work": "空気予熱器 点検",
+    "crewText": "機械5",
+    "progress": "完",
+    "manDays": 5.0,
+    "manDaysText": "機械5",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.19",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-19",
+    "weather": "晴",
+    "no": 3,
+    "area": "2号炉",
+    "equipment": "砂循環設備現場盤",
+    "work": "砂循環設備現場盤 点検",
+    "crewText": "電気1",
+    "progress": "完",
+    "manDays": 1.0,
+    "manDaysText": "電気1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.20",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-20",
+    "weather": "晴",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "誘引通風機",
+    "work": "誘引通風機入口ダンパ 試運転・作動確認",
+    "crewText": "機械4・作業員1",
+    "progress": "80%",
+    "manDays": 2.5,
+    "manDaysText": "機械4・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.22",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-22",
+    "weather": "雨",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "誘引通風機",
+    "work": "誘引通風機 分解整備（速度制御装置含む） 手直し・点検記録整理",
+    "crewText": "機械5・作業員1",
+    "progress": "完",
+    "manDays": 6.0,
+    "manDaysText": "機械5・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.24",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-24",
+    "weather": "曇",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "ボイラ性能検査",
+    "work": "性能検査準備（安全弁整備・水面計点検）",
+    "crewText": "製缶3・作業員1",
+    "progress": "50%",
+    "manDays": 4.0,
+    "manDaysText": "製缶3・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.25",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-25",
+    "weather": "晴",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "ボイラ性能検査",
+    "work": "性能検査 受検、合格（検査証 裏書）",
+    "crewText": "製缶2・作業員1",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "製缶2・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.26",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-26",
+    "weather": "曇",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "復旧",
+    "work": "流動砂張込（再使用分＋補充）、マンホール閉止",
+    "crewText": "機械4・作業員1",
+    "progress": "50%",
+    "manDays": 5.0,
+    "manDaysText": "機械4・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.27",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-27",
+    "weather": "曇",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "復旧",
+    "work": "復旧 完了、保温・養生撤去",
+    "crewText": "機械4・作業員1",
+    "progress": "完",
+    "manDays": 2.5,
+    "manDaysText": "機械4・作業員1",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.11.29",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-11-29",
+    "weather": "曇",
+    "no": 1,
+    "area": "2号炉",
+    "equipment": "通風試験",
+    "work": "通風試験・試運転（運転業者立会）、異常なし",
+    "crewText": "機械2・作業員1",
+    "progress": "完",
+    "manDays": 3.0,
+    "manDaysText": "機械2・作業員1",
+    "days": 1
+   }
+  }
+ ]
+}

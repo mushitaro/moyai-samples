@@ -1,0 +1,1558 @@
+{
+ "file": "【架空】いずみ川清掃センター_作業日報_部分改良工事（平成20〜21年度）_m1様式A（メーカー・H17〜H21・横型）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "09.1.13",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-13",
+    "weather": "晴のち曇",
+    "area": "1号炉",
+    "work": "安全措置：電源断・弁閉止・札掛け確認、KY。足場材搬入・組立",
+    "company": "かえで足場",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.13",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-13",
+    "weather": "晴のち曇",
+    "area": "1号炉",
+    "work": "流動砂抜出・既設散気装置 撤去",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.14",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-14",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "安全措置：足場組立 完了、点検",
+    "company": "かえで足場",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.14",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-14",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "流動砂抜出・既設散気装置 撤去",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.15",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-15",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "流動砂抜出・既設散気装置 撤去",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.15",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-15",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー 据付",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.16",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-16",
+    "weather": "晴のち曇",
+    "area": "1号炉",
+    "work": "流動砂抜出・既設散気装置 撤去",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.16",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-16",
+    "weather": "晴のち曇",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：不燃物排出コンベヤ No.1 据付",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.17",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-17",
+    "weather": "晴のち曇",
+    "area": "1号炉",
+    "work": "流動砂抜出・既設散気装置 撤去",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 1.5,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.17",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-17",
+    "weather": "晴のち曇",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：不燃物排出コンベヤ No.2 据付",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 3.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.19",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-19",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "散気装置 据付",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.19",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-19",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "不燃物抜出装置 No.1 据付",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.19",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-19",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：振動ふるい 据付",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.20",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-20",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "散気装置 分解部品 清掃・寸法計測",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.20",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-20",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "不燃物抜出装置 No.2 据付",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.20",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-20",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：砂循環エレベータ 据付",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.21",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-21",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "散気装置 締付け確認・給油",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.21",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-21",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物抜出装置 No.1 部品 洗浄・摩耗測定",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.21",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-21",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：砂切出装置 据付",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.22",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-22",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "散気装置 単体試運転",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.22",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-22",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物抜出装置 No.2 締付け確認・給油",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.22",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-22",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：砂再投入コンベヤ 据付",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.23",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-23",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "散気装置 据付（ヘッダ・ノズル 120 本） 手直し",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.23",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-23",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物抜出装置 No.1 単体試運転",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.23",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-23",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：砂循環設備現場盤 据付",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.24",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-24",
+    "weather": "雨",
+    "area": "1号炉",
+    "work": "散気装置 分解部品 清掃・寸法計測",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 3.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.24",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-24",
+    "weather": "雨",
+    "area": "1号炉",
+    "work": "不燃物抜出装置 撤去・据付 記録整理・片付け",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 3.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.24",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-24",
+    "weather": "雨",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー 摺動部 点検・計測",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 2.5,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.26",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-26",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "散気装置 締付け確認・給油",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.26",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-26",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物抜出装置 No.1 部品 洗浄・摩耗測定",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.26",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-26",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：不燃物排出コンベヤ No.1 締付け確認・給油",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.26",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-26",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "砂循環設備現場盤 据付",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.27",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-27",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "散気装置 調整・試運転",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.27",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-27",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：不燃物排出コンベヤ No.2 調整・試運転",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.27",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-27",
+    "weather": "曇時々雨",
+    "area": "1号炉",
+    "work": "砂循環設備現場盤 部品 洗浄・摩耗測定",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.28",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-28",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "散気装置 据付（ヘッダ・ノズル 120 本） 記録整理・片付け",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.28",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-28",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：砂循環設備 撤去・据付 手直し",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.28",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-28",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "砂循環設備現場盤 組立・芯出し",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.29",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-29",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：砂循環エレベータ 分解部品 清掃・寸法計測",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.29",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-29",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "砂循環設備現場盤 単体試運転",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.30",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-30",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：砂切出装置 締付け確認・給油",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.30",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-30",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "砂循環設備現場盤 新設・配線 手直し",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.31",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-31",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "不燃物冷却スクリュー：砂再投入コンベヤ 単体試運転",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 2.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.1.31",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2009-01-31",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "砂循環設備現場盤 部品 洗浄・摩耗測定",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 1.5,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.2.2",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-02-02",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "復旧：流動砂張込（再使用分＋補充）、マンホール閉止",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.2.3",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-02-03",
+    "weather": "曇",
+    "area": "1号炉",
+    "work": "復旧：保温復旧、足場解体、片付け",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.2.4",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-02-04",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "試運転調整（散気均一性・砂循環量）",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.2.5",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-02-05",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "試運転調整（散気均一性・砂循環量）",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "09.2.6",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2009-02-06",
+    "weather": "晴",
+    "area": "1号炉",
+    "work": "試運転調整（散気均一性・砂循環量）",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.12",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-12",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "安全措置：電源断・弁閉止・札掛け確認、KY。足場材搬入・組立",
+    "company": "かえで足場",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.12",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-12",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "流動砂抜出・既設散気装置 撤去",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.13",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-13",
+    "weather": "雨",
+    "area": "2号炉",
+    "work": "安全措置：足場組立 完了、手すり・昇降設備確認",
+    "company": "かえで足場",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.13",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-13",
+    "weather": "雨",
+    "area": "2号炉",
+    "work": "流動砂抜出・既設散気装置 撤去",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.14",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-14",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "流動砂抜出・既設散気装置 撤去",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.14",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-14",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー 据付",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.15",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-15",
+    "weather": "曇時々雨",
+    "area": "2号炉",
+    "work": "流動砂抜出・既設散気装置 撤去",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.15",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-15",
+    "weather": "曇時々雨",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：不燃物排出コンベヤ No.1 据付",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.16",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-16",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "流動砂抜出・既設散気装置 撤去",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 2.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.16",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-16",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：不燃物排出コンベヤ No.2 据付",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 2.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.18",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-18",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "散気装置 据付",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.18",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-18",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "不燃物抜出装置 No.1 据付",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.18",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-18",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：振動ふるい 据付",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.19",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-19",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "散気装置 分解部品 清掃・寸法計測",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.19",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-19",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "不燃物抜出装置 No.2 据付",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.19",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-19",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：砂循環エレベータ 据付",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.20",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-20",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "散気装置 締付け確認・給油",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.20",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-20",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "不燃物抜出装置 No.1 部品 洗浄・摩耗測定",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.20",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-20",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：砂切出装置 据付",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.21",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-21",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "散気装置 試運転・作動確認",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.21",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-21",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "不燃物抜出装置 No.2 組立・芯出し",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.21",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-21",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：砂再投入コンベヤ 据付",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.22",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-22",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "散気装置 据付（ヘッダ・ノズル 120 本） 手直し・点検記録整理",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.22",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-22",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "不燃物抜出装置 No.1 試運転・作動確認",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.22",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-22",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：砂循環設備現場盤 据付",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.23",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-23",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "散気装置 摺動部 点検・計測",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 3.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.23",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-23",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "不燃物抜出装置 撤去・据付 手直し・点検記録整理",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 2.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.23",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-23",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー 摺動部 点検・計測",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 3.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.25",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-25",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "散気装置 消耗品交換・組立",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.25",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-25",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "不燃物抜出装置 No.1 分解部品 清掃・寸法計測",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.25",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-25",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：不燃物排出コンベヤ No.1 締付け確認・給油",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.25",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-25",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "砂循環設備現場盤 据付",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.26",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-26",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "散気装置 試運転・作動確認",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.26",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-26",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：不燃物排出コンベヤ No.2 単体試運転",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.26",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-26",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "砂循環設備現場盤 摺動部 点検・計測",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.27",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-27",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：砂循環設備 撤去・据付 手直し・点検記録整理",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.27",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-27",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "砂循環設備現場盤 締付け確認・給油",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.28",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-28",
+    "weather": "曇時々雨",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：砂循環エレベータ 摺動部 点検・計測",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.28",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-28",
+    "weather": "曇時々雨",
+    "area": "2号炉",
+    "work": "砂循環設備現場盤 調整・試運転",
+    "company": "あさひ電設",
+    "people": 2,
+    "manDays": 2.0,
+    "manDaysText": "2名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.29",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-29",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：砂切出装置 締付け確認・給油",
+    "company": "みのり工業",
+    "people": 6,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.29",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-29",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "砂循環設備現場盤 新設・配線 記録整理・片付け",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.30",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-30",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "不燃物冷却スクリュー：砂再投入コンベヤ 単体試運転",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 2.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.1.30",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2010-01-30",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "砂循環設備現場盤 摺動部 点検・計測",
+    "company": "あさひ電設",
+    "people": 3,
+    "manDays": 1.5,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.2.1",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-02-01",
+    "weather": "曇時々雨",
+    "area": "2号炉",
+    "work": "復旧：マンホール閉止、流動砂張込",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.2.2",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-02-02",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "復旧 完了、保温・養生撤去",
+    "company": "みのり工業",
+    "people": 3,
+    "manDays": 3.0,
+    "manDaysText": "3名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.2.3",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-02-03",
+    "weather": "晴",
+    "area": "2号炉",
+    "work": "試運転調整（散気均一性・砂循環量）",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.2.4",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-02-04",
+    "weather": "曇",
+    "area": "2号炉",
+    "work": "試運転調整（散気均一性・砂循環量）",
+    "company": "みのり工業",
+    "people": 4,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.2.5",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2010-02-05",
+    "weather": "晴のち曇",
+    "area": "2号炉",
+    "work": "試運転調整（散気均一性・砂循環量）",
+    "company": "みのり工業",
+    "people": 5,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  }
+ ]
+}

@@ -1,0 +1,369 @@
+{
+ "file": "【架空】いずみ川清掃センター_作業日報_令和3年度ボイラ性能検査整備工事_g1様式（地元業者・1週1枚）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "10.18-10.23",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-18",
+    "weather": "晴",
+    "work": "養生・照明・換気ファン設置。ボイラ マンホール開放",
+    "place": "1号炉 ボイラ",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.18-10.23",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-19",
+    "weather": "晴",
+    "work": "ボイラ水洗（第1〜第3パス）",
+    "place": "〃",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.18-10.23",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-20",
+    "weather": "晴",
+    "work": "水洗 完了、ダスト払い・排水処理",
+    "place": "〃",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.18-10.23",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-21",
+    "weather": "雨",
+    "work": "水管肉厚測定（超音波 84 点）最小 3.4mm",
+    "place": "〃",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.18-10.23",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-22",
+    "weather": "晴",
+    "work": "バグフィルタ 内部点検、ろ布破損 8 本に閉止板",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.18-10.23",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-23",
+    "weather": "晴",
+    "work": "性能検査準備（付属品点検・安全弁取外し整備）",
+    "place": "〃",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.18-10.23",
+   "r": 11,
+   "kind": "subtotal",
+   "fields": {
+    "manDays": 29.0,
+    "manDaysText": "29人日",
+    "manHours": 232.0
+   }
+  },
+  {
+   "sheet": "10.25-10.26",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-25",
+    "weather": "曇",
+    "work": "ボイラ性能検査 受検 合格",
+    "place": "1号炉 ボイラ",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.25-10.26",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2021-10-26",
+    "weather": "晴",
+    "work": "マンホール閉止、保温復旧、片付け",
+    "place": "〃",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "10.25-10.26",
+   "r": 11,
+   "kind": "subtotal",
+   "fields": {
+    "manDays": 11.0,
+    "manDaysText": "11人日",
+    "manHours": 88.0
+   }
+  },
+  {
+   "sheet": "12.6-12.11",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2021-12-06",
+    "weather": "雨",
+    "work": "養生・照明・換気ファン設置。ボイラ マンホール開放",
+    "place": "2号炉 ボイラ",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "12.6-12.11",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2021-12-07",
+    "weather": "雨",
+    "work": "ボイラ水洗（第1〜第3パス）",
+    "place": "〃",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "12.6-12.11",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2021-12-08",
+    "weather": "晴",
+    "work": "水洗 完了、ダスト払い・排水処理",
+    "place": "〃",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4.0,
+    "manDaysText": "4名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "12.6-12.11",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2021-12-09",
+    "weather": "晴",
+    "work": "水管肉厚測定（超音波 84 点）最小 3.2mm",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "12.6-12.11",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2021-12-10",
+    "weather": "雨",
+    "work": "流動砂 一部抜出",
+    "place": "〃",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "12.6-12.11",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2021-12-11",
+    "weather": "曇",
+    "work": "散気ノズル目視点検（閉塞 11・摩耗 7 本）",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "12.6-12.11",
+   "r": 11,
+   "kind": "subtotal",
+   "fields": {
+    "manDays": 31.0,
+    "manDaysText": "31人日",
+    "manHours": 248.0
+   }
+  },
+  {
+   "sheet": "12.13-12.17",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2021-12-13",
+    "weather": "晴",
+    "work": "脱気器・高圧蒸気だめ マンホール開放、内面点検",
+    "place": "脱気器室",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "12.13-12.17",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2021-12-14",
+    "weather": "晴",
+    "work": "第一種圧力容器 性能検査 受検 合格、閉止",
+    "place": "〃",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "12.13-12.17",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2021-12-15",
+    "weather": "晴",
+    "work": "性能検査準備（付属品点検・安全弁取外し整備）",
+    "place": "2号炉 ボイラ",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "12.13-12.17",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2021-12-16",
+    "weather": "雨",
+    "work": "ボイラ性能検査 受検 合格",
+    "place": "〃",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5.0,
+    "manDaysText": "5名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "12.13-12.17",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2021-12-17",
+    "weather": "雨",
+    "work": "マンホール閉止、保温復旧、片付け",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6.0,
+    "manDaysText": "6名",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "12.13-12.17",
+   "r": 11,
+   "kind": "subtotal",
+   "fields": {
+    "manDays": 28.0,
+    "manDaysText": "28人日",
+    "manHours": 224.0
+   }
+  }
+ ]
+}

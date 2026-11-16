@@ -1,0 +1,893 @@
+{
+ "file": "【架空】いずみ川清掃センター_工程表_平成17年度定期整備業務委託_m1様式（メーカー・区域別日単位）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "1号炉",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "no": 1,
+    "name": "立下げ・冷却（運転業者）",
+    "team": "運転",
+    "planStart": "2005-09-16",
+    "planEnd": "2005-09-18",
+    "actualStart": "2005-09-16",
+    "actualEnd": "2005-09-18",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "no": 2,
+    "name": "安全措置・足場仮設",
+    "team": "足場",
+    "crew": 4,
+    "planStart": "2005-09-20",
+    "planEnd": "2005-09-21",
+    "actualStart": "2005-09-20",
+    "actualEnd": "2005-09-21",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "no": 3,
+    "name": "炉開放・流動砂抜出",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-09-20",
+    "planEnd": "2005-09-22",
+    "actualStart": "2005-09-20",
+    "actualEnd": "2005-09-22",
+    "area": "1号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "no": 4,
+    "name": "ボイラ開放・水洗・肉厚測定",
+    "team": "製缶",
+    "crew": 4,
+    "planStart": "2005-09-21",
+    "planEnd": "2005-09-27",
+    "actualStart": "2005-09-21",
+    "actualEnd": "2005-09-27",
+    "area": "1号炉",
+    "days": 5
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 15,
+   "kind": "item",
+   "fields": {
+    "no": 5,
+    "name": "炉内点検・散気装置点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-09-22",
+    "planEnd": "2005-09-24",
+    "actualStart": "2005-09-22",
+    "actualEnd": "2005-09-24",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 17,
+   "kind": "item",
+   "fields": {
+    "no": 6,
+    "name": "バグフィルタ ろ布全数交換",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-09-24",
+    "planEnd": "2005-09-30",
+    "actualStart": "2005-09-24",
+    "actualEnd": "2005-09-30",
+    "area": "1号炉",
+    "days": 6
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 19,
+   "kind": "item",
+   "fields": {
+    "no": 7,
+    "name": "不燃物抜出装置 整備",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-10-01",
+    "planEnd": "2005-10-04",
+    "actualStart": "2005-10-01",
+    "actualEnd": "2005-10-05",
+    "area": "1号炉",
+    "days": 4
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 21,
+   "kind": "item",
+   "fields": {
+    "no": 8,
+    "name": "砂循環設備 点検・分解整備",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-10-05",
+    "planEnd": "2005-10-11",
+    "actualStart": "2005-10-05",
+    "actualEnd": "2005-10-11",
+    "area": "1号炉",
+    "days": 5
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 23,
+   "kind": "item",
+   "fields": {
+    "no": 9,
+    "name": "バーナ・炉温調整設備 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-09-27",
+    "planEnd": "2005-09-27",
+    "actualStart": "2005-09-27",
+    "actualEnd": "2005-09-27",
+    "area": "1号炉",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 25,
+   "kind": "item",
+   "fields": {
+    "no": 10,
+    "name": "ボイラ補機 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-09-28",
+    "planEnd": "2005-09-29",
+    "actualStart": "2005-09-28",
+    "actualEnd": "2005-09-29",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 27,
+   "kind": "item",
+   "fields": {
+    "no": 11,
+    "name": "排ガス処理補機 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-09-30",
+    "planEnd": "2005-10-01",
+    "actualStart": "2005-09-30",
+    "actualEnd": "2005-10-01",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 29,
+   "kind": "item",
+   "fields": {
+    "no": 12,
+    "name": "減温塔 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-10-03",
+    "planEnd": "2005-10-05",
+    "actualStart": "2005-10-03",
+    "actualEnd": "2005-10-05",
+    "area": "1号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 31,
+   "kind": "item",
+   "fields": {
+    "no": 13,
+    "name": "給じん設備 点検・分解整備",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-10-06",
+    "planEnd": "2005-10-08",
+    "actualStart": "2005-10-06",
+    "actualEnd": "2005-10-08",
+    "area": "1号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 33,
+   "kind": "item",
+   "fields": {
+    "no": 14,
+    "name": "誘引通風機 点検・分解整備",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-09-27",
+    "planEnd": "2005-09-29",
+    "actualStart": "2005-09-27",
+    "actualEnd": "2005-09-29",
+    "area": "1号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 35,
+   "kind": "item",
+   "fields": {
+    "no": 15,
+    "name": "通風設備 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-09-30",
+    "planEnd": "2005-10-03",
+    "actualStart": "2005-09-30",
+    "actualEnd": "2005-10-04",
+    "area": "1号炉",
+    "days": 4
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 37,
+   "kind": "item",
+   "fields": {
+    "no": 16,
+    "name": "BFバイパスダンパ 補修（追加）",
+    "team": "機械",
+    "crew": 8,
+    "actualStart": "2005-09-28",
+    "actualEnd": "2005-09-30",
+    "area": "1号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 39,
+   "kind": "item",
+   "fields": {
+    "no": 17,
+    "name": "電気設備 点検",
+    "team": "電気",
+    "crew": 2,
+    "planStart": "2005-09-30",
+    "planEnd": "2005-09-30",
+    "actualStart": "2005-09-30",
+    "actualEnd": "2005-09-30",
+    "area": "1号炉",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 41,
+   "kind": "item",
+   "fields": {
+    "no": 18,
+    "name": "ボイラ性能検査 準備・受検",
+    "team": "製缶",
+    "crew": 4,
+    "planStart": "2005-10-12",
+    "planEnd": "2005-10-13",
+    "actualStart": "2005-10-12",
+    "actualEnd": "2005-10-13",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 43,
+   "kind": "item",
+   "fields": {
+    "no": 19,
+    "name": "復旧・流動砂張込",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-10-14",
+    "planEnd": "2005-10-15",
+    "actualStart": "2005-10-14",
+    "actualEnd": "2005-10-15",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 45,
+   "kind": "item",
+   "fields": {
+    "no": 20,
+    "name": "通風試験・試運転",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-10-17",
+    "planEnd": "2005-10-17",
+    "actualStart": "2005-10-17",
+    "actualEnd": "2005-10-17",
+    "area": "1号炉",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 47,
+   "kind": "item",
+   "fields": {
+    "no": 21,
+    "name": "立上げ（運転業者）",
+    "team": "運転",
+    "planStart": "2005-10-18",
+    "planEnd": "2005-10-19",
+    "actualStart": "2005-10-18",
+    "actualEnd": "2005-10-19",
+    "area": "1号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "no": 1,
+    "name": "立下げ・冷却（運転業者）",
+    "team": "運転",
+    "planStart": "2005-11-04",
+    "planEnd": "2005-11-06",
+    "actualStart": "2005-11-04",
+    "actualEnd": "2005-11-06",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "no": 2,
+    "name": "安全措置・足場仮設",
+    "team": "足場",
+    "crew": 4,
+    "planStart": "2005-11-07",
+    "planEnd": "2005-11-08",
+    "actualStart": "2005-11-07",
+    "actualEnd": "2005-11-08",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "no": 3,
+    "name": "炉開放・流動砂抜出",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-07",
+    "planEnd": "2005-11-09",
+    "actualStart": "2005-11-07",
+    "actualEnd": "2005-11-09",
+    "area": "2号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "no": 4,
+    "name": "ボイラ開放・水洗・肉厚測定",
+    "team": "製缶",
+    "crew": 4,
+    "planStart": "2005-11-08",
+    "planEnd": "2005-11-12",
+    "actualStart": "2005-11-08",
+    "actualEnd": "2005-11-12",
+    "area": "2号炉",
+    "days": 5
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 15,
+   "kind": "item",
+   "fields": {
+    "no": 5,
+    "name": "炉内点検・散気装置点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-09",
+    "planEnd": "2005-11-10",
+    "actualStart": "2005-11-09",
+    "actualEnd": "2005-11-10",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 17,
+   "kind": "item",
+   "fields": {
+    "no": 6,
+    "name": "バグフィルタ 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-10",
+    "planEnd": "2005-11-12",
+    "actualStart": "2005-11-10",
+    "actualEnd": "2005-11-12",
+    "area": "2号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 19,
+   "kind": "item",
+   "fields": {
+    "no": 7,
+    "name": "不燃物抜出装置 整備",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-14",
+    "planEnd": "2005-11-17",
+    "actualStart": "2005-11-14",
+    "actualEnd": "2005-11-17",
+    "area": "2号炉",
+    "days": 4
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 21,
+   "kind": "item",
+   "fields": {
+    "no": 8,
+    "name": "砂循環設備 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-18",
+    "planEnd": "2005-11-21",
+    "actualStart": "2005-11-18",
+    "actualEnd": "2005-11-22",
+    "area": "2号炉",
+    "days": 4
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 23,
+   "kind": "item",
+   "fields": {
+    "no": 9,
+    "name": "バーナ・炉温調整設備 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-12",
+    "planEnd": "2005-11-12",
+    "actualStart": "2005-11-12",
+    "actualEnd": "2005-11-12",
+    "area": "2号炉",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 25,
+   "kind": "item",
+   "fields": {
+    "no": 10,
+    "name": "ボイラ補機 点検・分解整備",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-14",
+    "planEnd": "2005-11-16",
+    "actualStart": "2005-11-14",
+    "actualEnd": "2005-11-16",
+    "area": "2号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 27,
+   "kind": "item",
+   "fields": {
+    "no": 11,
+    "name": "排ガス処理補機 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-17",
+    "planEnd": "2005-11-19",
+    "actualStart": "2005-11-17",
+    "actualEnd": "2005-11-19",
+    "area": "2号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 29,
+   "kind": "item",
+   "fields": {
+    "no": 12,
+    "name": "減温塔 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-21",
+    "planEnd": "2005-11-22",
+    "actualStart": "2005-11-21",
+    "actualEnd": "2005-11-22",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 31,
+   "kind": "item",
+   "fields": {
+    "no": 13,
+    "name": "給じん設備 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-24",
+    "planEnd": "2005-11-26",
+    "actualStart": "2005-11-24",
+    "actualEnd": "2005-11-26",
+    "area": "2号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 33,
+   "kind": "item",
+   "fields": {
+    "no": 14,
+    "name": "誘引通風機 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-12",
+    "planEnd": "2005-11-14",
+    "actualStart": "2005-11-12",
+    "actualEnd": "2005-11-14",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 35,
+   "kind": "item",
+   "fields": {
+    "no": 15,
+    "name": "通風設備 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-15",
+    "planEnd": "2005-11-16",
+    "actualStart": "2005-11-15",
+    "actualEnd": "2005-11-16",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 37,
+   "kind": "item",
+   "fields": {
+    "no": 16,
+    "name": "減温塔噴射水ポンプ 補修（追加）",
+    "team": "機械",
+    "crew": 8,
+    "actualStart": "2005-11-14",
+    "actualEnd": "2005-11-16",
+    "area": "2号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 39,
+   "kind": "item",
+   "fields": {
+    "no": 17,
+    "name": "炉内水噴霧装置 補修（追加）",
+    "team": "機械",
+    "crew": 8,
+    "actualStart": "2005-11-17",
+    "actualEnd": "2005-11-19",
+    "area": "2号炉",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 41,
+   "kind": "item",
+   "fields": {
+    "no": 18,
+    "name": "電気設備 点検",
+    "team": "電気",
+    "crew": 2,
+    "planStart": "2005-11-19",
+    "planEnd": "2005-11-19",
+    "actualStart": "2005-11-19",
+    "actualEnd": "2005-11-21",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 43,
+   "kind": "item",
+   "fields": {
+    "no": 19,
+    "name": "ボイラ性能検査 準備・受検",
+    "team": "製缶",
+    "crew": 4,
+    "planStart": "2005-11-28",
+    "planEnd": "2005-11-29",
+    "actualStart": "2005-11-28",
+    "actualEnd": "2005-11-29",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 45,
+   "kind": "item",
+   "fields": {
+    "no": 20,
+    "name": "復旧・流動砂張込",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-30",
+    "planEnd": "2005-12-01",
+    "actualStart": "2005-11-30",
+    "actualEnd": "2005-12-01",
+    "area": "2号炉",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 47,
+   "kind": "item",
+   "fields": {
+    "no": 21,
+    "name": "通風試験・試運転",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-12-02",
+    "planEnd": "2005-12-02",
+    "actualStart": "2005-12-02",
+    "actualEnd": "2005-12-02",
+    "area": "2号炉",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "2号炉",
+   "r": 49,
+   "kind": "item",
+   "fields": {
+    "no": 22,
+    "name": "立上げ（運転業者）",
+    "team": "運転",
+    "planStart": "2005-12-03",
+    "planEnd": "2005-12-04",
+    "actualStart": "2005-12-03",
+    "actualEnd": "2005-12-04",
+    "area": "2号炉",
+    "days": 1
+   }
+  },
+  {
+   "sheet": "共通",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "no": 1,
+    "name": "ごみクレーン 点検（年次・性能検査）",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-10-17",
+    "planEnd": "2005-10-20",
+    "actualStart": "2005-10-17",
+    "actualEnd": "2005-10-20",
+    "area": "共通",
+    "days": 4
+   }
+  },
+  {
+   "sheet": "共通",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "no": 2,
+    "name": "受入設備・前処理破砕機 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-10-21",
+    "planEnd": "2005-10-26",
+    "actualStart": "2005-10-21",
+    "actualEnd": "2005-10-26",
+    "area": "共通",
+    "days": 5
+   }
+  },
+  {
+   "sheet": "共通",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "no": 3,
+    "name": "飛灰処理・薬剤・雑設備 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-10-22",
+    "planEnd": "2005-10-27",
+    "actualStart": "2005-10-22",
+    "actualEnd": "2005-10-27",
+    "area": "共通",
+    "days": 5
+   }
+  },
+  {
+   "sheet": "共通",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "no": 4,
+    "name": "キレート薬剤ポンプ 補修（追加）",
+    "team": "機械",
+    "crew": 8,
+    "actualStart": "2005-10-31",
+    "actualEnd": "2005-11-01",
+    "area": "共通",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "共通",
+   "r": 15,
+   "kind": "item",
+   "fields": {
+    "no": 5,
+    "name": "全炉停止（運転業者）",
+    "team": "運転",
+    "planStart": "2005-11-13",
+    "planEnd": "2005-11-18",
+    "actualStart": "2005-11-13",
+    "actualEnd": "2005-11-18",
+    "area": "共通",
+    "days": 5
+   }
+  },
+  {
+   "sheet": "共通",
+   "r": 17,
+   "kind": "item",
+   "fields": {
+    "no": 6,
+    "name": "脱気器・高圧蒸気だめ 開放点検（性能検査）",
+    "team": "製缶",
+    "crew": 4,
+    "planStart": "2005-11-14",
+    "planEnd": "2005-11-17",
+    "actualStart": "2005-11-14",
+    "actualEnd": "2005-11-17",
+    "area": "共通",
+    "days": 4
+   }
+  },
+  {
+   "sheet": "共通",
+   "r": 19,
+   "kind": "item",
+   "fields": {
+    "no": 7,
+    "name": "給水・復水設備 点検",
+    "team": "機械",
+    "crew": 8,
+    "planStart": "2005-11-14",
+    "planEnd": "2005-11-17",
+    "actualStart": "2005-11-14",
+    "actualEnd": "2005-11-17",
+    "area": "共通",
+    "days": 4
+   }
+  },
+  {
+   "sheet": "共通",
+   "r": 21,
+   "kind": "item",
+   "fields": {
+    "no": 8,
+    "name": "受変電設備 停電点検",
+    "team": "電気",
+    "crew": 2,
+    "planStart": "2005-11-14",
+    "planEnd": "2005-11-15",
+    "actualStart": "2005-11-14",
+    "actualEnd": "2005-11-15",
+    "area": "共通",
+    "days": 2
+   }
+  },
+  {
+   "sheet": "共通",
+   "r": 23,
+   "kind": "item",
+   "fields": {
+    "no": 9,
+    "name": "計装用空気・中央監視 点検",
+    "team": "電気",
+    "crew": 2,
+    "planStart": "2005-11-14",
+    "planEnd": "2005-11-16",
+    "actualStart": "2005-11-14",
+    "actualEnd": "2005-11-16",
+    "area": "共通",
+    "days": 3
+   }
+  },
+  {
+   "sheet": "共通",
+   "r": 25,
+   "kind": "item",
+   "fields": {
+    "no": 10,
+    "name": "全炉立上げ（運転業者）",
+    "team": "運転",
+    "planStart": "2005-11-19",
+    "planEnd": "2005-11-19",
+    "actualStart": "2005-11-19",
+    "actualEnd": "2005-11-19",
+    "area": "共通",
+    "days": 1
+   }
+  }
+ ]
+}

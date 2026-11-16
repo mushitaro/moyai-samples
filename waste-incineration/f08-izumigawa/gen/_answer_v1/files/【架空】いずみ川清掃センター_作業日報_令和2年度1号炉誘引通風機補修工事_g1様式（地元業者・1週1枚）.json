@@ -1,0 +1,170 @@
+{
+ "file": "【架空】いずみ川清掃センター_作業日報_令和2年度1号炉誘引通風機補修工事_g1様式（地元業者・1週1枚）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "8.24-8.29",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2020-08-24",
+    "weather": "晴",
+    "work": "養生、誘引通風機 ケーシング開放、羽根車点検",
+    "place": "1号炉 誘引通風機室",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6,
+    "manDaysText": "6名"
+   }
+  },
+  {
+   "sheet": "8.24-8.29",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2020-08-25",
+    "weather": "雨",
+    "work": "羽根車 取外し、工場へ搬出（肉盛・動的バランス）",
+    "place": "〃",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5,
+    "manDaysText": "5名"
+   }
+  },
+  {
+   "sheet": "8.24-8.29",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2020-08-26",
+    "weather": "雨",
+    "work": "ケーシング内面 付着物除去",
+    "place": "〃",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5,
+    "manDaysText": "5名"
+   }
+  },
+  {
+   "sheet": "8.24-8.29",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "date": "2020-08-27",
+    "weather": "晴",
+    "work": "ケーシング 摩耗部 肉盛補修",
+    "place": "〃",
+    "people": 5,
+    "hours": "8:00~17:00",
+    "manHours": 40.0,
+    "manDays": 5,
+    "manDaysText": "5名"
+   }
+  },
+  {
+   "sheet": "8.24-8.29",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "date": "2020-08-28",
+    "weather": "雨",
+    "work": "羽根車 搬入・据付",
+    "place": "〃",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4,
+    "manDaysText": "4名"
+   }
+  },
+  {
+   "sheet": "8.24-8.29",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "date": "2020-08-29",
+    "weather": "曇",
+    "work": "軸受 2 個交換、給油",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6,
+    "manDaysText": "6名"
+   }
+  },
+  {
+   "sheet": "8.24-8.29",
+   "r": 11,
+   "kind": "subtotal",
+   "fields": {
+    "manDays": 31,
+    "manDaysText": "31人日",
+    "manHours": 248.0
+   }
+  },
+  {
+   "sheet": "8.31-9.2",
+   "r": 5,
+   "kind": "item",
+   "fields": {
+    "date": "2020-08-31",
+    "weather": "曇",
+    "work": "軸受 2 個交換、給油",
+    "place": "1号炉 誘引通風機室",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4,
+    "manDaysText": "4名"
+   }
+  },
+  {
+   "sheet": "8.31-9.2",
+   "r": 6,
+   "kind": "item",
+   "fields": {
+    "date": "2020-09-01",
+    "weather": "晴",
+    "work": "芯出し、試運転、振動測定（2.3mm/s）",
+    "place": "〃",
+    "people": 6,
+    "hours": "8:00~17:00",
+    "manHours": 48.0,
+    "manDays": 6,
+    "manDaysText": "6名"
+   }
+  },
+  {
+   "sheet": "8.31-9.2",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "date": "2020-09-02",
+    "weather": "晴",
+    "work": "片付け、引渡し",
+    "place": "〃",
+    "people": 4,
+    "hours": "8:00~17:00",
+    "manHours": 32.0,
+    "manDays": 4,
+    "manDaysText": "4名"
+   }
+  },
+  {
+   "sheet": "8.31-9.2",
+   "r": 11,
+   "kind": "subtotal",
+   "fields": {
+    "manDays": 14,
+    "manDaysText": "14人日",
+    "manHours": 112.0
+   }
+  }
+ ]
+}

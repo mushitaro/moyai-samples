@@ -1,0 +1,110 @@
+{
+ "file": "【架空】いずみ川清掃センター_工程表_令和2年度1号炉誘引通風機補修工事_g1様式（地元業者・簡素化）.xlsx",
+ "plan": false,
+ "records": [
+  {
+   "sheet": "1号炉",
+   "r": 7,
+   "kind": "item",
+   "fields": {
+    "no": 1,
+    "name": "立下げ・冷却（運転業者）",
+    "planStart": "2020-08-21",
+    "planEnd": "2020-08-23",
+    "actualText": "済 8/21〜8/23",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 8,
+   "kind": "item",
+   "fields": {
+    "no": 2,
+    "name": "養生・誘引通風機 開放",
+    "planStart": "2020-08-24",
+    "planEnd": "2020-08-24",
+    "actualText": "済 8/24",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 9,
+   "kind": "item",
+   "fields": {
+    "no": 3,
+    "name": "羽根車 取外し・搬出",
+    "planStart": "2020-08-25",
+    "planEnd": "2020-08-25",
+    "actualText": "済 8/25",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 10,
+   "kind": "item",
+   "fields": {
+    "no": 4,
+    "name": "ケーシング内面清掃・補修",
+    "planStart": "2020-08-26",
+    "planEnd": "2020-08-27",
+    "actualText": "済 8/26〜8/27",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 11,
+   "kind": "item",
+   "fields": {
+    "no": 5,
+    "name": "羽根車 据付・軸受交換",
+    "planStart": "2020-08-28",
+    "planEnd": "2020-08-29",
+    "actualText": "済 8/28〜8/31",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 12,
+   "kind": "item",
+   "fields": {
+    "no": 6,
+    "name": "芯出し・試運転・振動測定",
+    "planStart": "2020-08-31",
+    "planEnd": "2020-08-31",
+    "actualText": "済 9/1",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 13,
+   "kind": "item",
+   "fields": {
+    "no": 7,
+    "name": "片付け",
+    "planStart": "2020-09-01",
+    "planEnd": "2020-09-01",
+    "actualText": "済 9/2",
+    "area": "1号炉"
+   }
+  },
+  {
+   "sheet": "1号炉",
+   "r": 14,
+   "kind": "item",
+   "fields": {
+    "no": 8,
+    "name": "立上げ（運転業者）",
+    "planStart": "2020-09-02",
+    "planEnd": "2020-09-03",
+    "actualText": "済 9/3〜9/4",
+    "area": "1号炉"
+   }
+  }
+ ]
+}
